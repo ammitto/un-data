@@ -1,0 +1,29 @@
+---
+entity_type: person
+names:
+- QASEM SOLEIMANI
+- |-
+  Qasim Soleimani; Qasem Sulaimani; Qasim Sulaimani; Qasim
+  Sulaymani; Qasem Sulaymani; Kasim Soleimani; Kasim Sulaimani; Kasim
+  Sulaymani
+- Haj Qasem; Haji Qassem; Sardar Soleimani
+designation: Brigadier General
+source: un-data
+ref_number: IRi.039
+ref_type: Iran
+country: 
+birthdate: '1957-03-11'
+remark: |-
+  Promoted to Major General, retaining his position as Commander of Qods
+  force. [Old Reference # I.47.D.6]
+address:
+- street: 
+  city: 
+  state: 
+  country: ''
+  zip: 
+documents:
+- type: Passport
+  number: '008827'
+  country: 
+  note: 

@@ -1,0 +1,33 @@
+---
+entity_type: person
+names:
+- ABDUR REHMAN
+- Abdul Rehman; Abd Ur-Rehman; Abdur Rahman
+- عبد الرحمن السيندي
+- عبدالله السندي (Abdullah Sindhi)
+- Abdur Rehman Muhammad Yamin
+designation: 
+source: un-data
+ref_number: QDi.309
+ref_type: Al-Qaida
+country: Pakistan
+birthdate: '1965-10-03'
+remark: |-
+  Has provided facilitation and financial services to Al-Qaida (QDe.004).
+  Associated with Harakatul Jihad Islami (QDe.130), Jaish-I-Mohammed (QDe.019), and
+  Al-Akhtar Trust International (QDe.121).  Review pursuant to Security Council resolution 2253 (2015) was concluded on 21 Feb. 2019.  INTERPOL-UN Security Council Special Notice web link: https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals
+address:
+- street: 
+  city: Karachi
+  state: 
+  country: Pakistan
+  zip: 
+documents:
+- type: Passport
+  number: " CV9157521"
+  country: Pakistan
+  note: 'expires on 7 Sep. 2013 '
+- type: National Identification Number
+  number: national identity card number 44103-5251752-5
+  country: Pakistan
+  note: 

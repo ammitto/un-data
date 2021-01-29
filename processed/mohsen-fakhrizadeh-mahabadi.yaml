@@ -1,0 +1,28 @@
+---
+entity_type: person
+names:
+- MOHSEN FAKHRIZADEH-MAHABADI
+designation: Senior MODAFL scientist
+source: un-data
+ref_number: IRi.016
+ref_type: Iran
+country: 
+birthdate: 
+remark: |-
+  The IAEA have asked to interview him about the activities of the PHRC
+  over the period he was head but Iran has refused. [Old Reference # I.47.C.2]
+address:
+- street: 
+  city: 
+  state: 
+  country: ''
+  zip: 
+documents:
+- type: Passport
+  number: A0009228
+  country: 
+  note: Unconfirmed (likely Iran)
+- type: Passport
+  number: '4229533'
+  country: 
+  note: Unconfirmed (likely Iran)

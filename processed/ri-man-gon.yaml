@@ -1,0 +1,22 @@
+---
+entity_type: person
+names:
+- RI MAN GON
+designation: 'Minister of the Munitions Industry Department '
+source: un-data
+ref_number: KPi.026
+ref_type: DPRK
+country: Democratic People's Republic of Korea
+birthdate: '1945-10-29'
+remark: ''
+address:
+- street: 
+  city: 
+  state: 
+  country: ''
+  zip: 
+documents:
+- type: Passport
+  number: 'PO381230469 '
+  country: 
+  note: 'Expires 6 Apr. 2016 '

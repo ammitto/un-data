@@ -1,0 +1,24 @@
+---
+entity_type: person
+names:
+- AHMAD VAHID DASTJERDI
+designation: Head of the AIO
+source: un-data
+ref_number: IRi.012
+ref_type: Iran
+country: 
+birthdate: '1954-01-15'
+remark: |-
+  Served as Deputy Defense Minister 2009-10. [Old Reference #
+  I.37.D.2]
+address:
+- street: 
+  city: 
+  state: 
+  country: ''
+  zip: 
+documents:
+- type: Passport
+  number: A0002987
+  country: 
+  note: 

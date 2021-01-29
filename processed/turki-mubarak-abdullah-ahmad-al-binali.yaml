@@ -1,0 +1,45 @@
+---
+entity_type: person
+names:
+- TURKI MUBARAK ABDULLAH AHMAD AL-BINALI
+- Turki Mubarak Abdullah Al Binali
+- Turki Mubarak al-Binali
+- Turki al-Benali
+- Turki al-Binali
+- Abu Human Bakr ibn Abd al-Aziz al-Athari
+- Abu Bakr al-Athari
+- Abu Hazm al-Salafi
+- Abu Hudhayfa al-Bahrayni
+- Abu Khuzayma al-Mudari
+- Abu Sufyan al-Sulami
+- Abu Dergham
+- Abu Human al-Athari
+designation: 
+source: un-data
+ref_number: QDi.391
+ref_type: Al-Qaida
+country: Bahrain (citizenship revoked in Jan. 2015)
+birthdate: '1984-09-03'
+remark: 'Head of religious compliance police and a recruiter of foreign terrorist
+  fighters for Islamic State in Iraq and the Levant (ISIL), listed as Al-Qaida in
+  Iraq (QDe.115), as of mid-May 2015.  INTERPOL-UN Security Council Special Notice
+  web link: https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals'
+address:
+- street: 
+  city: 
+  state: 
+  country: ''
+  zip: 
+documents:
+- type: Passport
+  number: '2231616'
+  country: Bahrain
+  note: expires on 2 Jan. 2023
+- type: Passport
+  number: '1272611'
+  country: Bahrain
+  note: previous
+- type: National Identification Number
+  number: '840901356 '
+  country: 
+  note: 

@@ -1,0 +1,25 @@
+---
+entity_type: person
+names:
+- REZA-GHOLI ESMAELI
+- Reza-Gholi Ismaili
+designation: |-
+  Head of Trade and International Affairs Department of the
+  AIO.
+source: un-data
+ref_number: IRi.015
+ref_type: Iran
+country: 
+birthdate: '1961-04-03'
+remark: "[Old Reference # I.37.D.3]"
+address:
+- street: 
+  city: 
+  state: 
+  country: ''
+  zip: 
+documents:
+- type: Passport
+  number: A0002302
+  country: 
+  note: 

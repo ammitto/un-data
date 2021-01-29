@@ -1,0 +1,33 @@
+---
+entity_type: person
+names:
+- HAFIZ MUHAMMAD SAEED
+- Hafiz Mohammad Sahib
+- Hafiz Mohammad Sayid
+- Hafiz Muhammad
+- Hafiz Saeed
+- Hafez Mohammad Saeed
+- Hafiz Mohammad Sayeed
+- Tata Mohammad Syeed
+- Mohammad Sayed
+- Muhammad Saeed
+- Hafiz Ji
+designation: 
+source: un-data
+ref_number: QDi.263
+ref_type: Al-Qaida
+country: Pakistan
+birthdate: '1950-06-05'
+remark: 'Muhammad Saeed is the leader of Lashkar-e-Tayyiba (QDe.118). INTERPOL-UN
+  Security Council Special Notice web link: https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals'
+address:
+- street: House No. 116E, Mohalla Johar, Lahore, Tehsil
+  city: Lahore City
+  state: Lahore District
+  country: Pakistan
+  zip: 
+documents:
+- type: National Identification Number
+  number: 3520025509842-7
+  country: Pakistan
+  note: 

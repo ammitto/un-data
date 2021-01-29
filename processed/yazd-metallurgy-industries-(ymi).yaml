@@ -1,0 +1,37 @@
+---
+entity_type: organization
+names:
+- YAZD METALLURGY INDUSTRIES (YMI)
+- Yazd Ammunition Manufacturing and Metallurgy Industries
+- |-
+  Directorate of Yazd Ammunition and Metallurgy
+  Industries
+designation: 
+source: un-data
+ref_number: IRe.078
+ref_type: Iran
+country: 
+birthdate: 
+remark: 'YMI is a subordinate of DIO. [Old Reference #E.29.I.22].'
+address:
+- street: Pasdaran Avenue, next to Telecommunication Industry
+  city: Tehran, 16588
+  state: 
+  country: Iran
+  zip: 
+- street: Postal Box 89195/878
+  city: Yazd
+  state: 
+  country: Iran
+  zip: 
+- street: P.O. Box 89195-678
+  city: Yazd
+  state: 
+  country: Iran
+  zip: 
+- street: Km 5 of Taft Road
+  city: Yazd
+  state: 
+  country: Iran
+  zip: 
+documents: []
