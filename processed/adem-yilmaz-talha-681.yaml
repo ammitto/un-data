@@ -1,0 +1,32 @@
+---
+entity_type: person
+names:
+- ADEM YILMAZ
+- Talha
+designation: 
+source: un-data
+ref_number: QDi.261
+ref_type: Al-Qaida
+country: Turkey
+birthdate: '1978-11-04'
+remark: |-
+  Associated with the Islamic Jihad Union (IJU), also known as the Islamic
+  Jihad Group (QDe.119). Associated with Fritz Martin Gelowicz (QDi.259). In detention in Germany as of Jun. 2010.  Review pursuant to Security Council resolution 2368 (2017) was concluded on 4 Dec. 2019. INTERPOL-UN Security Council Special Notice web link: https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals
+address:
+- street: 
+  city: 
+  state: 
+  country: ''
+  zip: 
+- street: Südliche Ringstrasse 133
+  city: Langen
+  state: 
+  country: Germany
+  zip: '63225'
+documents:
+- type: Passport
+  number: TR-P 614 166
+  country: Turkey
+  note: |-
+    issued by the Turkish Consulate General in Frankfurt/M. on 22 Mar. 2006,
+    expired on 15 Sep. 2009.

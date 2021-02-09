@@ -1,0 +1,25 @@
+---
+entity_type: person
+names:
+- YUN HO-JIN
+- Yun Ho-chin
+designation: Director of Namchongang Trading Corporation
+source: un-data
+ref_number: KPi.001
+ref_type: DPRK
+country: Democratic People's Republic of Korea
+birthdate: '1944-10-13'
+remark: |-
+  Director of Namchongang Trading Corporation; oversees the import of items
+  needed for the uranium enrichment program.
+address:
+- street: 
+  city: 
+  state: 
+  country: ''
+  zip: 
+documents:
+- type: 
+  number: 
+  country: 
+  note: 

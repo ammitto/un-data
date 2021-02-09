@@ -1,0 +1,31 @@
+---
+entity_type: person
+names:
+- AYMAN SABAWI IBRAHIM HASAN AL-TIKRITI
+- Aiman Sabawi Ibrahim Hasan Al-Tikriti
+- Ayman Sab’awi Ibrahim Hasan Al-Tikriti
+- Ayman Sabawi Ibrahim Hassan Al-Tikriti
+- Qais Muhammad Salman
+designation: 
+source: un-data
+ref_number: IQi.083
+ref_type: Iraq
+country: Iraq
+birthdate: '1971-10-21'
+remark: ''
+address:
+- street: 
+  city: Bludan
+  state: 
+  country: Syrian Arab Republic
+  zip: 
+- street: Mutanabi Area, Al Monsur
+  city: " Baghdad"
+  state: " Baghdad"
+  country: Iraq
+  zip: 
+documents:
+- type: 
+  number: 
+  country: 
+  note: 

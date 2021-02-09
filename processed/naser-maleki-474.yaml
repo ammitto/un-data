@@ -1,0 +1,29 @@
+---
+entity_type: person
+names:
+- NASER MALEKI
+designation: |-
+  Head of Shahid Hemmat Industrial Group (SHIG), which is designated
+  under resolution 1737 (2006) for its role in Iran's ballistic missile programme
+  (designated under IRe.067).
+source: un-data
+ref_number: IRi.022
+ref_type: Iran
+country: 
+birthdate: 
+remark: "[Old Reference # I.47.C.7]"
+address:
+- street: 
+  city: 
+  state: 
+  country: ''
+  zip: 
+documents:
+- type: Passport
+  number: A0003039
+  country: 
+  note: 
+- type: National Identification Number
+  number: '0035011785'
+  country: 
+  note: 

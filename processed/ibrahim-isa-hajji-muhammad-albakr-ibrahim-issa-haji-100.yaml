@@ -1,0 +1,32 @@
+---
+entity_type: person
+names:
+- IBRAHIM 'ISA HAJJI MUHAMMAD AL-BAKR
+- Ibrahim 'Issa Haji Muhammad al-Bakar
+- Ibrahim 'Isa Haji al-Bakr
+- Ibrahim Issa Hijji Mohd Albaker
+- Ibrahim Issa Hijji Muhammad al-Baker
+- Ibrahim 'Issa al-Bakar
+- Ibrahim al-Bakr
+- Abu-Khalil
+designation: 
+source: un-data
+ref_number: QDi.344
+ref_type: Al-Qaida
+country: Qatar
+birthdate: '1977-07-12'
+remark: |-
+  Facilitator who provides financial support for and financial services to
+  and in support of Al-Qaida (QDe.004).
+  Review pursuant to Security Council resolution 2368 (2017) was concluded on 24 November 2020. INTERPOL-UN Security Council Special Notice web link: https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals
+address:
+- street: 
+  city: 
+  state: 
+  country: ''
+  zip: 
+documents:
+- type: Passport
+  number: '01016646'
+  country: 
+  note: 

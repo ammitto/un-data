@@ -1,0 +1,47 @@
+---
+entity_type: person
+names:
+- KEVIN JORDAN AXEL GUIAVARCH
+designation: 
+source: un-data
+ref_number: QDi.341
+ref_type: Al-Qaida
+country: France
+birthdate: '1993-03-12'
+remark: 'French terrorist fighter associated with Al-Nusrah Front for the People of
+  the Levant (QDe.137) and the Islamic State in Iraq and the Levant (ISIL), listed
+  as Al-Qaida in Iraq (QDe.115). Facilitated foreign terrorist fighters travel from
+  France to Syria. Activist in violent propaganda through the Internet. A warrant
+  for his arrest was issued in 2014 by French authorities and executed in Jan. 2017
+  upon his expulsion from Turkey where he was arrested in Jun. 2016.  INTERPOL-UN
+  Security Council Special Notice web link: https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals'
+address:
+- street: 
+  city: Grenoble
+  state: 
+  country: France
+  zip: 
+- street: 
+  city: 
+  state: 
+  country: Syrian Arab Republic
+  zip: 
+- street: 
+  city: 
+  state: 
+  country: Turkey
+  zip: 
+- street: 
+  city: 
+  state: 
+  country: France
+  zip: 
+documents:
+- type: Passport
+  number: 12CP63882.3FRA
+  country: France
+  note: valid until 30 Jul. 2022
+- type: National Identification Number
+  number: 070275Q007873
+  country: France
+  note: valid until 15 Feb. 2017

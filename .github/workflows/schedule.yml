@@ -3,8 +3,8 @@ name: Update Data Everyday
 on:
   push:
   pull_request:
-  schedule:
-    - cron: '0 0 * * *'
+#  schedule:
+#    - cron: '0 0 * * *'
 
 jobs:
   update-data:

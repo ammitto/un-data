@@ -1,0 +1,32 @@
+---
+entity_type: person
+names:
+- KHALID ABD AL-RAHMAN HAMD AL-FAWAZ
+- Khaled Al-Fauwaz
+- Khaled A. Al-Fauwaz
+- Khalid Al-Fawwaz
+- Khalik Al Fawwaz
+- Khaled Al-Fawwaz
+- Khaled Al Fawwaz
+- Khalid Abdulrahman H. Al Fawaz
+designation: 
+source: un-data
+ref_number: QDi.059
+ref_type: Al-Qaida
+country: Saudi Arabia
+birthdate: '1962-08-24'
+remark: |-
+  Extradited from the United Kingdom to the United States of America on 5
+  Oct. 2012. Review pursuant to Security Council resolution 1822 (2008) was concluded on
+  22 Apr. 2010.. Review pursuant to Security Council resolution 2368 (2017) was concluded on 4 Dec. 2019 INTERPOL-UN Security Council Special Notice web link: https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals
+address:
+- street: 
+  city: 
+  state: 
+  country: United States of America
+  zip: 
+documents:
+- type: Passport
+  number: '456682'
+  country: 
+  note: expired on 13 Sep. 1995
