@@ -1,0 +1,47 @@
+---
+entity_type: person
+names:
+- TARKHAN TAYUMURAZOVICH BATIRASHVILI
+- Tarkhan Tayumurazovich Batyrashvili
+- Tarkhan Batirashvili
+- Omar Shishani
+- Umar Shishani
+- Abu Umar al-Shishani
+- Omar al-Shishani
+- Chechen Omar
+- Omar the Chechen
+- Omer the Chechen
+- Umar the Chechen
+- Abu Umar
+- Abu Hudhayfah
+designation: 
+source: un-data
+ref_number: QDi.345
+ref_type: Al-Qaida
+country: Georgia
+birthdate: '1986-01-11'
+remark: |-
+  As of mid-2014, Syria-based senior military commander and shura council
+  member of Islamic State in Iraq and the Levant, listed as Al-Qaida in Iraq (AQI)
+  (QDe.115). Led approximately 1,000 foreign fighters for ISIL and committed a number of
+  attacks in northern Syria.
+  Review pursuant to Security Council resolution 2368 (2017) was concluded on 24 November 2020. INTERPOL-UN Security Council Special Notice web link: https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals
+address:
+- street: 
+  city: 
+  state: 
+  country: Syrian Arab Republic
+  zip: 
+documents:
+- type: Passport
+  number: '09AL14455'
+  country: 
+  note: expires on 26 Jun. 2019
+- type: National Identification Number
+  number: '08001007864'
+  country: 
+  note: 
+- type: 
+  number: 
+  country: 
+  note: 

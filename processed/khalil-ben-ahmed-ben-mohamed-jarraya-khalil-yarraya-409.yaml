@@ -1,0 +1,33 @@
+---
+entity_type: person
+names:
+- KHALIL BEN AHMED BEN MOHAMED JARRAYA
+- Khalil Yarraya
+- Ben Narvan Abdel Aziz
+- Abdel Aziz Ben Narvan
+- Amro
+- Omar
+- Amrou
+- Amr
+designation: 
+source: un-data
+ref_number: QDi.099
+ref_type: Al-Qaida
+country: Tunisia
+birthdate: '1969-02-08'
+remark: 'Detained in Italy since 9 Aug. 2008 for his implication in a case related
+  to terrorism. Deported from Italy to Tunisia on 24 February 2015. Review pursuant
+  to Security Council resolution 1822 (2008) was concluded on 15 Jun. 2010. Review
+  pursuant to Security Council resolution 2368 (2017) was concluded on 4 Dec.  INTERPOL-UN
+  Security Council Special Notice web link: https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals'
+address:
+- street: 
+  city: 
+  state: Nuoro
+  country: Italy
+  zip: 
+documents:
+- type: Passport
+  number: K989895
+  country: Tunisian
+  note: expired on 25 Jul. 2000

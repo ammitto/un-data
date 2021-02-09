@@ -1,0 +1,23 @@
+---
+entity_type: person
+names:
+- MUN KYONG HWAN
+- Mun Kyo'ng-hwan
+designation: Mun Kyong Hwan is an overseas Bank of East Land representative
+source: un-data
+ref_number: KPi.071
+ref_type: DPRK
+country: Democratic People's Republic of Korea
+birthdate: '1967-08-22'
+remark: 'Gender: male'
+address:
+- street: 
+  city: 
+  state: 
+  country: ''
+  zip: 
+documents:
+- type: Passport
+  number: '381120660'
+  country: 
+  note: Expires 25 March 2016

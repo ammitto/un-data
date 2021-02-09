@@ -1,0 +1,43 @@
+---
+entity_type: person
+names:
+- JAMAL HUSSEIN HASSAN ZEINIYE
+- Jamal Husayn Zayniyah
+- Abu Malek El Talleh
+- Abu Hussein
+- abu-Malik al-Ansari
+- Abu-Malik al-Shami
+- Abu-Malik al-Talli
+designation: 
+source: un-data
+ref_number: QDi.428
+ref_type: Al-Qaida
+country: Syrian Arab Republic
+birthdate: '1972-08-17'
+remark: 'Leader of AL-NUSRAH FRONT FOR THE PEOPLE OF THE LEVANT (QDe.137) in West
+  Kalamoun, Syrian Arab Republic. Mother’s name is Amina Tohmeh.  INTERPOL-UN Security
+  Council Special Notice web link: https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals'
+address:
+- street: 
+  city: 
+  state: 
+  country: Syrian Arab Republic
+  zip: 
+- street: 
+  city: Arsal
+  state: Bekaa
+  country: Lebanon
+  zip: 
+documents:
+- type: Passport
+  number: '3987189 '
+  country: Syrian Arab Republic
+  note: 
+- type: National Identification Number
+  number: '13080011550'
+  country: 
+  note: 
+- type: National Identification Number
+  number: '5877002'
+  country: Syrian Arab Republic
+  note: 

@@ -1,0 +1,40 @@
+---
+entity_type: person
+names:
+- ASHRAF MUHAMMAD YUSUF 'UTHMAN 'ABD AL-SALAM
+- Ashraf Muhammad Yusif 'Uthman 'Abd-al-Salam
+- Ashraf Muhammad Yusuf 'Abd-al-Salam
+- Ashraf Muhammad Yusif 'Abd al-Salam
+- Khattab
+- Ibn al-Khattab
+designation: 
+source: un-data
+ref_number: QDi.343
+ref_type: Al-Qaida
+country: Jordan
+birthdate: 
+remark: |-
+  A member of Al-Qaida (QDe.004) as of 2012 and a fighter in the Syrian Arab
+                  Republic since early 2014. Provided financial, material, and technological support
+                  for Al-Qaida, Al-Nusrah Front for the People of the Levant (QDe.137) and Al-Qaida in
+                  Iraq (AQI) (QDe.115).Review pursuant to Security Council resolution 2368 (2017) was
+                  concluded on 24 November 2020. INTERPOL-UN Security Council Special Notice web link: https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals
+address:
+- street: 
+  city: 
+  state: 
+  country: Syrian Arab Republic
+  zip: 
+documents:
+- type: Passport
+  number: K048787
+  country: 
+  note: 
+- type: Passport
+  number: '486298'
+  country: 
+  note: 
+- type: National Identification Number
+  number: '28440000526'
+  country: 
+  note: 

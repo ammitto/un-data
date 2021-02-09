@@ -1,0 +1,32 @@
+---
+entity_type: organization
+names:
+- ARMAMENT INDUSTRIES GROUP (AIG)
+designation: 
+source: un-data
+ref_number: IRe.005
+ref_type: Iran
+country: 
+birthdate: 
+remark: |-
+  Manufacturers and services a variety of small arms and light weapons,
+  including large- and medium-calibre guns and related technology. AIG conducts the
+  majority of its procurement activity through Hadid Industries Complex. [Old Reference #
+  E.29.I.2]
+address:
+- street: Sepah Islam Road, Karaj Special Road Km 10
+  city: 
+  state: 
+  country: Iran (Islamic Republic of)
+  zip: 
+- street: Pasdaran Ave.
+  city: Tehran
+  state: 
+  country: Iran (Islamic Republic of)
+  zip: 
+- street: P.O. Box 19585/777
+  city: Tehran
+  state: 
+  country: Iran (Islamic Republic of)
+  zip: 
+documents: []

@@ -1,0 +1,23 @@
+---
+entity_type: person
+names:
+- KIM TONG-HO
+designation: "Vietnam Representative for Tanchon Commercial Bank, which is the main
+  DPRK\nfinancial entity for weapons and missile-related sales "
+source: un-data
+ref_number: KPi.046
+ref_type: DPRK
+country: Democratic People's Republic of Korea
+birthdate: '1969-08-18'
+remark: 'Gender: male.'
+address:
+- street: 
+  city: 
+  state: 
+  country: Viet Nam
+  zip: 
+documents:
+- type: Passport
+  number: '745310111'
+  country: 
+  note: 

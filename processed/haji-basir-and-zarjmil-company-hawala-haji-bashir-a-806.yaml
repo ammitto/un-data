@@ -1,0 +1,77 @@
+---
+entity_type: organization
+names:
+- HAJI BASIR AND ZARJMIL COMPANY HAWALA
+- Haji Bashir and Zarjmil Hawala Company
+- Haji Abdul Basir and Zar Jameel Hawala
+- Haji Basir Hawala
+- Haji Baseer Hawala
+- Haji Abdul Basir Exchange Shop
+- Haji Basir and Zarjamil Currency Exchange
+- Haji Zar Jamil, Haji Abdul Baseer Money Changer
+designation: 
+source: un-data
+ref_number: TAe.014
+ref_type: Taliban
+country: 
+birthdate: 
+remark: |-
+  Money service provider used by senior Taliban leaders to transfer funds
+  to Taliban commanders in the region. Owned by Abdul Basir Noorzai (TAi.173). INTERPOL-UN Security Council Special Notice web link: https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Entities
+address:
+- street: 'Branch Office 1: Sanatan (variant Sanatin) Bazaar'
+  city: Sanatan Bazaar Street
+  state: near Trench (variant Tranch) Road
+  country: Pakistan
+  zip: Chaman, Baluchistan Province
+- street: 
+  city: 'Branch Office 2: Quetta'
+  state: 
+  country: Pakistan
+  zip: 
+- street: 
+  city: 
+  state: 'Branch Office 3: Lahore'
+  country: Pakistan
+  zip: 
+- street: 
+  city: 
+  state: 'Branch Office 4: Peshawar'
+  country: Pakistan
+  zip: 
+- street: 
+  city: 
+  state: 'Branch Office 5: Karachi'
+  country: Pakistan
+  zip: 
+- street: 
+  city: 
+  state: 'Branch Office 6: Islamabad'
+  country: Pakistan
+  zip: 
+- street: 
+  city: 
+  state: 'Branch Office 7: Kandahar Province'
+  country: Afghanistan
+  zip: 
+- street: 
+  city: 
+  state: 'Branch Office 8: Herat Province'
+  country: Afghanistan
+  zip: 
+- street: 
+  city: 
+  state: 'Branch Office 9: Helmand Province'
+  country: Afghanistan
+  zip: 
+- street: 
+  city: 
+  state: 'Branch Office 10: Dubai'
+  country: United Arab Emirates
+  zip: 
+- street: 
+  city: 
+  state: 
+  country: 'Branch Office 11: Iran'
+  zip: 
+documents: []
