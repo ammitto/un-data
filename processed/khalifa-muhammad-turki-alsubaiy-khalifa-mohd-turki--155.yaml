@@ -25,16 +25,20 @@ remark: |-
   name is Hamdah Ahmad Haidoos. INTERPOL-UN Security Council Special Notice web link: https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals
 address:
 - street: 
-  city: Doha
+  city: Al-Waab
   state: 
   country: Qatar
   zip: 
 documents:
 - type: Passport
-  number: '00685868'
+  number: '1353275 '
   country: Qatar
-  note: expiring on 4 Feb. 2011
+  note: expiring 12 June 2022
 - type: National Identification Number
   number: '26563400140'
   country: Qatar
   note: 
+- type: Passport
+  number: '00685868'
+  country: Qatar
+  note: expired on 4 Feb. 2011

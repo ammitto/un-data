@@ -19,7 +19,7 @@ remark: 'Qatar-based facilitator who provides financial services to, or in suppo
   https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals'
 address:
 - street: 
-  city: Al-Laqtah
+  city: 'Al Kharaitiyat '
   state: 
   country: Qatar
   zip: 
@@ -36,6 +36,10 @@ documents:
   number: '00490327'
   country: Qatar
   note: 
+- type: Passport
+  number: '01538029'
+  country: Qatar
+  note: expires 14 Mar. 2025
 - type: National Identification Number
   number: '27363400684'
   country: Qatar
