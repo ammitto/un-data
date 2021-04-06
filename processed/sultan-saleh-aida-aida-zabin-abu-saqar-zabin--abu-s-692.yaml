@@ -2,12 +2,15 @@
 entity_type: person
 names:
 - SULTAN SALEH AIDA AIDA ZABIN
-designation: 'Director of the Criminal Investigation Department (CID) in Sanaa '
+- 'Abu Saqar Zabin '
+- 'Abu Sagar Zabin '
+designation: "Director, or General Manager, of the Criminal Investigation Department\n
+  \               (CID), Sana’a based ministry of interior, in Sana’a, Yemen "
 source: un-data
 ref_number: YEi.006
 ref_type: Yemen
-country: 
-birthdate: 
+country: Yemen
+birthdate: '1986-02-05'
 remark: Sultan Saleh Aida Aida Zabin has engaged in acts that threaten the peace,
   security and stability of Yemen, including violations of applicable international
   humanitarian law and human rights abuses in Yemen. Zabin has played a prominent
@@ -21,12 +24,16 @@ remark: Sultan Saleh Aida Aida Zabin has engaged in acts that threaten the peace
   to forced labour. Zabin himself directly inflicted torture in some cases.
 address:
 - street: 
-  city: 
+  city: Sana’a
   state: 
-  country: ''
+  country: Yemen
   zip: 
 documents:
-- type: 
-  number: 
-  country: 
+- type: National Identification Number
+  number: '10010095104'
+  country: Yemen
   note: 
+- type: National Identification Number
+  number: '20432'
+  country: Yemen
+  note: issued in 2018
