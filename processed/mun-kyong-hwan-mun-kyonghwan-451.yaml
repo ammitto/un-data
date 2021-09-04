@@ -3,7 +3,9 @@ entity_type: person
 names:
 - MUN KYONG HWAN
 - Mun Kyo'ng-hwan
-designation: Mun Kyong Hwan is an overseas Bank of East Land representative
+designation: |-
+  Mun Kyong Hwan is an overseas Bank of East Land
+                  representative
 source: un-data
 ref_number: KPi.071
 ref_type: DPRK
