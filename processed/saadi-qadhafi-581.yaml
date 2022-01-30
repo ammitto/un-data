@@ -15,7 +15,7 @@ address:
 - street: 
   city: 
   state: 
-  country: Libya (in custody)
+  country: Libya
   zip: 
 documents:
 - type: Passport
@@ -26,3 +26,7 @@ documents:
   number: '524521'
   country: 
   note: 
+- type: Passport
+  number: AA862825
+  country: Libya
+  note: expires 18 May 2029
