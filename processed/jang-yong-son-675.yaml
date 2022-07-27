@@ -4,7 +4,7 @@ names:
 - JANG YONG SON
 designation: |-
   Korea Mining Development Trading Corporation (KOMID)
-  Representative
+                  Representative
 source: un-data
 ref_number: KPi.017
 ref_type: DPRK
@@ -18,7 +18,7 @@ address:
   country: ''
   zip: 
 documents:
-- type: 
-  number: 
-  country: 
+- type: Passport
+  number: '563110024'
+  country: "Democratic\n                    People's Republic of Korea\n                        "
   note: 

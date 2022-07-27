@@ -8,12 +8,13 @@ ref_number: KPe.044
 ref_type: DPRK
 country: 
 birthdate: 
-remark: Korea Kumsan Trading Corporation is owned or controlled by, or acting or purporting
-  to act for or on behalf of, directly or indirectly, the General Bureau of Atomic
-  Energy, which oversees the DPRK’s nuclear programme
+remark: 'Korea Kumsan Trading Corporation is owned or controlled by, or acting or
+  purporting to act for or on behalf of, directly or indirectly, the General Bureau
+  of Atomic Energy, which oversees the DPRK’s nuclear programme. Telephone: +850-2-18111-8550.
+  Fax: +850-2-381-4410/4416. Email: mhs-ip@star-co.net.kp.'
 address:
-- street: 
-  city: Pyongyang
+- street: Haeun 2-dong, Pyogchon District, Pyongyang City/Mangyongdae
+  city: 
   state: 
   country: Democratic People's Republic of Korea
   zip: 

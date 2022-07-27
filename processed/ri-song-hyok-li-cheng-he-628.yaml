@@ -3,15 +3,17 @@ entity_type: person
 names:
 - RI SONG HYOK
 - Li Cheng He
-designation: Ri Song Hyok is an overseas representative for Koryo Bank and Koryo Credit
-  Development Bank
+designation: |-
+  Ri Song Hyok is an overseas representative for Koryo Bank and Koryo Credit
+                  Development Bank
 source: un-data
 ref_number: KPi.077
 ref_type: DPRK
 country: Democratic People's Republic of Korea
 birthdate: '1965-03-19'
-remark: 'Ri Song Hyok has reportedly established front companies to procure items
-  and conduct financial transactions on behalf of North Korea. Gender: male'
+remark: |-
+  Ri Song Hyok has reportedly established front companies to procure items and
+                  conduct financial transactions on behalf of North Korea. Gender: male
 address:
 - street: 
   city: 
@@ -19,7 +21,7 @@ address:
   country: ''
   zip: 
 documents:
-- type: 
-  number: 
-  country: 
+- type: Passport
+  number: '654234735'
+  country: Democratic People's Republic of Korea
   note: 

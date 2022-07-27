@@ -3,7 +3,9 @@ entity_type: person
 names:
 - KIM TONG CHOL
 - Kim Tong-ch'o'l
-designation: Kim Tong Chol is an overseas Foreign Trade Bank representative
+designation: |-
+  Kim Tong Chol is an overseas Foreign Trade Bank
+                  representative
 source: un-data
 ref_number: KPi.068
 ref_type: DPRK
@@ -17,7 +19,11 @@ address:
   country: ''
   zip: 
 documents:
-- type: 
-  number: 
+- type: Passport
+  number: '927234267'
   country: 
   note: 
+- type: Passport
+  number: '108120258'
+  country: Democratic People's Republic of Korea
+  note: expiration date 14 Feb. 2023

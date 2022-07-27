@@ -6,12 +6,15 @@ names:
 - 'Kim Tong-Myong '
 - 'Kim Jin-Sok '
 - 'Kim Hyok-Chol '
+- Kim Tong-Myo’ng
+- Kim Tong Myong
+- Kim Hyok Chol
 designation: 'President of Tanchon Commercial Bank '
 source: un-data
 ref_number: KPi.023
 ref_type: DPRK
 country: Democratic People's Republic of Korea
-birthdate: 
+birthdate: '1962-08-28'
 remark: Kim Tong My’ong is the President of Tanchon Commercial Bank and has held various
   positions within Tanchon Commercial bank since at least 2002. He has also played
   a role in managing Amroggang’s affairs.
@@ -22,7 +25,7 @@ address:
   country: ''
   zip: 
 documents:
-- type: 
-  number: 
-  country: 
+- type: Passport
+  number: '290320764'
+  country: "Democratic\n                    People's Republic of Korea\n                        "
   note: 

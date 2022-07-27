@@ -3,6 +3,8 @@ entity_type: person
 names:
 - CHO IL U
 - Cho Il Woo
+- Cho Ch’o’l
+- Jo Chol
 designation: 'Director of the Fifth Bureau of the Reconnaissance General Bureau '
 source: un-data
 ref_number: KPi.040
@@ -15,7 +17,7 @@ address:
 - street: 
   city: 
   state: 
-  country: ''
+  country: Democratic People's Republic of Korea
   zip: 
 documents:
 - type: Passport

@@ -16,7 +16,18 @@ country:
 birthdate: 
 remark: DPRK government entity
 address:
-- street: 
+- street: Second KWP Government Building (Korean – Ch’o’ngsa, Urban Town (Korean-Dong),
+    Chung Ward, Pyongyang
+  city: 
+  state: 
+  country: Democratic People's Republic of Korea
+  zip: 
+- street: " Chung-Guyok (Central District), Sosong Street, Kyongrim-Dong, Pyongyang"
+  city: 
+  state: 
+  country: Democratic People's Republic of Korea
+  zip: 
+- street: Changwang Street, Pyongyang
   city: 
   state: 
   country: Democratic People's Republic of Korea

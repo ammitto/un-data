@@ -2,6 +2,10 @@
 entity_type: person
 names:
 - KIM YONG CHOL
+- "Kim\n                        Yong-Chol\n                            "
+- Kim Young-Chol
+- Kim Young-Cheol
+- Young-Chul
 designation: KOMID Representative
 source: un-data
 ref_number: KPi.024
@@ -16,7 +20,7 @@ address:
   country: ''
   zip: 
 documents:
-- type: 
-  number: 
-  country: 
+- type: Passport
+  number: '472310168'
+  country: "Democratic\n                    People's Republic of Korea\n                        "
   note: 
