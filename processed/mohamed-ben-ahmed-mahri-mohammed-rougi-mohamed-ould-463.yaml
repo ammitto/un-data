@@ -34,3 +34,7 @@ documents:
   number: AA0263957
   country: 
   note: 
+- type: Passport
+  number: AA0344148
+  country: 
+  note: 'date of expiration: 20 March 2024'
