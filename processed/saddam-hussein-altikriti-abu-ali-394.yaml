@@ -1,0 +1,23 @@
+---
+entity_type: person
+names:
+- SADDAM HUSSEIN AL-TIKRITI
+- 'Abu Ali '
+designation: 
+source: un-data
+ref_number: IQi.001
+ref_type: Iraq
+country: Iraq
+birthdate: '1937-04-28'
+remark: ''
+address:
+- street: 
+  city: 
+  state: 
+  country: ''
+  zip: 
+documents:
+- type: 
+  number: 
+  country: 
+  note: 

@@ -1,0 +1,25 @@
+---
+entity_type: person
+names:
+- TCHIPA NA BIDON
+designation: Lieutenant-colonel
+source: un-data
+ref_number: GBi.006
+ref_type: GB
+country: Guinea-Bissau
+birthdate: '1954-05-28'
+remark: |-
+  Na Bidon was listed on 18 Jul. 2012 pursuant to paragraph 4 of resolution
+  2048 (2012) as “Member of the “Military Command” which has assumed responsibility for
+  the coup d'état of 12 April 2012.” Parentage: “Nabidom”.
+address:
+- street: 
+  city: 
+  state: 
+  country: ''
+  zip: 
+documents:
+- type: Passport
+  number: DA0001564
+  country: 
+  note: 'Expiration date 15 May 2011 ,    ,   '

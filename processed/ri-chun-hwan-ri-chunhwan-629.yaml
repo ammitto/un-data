@@ -1,0 +1,23 @@
+---
+entity_type: person
+names:
+- RI CHUN HWAN
+- 'Ri Ch''un-hwan '
+designation: Ri Chun Hwan is an overseas Foreign Trade Bank representative
+source: un-data
+ref_number: KPi.074
+ref_type: DPRK
+country: Democratic People's Republic of Korea
+birthdate: '1957-08-21'
+remark: 'Gender: male'
+address:
+- street: 
+  city: 
+  state: 
+  country: ''
+  zip: 
+documents:
+- type: Passport
+  number: '563233049 '
+  country: 
+  note: 'Expires 09 May 2018 ,    ,   '

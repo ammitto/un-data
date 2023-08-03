@@ -1,0 +1,43 @@
+---
+entity_type: person
+names:
+- MUHAMMAD JIBRIL ABDUL RAHMAN
+- 'Mohammad Jibril Abdurrahman '
+- 'Muhammad Jibriel Abdul Rahman '
+- 'Mohammad Jibriel Abdurrahman '
+- 'Muhamad Ricky Ardhan '
+- 'Muhammad Ricky Ardhan bin Muhammad Iqbal '
+- 'Muhammad Ricky Ardhan bin Abu Jibril '
+- 'Muhammad Yunus '
+- 'Heris Syah '
+designation: 
+source: un-data
+ref_number: QDi.295
+ref_type: Al-Qaida
+country: Indonesia
+birthdate: '1984-05-28'
+remark: |-
+  Senior member of Jemaah Islamiyah (QDe.092) directly involved in obtaining
+                  funding for terrorist attacks. Sentenced in Indonesia to five years in prison on 29
+                  Jun. 2010. Father’s name is Mohamad Iqbal Abdurrahman (QDi.086). Review pursuant to
+                  Security Council resolution 2368 (2017) was concluded on 24 November 2020. Review pursuant to Security Council resolution 2368 (2017) was concluded on 15 November 2021.
+address:
+- street: Jalan M. Saidi RT 010 RW 001 Pesanggrahan, South Petukangan
+  city: South Jakarta
+  state: 
+  country: Indonesia
+  zip: 
+- street: Jalan Nakula of Witana Harja Complex Block C
+  city: Pamulang
+  state: Banten
+  country: Indonesia
+  zip: 
+documents:
+- type: National Identification Number
+  number: '3219222002.2181558'
+  country: 
+  note: "   ,   "
+- type: National Identification Number
+  number: '2181558'
+  country: 
+  note: "   ,   "

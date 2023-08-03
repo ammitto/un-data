@@ -1,0 +1,30 @@
+---
+entity_type: person
+names:
+- MONIR CHOUKA
+- 'Abu Adam '
+designation: 
+source: un-data
+ref_number: QDi.300
+ref_type: Al-Qaida
+country: Germany
+birthdate: '1981-07-30'
+remark: |-
+  Associated with Islamic Movement of Uzbekistan (QDe.010). Brother of Yassin
+                  Chouka (QDi.301) Arrest warrant issued by the investigating judge of the German
+                  Federal Court of Justice on 5 Oct. 2010. Review pursuant to Security Council resolution 2368 (2017) was concluded on 15 November 2021.
+address:
+- street: Ungartenstraße 6
+  city: Bonn
+  state: 
+  country: Germany
+  zip: '53229'
+documents:
+- type: Passport
+  number: '5208323009'
+  country: Germany
+  note: 'expires on 1 Feb. 2012 ,    ,   '
+- type: National Identification Number
+  number: '5209530116'
+  country: Germany
+  note: 'expired on 20 Jun. 2011 ,    ,   '

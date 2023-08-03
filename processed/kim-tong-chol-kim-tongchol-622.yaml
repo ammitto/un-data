@@ -1,0 +1,27 @@
+---
+entity_type: person
+names:
+- KIM TONG CHOL
+- 'Kim Tong-ch''o''l '
+designation: 'Former overseas Foreign Trade Bank Deputy representative '
+source: un-data
+ref_number: KPi.068
+ref_type: DPRK
+country: Democratic People's Republic of Korea
+birthdate: '1966-01-28'
+remark: 'Gender: male'
+address:
+- street: 
+  city: 
+  state: 
+  country: ''
+  zip: 
+documents:
+- type: Passport
+  number: '927234267'
+  country: 
+  note: "   ,   "
+- type: Passport
+  number: '108120258'
+  country: Democratic People's Republic of Korea
+  note: 'expiration date 14 Feb. 2023 ,    ,   '

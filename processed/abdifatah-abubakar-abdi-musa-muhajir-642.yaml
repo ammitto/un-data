@@ -1,0 +1,28 @@
+---
+entity_type: person
+names:
+- Abdifatah Abubakar Abdi
+- 'Musa Muhajir '
+designation: 
+source: un-data
+ref_number: SOi.017
+ref_type: Somalia
+country: Somalia
+birthdate: '1982-04-15'
+remark: ''
+address:
+- street: 
+  city: 
+  state: 
+  country: Somalia
+  zip: 
+- street: 
+  city: Mombasa
+  state: 
+  country: Kenya
+  zip: 
+documents:
+- type: 
+  number: 
+  country: 
+  note: 

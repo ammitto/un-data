@@ -1,0 +1,30 @@
+---
+entity_type: person
+names:
+- HABIB BEN AHMED AL-LOUBIRI
+- 'Al-Habib ben Ahmad ben al-Tayib al-Lubiri '
+designation: 
+source: un-data
+ref_number: QDi.177
+ref_type: Al-Qaida
+country: Tunisia
+birthdate: '1961-11-17'
+remark: 'Italian Fiscal Code: LBR HBB 61S17 Z352F. In detention in Tunisia as at Dec.
+  2009. Mother’s name is Fatima al-Galasi. Review pursuant to Security Council resolution
+  1822 (2008) was concluded on 9 Apr. 2010. Review pursuant to Security Council resolution
+  2368 (2017) was concluded on 4 Dec. 2019'
+address:
+- street: Salam Marnaq Ben Arous district
+  city: Sidi Mesoud
+  state: 
+  country: Tunisia
+  zip: 
+documents:
+- type: Passport
+  number: M788439
+  country: Tunisia
+  note: 'expires on 19 Oct. 2006 ,    ,   '
+- type: National Identification Number
+  number: '01817002'
+  country: 
+  note: "   ,   "

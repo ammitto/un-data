@@ -1,0 +1,30 @@
+---
+entity_type: organization
+names:
+- AL-QAIDA
+- '"The Base" '
+- 'Al Qaeda '
+- 'Islamic Salvation Foundation '
+- 'The Group for the Preservation of the Holy Sites '
+- 'The Islamic Army for the Liberation of Holy Places '
+- "The World Islamic Front for Jihad Against Jews and\nCrusaders "
+- 'Usama Bin Laden Network '
+- 'Usama Bin Laden Organization '
+- 'Al Qa''ida '
+- 'Al Qa’ida/Islamic Army '
+designation: 
+source: un-data
+ref_number: QDe.004
+ref_type: Al-Qaida
+country: 
+birthdate: 
+remark: |-
+  Review pursuant to Security Council resolution 1822 (2008) was concluded
+  on 21 Jun. 2010. Review pursuant to Security Council resolution 2368 (2017) was concluded on 24 November 2020.
+address:
+- street: 
+  city: 
+  state: 
+  country: ''
+  zip: 
+documents: []

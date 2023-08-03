@@ -1,0 +1,27 @@
+---
+entity_type: person
+names:
+- JÚLIO NHATE
+designation: Lieutenant-colonel
+source: un-data
+ref_number: GBi.010
+ref_type: GB
+country: Guinea-Bissau
+birthdate: '1965-09-28'
+remark: |-
+  Nhate was listed on 18 Jul. 2012 pursuant to paragraph 4 of resolution
+  2048 (2012) as “Member of the "Military Command" which has assumed responsibility for
+  the coup d'état of 12 April 2012. A loyal ally of António Injai, Lt.Col. Júlio Nhate has
+  the material responsibility for the 12 April 2012 coup, having conducted the military
+  operation.”
+address:
+- street: 
+  city: 
+  state: 
+  country: ''
+  zip: 
+documents:
+- type: 
+  number: 
+  country: 
+  note: 

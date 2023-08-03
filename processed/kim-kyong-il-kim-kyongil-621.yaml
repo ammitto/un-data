@@ -1,0 +1,23 @@
+---
+entity_type: person
+names:
+- KIM KYONG IL
+- 'Kim Kyo''ng-il '
+designation: Kim Kyong Il is a Foreign Trade Bank deputy chief representative in Libya
+source: un-data
+ref_number: KPi.067
+ref_type: DPRK
+country: Democratic People's Republic of Korea
+birthdate: '1979-08-01'
+remark: 'Location Libya. Gender: male'
+address:
+- street: 
+  city: 
+  state: 
+  country: Libya
+  zip: 
+documents:
+- type: Passport
+  number: '836210029'
+  country: 
+  note: "   ,   "

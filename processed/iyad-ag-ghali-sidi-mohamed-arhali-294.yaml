@@ -1,0 +1,33 @@
+---
+entity_type: person
+names:
+- IYAD AG GHALI
+- 'Sidi Mohamed Arhali '
+designation: 
+source: un-data
+ref_number: QDi.316
+ref_type: Al-Qaida
+country: Mali
+birthdate: 
+remark: |-
+  Founder and leader of Ansar Eddine (QDe.135). Member of the Tuareg Ifogas
+                  tribe. Linked to the Organization of Al-Qaida in the Islamic Maghreb (QDe.014) and
+                  Mouvement pour l’Unification et le Jihad en Afrique de l’Ouest (MUJAO) (QDe.134).
+                  Name of father is Ag Bobacer Arhali, name of mother is Rhiachatou Wallet Sidi.
+                  Review pursuant to Security Council resolution 2253 (2015) was concluded on 21 Feb.
+                  2019. Review pursuant to Security Council resolution 2610 (2021) was concluded on 8 November 2022.
+address:
+- street: 
+  city: 
+  state: 
+  country: Mali
+  zip: 
+documents:
+- type: Passport
+  number: A1037434
+  country: Mali
+  note: 'expires on 31 Dec. 2014 ,    ,   '
+- type: National Identification Number
+  number: '012546'
+  country: Mali
+  note: "   ,   "

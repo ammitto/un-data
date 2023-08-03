@@ -1,0 +1,29 @@
+---
+entity_type: person
+names:
+- YASSINE CHEKKOURI
+designation: 
+source: un-data
+ref_number: QDi.070
+ref_type: Al-Qaida
+country: Morocco
+birthdate: '1966-10-06'
+remark: |-
+  Mother’s name is Feue Hlima Bent Barka and father’s name is Abderrahmane
+  Mohammed Ben Azzouz. Deported from Italy to Morocco on 26 Feb. 2004. Review pursuant to
+  Security Council resolution 1822 (2008) was concluded on 21 Jun. 2010. Review pursuant to Security Council resolution 2368 (2017) was concluded on 4 Dec. 2019
+address:
+- street: 7th Street, Number 7
+  city: Hay Anas Safi
+  state: 
+  country: Morocco
+  zip: 
+documents:
+- type: Passport
+  number: F46947
+  country: Morocco
+  note: "   ,   "
+- type: National Identification Number
+  number: H-135467
+  country: Morocco
+  note: "   ,   "

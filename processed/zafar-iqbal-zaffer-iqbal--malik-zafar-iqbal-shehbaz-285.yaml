@@ -1,0 +1,41 @@
+---
+entity_type: person
+names:
+- ZAFAR IQBAL
+- 'Zaffer Iqbal '
+- 'Malik Zafar Iqbal Shehbaz '
+- 'Malik Zafar Iqbal Shahbaz '
+- 'Malik Zafar Iqbal '
+- 'Zafar Iqbal Chaudhry '
+- 'Muhammad Zafar Iqbal '
+designation: 
+source: un-data
+ref_number: QDi.308
+ref_type: Al-Qaida
+country: Pakistan
+birthdate: '1953-10-04'
+remark: |-
+  Senior leader and co-founder of Lashkar-e-Tayyiba (QDe.118) (LeT) who has
+  held various senior leader positions in LeT and its front organization, Jamaat-ud-Dawa
+  (JUD) (listed as an alias of LeT). As of 2010, in charge of LeT/JUD finance department,
+  director of its education department and president of its medical wing. Other title:
+  Professor.  Review pursuant to Security Council resolution 2253 (2015) was concluded on 21 Feb. 2019. Review pursuant to Security Council resolution 2610 (2021) was concluded on 8 November 2022.
+address:
+- street: Masjid al-Qadesia, 4 Lake Road
+  city: Lahore
+  state: 
+  country: Pakistan
+  zip: 
+documents:
+- type: Passport
+  number: DG5149481
+  country: 
+  note: 'expired on 21 Aug. 2011, passport booklet number A2815665 ,    ,   '
+- type: National Identification Number
+  number: 35202- 4135948-7
+  country: 
+  note: "   ,   "
+- type: National Identification Number
+  number: '29553654234'
+  country: 
+  note: "   ,   "

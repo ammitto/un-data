@@ -1,0 +1,30 @@
+---
+entity_type: organization
+names:
+- |-
+  HANIFA MONEY EXCHANGE OFFICE (BRANCH LOCATED IN ALBU KAMAL,
+  SYRIAN ARAB REPUBLIC)
+- 'Hanifah Currency Exchange '
+- 'Hanifeh Exchange '
+- 'Hanifa Exchange '
+- 'Hunaifa Office '
+- 'Hanifah Exchange Company '
+- 'Hanifa Money Exchange Office '
+designation: 
+source: un-data
+ref_number: QDe.153
+ref_type: Al-Qaida
+country: 
+birthdate: 
+remark: Money exchange business in Albu Kamal (Al-Bukamal), Syrian Arab Republic,
+  facilitating the movement of funds on behalf of Islamic State in Iraq and the Levant
+  (ISIL), listed as Al-Qaida in Iraq (QDe.115). Used exclusively for ISIL-related
+  transactions. Review pursuant to Security Council resolution 2610 (2021) was concluded
+  on 8 November 2022.
+address:
+- street: 
+  city: Albu Kamal (Al-Bukamal)
+  state: 
+  country: Syrian Arab Republic
+  zip: 
+documents: []

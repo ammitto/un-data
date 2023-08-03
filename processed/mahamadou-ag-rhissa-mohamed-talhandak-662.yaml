@@ -1,0 +1,25 @@
+---
+entity_type: person
+names:
+- Mahamadou Ag Rhissa
+- 'Mohamed Talhandak '
+designation: 
+source: un-data
+ref_number: MLi.002
+ref_type: Mali
+country: Mali
+birthdate: '1983-01-01'
+remark: 'Gender: male. On 1 October 2017 French forces raided his house, arresting
+  Ag Rhissa and six family members. Listed pursuant to paragraphs 1 to 3 of Security
+  Council resolution 2374 (2017) (Travel Ban).'
+address:
+- street: 
+  city: Kidal
+  state: 
+  country: Mali
+  zip: 
+documents:
+- type: 
+  number: 
+  country: 
+  note: 

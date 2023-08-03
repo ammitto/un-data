@@ -1,0 +1,24 @@
+---
+entity_type: person
+names:
+- HANNIBAL MUAMMAR QADHAFI
+designation: 
+source: un-data
+ref_number: LYi.010
+ref_type: Libya
+country: 
+birthdate: '1975-09-20'
+remark: |-
+  Listed pursuant to paragraphs 15 and 17 of resolution 1970 (Travel Ban,
+  Asset Freeze).
+address:
+- street: 
+  city: 
+  state: 
+  country: Lebanon
+  zip: 
+documents:
+- type: Passport
+  number: Libya B/002210
+  country: 
+  note: "   ,   "

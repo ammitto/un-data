@@ -1,0 +1,39 @@
+---
+entity_type: organization
+names:
+- WAFA HUMANITARIAN ORGANIZATION
+- 'Al Wafa '
+- 'Al Wafa Organization '
+- 'Wafa Al-Igatha Al-Islamia '
+designation: 
+source: un-data
+ref_number: QDe.015
+ref_type: Al-Qaida
+country: 
+birthdate: 
+remark: |-
+  Headquarters was in Kandahar, Afghanistan as at 2001. Wafa was a
+  component of Al-Qaida (QDe.004) in 2001. Review pursuant to Security Council resolution
+  1822 (2008) was concluded on 21 Jun. 2010. Review pursuant to Security Council resolution 2368 (2017) was concluded on 4 Dec. 2019. Review pursuant to Security Council resolution 2610 (2021) was concluded on 8 November 2022.
+address:
+- street: Jordan House No. 125, Street 54, Phase II Hayatabad, Peshawar
+  city: 
+  state: 
+  country: Pakistan
+  zip: 
+- street: 
+  city: 
+  state: 
+  country: Kuwait
+  zip: 
+- street: 
+  city: 
+  state: 
+  country: United Arab Emirates
+  zip: 
+- street: 
+  city: 
+  state: 
+  country: Afghanistan
+  zip: 
+documents: []

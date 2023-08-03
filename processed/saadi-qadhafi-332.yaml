@@ -1,0 +1,32 @@
+---
+entity_type: person
+names:
+- SAADI QADHAFI
+designation: Commander Special Forces
+source: un-data
+ref_number: LYi.015
+ref_type: Libya
+country: 
+birthdate: '1973-05-27'
+remark: |-
+  Listed pursuant to paragraph 15 of resolution 1970 (Travel Ban). Listed
+  on 17 March 2011 pursuant to paragraph 17 of resolution 1970 (Asset Freeze).
+address:
+- street: 
+  city: 
+  state: 
+  country: Libya
+  zip: 
+documents:
+- type: Passport
+  number: '014797'
+  country: 
+  note: "   ,   "
+- type: Passport
+  number: '524521'
+  country: 
+  note: "   ,   "
+- type: Passport
+  number: AA862825
+  country: Libya
+  note: 'expires 18 May 2029 ,    ,   '

@@ -1,0 +1,35 @@
+---
+entity_type: person
+names:
+- SHAMIL MAGOMEDOVICH ISMAILOV
+- 'Shamil Magomedovich Aliev '
+- 'Abu Hanifa '
+designation: 
+source: un-data
+ref_number: QDi.368
+ref_type: Al-Qaida
+country: Russian Federation
+birthdate: '1980-10-29'
+remark: |-
+  As at Aug. 2015, leader of Jamaat Abu Hanifa, a terrorist group that is part of the Al-Nusrah Front for the People of the Levant (QDe.137). Physical description: eye colour: brown, hair colour: black, build: slim, height 175-180 cm. Distinguishing marks: long face, speech defect. Wanted by the authorities of the Russian Federation for terrorist crimes committed in its territory. Photo available for inclusion in the INTERPOL-UN Security Council Special Notice.
+  Review pursuant to Security Council resolution 2368 (2017) was concluded on 24 November 2020.
+address:
+- street: 
+  city: 
+  state: 
+  country: Syrian Arab Republic
+  zip: 
+- street: 
+  city: 
+  state: 
+  country: Iraq
+  zip: 
+documents:
+- type: Passport
+  number: Russian foreign travel passport number 514448632
+  country: 
+  note: 'issued by Consulate General of the Russian Federation ,    ,   '
+- type: National Identification Number
+  number: '1200075689'
+  country: Russian Federation
+  note: 'issued by Russian Federation ,    ,   '

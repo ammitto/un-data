@@ -1,0 +1,23 @@
+---
+entity_type: person
+names:
+- RI CHUN SONG
+- 'Ri Ch''un-so''ng '
+designation: Ri Chun Song is an overseas Foreign Trade Bank representative
+source: un-data
+ref_number: KPi.075
+ref_type: DPRK
+country: Democratic People's Republic of Korea
+birthdate: '1965-10-30'
+remark: 'Gender: male'
+address:
+- street: 
+  city: 
+  state: 
+  country: ''
+  zip: 
+documents:
+- type: Passport
+  number: '654133553'
+  country: 
+  note: 'Expires 11 March 2019 ,    ,   '

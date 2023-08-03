@@ -1,0 +1,27 @@
+---
+entity_type: person
+names:
+- ABDUL GHAFAR SHINWARI
+designation: |-
+  Third Secretary, Taliban Consulate General, Karachi,
+  Pakistan
+source: un-data
+ref_number: TAi.139
+ref_type: Taliban
+country: Afghanistan
+birthdate: '1965-03-29'
+remark: |-
+  Believed to be in Afghanistan/Pakistan border area. Belongs to Safi
+  tribe. Review pursuant to Security Council resolution 1822 (2008) was concluded on 29
+  Jul. 2010.
+address:
+- street: 
+  city: 
+  state: 
+  country: ''
+  zip: 
+documents:
+- type: Passport
+  number: D 000763
+  country: Afghanistan
+  note: "   ,   "

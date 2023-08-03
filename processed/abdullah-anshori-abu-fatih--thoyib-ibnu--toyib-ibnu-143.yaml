@@ -1,0 +1,28 @@
+---
+entity_type: person
+names:
+- ABDULLAH ANSHORI
+- 'Abu Fatih '
+- 'Thoyib, Ibnu '
+- 'Toyib, Ibnu '
+- 'Abu Fathi '
+designation: 
+source: un-data
+ref_number: QDi.216
+ref_type: Al-Qaida
+country: Indonesia
+birthdate: 
+remark: |-
+  Senior leader of Jemaah Islamiyah (QDe.092). Review pursuant to Security Council resolution 1822 (2008) was concluded
+  on 8 Jun. 2010. Review pursuant to Security Council resolution 2368 (2017) was concluded on 4 Dec. 2019. Review pursuant to Security Council resolution 2610 (2021) was concluded on 8 November 2022.
+address:
+- street: 
+  city: 
+  state: 
+  country: ''
+  zip: 
+documents:
+- type: Passport
+  number: T710219
+  country: Indonesia
+  note: 'issued in Sukoharjo, Central Java, Indonesia ,    ,   '

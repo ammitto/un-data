@@ -1,0 +1,27 @@
+---
+entity_type: person
+names:
+- NAJMUDDIN FARAJ AHMAD
+- 'Mullah Krekar '
+- 'Fateh Najm Eddine Farraj '
+- 'Faraj Ahmad Najmuddin '
+designation: 
+source: un-data
+ref_number: QDi.226
+ref_type: Al-Qaida
+country: Iraq
+birthdate: '1956-07-07'
+remark: |-
+  Mother’s name: Masouma Abd al-Rahman. Photo available for inclusion in the INTERPOL-UN Security Council Special Notice. Review pursuant to Security Council resolution 1822 (2008) was concluded on 20 May 2010.
+  Review pursuant to Security Council resolution 2368 (2017) was concluded on 24 November 2020.
+address:
+- street: Heimdalsgate 36-V
+  city: Oslo
+  state: 
+  country: Norway
+  zip: '0578'
+documents:
+- type: National Identification Number
+  number: '0075258'
+  country: 
+  note: "   ,   "

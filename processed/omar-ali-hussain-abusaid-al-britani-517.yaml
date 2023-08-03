@@ -1,0 +1,30 @@
+---
+entity_type: person
+names:
+- OMAR ALI HUSSAIN
+- 'Abu-Sa''id Al Britani '
+designation: 
+source: un-data
+ref_number: QDi.359
+ref_type: Al-Qaida
+country: United Kingdom of Great Britain and Northern Ireland
+birthdate: '1987-03-21'
+remark: |-
+  Foreign terrorist fighter with Islamic State in Iraq and the Levant (ISIL), listed as Al-Qaida in Iraq (QDe.115), in the Syrian Arab Republic. Physical description: eye colour: brown; hair colour: brown/black. Photo available for inclusion in the INTERPOL-UN Security Council Special Notice.
+  Review pursuant to Security Council resolution 2368 (2017) was concluded on 24 November 2020.
+address:
+- street: 
+  city: 
+  state: 
+  country: Syrian Arab Republic
+  zip: 
+- street: 
+  city: 
+  state: 
+  country: United Kingdom of Great Britain and Northern Ireland
+  zip: 
+documents:
+- type: Passport
+  number: '205939411'
+  country: United Kingdom of Great Britain and Northern Ireland
+  note: 'expired on 21 Apr. 2015 ,    ,   '

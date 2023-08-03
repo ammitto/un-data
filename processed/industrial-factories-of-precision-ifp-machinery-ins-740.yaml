@@ -1,0 +1,21 @@
+---
+entity_type: organization
+names:
+- INDUSTRIAL FACTORIES OF PRECISION (IFP) MACHINERY
+- 'Instrumentation Factories Plant '
+designation: 
+source: un-data
+ref_number: IRe.027
+ref_type: Iran
+country: 
+birthdate: 
+remark: |-
+  Used by AIO for some acquisition attempts. [Old Reference #
+  E.03.III.5]
+address:
+- street: 
+  city: 
+  state: 
+  country: ''
+  zip: 
+documents: []

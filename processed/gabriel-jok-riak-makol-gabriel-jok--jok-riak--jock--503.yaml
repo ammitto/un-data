@@ -1,0 +1,44 @@
+---
+entity_type: person
+names:
+- GABRIEL JOK RIAK MAKOL
+- 'Gabriel Jok '
+- 'Jok Riak '
+- 'Jock Riak '
+designation: |-
+  Former Sudan People’s Liberation Army’s (SPLA) Sector One
+  Commander
+source: un-data
+ref_number: SSi.001
+ref_type: SouthSudan
+country: South Sudan
+birthdate: '1966-01-01'
+remark: Appointed as Chief of Defence Forces on 2 May 2018. Commanded SPLA Sector
+  One, which operates primarily within Unity State, since January 2013. In his position
+  as the SPLA Sector One commander, he has expanded or extended the conflict in South
+  Sudan through breaches of the Cessation of Hostilities Agreement. The SPLA is a
+  South Sudanese military entity that has engaged in actions that have extended the
+  conflict in South Sudan, including breaches of the January 2014 Cessation of Hostilities
+  Agreement and the May 9, 2014 Agreement to Resolve the Crisis in South Sudan, which
+  was a re-commitment to the CoHA and has obstructed the activities of IGAD’s Monitoring
+  and Verification Mechanism.
+address:
+- street: 
+  city: 
+  state: Unity State
+  country: South Sudan
+  zip: 
+- street: 
+  city: Wau
+  state: Western Bahr El Ghazal
+  country: South Sudan
+  zip: 
+documents:
+- type: Passport
+  number: D00008623
+  country: South Sudan
+  note: "   ,   "
+- type: National Identification Number
+  number: 'M6600000258472 '
+  country: 
+  note: "   ,   "

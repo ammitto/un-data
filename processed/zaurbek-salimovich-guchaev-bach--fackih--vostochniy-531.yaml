@@ -1,0 +1,39 @@
+---
+entity_type: person
+names:
+- ZAURBEK SALIMOVICH GUCHAEV
+- 'Bach '
+- 'Fackih '
+- 'Vostochniy  '
+- 'Muslim '
+- 'Aziz '
+- 'Abdul Aziz '
+designation: 
+source: un-data
+ref_number: QDi.367
+ref_type: Al-Qaida
+country: Russian Federation
+birthdate: '1975-09-07'
+remark: |-
+  As at Aug. 2015, one of the leaders of the Army of Emigrants and Supporters (QDe.148). Wanted by the authorities of the Russian Federation for terrorist crimes committed in its territory. Photo available for inclusion in the INTERPOL-UN Security Council Special Notice.
+  Review pursuant to Security Council resolution 2368 (2017) was concluded on 24 November 2020.
+address:
+- street: 
+  city: 
+  state: 
+  country: Syrian Arab Republic
+  zip: 
+- street: 
+  city: 
+  state: 
+  country: Iraq
+  zip: 
+documents:
+- type: Passport
+  number: 'Russian foreign travel passport number 622641887 '
+  country: 
+  note: "   ,   "
+- type: National Identification Number
+  number: '8304661431'
+  country: Russian Federation
+  note: "   ,   "
