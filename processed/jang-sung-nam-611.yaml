@@ -1,0 +1,24 @@
+---
+entity_type: person
+names:
+- JANG SUNG NAM
+designation: Chief of an overseas Tangun Trading Corporation branch
+source: un-data
+ref_number: KPi.057
+ref_type: DPRK
+country: Democratic People's Republic of Korea
+birthdate: '1970-07-14'
+remark: 'Chief of an overseas Tangun Trading Corporation branch, which is primarily
+  responsible for the procurement of commodities and technologies to support the DPRK’s
+  defense research and development programs. Gender: male'
+address:
+- street: 
+  city: 
+  state: 
+  country: ''
+  zip: 
+documents:
+- type: Passport
+  number: '563120368'
+  country: 
+  note: 'Passport expiration date: March 22, 2018 ,    ,   '

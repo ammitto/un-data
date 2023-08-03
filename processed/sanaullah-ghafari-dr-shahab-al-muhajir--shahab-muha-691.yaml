@@ -1,0 +1,38 @@
+---
+entity_type: person
+names:
+- SANAULLAH GHAFARI
+- 'Dr. Shahab al Muhajir '
+- 'Shahab Muhajer '
+- 'Shahab Mohajir '
+- 'Shahab Mahajar '
+- 'Shihab al Muhajir '
+- 'Shihab Muhajer '
+- 'Shihab Mohajir '
+- 'Shihab Mahajar '
+designation: 
+source: un-data
+ref_number: QDi.431
+ref_type: Al-Qaida
+country: Afghanistan
+birthdate: '1994-10-28'
+remark: |-
+  Leader of the Islamic State of Iraq and the Levant - Khorasan (ISIL - K)
+                  (QDe.161). Information Technology Expert. Photo is available for inclusion in the
+                  INTERPOL-UN Security Council Special Notice.
+address:
+- street: 
+  city: 
+  state: 
+  country: Afghanistan
+  zip: 
+- street: 
+  city: 
+  state: Kunduz
+  country: Afghanistan
+  zip: 
+documents:
+- type: 
+  number: 
+  country: 
+  note: 

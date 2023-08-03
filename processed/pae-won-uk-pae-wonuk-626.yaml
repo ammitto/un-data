@@ -1,0 +1,23 @@
+---
+entity_type: person
+names:
+- PAE WON UK
+- 'Pae Wo''n-uk '
+designation: Pae Won Uk is an overseas Daesong Bank representative
+source: un-data
+ref_number: KPi.072
+ref_type: DPRK
+country: Democratic People's Republic of Korea
+birthdate: '1969-08-22'
+remark: 'Gender: male'
+address:
+- street: 
+  city: 
+  state: 
+  country: ''
+  zip: 
+documents:
+- type: Passport
+  number: '472120208'
+  country: 
+  note: 'Expires 22 Feb 2017 ,    ,   '

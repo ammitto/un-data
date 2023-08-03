@@ -1,0 +1,23 @@
+---
+entity_type: person
+names:
+- KO TAE HUN
+- 'Kim Myong Gi  '
+designation: "Tanchon Commercial\n                Bank official\n                "
+source: un-data
+ref_number: KPi.025
+ref_type: DPRK
+country: Democratic People's Republic of Korea
+birthdate: '1972-05-25'
+remark: ''
+address:
+- street: 
+  city: 
+  state: 
+  country: ''
+  zip: 
+documents:
+- type: Passport
+  number: '563120630'
+  country: 
+  note: 'Expires 20 Mar. 2018 ,    ,   '

@@ -1,0 +1,28 @@
+---
+entity_type: person
+names:
+- REDOUANE EL HABHAB
+- 'Abdelrahman '
+designation: 
+source: un-data
+ref_number: QDi.262
+ref_type: Al-Qaida
+country: Germany
+birthdate: '1969-12-20'
+remark: Released from custody in Germany in Apr. 2012. Review pursuant to Security
+  Council resolution 2368 (2017) was concluded on 15 November 2021.
+address:
+- street: lltisstrasse 58
+  city: 24143 Kiel
+  state: 
+  country: Germany
+  zip: 
+documents:
+- type: Passport
+  number: '1005552350'
+  country: Germany
+  note: 'expired on 26 Mar. 2011 ,    ,   '
+- type: National Identification Number
+  number: '1007850441'
+  country: Germany
+  note: 'expired on 26 Mar. 2011 ,    ,   '

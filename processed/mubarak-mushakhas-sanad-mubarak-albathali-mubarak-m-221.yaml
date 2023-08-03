@@ -1,0 +1,40 @@
+---
+entity_type: person
+names:
+- MUBARAK MUSHAKHAS SANAD MUBARAK AL-BATHALI
+- 'Mubarak Mishkhis Sanad Al-Bathali '
+- 'Mubarak Mishkhis Sanad Al-Badhali '
+- 'Mubarak Al-Bathali '
+- 'Mubarak Mishkhas Sanad Al-Bathali '
+- 'Mubarak Mishkhas Sanad Al-Bazali '
+- 'Mobarak Meshkhas Sanad Al-Bthaly '
+- 'Abu Abdulrahman '
+designation: 
+source: un-data
+ref_number: QDi.238
+ref_type: Al-Qaida
+country: Kuwait
+birthdate: '1961-10-01'
+remark: Sentenced to prison by Kuwait on 24 August 2018. Review pursuant to Security
+  Council resolution 1822 (2008) was concluded on 14 Sep. 2009. Review pursuant to
+  Security Council resolution 2253 (2015) was concluded on 21 Feb. 2019. Review pursuant
+  to Security Council resolution 2610 (2021) was concluded on 8 November 2022.
+address:
+- street: 
+  city: 
+  state: Al-Salibekhat area
+  country: Kuwait
+  zip: 
+documents:
+- type: Passport
+  number: '101856740'
+  country: Kuwait
+  note: 'and expired on 11 May 2007 ,    ,   '
+- type: Passport
+  number: '002955916'
+  country: Kuwait
+  note: "   ,   "
+- type: National Identification Number
+  number: '261122400761'
+  country: Kuwait
+  note: "   ,   "

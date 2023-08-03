@@ -1,0 +1,26 @@
+---
+entity_type: person
+names:
+- Abd Al-Rahman al-Milad
+- 'Rahman Salim Milad '
+- 'al-Bija '
+- 'Abdurahman Salem Ibrahim Milad '
+designation: Commander of the Coast Guard in Zawiya
+source: un-data
+ref_number: LYi.026
+ref_type: Libya
+country: Libya
+birthdate: '1986-07-27'
+remark: Listed pursuant to paragraphs 15 and 17 of resolution 1970 (Travel Ban, Asset
+  Freeze)
+address:
+- street: 
+  city: Zawiya
+  state: 
+  country: Libya
+  zip: 
+documents:
+- type: Passport
+  number: G52FYPRL
+  country: Libya
+  note: 'Date of expiration: 7 May 2022 ,    ,   '

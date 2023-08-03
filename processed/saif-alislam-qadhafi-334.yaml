@@ -1,0 +1,24 @@
+---
+entity_type: person
+names:
+- SAIF AL-ISLAM QADHAFI
+designation: Director, Qadhafi Foundation
+source: un-data
+ref_number: LYi.017
+ref_type: Libya
+country: 
+birthdate: '1972-06-25'
+remark: |-
+  Listed pursuant to paragraphs 15 and 17 of resolution 1970 (Travel Ban,
+  Asset Freeze).
+address:
+- street: 
+  city: 
+  state: 
+  country: Libya
+  zip: 
+documents:
+- type: Passport
+  number: Libya B014995
+  country: 
+  note: "   ,   "

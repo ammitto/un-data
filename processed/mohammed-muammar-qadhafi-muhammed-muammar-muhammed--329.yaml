@@ -1,0 +1,29 @@
+---
+entity_type: person
+names:
+- MOHAMMED MUAMMAR QADHAFI
+- 'Muhammed Muammar Muhammed Abdul Salam  '
+designation: 
+source: un-data
+ref_number: LYi.012
+ref_type: Libya
+country: 
+birthdate: 
+remark: |-
+  Listed pursuant to paragraphs 15 and 17 of resolution 1970 (Travel Ban,
+  Asset Freeze).
+address:
+- street: 
+  city: 
+  state: 
+  country: Oman
+  zip: 
+documents:
+- type: Passport
+  number: '03824969'
+  country: Oman
+  note: "   ,   "
+- type: National Identification Number
+  number: '97183904'
+  country: Oman
+  note: "   ,   "

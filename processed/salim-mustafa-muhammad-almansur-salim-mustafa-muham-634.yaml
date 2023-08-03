@@ -1,0 +1,43 @@
+---
+entity_type: person
+names:
+- SALIM MUSTAFA MUHAMMAD AL-MANSUR
+- 'Salim Mustafa Muhammad Mansur Al-Ifri '
+- 'Saleem Al-Ifri '
+- 'Salim Mansur Mustafa '
+- 'Salim Mansur '
+- 'Hajji Salim Al-Shaklar '
+designation: 
+source: un-data
+ref_number: QDi.411
+ref_type: Al-Qaida
+country: Iraq
+birthdate: '1962-02-20'
+remark: 'Finance “emir” for Islamic State in Iraq and the Levant, listed as Al-Qaida
+  in Iraq (QDe.115). Physical description: hair colour: black; eye colour: honey;
+  height: 170 cm. Speaks Arabic.'
+address:
+- street: 17 Tamoz
+  city: Mosul
+  state: 
+  country: Iraq
+  zip: 
+- street: Tel Afar – Al-Saad
+  city: Mosul
+  state: 
+  country: Iraq
+  zip: 
+documents:
+- type: Passport
+  number: A6489694
+  country: Iraq
+  note: "expires on 31 Aug. 2021; name in Arabic script: سالم مصطفى محمد ال\nمنصور
+    ,    ,   "
+- type: National Identification Number
+  number: '00813602'
+  country: Iraq
+  note: 'name in Arabic script: سالم مصطفى محمد ال منصور ,    ,   '
+- type: National Identification Number
+  number: '300397'
+  country: Iraq
+  note: 'name in Arabic script: سالم مصطفى محمد ,    ,   '

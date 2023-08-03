@@ -1,0 +1,35 @@
+---
+entity_type: person
+names:
+- SALIM AHMAD SALIM HAMDAN
+- 'Saqr Al-Jaddawi (الكنية صقر الجداوي) '
+- 'Saqar Al Jadawi '
+- 'Saqar Aljawadi '
+- 'Salem Ahmed Salem Hamdan '
+designation: 
+source: un-data
+ref_number: QDi.003
+ref_type: Al-Qaida
+country: Yemen
+birthdate: 
+remark: |-
+  Driver and private bodyguard to Usama bin Laden (deceased) from 1996
+  until 2001. Transferred from United States custody to Yemen in Nov. 2008. Review
+  pursuant to Security Council resolution 1822 (2008) was concluded on 8 Jul.
+  2010. Review pursuant to Security Council resolution 2368 (2017) was concluded on 4 Dec. 2019
+address:
+- street: Shari Tunis
+  city: Sana'a
+  state: 
+  country: Yemen
+  zip: 
+- street: 
+  city: 
+  state: 
+  country: 
+  zip: 
+documents:
+- type: Passport
+  number: '00385937'
+  country: Yemen
+  note: "   ,   "

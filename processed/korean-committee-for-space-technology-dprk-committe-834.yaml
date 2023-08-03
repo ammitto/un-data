@@ -1,0 +1,24 @@
+---
+entity_type: organization
+names:
+- KOREAN COMMITTEE FOR SPACE TECHNOLOGY
+- 'DPRK Committee for Space Technology '
+- 'Department of Space Technology of the DPRK '
+- 'Committee for Space Technology '
+- 'KCST '
+designation: 
+source: un-data
+ref_number: KPe.012
+ref_type: DPRK
+country: 
+birthdate: 
+remark: The Korean Committee for Space Technology (KCST) orchestrated the DPRK’s launches
+  on 13 April 2012 and 12 December 2012 via the satellite control center and Sohae
+  launch area.
+address:
+- street: 
+  city: Pyongyang
+  state: 
+  country: Democratic People's Republic of Korea
+  zip: 
+documents: []

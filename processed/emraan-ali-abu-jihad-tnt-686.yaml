@@ -1,0 +1,49 @@
+---
+entity_type: person
+names:
+- EMRAAN ALI
+- 'Abu Jihad TNT '
+designation: 
+source: un-data
+ref_number: QDi.430
+ref_type: Al-Qaida
+country: Trinidad and Tobago
+birthdate: '1967-07-04'
+remark: 'Senior member of Islamic State in Iraq and the Levant (ISIL), listed as Al-Qaida
+  in Iraq (QDe.115). Recruited for ISIL and instructed individuals to perpetrate terrorist
+  acts. Physical description: height 176 cm, weight 73 kg, medium built, colour of
+  eyes- brown, colour of hair- black/bald, complexion- brown.  Speaks English.'
+address:
+- street: 
+  city: 
+  state: 
+  country: United States of America
+  zip: 
+- street: 
+  city: 
+  state: "#12 Rio Claro Mayaro Road, Rio Claro"
+  country: Trinidad and Tobago
+  zip: 
+- street: 
+  city: 
+  state: "#7 GUAYAGUAYARE Road, Rio Claro"
+  country: Trinidad and Tobago
+  zip: 
+- street: 
+  city: 
+  state: 
+  country: United States of America
+  zip: 
+documents:
+- type: Passport
+  number: TB162181
+  country: Trinidad and Tobago
+  note: 'issued on 27 January 2015, expired 26 January 2020 ,    ,   '
+- type: Passport
+  number: '420985453 '
+  country: United States of America
+  note: 'expired 6 February 2017 ,    ,   '
+- type: National Identification Number
+  number: '19670704052'
+  country: Trinidad and Tobago
+  note: "   ,   "

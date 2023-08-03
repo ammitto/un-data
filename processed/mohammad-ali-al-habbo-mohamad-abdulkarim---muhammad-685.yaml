@@ -1,0 +1,48 @@
+---
+entity_type: person
+names:
+- MOHAMMAD ALI AL HABBO
+- 'Mohamad Abdulkarim  '
+- 'Muhammad Abd-al-Karim '
+- 'Al-Hebo  '
+- 'Al-Habu  '
+- 'Alhobo '
+- 'Habo '
+- 'Hebbo '
+- 'Habu '
+designation: 
+source: un-data
+ref_number: QDi.429
+ref_type: Al-Qaida
+country: Syrian Arab Republic
+birthdate: '1983-10-01'
+remark: Turkey-based facilitator who provides financial services to, or in support
+  of, Islamic State in Iraq and the Levant, listed as Al-Qaida in Iraq (QDe.115).
+address:
+- street: 
+  city: Gazantiep
+  state: 
+  country: Turkey
+  zip: 
+- street: 
+  city: Raqqa
+  state: 
+  country: Syrian Arab Republic
+  zip: 
+documents:
+- type: Passport
+  number: '00814L001424 '
+  country: Syrian Arab Republic
+  note: "   ,   "
+- type: National Identification Number
+  number: '10716775'
+  country: Syrian Arab Republic
+  note: "   ,   "
+- type: National Identification Number
+  number: '2020316097'
+  country: Syrian Arab Republic
+  note: "   ,   "
+- type: National Identification Number
+  number: '2020409266'
+  country: Syrian Arab Republic
+  note: "   ,   "

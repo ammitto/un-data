@@ -1,0 +1,30 @@
+---
+entity_type: person
+names:
+- ALEXANDA AMON KOTEY
+- 'Alexe Kotey '
+- 'Alexanda Kote '
+designation: 
+source: un-data
+ref_number: QDi.408
+ref_type: Al-Qaida
+country: United Kingdom of Great Britain and Northern Ireland
+birthdate: '1983-12-13'
+remark: 'Foreign terrorist fighter with Islamic State in Iraq and the Levant (ISIL),
+  listed as Al-Qaida in Iraq (QDe.115), in the Syrian Arab Republic. Sentenced to
+  life imprisonment on 29 April 2022 in the United States of America, Federal Bureau
+  of Prisons inmate number 11685-509. Physical description: eye colour: dark brown;
+  hair colour: black; complexion: dark. Distinguishing marks: beard. Ethnic background:
+  Ghanaian Cypriot. Review pursuant to Security Council resolution 2610 (2021) was
+  concluded on 8 November 2022.'
+address:
+- street: 
+  city: 
+  state: 
+  country: United States of America
+  zip: 
+documents:
+- type: Passport
+  number: '094477324'
+  country: United Kingdom of Great Britain and Northern Ireland
+  note: "   ,   "

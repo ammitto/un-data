@@ -1,0 +1,32 @@
+---
+entity_type: person
+names:
+- AL-AZHAR BEN KHALIFA BEN AHMED ROUINE
+- 'Salmane '
+- 'Lazhar '
+designation: 
+source: un-data
+ref_number: QDi.150
+ref_type: Al-Qaida
+country: Tunisia
+birthdate: '1975-11-20'
+remark: |-
+  Sentenced to six years and ten months of imprisonment for membership of a
+                  terrorist association by the Appeal Court of Milan, Italy, on 7 Feb. 2008.
+                  Imprisoned in Sfax Prison on 5 June 2007 pursuant to an order issued by the Appeals
+                  Tribunal in Tunisia for joining an organization linked to terrorist crimes (case
+                  No.9301/207). Sentenced to two years and 15 days’ imprisonment and released on 18
+                  June 2008.U Considered a fugitive from justice by the Italian authorities as at Jul.
+                  2008. Under administrative control measure in Tunisia as at 2010. Review pursuant to
+                  Security Council resolution 1822 (2008) was concluded on 21 Jun. 2010. Review pursuant to Security Council resolution 2368 (2017) was concluded on 24 November 2020.
+address:
+- street: No.2 89th Street Zehrouni
+  city: Tunis
+  state: 
+  country: Tunisia
+  zip: 
+documents:
+- type: Passport
+  number: P182583
+  country: Tunisia
+  note: 'expired on 12 Sep. 2007 ,    ,   '

@@ -1,0 +1,41 @@
+---
+entity_type: person
+names:
+- UMAR MAHMUD IRHAYYIM AL-KUBAYSI
+- 'Umar Mahmud Rahim al-Kubaysi  '
+- 'Omar Mahmood Irhayyim Al-Fayyadh '
+- 'Umar Mahmud Rahim '
+- 'Umar Mahmud Rahim Al-Qubaysi '
+- 'Umar Mahmud Al-Kubaysi Arhaym '
+- 'Umar Mahmud Arhaym '
+- 'Omar Mahmood Irhayyim '
+- 'Omar Mahmood Irhayyim Al-Fayyadh Al-Kobaisi '
+- 'Umar al-Kubaysi '
+designation: 
+source: un-data
+ref_number: QDi.412
+ref_type: Al-Qaida
+country: Iraq
+birthdate: '1967-06-16'
+remark: 'Financial facilitator for Islamic State in Iraq and the Levant, listed as
+  Al-Qaida in Iraq (QDe.115). Director of Al-Kawthar Money Exchange (QDe.157). Physical
+  description: sex: male, hair colour: black; height: 175 cm. Speaks Arabic.'
+address:
+- street: 
+  city: Al-Qaim
+  state: Al-Anbar Province
+  country: Iraq
+  zip: 
+documents:
+- type: Passport
+  number: A4059346
+  country: Iraq
+  note: 'expires on 27 May 2021 ,    ,   '
+- type: National Identification Number
+  number: '00405771'
+  country: Iraq
+  note: 'name in Arabic script: عمر محمود إرحيم الفياض ,    ,   '
+- type: National Identification Number
+  number: '540763'
+  country: Iraq
+  note: 'name in Arabic script: عمر محمود إرحيم ,    ,   '

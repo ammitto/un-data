@@ -1,0 +1,28 @@
+---
+entity_type: person
+names:
+- BAHMANYAR MORTEZA BAHMANYAR
+designation: |-
+  Head of Finance and Budget Department of the Aerospace Industries
+  Organization (AIO).
+source: un-data
+ref_number: IRi.009
+ref_type: Iran
+country: Iran (Islamic Republic of)
+birthdate: '1952-12-31'
+remark: ''
+address:
+- street: 
+  city: 
+  state: 
+  country: ''
+  zip: 
+documents:
+- type: Passport
+  number: I0005159
+  country: 
+  note: "   ,   "
+- type: Passport
+  number: '10005159'
+  country: 
+  note: "   ,   "

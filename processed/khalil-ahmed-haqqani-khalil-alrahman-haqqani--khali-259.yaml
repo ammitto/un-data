@@ -1,0 +1,46 @@
+---
+entity_type: person
+names:
+- KHALIL AHMED HAQQANI
+- 'Khalil Al-Rahman Haqqani '
+- 'Khalil ur Rahman Haqqani '
+- 'Khaleel Haqqani '
+designation: 
+source: un-data
+ref_number: TAi.150
+ref_type: Taliban
+country: Afghanistan
+birthdate: '1966-01-01'
+remark: |-
+  Senior member of the Haqqani Network (TAe.012), which operates out of
+  North Waziristan in the Federally Administered Tribal Areas of Pakistan. Has previously
+  traveled to, and raised funds in, Dubai, United Arab Emirates. Brother of Jalaluddin
+  Haqqani (TAi.040) and uncle of Sirajuddin Jallaloudine Haqqani (TAi.144).
+address:
+- street: 
+  city: Peshawar
+  state: 
+  country: Pakistan
+  zip: 
+- street: 
+  city: Near Dergey Manday Madrasa in Dergey Manday Village, near Miram Shah, North
+    Waziristan Agency (NWA), Federally Administered Tribal Areas (FATA)
+  state: 
+  country: Pakistan
+  zip: 
+- street: 
+  city: Kayla Village, near Miram Shah, North Waziristan Agency (NWA), Federally Administered
+    Tribal Areas (FATA)
+  state: 
+  country: Pakistan
+  zip: 
+- street: 
+  city: Sarana Zadran Village
+  state: Paktia Province
+  country: Afghanistan
+  zip: 
+documents:
+- type: 
+  number: 
+  country: 
+  note: 

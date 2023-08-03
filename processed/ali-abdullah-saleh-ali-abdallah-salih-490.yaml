@@ -1,0 +1,27 @@
+---
+entity_type: person
+names:
+- ALI ABDULLAH SALEH
+- 'Ali Abdallah Salih '
+designation: President of Yemen’s General People’s Congress party
+source: un-data
+ref_number: YEi.003
+ref_type: Yemen
+country: Yemen
+birthdate: '1945-03-21'
+remark: 'Gender [Male]. Status: reportedly deceased.'
+address:
+- street: 
+  city: 
+  state: 
+  country: ''
+  zip: 
+documents:
+- type: Passport
+  number: 00016161 (Yemen)
+  country: 
+  note: "   ,   "
+- type: National Identification Number
+  number: '01010744444'
+  country: 
+  note: "   ,   "

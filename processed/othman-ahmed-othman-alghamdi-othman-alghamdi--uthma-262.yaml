@@ -1,0 +1,36 @@
+---
+entity_type: person
+names:
+- OTHMAN AHMED OTHMAN AL-GHAMDI
+- 'Othman al-Ghamdi '
+- 'Uthman al-Ghamdi '
+- 'Uthman al-Ghamidi '
+- 'Othman bin Ahmed bin Othman Alghamdi '
+- 'Othman Ahmed Othman Al Omairah '
+- 'Uthman Ahmad Uthman al-Ghamdi '
+- 'Othman Ahmed Othman al-Omirah '
+- 'Al Umairah al-Ghamdi '
+- 'Othman Bin Ahmed Bin Othman '
+designation: 
+source: un-data
+ref_number: QDi.292
+ref_type: Al-Qaida
+country: Saudi Arabia
+birthdate: '1979-05-27'
+remark: |-
+  Operational commander of Al-Qaida in the Arabian Peninsula (AQAP)
+  (QDe.129). Has been involved in raising funds and stockpiling arms for AQAP operations
+  and activities in Yemen. Known associate of Qasim Yahya Mahdi al-Rimi (QDi.282) and Fahd
+  Mohammed Ahmed al-Quso (deceased). Father’s name is Ahmed Othman Al Omirah.
+  Review pursuant to Security Council resolution 2368 (2017) was concluded on 24 November 2020.
+address:
+- street: 
+  city: 
+  state: 
+  country: Yemen
+  zip: 
+documents:
+- type: National Identification Number
+  number: '1089516791'
+  country: Saudi Arabia
+  note: "   ,   "

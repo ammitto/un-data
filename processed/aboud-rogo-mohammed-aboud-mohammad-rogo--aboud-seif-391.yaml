@@ -1,0 +1,28 @@
+---
+entity_type: person
+names:
+- ABOUD ROGO MOHAMMED
+- 'Aboud Mohammad Rogo '
+- 'Aboud Seif Rogo '
+- 'Aboud Mohammed Rogo '
+- 'Sheikh Aboud Rogo '
+- 'Aboud Rogo Muhammad '
+- 'Aboud Rogo Mohamed '
+designation: 
+source: un-data
+ref_number: SOi.011
+ref_type: Somalia
+country: 
+birthdate: '1960-11-11'
+remark: ''
+address:
+- street: 
+  city: 
+  state: 
+  country: ''
+  zip: 
+documents:
+- type: 
+  number: 
+  country: 
+  note: 

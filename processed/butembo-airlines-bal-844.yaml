@@ -1,0 +1,19 @@
+---
+entity_type: organization
+names:
+- BUTEMBO AIRLINES (BAL)
+designation: 
+source: un-data
+ref_number: CDe.002
+ref_type: DRC
+country: 
+birthdate: 
+remark: Privately-owned airline, operates out of Butembo. Since December 2008, BAL
+  no longer holds an aircraft operating license in the DRC.
+address:
+- street: 
+  city: Butembo
+  state: 
+  country: Democratic Republic of the Congo
+  zip: 
+documents: []

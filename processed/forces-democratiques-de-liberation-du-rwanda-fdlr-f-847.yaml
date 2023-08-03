@@ -1,0 +1,29 @@
+---
+entity_type: organization
+names:
+- FORCES DEMOCRATIQUES DE LIBERATION DU RWANDA (FDLR)
+- 'FDLR '
+- 'Force Combattante Abacunguzi '
+- 'Combatant Force for the Liberation of Rwanda '
+- 'FOCA '
+designation: 
+source: un-data
+ref_number: CDe.005
+ref_type: DRC
+country: 
+birthdate: 
+remark: |-
+  Email: Fdlr@fmx.de; fldrrse@yahoo.fr; fdlr@gmx.net; fdlrsrt@gmail.com;
+  humura2020@gmail.com.
+address:
+- street: 
+  city: North Kivu
+  state: 
+  country: Democratic Republic of the Congo
+  zip: 
+- street: 
+  city: South Kivu
+  state: 
+  country: Democratic Republic of the Congo
+  zip: 
+documents: []

@@ -1,0 +1,26 @@
+---
+entity_type: person
+names:
+- CHOE SONG IL
+designation: 'Tanchon Commercial Bank Representative '
+source: un-data
+ref_number: KPi.014
+ref_type: DPRK
+country: Democratic People's Republic of Korea
+birthdate: 
+remark: Served as the Tanchon Commercial Bank representative in Vietnam.
+address:
+- street: 
+  city: 
+  state: 
+  country: ''
+  zip: 
+documents:
+- type: Passport
+  number: '472320665 '
+  country: 
+  note: 'Expires 26 Sep. 2017 ,    ,   '
+- type: Passport
+  number: '563120356'
+  country: 
+  note: "   ,   "
