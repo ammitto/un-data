@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<CONSOLIDATED_LIST xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:noNamespaceSchemaLocation='https://www.un.org/sc/resources/sc-sanctions.xsd' dateGenerated='2023-08-08T23:00:01.074Z'>
+<CONSOLIDATED_LIST xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:noNamespaceSchemaLocation='https://www.un.org/sc/resources/sc-sanctions.xsd' dateGenerated='2023-08-09T23:00:05.761Z'>
     <INDIVIDUALS>
         <INDIVIDUAL>
             <DATAID>110404</DATAID>
@@ -37152,51 +37152,6 @@ Dec. 2014 ,    ,   </NOTE>
             <SORT_KEY_LAST_MOD/>
         </INDIVIDUAL>
         <INDIVIDUAL>
-            <DATAID>6908614</DATAID>
-            <VERSIONNUM>1</VERSIONNUM>
-            <FIRST_NAME>HAN </FIRST_NAME>
-            <SECOND_NAME>JANG SU </SECOND_NAME>
-            <UN_LIST_TYPE>DPRK</UN_LIST_TYPE>
-            <REFERENCE_NUMBER>KPi.055</REFERENCE_NUMBER>
-            <LISTED_ON>2017-08-05</LISTED_ON>
-            <COMMENTS1>Gender: male</COMMENTS1>
-            <DESIGNATION>
-                <VALUE>Former Chief Representative of the Foreign Trade Bank</VALUE>
-            </DESIGNATION>
-            <NATIONALITY>
-                <VALUE>Democratic People's Republic of Korea</VALUE>
-            </NATIONALITY>
-            <LIST_TYPE>
-                <VALUE>UN List</VALUE>
-            </LIST_TYPE>
-            <LAST_DAY_UPDATED>
-                <VALUE>2023-06-29</VALUE>
-            </LAST_DAY_UPDATED>
-            <INDIVIDUAL_ALIAS>
-                <QUALITY>Good</QUALITY>
-                <ALIAS_NAME>Chang-Su Han </ALIAS_NAME>
-            </INDIVIDUAL_ALIAS>
-            <INDIVIDUAL_ADDRESS>
-                <COUNTRY/>
-            </INDIVIDUAL_ADDRESS>
-            <INDIVIDUAL_DATE_OF_BIRTH>
-                <TYPE_OF_DATE>EXACT</TYPE_OF_DATE>
-                <DATE>1969-11-08</DATE>
-            </INDIVIDUAL_DATE_OF_BIRTH>
-            <INDIVIDUAL_PLACE_OF_BIRTH>
-                <CITY>Pyongyang</CITY>
-                <COUNTRY>Democratic People's Republic of Korea</COUNTRY>
-                <NOTE>  </NOTE>
-            </INDIVIDUAL_PLACE_OF_BIRTH>
-            <INDIVIDUAL_DOCUMENT>
-                <TYPE_OF_DOCUMENT>Passport</TYPE_OF_DOCUMENT>
-                <NUMBER>745420176</NUMBER>
-                <NOTE>expires on October 19, 2020 ,    ,   </NOTE>
-            </INDIVIDUAL_DOCUMENT>
-            <SORT_KEY/>
-            <SORT_KEY_LAST_MOD/>
-        </INDIVIDUAL>
-        <INDIVIDUAL>
             <DATAID>6908615</DATAID>
             <VERSIONNUM>1</VERSIONNUM>
             <FIRST_NAME>JANG</FIRST_NAME>
@@ -37491,51 +37446,6 @@ Dec. 2014 ,    ,   </NOTE>
             <SORT_KEY_LAST_MOD/>
         </INDIVIDUAL>
         <INDIVIDUAL>
-            <DATAID>6908626</DATAID>
-            <VERSIONNUM>1</VERSIONNUM>
-            <FIRST_NAME>PAK</FIRST_NAME>
-            <SECOND_NAME>YONG SIK</SECOND_NAME>
-            <UN_LIST_TYPE>DPRK</UN_LIST_TYPE>
-            <REFERENCE_NUMBER>KPi.063 </REFERENCE_NUMBER>
-            <LISTED_ON>2017-09-11</LISTED_ON>
-            <COMMENTS1>Pak Yong Sik is a member of the Workers’ Party of Korea Central Military
-                Commission, which is responsible for the development and implementation of the
-                Workers’ Party of Korea military policies, commands and controls the DPRK’s
-                military, and helps direct the country’s military defense industries. </COMMENTS1>
-            <DESIGNATION>
-                <VALUE>Former Member of the Workers’ Party of Korea Central Military
-                Commission</VALUE>
-            </DESIGNATION>
-            <NATIONALITY>
-                <VALUE>Democratic People's Republic of Korea</VALUE>
-            </NATIONALITY>
-            <LIST_TYPE>
-                <VALUE>UN List</VALUE>
-            </LIST_TYPE>
-            <LAST_DAY_UPDATED>
-                <VALUE>2022-07-26</VALUE>
-                <VALUE>2023-05-30</VALUE>
-            </LAST_DAY_UPDATED>
-            <INDIVIDUAL_ALIAS>
-                <QUALITY>Good</QUALITY>
-                <ALIAS_NAME>Pak Yo’ng-sik  </ALIAS_NAME>
-            </INDIVIDUAL_ALIAS>
-            <INDIVIDUAL_ADDRESS>
-                <COUNTRY>Democratic People's Republic of Korea</COUNTRY>
-                <NOTE>  </NOTE>
-            </INDIVIDUAL_ADDRESS>
-            <INDIVIDUAL_DATE_OF_BIRTH>
-                <TYPE_OF_DATE>EXACT</TYPE_OF_DATE>
-                <YEAR>1950</YEAR>
-            </INDIVIDUAL_DATE_OF_BIRTH>
-            <INDIVIDUAL_PLACE_OF_BIRTH>
-                <COUNTRY/>
-            </INDIVIDUAL_PLACE_OF_BIRTH>
-            <INDIVIDUAL_DOCUMENT/>
-            <SORT_KEY/>
-            <SORT_KEY_LAST_MOD/>
-        </INDIVIDUAL>
-        <INDIVIDUAL>
             <DATAID>6908640</DATAID>
             <VERSIONNUM>1</VERSIONNUM>
             <FIRST_NAME>CH'OE</FIRST_NAME>
@@ -37575,50 +37485,6 @@ Dec. 2014 ,    ,   </NOTE>
                 <COUNTRY/>
             </INDIVIDUAL_PLACE_OF_BIRTH>
             <INDIVIDUAL_DOCUMENT/>
-            <SORT_KEY/>
-            <SORT_KEY_LAST_MOD/>
-        </INDIVIDUAL>
-        <INDIVIDUAL>
-            <DATAID>6908641</DATAID>
-            <VERSIONNUM>1</VERSIONNUM>
-            <FIRST_NAME>CHU </FIRST_NAME>
-            <SECOND_NAME>HYO’K</SECOND_NAME>
-            <UN_LIST_TYPE>DPRK</UN_LIST_TYPE>
-            <REFERENCE_NUMBER>KPi.065</REFERENCE_NUMBER>
-            <LISTED_ON>2017-12-22</LISTED_ON>
-            <COMMENTS1>Gender: male</COMMENTS1>
-            <DESIGNATION>
-                <VALUE>Former overseas Foreign Trade Bank Deputy representative</VALUE>
-            </DESIGNATION>
-            <NATIONALITY>
-                <VALUE>Democratic People's Republic of Korea</VALUE>
-            </NATIONALITY>
-            <LIST_TYPE>
-                <VALUE>UN List</VALUE>
-            </LIST_TYPE>
-            <LAST_DAY_UPDATED>
-                <VALUE>2023-06-29</VALUE>
-            </LAST_DAY_UPDATED>
-            <INDIVIDUAL_ALIAS>
-                <QUALITY>Good</QUALITY>
-                <ALIAS_NAME>Ju Hyok </ALIAS_NAME>
-            </INDIVIDUAL_ALIAS>
-            <INDIVIDUAL_ADDRESS>
-                <COUNTRY/>
-            </INDIVIDUAL_ADDRESS>
-            <INDIVIDUAL_DATE_OF_BIRTH>
-                <TYPE_OF_DATE>EXACT</TYPE_OF_DATE>
-                <DATE>1986-11-23</DATE>
-            </INDIVIDUAL_DATE_OF_BIRTH>
-            <INDIVIDUAL_PLACE_OF_BIRTH>
-                <COUNTRY/>
-            </INDIVIDUAL_PLACE_OF_BIRTH>
-            <INDIVIDUAL_DOCUMENT>
-                <TYPE_OF_DOCUMENT>Passport</TYPE_OF_DOCUMENT>
-                <NUMBER>836420186</NUMBER>
-                <DATE_OF_ISSUE>2016-10-28</DATE_OF_ISSUE>
-                <NOTE>Expires 28 October 2021 ,    ,   </NOTE>
-            </INDIVIDUAL_DOCUMENT>
             <SORT_KEY/>
             <SORT_KEY_LAST_MOD/>
         </INDIVIDUAL>
@@ -37703,56 +37569,6 @@ Dec. 2014 ,    ,   </NOTE>
                 <TYPE_OF_DOCUMENT>Passport</TYPE_OF_DOCUMENT>
                 <NUMBER>836210029</NUMBER>
                 <NOTE>   ,   </NOTE>
-            </INDIVIDUAL_DOCUMENT>
-            <SORT_KEY/>
-            <SORT_KEY_LAST_MOD/>
-        </INDIVIDUAL>
-        <INDIVIDUAL>
-            <DATAID>6908645</DATAID>
-            <VERSIONNUM>1</VERSIONNUM>
-            <FIRST_NAME>KIM</FIRST_NAME>
-            <SECOND_NAME>TONG CHOL</SECOND_NAME>
-            <UN_LIST_TYPE>DPRK</UN_LIST_TYPE>
-            <REFERENCE_NUMBER>KPi.068</REFERENCE_NUMBER>
-            <LISTED_ON>2017-12-22</LISTED_ON>
-            <COMMENTS1>Gender: male</COMMENTS1>
-            <DESIGNATION>
-                <VALUE>Former overseas Foreign Trade Bank Deputy representative </VALUE>
-            </DESIGNATION>
-            <NATIONALITY>
-                <VALUE>Democratic People's Republic of Korea</VALUE>
-            </NATIONALITY>
-            <LIST_TYPE>
-                <VALUE>UN List</VALUE>
-            </LIST_TYPE>
-            <LAST_DAY_UPDATED>
-                <VALUE>2022-07-26</VALUE>
-            </LAST_DAY_UPDATED>
-            <INDIVIDUAL_ALIAS>
-                <QUALITY>Good</QUALITY>
-                <ALIAS_NAME>Kim Tong-ch'o'l </ALIAS_NAME>
-            </INDIVIDUAL_ALIAS>
-            <INDIVIDUAL_ADDRESS>
-                <COUNTRY/>
-            </INDIVIDUAL_ADDRESS>
-            <INDIVIDUAL_DATE_OF_BIRTH>
-                <TYPE_OF_DATE>EXACT</TYPE_OF_DATE>
-                <DATE>1966-01-28</DATE>
-            </INDIVIDUAL_DATE_OF_BIRTH>
-            <INDIVIDUAL_PLACE_OF_BIRTH>
-                <COUNTRY/>
-            </INDIVIDUAL_PLACE_OF_BIRTH>
-            <INDIVIDUAL_DOCUMENT>
-                <TYPE_OF_DOCUMENT>Passport</TYPE_OF_DOCUMENT>
-                <NUMBER>927234267</NUMBER>
-                <NOTE>   ,   </NOTE>
-            </INDIVIDUAL_DOCUMENT>
-            <INDIVIDUAL_DOCUMENT>
-                <TYPE_OF_DOCUMENT>Passport</TYPE_OF_DOCUMENT>
-                <NUMBER>108120258</NUMBER>
-                <ISSUING_COUNTRY>Democratic People's Republic of Korea</ISSUING_COUNTRY>
-                <DATE_OF_ISSUE>2018-02-14</DATE_OF_ISSUE>
-                <NOTE>expiration date 14 Feb. 2023 ,    ,   </NOTE>
             </INDIVIDUAL_DOCUMENT>
             <SORT_KEY/>
             <SORT_KEY_LAST_MOD/>
@@ -38192,50 +38008,6 @@ Dec. 2014 ,    ,   </NOTE>
                 <ISSUING_COUNTRY>Democratic People's Republic of Korea</ISSUING_COUNTRY>
                 <NOTE>   ,   </NOTE>
             </INDIVIDUAL_DOCUMENT>
-            <SORT_KEY/>
-            <SORT_KEY_LAST_MOD/>
-        </INDIVIDUAL>
-        <INDIVIDUAL>
-            <DATAID>6908656</DATAID>
-            <VERSIONNUM>1</VERSIONNUM>
-            <FIRST_NAME>RI</FIRST_NAME>
-            <SECOND_NAME>U’N SO’NG</SECOND_NAME>
-            <UN_LIST_TYPE>DPRK</UN_LIST_TYPE>
-            <REFERENCE_NUMBER>KPi.078</REFERENCE_NUMBER>
-            <LISTED_ON>2017-12-22</LISTED_ON>
-            <COMMENTS1>Gender: male</COMMENTS1>
-            <DESIGNATION>
-                <VALUE>Former overseas Korea Unification Development Bank
-                representative</VALUE>
-            </DESIGNATION>
-            <NATIONALITY>
-                <VALUE>Democratic People's Republic of Korea</VALUE>
-            </NATIONALITY>
-            <LIST_TYPE>
-                <VALUE>UN List</VALUE>
-            </LIST_TYPE>
-            <LAST_DAY_UPDATED>
-                <VALUE>2023-09-29</VALUE>
-            </LAST_DAY_UPDATED>
-            <INDIVIDUAL_ALIAS>
-                <QUALITY>Good</QUALITY>
-                <ALIAS_NAME>Ri Eun Song </ALIAS_NAME>
-            </INDIVIDUAL_ALIAS>
-            <INDIVIDUAL_ALIAS>
-                <QUALITY>Good</QUALITY>
-                <ALIAS_NAME>Ri Un Song </ALIAS_NAME>
-            </INDIVIDUAL_ALIAS>
-            <INDIVIDUAL_ADDRESS>
-                <COUNTRY/>
-            </INDIVIDUAL_ADDRESS>
-            <INDIVIDUAL_DATE_OF_BIRTH>
-                <TYPE_OF_DATE>EXACT</TYPE_OF_DATE>
-                <DATE>1969-07-23</DATE>
-            </INDIVIDUAL_DATE_OF_BIRTH>
-            <INDIVIDUAL_PLACE_OF_BIRTH>
-                <COUNTRY/>
-            </INDIVIDUAL_PLACE_OF_BIRTH>
-            <INDIVIDUAL_DOCUMENT/>
             <SORT_KEY/>
             <SORT_KEY_LAST_MOD/>
         </INDIVIDUAL>
@@ -42510,6 +42282,238 @@ for inclusion in the INTERPOL-UN Security Council Special Notice.</COMMENTS1>
                 <COUNTRY/>
             </INDIVIDUAL_PLACE_OF_BIRTH>
             <INDIVIDUAL_DOCUMENT/>
+            <SORT_KEY/>
+            <SORT_KEY_LAST_MOD/>
+        </INDIVIDUAL>
+        <INDIVIDUAL>
+            <DATAID>6908626</DATAID>
+            <VERSIONNUM>1</VERSIONNUM>
+            <FIRST_NAME>PAK</FIRST_NAME>
+            <SECOND_NAME>YONG SIK</SECOND_NAME>
+            <UN_LIST_TYPE>DPRK</UN_LIST_TYPE>
+            <REFERENCE_NUMBER>KPi.063 .1</REFERENCE_NUMBER>
+            <LISTED_ON>2017-09-11</LISTED_ON>
+            <COMMENTS1>Pak Yong Sik is a member of the Workers’ Party of Korea Central Military
+                Commission, which is responsible for the development and implementation of the
+                Workers’ Party of Korea military policies, commands and controls the DPRK’s
+                military, and helps direct the country’s military defense industries. </COMMENTS1>
+            <DESIGNATION>
+                <VALUE>Former Member of the Workers’ Party of Korea Central Military             Commission</VALUE>
+            </DESIGNATION>
+            <NATIONALITY>
+                <VALUE>Democratic People's Republic of Korea</VALUE>
+            </NATIONALITY>
+            <LIST_TYPE>
+                <VALUE>UN List</VALUE>
+            </LIST_TYPE>
+            <LAST_DAY_UPDATED>
+                <VALUE>2023-06-29</VALUE>
+                <VALUE>2022-07-26</VALUE>
+                <VALUE>2023-05-30</VALUE>
+            </LAST_DAY_UPDATED>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY>Good</QUALITY>
+                <ALIAS_NAME>Pak Yo’ng-sik  </ALIAS_NAME>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ADDRESS>
+                <COUNTRY>Democratic People's Republic of Korea</COUNTRY>
+                <NOTE>  </NOTE>
+            </INDIVIDUAL_ADDRESS>
+            <INDIVIDUAL_DATE_OF_BIRTH>
+                <TYPE_OF_DATE>EXACT</TYPE_OF_DATE>
+                <YEAR>1949</YEAR>
+            </INDIVIDUAL_DATE_OF_BIRTH>
+            <INDIVIDUAL_PLACE_OF_BIRTH>
+                <COUNTRY/>
+            </INDIVIDUAL_PLACE_OF_BIRTH>
+            <INDIVIDUAL_DOCUMENT/>
+            <SORT_KEY/>
+            <SORT_KEY_LAST_MOD/>
+        </INDIVIDUAL>
+        <INDIVIDUAL>
+            <DATAID>6908614</DATAID>
+            <VERSIONNUM>1</VERSIONNUM>
+            <FIRST_NAME>HAN </FIRST_NAME>
+            <SECOND_NAME>JANG SU </SECOND_NAME>
+            <UN_LIST_TYPE>DPRK</UN_LIST_TYPE>
+            <REFERENCE_NUMBER>KPi.055.1</REFERENCE_NUMBER>
+            <LISTED_ON>2017-08-05</LISTED_ON>
+            <COMMENTS1>Gender: male</COMMENTS1>
+            <DESIGNATION>
+                <VALUE>Former Representative of the Foreign Trade Bank</VALUE>
+            </DESIGNATION>
+            <NATIONALITY>
+                <VALUE>Democratic People's Republic of Korea</VALUE>
+            </NATIONALITY>
+            <LIST_TYPE>
+                <VALUE>UN List</VALUE>
+            </LIST_TYPE>
+            <LAST_DAY_UPDATED>
+                <VALUE>2023-06-29</VALUE>
+                <VALUE>2023-06-29</VALUE>
+            </LAST_DAY_UPDATED>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY>Good</QUALITY>
+                <ALIAS_NAME>Chang-Su Han </ALIAS_NAME>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ADDRESS>
+                <COUNTRY/>
+            </INDIVIDUAL_ADDRESS>
+            <INDIVIDUAL_DATE_OF_BIRTH>
+                <TYPE_OF_DATE>EXACT</TYPE_OF_DATE>
+                <DATE>1969-11-07</DATE>
+            </INDIVIDUAL_DATE_OF_BIRTH>
+            <INDIVIDUAL_PLACE_OF_BIRTH>
+                <CITY>Pyongyang</CITY>
+                <COUNTRY>Democratic People's Republic of Korea</COUNTRY>
+                <NOTE>  </NOTE>
+            </INDIVIDUAL_PLACE_OF_BIRTH>
+            <INDIVIDUAL_DOCUMENT>
+                <TYPE_OF_DOCUMENT>Passport</TYPE_OF_DOCUMENT>
+                <NUMBER>745420176</NUMBER>
+                <NOTE>expires on October 19, 2020 ,    ,   </NOTE>
+            </INDIVIDUAL_DOCUMENT>
+            <SORT_KEY/>
+            <SORT_KEY_LAST_MOD/>
+        </INDIVIDUAL>
+        <INDIVIDUAL>
+            <DATAID>6908656</DATAID>
+            <VERSIONNUM>1</VERSIONNUM>
+            <FIRST_NAME>RI</FIRST_NAME>
+            <SECOND_NAME>U’N SO’NG</SECOND_NAME>
+            <UN_LIST_TYPE>DPRK</UN_LIST_TYPE>
+            <REFERENCE_NUMBER>KPi.078.1</REFERENCE_NUMBER>
+            <LISTED_ON>2017-12-22</LISTED_ON>
+            <COMMENTS1>Gender: male</COMMENTS1>
+            <DESIGNATION>
+                <VALUE>Former overseas Korea Unification Development Bank
+                representative</VALUE>
+            </DESIGNATION>
+            <NATIONALITY>
+                <VALUE>Democratic People's Republic of Korea</VALUE>
+            </NATIONALITY>
+            <LIST_TYPE>
+                <VALUE>UN List</VALUE>
+            </LIST_TYPE>
+            <LAST_DAY_UPDATED>
+                <VALUE>2023-06-29</VALUE>
+                <VALUE>2023-09-29</VALUE>
+            </LAST_DAY_UPDATED>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY>Good</QUALITY>
+                <ALIAS_NAME>Ri Eun Song </ALIAS_NAME>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY>Good</QUALITY>
+                <ALIAS_NAME>Ri Un Song </ALIAS_NAME>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ADDRESS>
+                <COUNTRY/>
+            </INDIVIDUAL_ADDRESS>
+            <INDIVIDUAL_DATE_OF_BIRTH>
+                <TYPE_OF_DATE>EXACT</TYPE_OF_DATE>
+                <DATE>1969-07-22</DATE>
+            </INDIVIDUAL_DATE_OF_BIRTH>
+            <INDIVIDUAL_PLACE_OF_BIRTH>
+                <COUNTRY/>
+            </INDIVIDUAL_PLACE_OF_BIRTH>
+            <INDIVIDUAL_DOCUMENT/>
+            <SORT_KEY/>
+            <SORT_KEY_LAST_MOD/>
+        </INDIVIDUAL>
+        <INDIVIDUAL>
+            <DATAID>6908645</DATAID>
+            <VERSIONNUM>1</VERSIONNUM>
+            <FIRST_NAME>KIM</FIRST_NAME>
+            <SECOND_NAME>TONG CHOL</SECOND_NAME>
+            <UN_LIST_TYPE>DPRK</UN_LIST_TYPE>
+            <REFERENCE_NUMBER>KPi.068.1</REFERENCE_NUMBER>
+            <LISTED_ON>2017-12-22</LISTED_ON>
+            <COMMENTS1>Gender: male</COMMENTS1>
+            <DESIGNATION>
+                <VALUE>Former overseas Foreign Trade Bank Deputy representative </VALUE>
+            </DESIGNATION>
+            <NATIONALITY>
+                <VALUE>Democratic People's Republic of Korea</VALUE>
+            </NATIONALITY>
+            <LIST_TYPE>
+                <VALUE>UN List</VALUE>
+            </LIST_TYPE>
+            <LAST_DAY_UPDATED>
+                <VALUE>2023-06-29</VALUE>
+                <VALUE>2022-07-26</VALUE>
+            </LAST_DAY_UPDATED>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY>Good</QUALITY>
+                <ALIAS_NAME>Kim Tong-ch'o'l </ALIAS_NAME>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ADDRESS>
+                <COUNTRY/>
+            </INDIVIDUAL_ADDRESS>
+            <INDIVIDUAL_DATE_OF_BIRTH>
+                <TYPE_OF_DATE>EXACT</TYPE_OF_DATE>
+                <DATE>1966-01-27</DATE>
+            </INDIVIDUAL_DATE_OF_BIRTH>
+            <INDIVIDUAL_PLACE_OF_BIRTH>
+                <COUNTRY/>
+            </INDIVIDUAL_PLACE_OF_BIRTH>
+            <INDIVIDUAL_DOCUMENT>
+                <TYPE_OF_DOCUMENT>Passport</TYPE_OF_DOCUMENT>
+                <NUMBER>927234267</NUMBER>
+                <NOTE>   ,   </NOTE>
+            </INDIVIDUAL_DOCUMENT>
+            <INDIVIDUAL_DOCUMENT>
+                <TYPE_OF_DOCUMENT>Passport</TYPE_OF_DOCUMENT>
+                <NUMBER>108120258</NUMBER>
+                <ISSUING_COUNTRY>Democratic People's Republic of Korea</ISSUING_COUNTRY>
+                <DATE_OF_ISSUE>2018-02-14</DATE_OF_ISSUE>
+                <NOTE>expiration date 14 Feb. 2023 ,    ,   </NOTE>
+            </INDIVIDUAL_DOCUMENT>
+            <SORT_KEY/>
+            <SORT_KEY_LAST_MOD/>
+        </INDIVIDUAL>
+        <INDIVIDUAL>
+            <DATAID>6908641</DATAID>
+            <VERSIONNUM>1</VERSIONNUM>
+            <FIRST_NAME>CHU </FIRST_NAME>
+            <SECOND_NAME>HYO’K</SECOND_NAME>
+            <UN_LIST_TYPE>DPRK</UN_LIST_TYPE>
+            <REFERENCE_NUMBER>KPi.065.1</REFERENCE_NUMBER>
+            <LISTED_ON>2017-12-22</LISTED_ON>
+            <COMMENTS1>Gender: male</COMMENTS1>
+            <DESIGNATION>
+                <VALUE>Former overseas Foreign Trade Bank Deputy representative</VALUE>
+            </DESIGNATION>
+            <NATIONALITY>
+                <VALUE>Democratic People's Republic of Korea</VALUE>
+            </NATIONALITY>
+            <LIST_TYPE>
+                <VALUE>UN List</VALUE>
+            </LIST_TYPE>
+            <LAST_DAY_UPDATED>
+                <VALUE>2023-06-29</VALUE>
+                <VALUE>2023-06-29</VALUE>
+            </LAST_DAY_UPDATED>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY>Good</QUALITY>
+                <ALIAS_NAME>Ju Hyok </ALIAS_NAME>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ADDRESS>
+                <COUNTRY/>
+            </INDIVIDUAL_ADDRESS>
+            <INDIVIDUAL_DATE_OF_BIRTH>
+                <TYPE_OF_DATE>EXACT</TYPE_OF_DATE>
+                <DATE>1986-11-22</DATE>
+            </INDIVIDUAL_DATE_OF_BIRTH>
+            <INDIVIDUAL_PLACE_OF_BIRTH>
+                <COUNTRY/>
+            </INDIVIDUAL_PLACE_OF_BIRTH>
+            <INDIVIDUAL_DOCUMENT>
+                <TYPE_OF_DOCUMENT>Passport</TYPE_OF_DOCUMENT>
+                <NUMBER>836420186</NUMBER>
+                <DATE_OF_ISSUE>2016-10-28</DATE_OF_ISSUE>
+                <NOTE>Expires 28 October 2021 ,    ,   </NOTE>
+            </INDIVIDUAL_DOCUMENT>
             <SORT_KEY/>
             <SORT_KEY_LAST_MOD/>
         </INDIVIDUAL>

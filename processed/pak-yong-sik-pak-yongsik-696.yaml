@@ -3,11 +3,9 @@ entity_type: person
 names:
 - PAK YONG SIK
 - 'Pak Yo’ng-sik  '
-designation: |-
-  Former Member of the Workers’ Party of Korea Central Military
-                  Commission
+designation: Former Member of the Workers’ Party of Korea Central Military             Commission
 source: un-data
-ref_number: KPi.063
+ref_number: KPi.063 .1
 ref_type: DPRK
 country: Democratic People's Republic of Korea
 birthdate: 
