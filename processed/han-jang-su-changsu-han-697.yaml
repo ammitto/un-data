@@ -3,12 +3,12 @@ entity_type: person
 names:
 - HAN JANG SU
 - 'Chang-Su Han '
-designation: Former Chief Representative of the Foreign Trade Bank
+designation: Former Representative of the Foreign Trade Bank
 source: un-data
-ref_number: KPi.055
+ref_number: KPi.055.1
 ref_type: DPRK
 country: Democratic People's Republic of Korea
-birthdate: '1969-11-08'
+birthdate: '1969-11-07'
 remark: 'Gender: male'
 address:
 - street: 
