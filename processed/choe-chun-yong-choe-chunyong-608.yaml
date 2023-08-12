@@ -2,7 +2,7 @@
 entity_type: person
 names:
 - CHOE CHUN YONG
-- 'Ch’oe Ch’un-yo’ng '
+- Ch’oe Ch’un-yo’ng
 designation: 'Representative for Ilsim International Bank '
 source: un-data
 ref_number: KPi.054
@@ -22,4 +22,4 @@ documents:
 - type: Passport
   number: '654410078 '
   country: 
-  note: "   ,   "
+  note: 

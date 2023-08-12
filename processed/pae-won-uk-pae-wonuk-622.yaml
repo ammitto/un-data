@@ -2,7 +2,7 @@
 entity_type: person
 names:
 - PAE WON UK
-- 'Pae Wo''n-uk '
+- Pae Wo'n-uk
 designation: Pae Won Uk is an overseas Daesong Bank representative
 source: un-data
 ref_number: KPi.072
@@ -20,4 +20,4 @@ documents:
 - type: Passport
   number: '472120208'
   country: 
-  note: 'Expires 22 Feb 2017 ,    ,   '
+  note: Expires 22 Feb 2017

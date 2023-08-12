@@ -2,7 +2,7 @@
 entity_type: person
 names:
 - AZIM AGHAJANI
-- 'Azim Adhajani; Azim Agha-Jani '
+- Azim Adhajani; Azim Agha-Jani
 designation: |-
   Member of the IRGC-Qods Force operating under the direction of Qods
   Force Commander, Major General Qasem Soleimani, who was designated by the UN Security
@@ -26,8 +26,8 @@ documents:
 - type: Passport
   number: '6620505'
   country: 
-  note: "   ,   Iran (Islamic Republic of)"
+  note: Iran (Islamic Republic of)
 - type: Passport
   number: '9003213'
   country: 
-  note: "   ,   Iran (Islamic Republic of)"
+  note: Iran (Islamic Republic of)

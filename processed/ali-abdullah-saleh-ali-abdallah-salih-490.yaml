@@ -2,7 +2,7 @@
 entity_type: person
 names:
 - ALI ABDULLAH SALEH
-- 'Ali Abdallah Salih '
+- Ali Abdallah Salih
 designation: President of Yemen’s General People’s Congress party
 source: un-data
 ref_number: YEi.003
@@ -20,8 +20,8 @@ documents:
 - type: Passport
   number: 00016161 (Yemen)
   country: 
-  note: "   ,   "
+  note: 
 - type: National Identification Number
   number: '01010744444'
   country: 
-  note: "   ,   "
+  note: 

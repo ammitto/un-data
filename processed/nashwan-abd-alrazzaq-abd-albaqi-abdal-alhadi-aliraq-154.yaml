@@ -2,15 +2,15 @@
 entity_type: person
 names:
 - NASHWAN ABD AL-RAZZAQ ABD AL-BAQI
-- 'Abdal Al-Hadi Al-Iraqi '
-- 'Abd Al-Hadi Al-Iraqi '
-- 'Abu Abdallah '
-- 'Omar Uthman Mohammed '
-- 'Abdul Hadi Arif Ali '
-- 'Abdul Hadi al-Taweel '
-- 'Abd al-Hadi al-Ansari '
-- 'Abd al-Muhayman '
-- 'Abu Ayub '
+- Abdal Al-Hadi Al-Iraqi
+- Abd Al-Hadi Al-Iraqi
+- Abu Abdallah
+- Omar Uthman Mohammed
+- Abdul Hadi Arif Ali
+- Abdul Hadi al-Taweel
+- Abd al-Hadi al-Ansari
+- Abd al-Muhayman
+- Abu Ayub
 designation: 
 source: un-data
 ref_number: QDi.012
@@ -36,4 +36,4 @@ documents:
 - type: National Identification Number
   number: '0094195'
   country: 
-  note: "   ,   "
+  note: 

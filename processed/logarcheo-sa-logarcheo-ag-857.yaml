@@ -1,0 +1,19 @@
+---
+entity_type: organization
+names:
+- LOGARCHEO S.A.
+- LOGARCHEO AG
+designation: 
+source: un-data
+ref_number: IQe.200
+ref_type: Iraq
+country: 
+birthdate: 
+remark: 'Federal No.: CH-2 17-0-431-423-3 (Switzerland)'
+address:
+- street: Chemin du Carmel
+  city: 1661 Le Paquier-Montbarry
+  state: 
+  country: Switzerland
+  zip: 
+documents: []

@@ -1,0 +1,32 @@
+---
+entity_type: person
+names:
+- IMED BEN MEKKI ZARKAOUI
+- Dour Nadre
+- Dour Nadre
+- Daour Nadre
+- Imad ben al-Mekki ben al-Akhdar al-Zarkaoui
+- Zarga
+- Nadra
+designation: 
+source: un-data
+ref_number: QDi.139
+ref_type: Al-Qaida
+country: Tunisia
+birthdate: '1973-01-15'
+remark: Mother’s name is Zina al-Zarkaoui. Sentenced to seven years and one month
+  of imprisonment by the Court of Appeals of Milan in Italy. Released on 31 Mar. 2014
+  on early release. Review pursuant to Security Council resolution 1822 (2008) was
+  concluded on 6 May 2010. Review pursuant to Security Council resolution 2368 (2017)
+  was concluded on 4 Dec. 2019.
+address:
+- street: 41-45 Rue Estienne d’Orves
+  city: Pré Saint Gervais
+  state: 
+  country: France
+  zip: 
+documents:
+- type: Passport
+  number: M174950
+  country: Tunisia
+  note: expired on 26 Apr. 2004

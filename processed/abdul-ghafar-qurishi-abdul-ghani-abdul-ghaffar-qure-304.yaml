@@ -2,7 +2,7 @@
 entity_type: person
 names:
 - ABDUL GHAFAR QURISHI ABDUL GHANI
-- 'Abdul Ghaffar Qureshi '
+- Abdul Ghaffar Qureshi
 designation: |-
   Repatriation Attache, Taliban Embassy, Islamabad,
   Pakistan
@@ -25,8 +25,8 @@ documents:
 - type: Passport
   number: D 000933
   country: Afghanistan
-  note: "   ,   "
+  note: 
 - type: National Identification Number
   number: '55130'
   country: Afghanistan
-  note: 'tazkira ,    ,   '
+  note: tazkira

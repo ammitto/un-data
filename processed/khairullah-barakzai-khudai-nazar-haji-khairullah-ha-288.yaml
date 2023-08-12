@@ -1,0 +1,35 @@
+---
+entity_type: person
+names:
+- KHAIRULLAH BARAKZAI KHUDAI NAZAR
+- Haji Khairullah
+- Haji Khair Ullah
+- Haji Kheirullah
+- Haji Karimullah
+- Haji Khair Mohammad
+designation: 
+source: un-data
+ref_number: TAi.163
+ref_type: Taliban
+country: 
+birthdate: 
+remark: |-
+  Co-owner of Haji Khairullah Haji Sattar Money Exchange (TAe.010) and
+  associated also with Abdul Satar Abdul Manan (TAi.162). Belongs to Barakzai tribe.
+  Father’s name is Haji Khudai Nazar. Alternative father’s name is Nazar
+  Mohammad.
+address:
+- street: Abdul Manan Chowk, Pashtunabad
+  city: Quetta
+  state: Baluchistan Province
+  country: Pakistan
+  zip: 
+documents:
+- type: Passport
+  number: BP4199631
+  country: 
+  note: expires on 25 Jun. 2014, officially cancelled as of 2013
+- type: National Identification Number
+  number: '5440005229635'
+  country: 
+  note: officially cancelled as of 2013

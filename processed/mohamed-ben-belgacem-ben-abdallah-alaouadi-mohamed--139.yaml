@@ -2,8 +2,8 @@
 entity_type: person
 names:
 - MOHAMED BEN BELGACEM BEN ABDALLAH AL-AOUADI
-- 'Mohamed Ben Belkacem Aouadi '
-- 'Fathi Hannachi '
+- Mohamed Ben Belkacem Aouadi
+- Fathi Hannachi
 designation: 
 source: un-data
 ref_number: QDi.060
@@ -26,13 +26,14 @@ documents:
 - type: Passport
   number: 
   country: 
-  note: "Tunisian passport number L 191609 issued on 28 Feb. 1996, expired on 27\nFeb.
-    2001 ,    ,   "
+  note: |-
+    Tunisian passport number L 191609 issued on 28 Feb. 1996, expired on 27
+    Feb. 2001
 - type: National Identification Number
   number: 
   country: 
-  note: '04643632 issued on 18 Jun. 1999 ,    ,   '
+  note: 04643632 issued on 18 Jun. 1999
 - type: National Identification Number
   number: 
   country: 
-  note: 'Italian Fiscal Code: DAOMMD74T11Z352Z ,    ,   '
+  note: 'Italian Fiscal Code: DAOMMD74T11Z352Z'

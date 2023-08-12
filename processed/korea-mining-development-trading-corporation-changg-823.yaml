@@ -1,0 +1,24 @@
+---
+entity_type: organization
+names:
+- KOREA MINING DEVELOPMENT TRADING CORPORATION
+- CHANGGWANG SINYONG CORPORATION
+- EXTERNAL TECHNOLOGY GENERAL CORPORATION
+- DPRKN MINING DEVELOPMENT TRADING COOPERATION
+- '"KOMID"'
+designation: 
+source: un-data
+ref_number: KPe.001
+ref_type: DPRK
+country: 
+birthdate: 
+remark: |-
+  Primary arms dealer and main exporter of goods and equipment related to
+  ballistic missiles and conventional weapons.
+address:
+- street: Central District
+  city: Pyongyang
+  state: 
+  country: Democratic People's Republic of Korea
+  zip: 
+documents: []

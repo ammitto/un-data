@@ -40,8 +40,8 @@ documents:
 - type: Passport
   number: 12CP63882.3FRA
   country: France
-  note: 'valid until 30 Jul. 2022 ,    ,   '
+  note: valid until 30 Jul. 2022
 - type: National Identification Number
   number: 070275Q007873
   country: France
-  note: 'valid until 15 Feb. 2017 ,    ,   '
+  note: valid until 15 Feb. 2017

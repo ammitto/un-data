@@ -2,7 +2,7 @@
 entity_type: person
 names:
 - MOHAMMED MUAMMAR QADHAFI
-- 'Muhammed Muammar Muhammed Abdul Salam  '
+- Muhammed Muammar Muhammed Abdul Salam
 designation: 
 source: un-data
 ref_number: LYi.012
@@ -22,8 +22,8 @@ documents:
 - type: Passport
   number: '03824969'
   country: Oman
-  note: "   ,   "
+  note: 
 - type: National Identification Number
   number: '97183904'
   country: Oman
-  note: "   ,   "
+  note: 

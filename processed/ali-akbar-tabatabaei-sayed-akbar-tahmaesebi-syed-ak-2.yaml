@@ -2,8 +2,10 @@
 entity_type: person
 names:
 - ALI AKBAR TABATABAEI
-- 'Sayed Akbar Tahmaesebi; Syed Akber Tahmaesebi '
-- "Ali Akber Tabatabaei; Ali Akber Tahmaesebi; Ali Akbar\nTahmaesebi "
+- Sayed Akbar Tahmaesebi; Syed Akber Tahmaesebi
+- |-
+  Ali Akber Tabatabaei; Ali Akber Tahmaesebi; Ali Akbar
+  Tahmaesebi
 designation: |-
   Member of the IRGC Qods Force operating under the direction of Qods
   Force Commander, Major General Qasem Soleimani who was designated by the UN Security
@@ -27,8 +29,8 @@ documents:
 - type: Passport
   number: '9003213'
   country: 
-  note: "   ,   "
+  note: 
 - type: Passport
   number: '6620505'
   country: 
-  note: "   ,   "
+  note: 

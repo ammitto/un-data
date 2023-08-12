@@ -2,7 +2,7 @@
 entity_type: person
 names:
 - GAFFAR MOHAMMED ELHASSAN
-- 'Gaffar Mohmed Elhassan '
+- Gaffar Mohmed Elhassan
 designation: |-
   Major-General and Commander of the Western Military Region for the
   Sudanese Armed Forces (SAF)
@@ -22,4 +22,4 @@ documents:
 - type: National Identification Number
   number: '4302'
   country: 
-  note: "   ,   "
+  note: 

@@ -2,13 +2,13 @@
 entity_type: person
 names:
 - AHMED ABDULLAH SALEH AL-KHAZMARI AL-ZAHRANI
-- 'Abu Maryam al-Zahrani '
-- 'Abu Maryam al-Saudi '
-- 'Ahmed Abdullah S al-Zahrani '
-- 'Ahmad Abdullah Salih al-Zahrani '
-- 'Abu Maryam al-Azadi '
-- 'Ahmed bin Abdullah Saleh bin al-Zahrani '
-- 'Ahmed Abdullah Saleh al-Zahrani al-Khozmri '
+- Abu Maryam al-Zahrani
+- Abu Maryam al-Saudi
+- Ahmed Abdullah S al-Zahrani
+- Ahmad Abdullah Salih al-Zahrani
+- Abu Maryam al-Azadi
+- Ahmed bin Abdullah Saleh bin al-Zahrani
+- Ahmed Abdullah Saleh al-Zahrani al-Khozmri
 designation: 
 source: un-data
 ref_number: QDi.329
@@ -31,4 +31,4 @@ documents:
 - type: Passport
   number: E126785
   country: Saudi Arabia
-  note: 'expired on 3 Apr. 2007 ,    ,   '
+  note: expired on 3 Apr. 2007

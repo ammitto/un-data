@@ -2,7 +2,7 @@
 entity_type: person
 names:
 - RI CHUN SONG
-- 'Ri Ch''un-so''ng '
+- Ri Ch'un-so'ng
 designation: Ri Chun Song is an overseas Foreign Trade Bank representative
 source: un-data
 ref_number: KPi.075
@@ -20,4 +20,4 @@ documents:
 - type: Passport
   number: '654133553'
   country: 
-  note: 'Expires 11 March 2019 ,    ,   '
+  note: Expires 11 March 2019

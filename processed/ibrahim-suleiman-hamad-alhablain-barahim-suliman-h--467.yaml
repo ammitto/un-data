@@ -2,9 +2,9 @@
 entity_type: person
 names:
 - IBRAHIM SULEIMAN HAMAD AL-HABLAIN
-- 'Barahim Suliman H. al Hblian '
-- 'Abu Jabal '
-- 'Abu-Jabal '
+- Barahim Suliman H. al Hblian
+- Abu Jabal
+- Abu-Jabal
 designation: 
 source: un-data
 ref_number: QDi.332
@@ -26,8 +26,8 @@ documents:
 - type: Passport
   number: F800691
   country: Saudi Arabia
-  note: "   ,   "
+  note: 
 - type: National Identification Number
   number: '1047503170'
   country: 
-  note: "   ,   "
+  note: 

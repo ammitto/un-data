@@ -2,7 +2,7 @@
 entity_type: person
 names:
 - HABIB BEN AHMED AL-LOUBIRI
-- 'Al-Habib ben Ahmad ben al-Tayib al-Lubiri '
+- Al-Habib ben Ahmad ben al-Tayib al-Lubiri
 designation: 
 source: un-data
 ref_number: QDi.177
@@ -23,8 +23,8 @@ documents:
 - type: Passport
   number: M788439
   country: Tunisia
-  note: 'expires on 19 Oct. 2006 ,    ,   '
+  note: expires on 19 Oct. 2006
 - type: National Identification Number
   number: '01817002'
   country: 
-  note: "   ,   "
+  note: 

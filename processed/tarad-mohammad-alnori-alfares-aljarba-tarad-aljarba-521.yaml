@@ -2,8 +2,8 @@
 entity_type: person
 names:
 - TARAD MOHAMMAD Alnori Alfares ALJARBA
-- 'Tarad Aljarba '
-- 'Abu-Muhammad al-Shimali '
+- Tarad Aljarba
+- Abu-Muhammad al-Shimali
 designation: 
 source: un-data
 ref_number: QDi.370
@@ -27,8 +27,8 @@ documents:
 - type: Passport
   number: E704088
   country: 
-  note: 'expired on 2 Jul. 2008 ,    ,   '
+  note: expired on 2 Jul. 2008
 - type: National Identification Number
   number: '1121628414 '
   country: 
-  note: "   ,   "
+  note: 

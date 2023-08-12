@@ -2,11 +2,11 @@
 entity_type: person
 names:
 - MUTASSIM QADHAFI
-- 'Almuatesem Bellah Muammer Qadhafi  '
-- 'Mutassim Billah Abuminyar Qadhafi  '
-- 'Muatasmblla '
-- 'Muatasimbllah '
-- 'Moatassam  '
+- Almuatesem Bellah Muammer Qadhafi
+- Mutassim Billah Abuminyar Qadhafi
+- Muatasmblla
+- Muatasimbllah
+- Moatassam
 designation: National Security Adviser
 source: un-data
 ref_number: LYi.014
@@ -26,4 +26,4 @@ documents:
 - type: Passport
   number: 'B/001897 '
   country: Libya
-  note: "   ,   "
+  note: 

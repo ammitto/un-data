@@ -2,7 +2,7 @@
 entity_type: person
 names:
 - AHMED AG ALBACHAR
-- 'Intahmadou Ag Albachar '
+- Intahmadou Ag Albachar
 designation: 'President of the Humanitarian Commission of the Bureau Regional d’Administration
   et Gestion de Kidal '
 source: un-data
@@ -27,4 +27,4 @@ documents:
 - type: National Identification Number
   number: '1 63 08 4 01 001 005E '
   country: Mali
-  note: "   ,   "
+  note: 

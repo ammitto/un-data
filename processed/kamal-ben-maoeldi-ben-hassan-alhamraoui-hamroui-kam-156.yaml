@@ -2,12 +2,12 @@
 entity_type: person
 names:
 - KAMAL BEN MAOELDI BEN HASSAN AL-HAMRAOUI
-- 'Hamroui Kamel ben Mouldi '
-- 'Hamraoui Kamel '
-- 'Hamraoui Kamel '
-- 'Hamraoui Kamel '
-- 'Kamel '
-- 'Kimo '
+- Hamroui Kamel ben Mouldi
+- Hamraoui Kamel
+- Hamraoui Kamel
+- Hamraoui Kamel
+- Kamel
+- Kimo
 designation: 
 source: un-data
 ref_number: QDi.140
@@ -35,4 +35,4 @@ documents:
 - type: Passport
   number: P229856
   country: Tunisia
-  note: 'expires on 31 Oct. 2007 ,    ,   '
+  note: expires on 31 Oct. 2007

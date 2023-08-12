@@ -21,12 +21,12 @@ documents:
 - type: Passport
   number: '014797'
   country: 
-  note: "   ,   "
+  note: 
 - type: Passport
   number: '524521'
   country: 
-  note: "   ,   "
+  note: 
 - type: Passport
   number: AA862825
   country: Libya
-  note: 'expires 18 May 2029 ,    ,   '
+  note: expires 18 May 2029

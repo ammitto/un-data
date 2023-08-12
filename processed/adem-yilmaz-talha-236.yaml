@@ -2,7 +2,7 @@
 entity_type: person
 names:
 - ADEM YILMAZ
-- 'Talha '
+- Talha
 designation: 
 source: un-data
 ref_number: QDi.261
@@ -22,5 +22,6 @@ documents:
 - type: Passport
   number: TR-P 614 166
   country: Turkey
-  note: "issued by the Turkish Consulate General in Frankfurt/M. on 22 Mar. 2006,\nexpired
-    on 15 Sep. 2009. ,    ,   "
+  note: |-
+    issued by the Turkish Consulate General in Frankfurt/M. on 22 Mar. 2006,
+    expired on 15 Sep. 2009.

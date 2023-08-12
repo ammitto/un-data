@@ -2,11 +2,11 @@
 entity_type: person
 names:
 - AHMED SHAH NOORZAI OBAIDULLAH
-- 'Mullah Ahmed Shah Noorzai '
-- 'Haji Ahmad Shah '
-- 'Haji Mullah Ahmad Shah '
-- 'Maulawi Ahmed Shah '
-- 'Mullah Mohammed Shah '
+- Mullah Ahmed Shah Noorzai
+- Haji Ahmad Shah
+- Haji Mullah Ahmad Shah
+- Maulawi Ahmed Shah
+- Mullah Mohammed Shah
 designation: 
 source: un-data
 ref_number: TAi.166
@@ -27,8 +27,8 @@ documents:
 - type: Passport
   number: NC5140251
   country: Pakistan
-  note: 'expires on 22 Oct. 2014, officially cancelled as of 2013 ,    ,   '
+  note: expires on 22 Oct. 2014, officially cancelled as of 2013
 - type: National Identification Number
   number: 54401-2288025-9
   country: 
-  note: 'officially cancelled as of 2013 ,    ,   '
+  note: officially cancelled as of 2013

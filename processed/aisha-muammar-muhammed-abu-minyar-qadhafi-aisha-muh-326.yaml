@@ -2,7 +2,7 @@
 entity_type: person
 names:
 - AISHA MUAMMAR MUHAMMED ABU MINYAR QADHAFI
-- 'Aisha Muhammed Abdul Salam '
+- Aisha Muhammed Abdul Salam
 designation: 
 source: un-data
 ref_number: LYi.009
@@ -22,16 +22,16 @@ documents:
 - type: Passport
   number: '03824970'
   country: Oman
-  note: 'Date of expiration: 3 May 2024 ,    ,   '
+  note: 'Date of expiration: 3 May 2024'
 - type: Passport
   number: Libya 428720
   country: 
-  note: "   ,   "
+  note: 
 - type: Passport
   number: B/011641
   country: 
-  note: "   ,   "
+  note: 
 - type: National Identification Number
   number: '98606612'
   country: 
-  note: "   ,   "
+  note: 

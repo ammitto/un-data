@@ -2,16 +2,16 @@
 entity_type: person
 names:
 - ABU UBAYDAH YUSUF AL-ANABI
-- 'Abou Obeida Youssef Al-Annabi '
-- 'Abu-Ubaydah Yusuf Al-Inabi '
-- 'Mebrak Yazid '
-- 'Youcef Abu Obeida '
-- 'Mibrak Yazid '
-- 'Yousif Abu Obayda Yazid '
-- 'Yazid Mebrak '
-- 'Yazid Mabrak '
-- 'Yusuf Abu Ubaydah '
-- 'Abou Youcef '
+- Abou Obeida Youssef Al-Annabi
+- Abu-Ubaydah Yusuf Al-Inabi
+- Mebrak Yazid
+- Youcef Abu Obeida
+- Mibrak Yazid
+- Yousif Abu Obayda Yazid
+- Yazid Mebrak
+- Yazid Mabrak
+- Yusuf Abu Ubaydah
+- Abou Youcef
 designation: 
 source: un-data
 ref_number: QDi.389

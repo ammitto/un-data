@@ -2,7 +2,7 @@
 entity_type: person
 names:
 - ANJEM CHOUDARY
-- 'Abu Luqman '
+- Abu Luqman
 designation: 
 source: un-data
 ref_number: QDi.419
@@ -22,4 +22,4 @@ documents:
 - type: Passport
   number: '516384722'
   country: United Kingdom of Great Britain and Northern Ireland
-  note: 'issued by Passport Office Glasgow, expires 06 Jun. 2023 ,    ,   '
+  note: issued by Passport Office Glasgow, expires 06 Jun. 2023

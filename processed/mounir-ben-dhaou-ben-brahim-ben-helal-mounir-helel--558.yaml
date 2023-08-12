@@ -2,10 +2,10 @@
 entity_type: person
 names:
 - MOUNIR BEN DHAOU BEN BRAHIM BEN HELAL
-- 'Mounir Helel '
-- 'Mounir Hilel '
-- 'Abu Rahmah '
-- 'Abu Maryam al-Tunisi '
+- Mounir Helel
+- Mounir Hilel
+- Abu Rahmah
+- Abu Maryam al-Tunisi
 designation: 
 source: un-data
 ref_number: QDi.386
@@ -29,4 +29,4 @@ documents:
 - type: National Identification Number
   number: '08619445'
   country: 
-  note: "   ,   "
+  note: 

@@ -2,9 +2,9 @@
 entity_type: person
 names:
 - JIBRIL ABDULKARIM IBRAHIM MAYU
-- 'General Gibril Abdul Kareem Barey '
-- "“Tek” "
-- 'Gabril Abdul Kareem Badri '
+- General Gibril Abdul Kareem Barey
+- "“Tek”"
+- Gabril Abdul Kareem Badri
 designation: |-
   National Movement for Reform and Development (NMRD) Field
   Commander
@@ -25,8 +25,8 @@ documents:
 - type: National Identification Number
   number: 192-3238459-9
   country: 
-  note: "   ,   "
+  note: 
 - type: National Identification Number
   number: '302581'
   country: 
-  note: "   ,   "
+  note: 

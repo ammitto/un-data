@@ -2,7 +2,7 @@
 entity_type: person
 names:
 - IDRISSA DJALÓ
-- 'Idriça Djaló '
+- Idriça Djaló
 designation: Major
 source: un-data
 ref_number: GBi.004
@@ -26,4 +26,4 @@ documents:
 - type: Passport
   number: AAISO40158
   country: 
-  note: 'Expiration date 2 Oct. 2015 ,    ,   '
+  note: Expiration date 2 Oct. 2015

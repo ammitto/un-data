@@ -1,0 +1,44 @@
+---
+entity_type: person
+names:
+- ABDUL HAQ
+- Maimaitiming Maimaiti
+- Abdul Heq
+- Abudu Hake
+- Abdul Heq Jundullah
+- "'Abd Al-Haq"
+- Memetiming Memeti
+- Memetiming Aximu
+- Memetiming Qekeman
+- Maiumaitimin Maimaiti
+- Abdul Saimaiti
+- Muhammad Ahmed Khaliq
+- Maimaiti Iman
+- Muhelisi
+- Qerman
+- Saifuding
+designation: 
+source: un-data
+ref_number: QDi.268
+ref_type: Al-Qaida
+country: China
+birthdate: '1971-10-10'
+remark: Overall leader and commander of the Eastern Turkistan Islamic Movement (QDe.088).
+  Involved in fundraising and recruitment for this organization. Review pursuant to
+  Security Council resolution 2368 (2017) was concluded on 24 November 2020.
+address:
+- street: 
+  city: 
+  state: 
+  country: Afghanistan
+  zip: 
+- street: 
+  city: 
+  state: 
+  country: Pakistan
+  zip: 
+documents:
+- type: National Identification Number
+  number: '653225197110100533'
+  country: China
+  note: Chinese national identity card number

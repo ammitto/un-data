@@ -2,7 +2,7 @@
 entity_type: person
 names:
 - AHMED ALI ABDULLAH SALEH
-- 'Ahmed Ali Abdullah Al-Ahmar  '
+- Ahmed Ali Abdullah Al-Ahmar
 designation: 
 source: un-data
 ref_number: YEi.005
@@ -28,15 +28,18 @@ documents:
 - type: Passport
   number: 
   country: 
-  note: "Yemeni passport number 17979 issued under name Ahmed Ali Abdullah Saleh\n(referred
-    to in the diplomatic identity number no.:31/2013/20/003140 below)  ,    ,   "
+  note: |-
+    Yemeni passport number 17979 issued under name Ahmed Ali Abdullah Saleh
+    (referred to in the diplomatic identity number no.:31/2013/20/003140 below)
 - type: Passport
   number: 
   country: 
-  note: "Yemeni passport number 02117777 issued on 08-11-2005 under name Ahmed\nAli
-    Abdullah Al-Ahmar (good quality a.k.a.)  ,    ,   "
+  note: |-
+    Yemeni passport number 02117777 issued on 08-11-2005 under name Ahmed
+    Ali Abdullah Al-Ahmar (good quality a.k.a.)
 - type: Passport
   number: 
   country: 
-  note: "Yemeni passport number 06070777 issued on 03-12-2014 under name Ahmed\nAli
-    Abdullah Al-Ahmar (good quality a.k.a.)  ,    ,   "
+  note: |-
+    Yemeni passport number 06070777 issued on 03-12-2014 under name Ahmed
+    Ali Abdullah Al-Ahmar (good quality a.k.a.)

@@ -2,8 +2,8 @@
 entity_type: person
 names:
 - MOHAMMED QASIM MIR WALI KHUDAI RAHIM
-- 'Muhammad Qasim '
-- 'Abdul Salam '
+- Muhammad Qasim
+- Abdul Salam
 designation: 
 source: un-data
 ref_number: TAi.165
@@ -33,8 +33,8 @@ documents:
 - type: National Identification Number
   number: 
   country: 
-  note: 'issued in Lashkar Gah District, Helmand Province, Afghanistan ,    ,   '
+  note: issued in Lashkar Gah District, Helmand Province, Afghanistan
 - type: National Identification Number
   number: 
   country: 
-  note: 'Ayno Maina, Kandahar Province, Afghanistan ,    ,   '
+  note: Ayno Maina, Kandahar Province, Afghanistan

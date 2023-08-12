@@ -2,7 +2,7 @@
 entity_type: person
 names:
 - NUSRET IMAMOVIC
-- 'Nusret Sulejman Imamovic '
+- Nusret Sulejman Imamovic
 designation: 
 source: un-data
 ref_number: QDi.374
@@ -24,8 +24,8 @@ documents:
 - type: Passport
   number: '349054'
   country: Bosnia and Herzegovina
-  note: "   ,   "
+  note: 
 - type: Passport
   number: '3490054'
   country: Bosnia and Herzegovina
-  note: "   ,   "
+  note: 

@@ -2,10 +2,13 @@
 entity_type: person
 names:
 - RUSTAM MAGOMEDOVICH ASELDEROV
-- 'Abu Muhammad (original script: Абу Мухаммад) '
-- "Abu Muhammad Al-Kadari (original script: Абу\n                        Мухаммад
-  Аль-Кадари) "
-- "Muhamadmuhtar (original script:\n                        Мухамадмухтар) "
+- 'Abu Muhammad (original script: Абу Мухаммад)'
+- |-
+  Abu Muhammad Al-Kadari (original script: Абу
+                          Мухаммад Аль-Кадари)
+- |-
+  Muhamadmuhtar (original script:
+                          Мухамадмухтар)
 designation: 
 source: un-data
 ref_number: QDi.398
@@ -28,6 +31,6 @@ documents:
 - type: Passport
   number: Russian passport number 8208 No. 555627
   country: 
-  note: "issued by Leninskiy Office, Directorate of the Federal Migration Service
-    of\n                    the Russian Federation for the Republic of Dagestan ,
-    \   ,   "
+  note: |-
+    issued by Leninskiy Office, Directorate of the Federal Migration Service of
+                        the Russian Federation for the Republic of Dagestan

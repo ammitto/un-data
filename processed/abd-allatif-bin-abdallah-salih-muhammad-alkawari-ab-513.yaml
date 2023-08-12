@@ -2,11 +2,11 @@
 entity_type: person
 names:
 - ABD AL-LATIF BIN ABDALLAH SALIH MUHAMMAD AL-KAWARI
-- 'Abd-al-Latif Abdallah Salih al-Kawari '
-- 'Abd-al-Latif Abdallah Salih al-Kuwari '
-- 'Abd-al-Latif Abdallah al-Kawwari '
-- 'Abd-al-Latif Abdallah al-Kawari '
-- 'Abu Ali al-Kawari '
+- Abd-al-Latif Abdallah Salih al-Kawari
+- Abd-al-Latif Abdallah Salih al-Kuwari
+- Abd-al-Latif Abdallah al-Kawwari
+- Abd-al-Latif Abdallah al-Kawari
+- Abu Ali al-Kawari
 designation: 
 source: un-data
 ref_number: QDi.380
@@ -27,20 +27,20 @@ documents:
 - type: Passport
   number: '01020802 '
   country: Qatar
-  note: "   ,   "
+  note: 
 - type: Passport
   number: '00754833'
   country: Qatar
-  note: "   ,   "
+  note: 
 - type: Passport
   number: '00490327'
   country: Qatar
-  note: "   ,   "
+  note: 
 - type: Passport
   number: '01538029'
   country: Qatar
-  note: 'expires 14 Mar. 2025 ,    ,   '
+  note: expires 14 Mar. 2025
 - type: National Identification Number
   number: '27363400684'
   country: Qatar
-  note: "   ,   "
+  note: 

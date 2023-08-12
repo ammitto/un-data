@@ -2,12 +2,12 @@
 entity_type: person
 names:
 - JAMAL HUSSEIN HASSAN ZEINIYE
-- 'Jamal Husayn Zayniyah '
-- 'Abu Malek El Talleh '
-- 'Abu Hussein '
-- 'abu-Malik al-Ansari '
-- 'Abu-Malik al-Shami '
-- 'Abu-Malik al-Talli '
+- Jamal Husayn Zayniyah
+- Abu Malek El Talleh
+- Abu Hussein
+- abu-Malik al-Ansari
+- Abu-Malik al-Shami
+- Abu-Malik al-Talli
 designation: 
 source: un-data
 ref_number: QDi.428
@@ -31,12 +31,12 @@ documents:
 - type: Passport
   number: '3987189 '
   country: Syrian Arab Republic
-  note: "   ,   "
+  note: 
 - type: National Identification Number
   number: '13080011550'
   country: 
-  note: "   ,   "
+  note: 
 - type: National Identification Number
   number: '5877002'
   country: Syrian Arab Republic
-  note: "   ,   "
+  note: 

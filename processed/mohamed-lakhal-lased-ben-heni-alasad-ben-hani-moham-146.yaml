@@ -1,0 +1,31 @@
+---
+entity_type: person
+names:
+- MOHAMED LAKHAL
+- Lased Ben Heni
+- Al-As'ad Ben Hani
+- Mohamed Ben Belgacem Awani
+- Mohamed Abu Abda
+- Abu Obeida
+- Mohamed Aouani
+designation: 
+source: un-data
+ref_number: QDi.062
+ref_type: Al-Qaida
+country: Tunisia
+birthdate: '1970-02-05'
+remark: |-
+  Professor of Chemistry. Deported from Italy to Tunisia on 27 Aug. 2006.
+  Legally changed family name from Aouani to Lakhal in 2014. Review pursuant to Security
+  Council resolution 1822 (2008) was concluded on 22 Apr. 2010. Review pursuant to Security Council resolution 2368 (2017) was concluded on 4 Dec. 2019
+address:
+- street: 
+  city: 
+  state: 
+  country: ''
+  zip: 
+documents:
+- type: National Identification Number
+  number: W374031
+  country: Tunisia
+  note: 

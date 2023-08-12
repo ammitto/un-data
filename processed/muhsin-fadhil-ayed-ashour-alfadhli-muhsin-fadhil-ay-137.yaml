@@ -2,10 +2,10 @@
 entity_type: person
 names:
 - MUHSIN FADHIL AYED ASHOUR AL-FADHLI
-- 'Muhsin Fadhil ‘Ayyid al Fadhli '
-- 'Muhsin Fadil Ayid Ashur al Fadhli '
-- 'Abu Majid Samiyah '
-- 'Abu Samia '
+- Muhsin Fadhil ‘Ayyid al Fadhli
+- Muhsin Fadil Ayid Ashur al Fadhli
+- Abu Majid Samiyah
+- Abu Samia
 designation: 
 source: un-data
 ref_number: QDi.184
@@ -26,8 +26,8 @@ documents:
 - type: Passport
   number: '106261543'
   country: Kuwait
-  note: "   ,   "
+  note: 
 - type: Passport
   number: '1420529'
   country: Kuwait
-  note: 'and expired on 31 Mar. 2006 ,    ,   '
+  note: and expired on 31 Mar. 2006

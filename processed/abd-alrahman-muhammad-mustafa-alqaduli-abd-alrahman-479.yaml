@@ -2,18 +2,18 @@
 entity_type: person
 names:
 - "‘ABD AL-RAHMAN MUHAMMAD MUSTAFA AL-QADULI"
-- "‘Abd al-Rahman Muhammad Mustafa Shaykhlari "
-- 'Umar Muhammad Khalil Mustafa '
-- 'Abdul Rahman Muhammad al-Bayati '
-- 'Tahir Muhammad Khalil Mustafa al-Bayati '
-- 'Aliazra Ra’ad Ahmad '
-- 'Abu-Shuayb '
-- 'Hajji Iman '
-- 'Abu Iman '
-- 'Abu Ala '
-- 'Abu Hasan '
-- 'Abu Muhammad '
-- 'Abu Zayna '
+- "‘Abd al-Rahman Muhammad Mustafa Shaykhlari"
+- Umar Muhammad Khalil Mustafa
+- Abdul Rahman Muhammad al-Bayati
+- Tahir Muhammad Khalil Mustafa al-Bayati
+- Aliazra Ra’ad Ahmad
+- Abu-Shuayb
+- Hajji Iman
+- Abu Iman
+- Abu Ala
+- Abu Hasan
+- Abu Muhammad
+- Abu Zayna
 designation: 
 source: un-data
 ref_number: QDi.339

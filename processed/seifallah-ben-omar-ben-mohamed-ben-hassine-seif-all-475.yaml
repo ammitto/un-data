@@ -2,16 +2,16 @@
 entity_type: person
 names:
 - SEIFALLAH BEN OMAR BEN MOHAMED BEN HASSINE
-- 'Seif Allah ben Hocine '
-- 'Saifallah ben Hassine '
-- 'Sayf Allah ‘Umar bin Hassayn '
-- 'Seifallah ben Amor ben Hassine  '
-- 'Sayf Allah bin Hussayn '
-- 'Abu Iyyadh al-Tunisi  '
-- 'Abou Iyadh el-Tounsi  '
-- 'Abu Ayyad al-Tunisi  '
-- 'Abou Aayadh  '
-- 'Abou Iyadh  '
+- Seif Allah ben Hocine
+- Saifallah ben Hassine
+- Sayf Allah ‘Umar bin Hassayn
+- Seifallah ben Amor ben Hassine
+- Sayf Allah bin Hussayn
+- Abu Iyyadh al-Tunisi
+- Abou Iyadh el-Tounsi
+- Abu Ayyad al-Tunisi
+- Abou Aayadh
+- Abou Iyadh
 designation: 
 source: un-data
 ref_number: QDi.333
@@ -37,8 +37,8 @@ documents:
 - type: Passport
   number: G557170
   country: Tunisia
-  note: "   ,   "
+  note: 
 - type: National Identification Number
   number: '05054425'
   country: Tunisia
-  note: 'issued in Hammam Lif ,    ,   '
+  note: issued in Hammam Lif

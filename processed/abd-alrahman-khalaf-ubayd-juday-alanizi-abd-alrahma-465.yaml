@@ -2,13 +2,13 @@
 entity_type: person
 names:
 - "‘ABD AL-RAHMAN KHALAF ‘UBAYD JUDAY’ AL-‘ANIZI"
-- "‘Abd al-Rahman Khalaf al-Anizi "
-- "‘Abd al-Rahman Khalaf al-‘Anzi "
-- 'Abu Usamah al-Rahman '
-- 'Abu Shaima’ Kuwaiti '
-- 'Abu Usamah al-Kuwaiti '
-- 'Abu Usama '
-- 'Yusuf '
+- "‘Abd al-Rahman Khalaf al-Anizi"
+- "‘Abd al-Rahman Khalaf al-‘Anzi"
+- Abu Usamah al-Rahman
+- Abu Shaima’ Kuwaiti
+- Abu Usamah al-Kuwaiti
+- Abu Usama
+- Yusuf
 designation: 
 source: un-data
 ref_number: QDi.335
@@ -28,4 +28,4 @@ documents:
 - type: National Identification Number
   number: '273030601222'
   country: Kuwait
-  note: "   ,   "
+  note: 

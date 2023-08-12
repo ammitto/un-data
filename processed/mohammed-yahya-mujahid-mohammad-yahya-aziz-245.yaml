@@ -2,7 +2,7 @@
 entity_type: person
 names:
 - MOHAMMED YAHYA MUJAHID
-- 'Mohammad Yahya Aziz '
+- Mohammad Yahya Aziz
 designation: 
 source: un-data
 ref_number: QDi.272
@@ -23,4 +23,4 @@ documents:
 - type: National Identification Number
   number: 35404-1577309-9
   country: Pakistan
-  note: "   ,   "
+  note: 

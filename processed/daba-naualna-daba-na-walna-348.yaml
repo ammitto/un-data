@@ -2,7 +2,7 @@
 entity_type: person
 names:
 - DABA NAUALNA
-- 'Daba Na Walna '
+- Daba Na Walna
 designation: Lieutenant-colonel
 source: un-data
 ref_number: GBi.009
@@ -24,4 +24,4 @@ documents:
 - type: Passport
   number: SA000417
   country: 
-  note: 'Expiration date 10 Mar. 2013 ,    ,   '
+  note: Expiration date 10 Mar. 2013

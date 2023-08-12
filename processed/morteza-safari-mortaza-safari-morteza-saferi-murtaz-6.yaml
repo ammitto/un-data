@@ -2,7 +2,9 @@
 entity_type: person
 names:
 - MORTEZA SAFARI
-- "Mortaza Safari; Morteza Saferi; Murtaza Saferi; Murtaza\nSafari "
+- |-
+  Mortaza Safari; Morteza Saferi; Murtaza Saferi; Murtaza
+  Safari
 designation: Rear Admiral
 source: un-data
 ref_number: IRi.035

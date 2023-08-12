@@ -1,0 +1,38 @@
+---
+entity_type: person
+names:
+- SALEM NOR ELDIN AMOHAMED AL-DABSKI
+- Abu Al-Ward
+- Abdullah Ragab
+- Abu Naim
+- Abdallah al- Masri
+designation: 
+source: un-data
+ref_number: QDi.231
+ref_type: Al-Qaida
+country: Libya
+birthdate: 
+remark: |-
+  Mother's name is Kalthoum Abdul Salam al-Shaftari. Senior member of
+  Libyan Islamic Fighting Group (QDe.011) and member of Al-Qaida (QDe.004). Review
+  pursuant to Security Council resolution 1822 (2008) was concluded on 24 Nov.
+  2009. Review pursuant to Security Council resolution 2253 (2015) was concluded on 21 Feb. 2019. Review pursuant to Security Council resolution 2610 (2021) was concluded on 8 November 2022.
+address:
+- street: 
+  city: Bab Ben Ghasheer, Tripoli
+  state: 
+  country: Libya
+  zip: 
+documents:
+- type: Passport
+  number: 1990/345751
+  country: Libya
+  note: 
+- type: Passport
+  number: '345751'
+  country: Libya
+  note: 
+- type: National Identification Number
+  number: '220334'
+  country: Libya
+  note: 

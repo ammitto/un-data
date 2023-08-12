@@ -1,0 +1,65 @@
+---
+entity_type: person
+names:
+- SHANE DOMINIC CRAWFORD
+- Asadullah
+- Abu Sa’d at-Trinidadi
+- Asad
+designation: 
+source: un-data
+ref_number: QDi.410
+ref_type: Al-Qaida
+country: Trinidad and Tobago
+birthdate: '1986-02-22'
+remark: 'English language propagandist for Islamic State in Iraq and the Levant (ISIL),
+  listed as Al-Qaida in Iraq (AQI) (QDe.115). Wanted in Trinidad and Tobago for possession
+  of ammunition and firearms and receiving stolen goods. Physical description: eye
+  colour: brown; hair colour: dark; complexion: light brown; build: medium; height:
+  174cm; weight: 64kg; speaks English, Arabic. Review pursuant to Security Council
+  resolution 2610 (2021) was concluded on 8 November 2022.'
+address:
+- street: 
+  city: 
+  state: 
+  country: Syrian Arab Republic
+  zip: 
+- street: 
+  city: Reyhanli
+  state: Hatay
+  country: Turkey
+  zip: 
+- street: 349 Dass Branch Trace, Dass Trace, Enterprise Chaguanas
+  city: 
+  state: 
+  country: Trinidad and Tobago
+  zip: 
+- street: LP# 41 Ballisier Road, Smith Field Lands
+  city: Wallerfield
+  state: County of St. George East
+  country: Trinidad and Tobago
+  zip: 
+documents:
+- type: Passport
+  number: TA959547
+  country: Trinidad and Tobago
+  note: |-
+    issued by Immigration Division of Trinidad and Tobago, expiration date 18 Nov.
+    2018
+- type: Passport
+  number: T1071839
+  country: Trinidad and Tobago
+  note: |-
+    issued by Immigration Division of Trinidad and Tobago, expiration date 7 Nov.
+    2014
+- type: National Identification Number
+  number: '19860222007'
+  country: Trinidad and Tobago
+  note: expiration date 16 Jun. 2016
+- type: National Identification Number
+  number: B394445
+  country: Trinidad and Tobago
+  note: 
+- type: National Identification Number
+  number: 892124B
+  country: Trinidad and Tobago
+  note: expiration date 30 Aug. 2010

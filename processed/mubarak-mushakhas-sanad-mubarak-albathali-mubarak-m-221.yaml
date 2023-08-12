@@ -2,13 +2,13 @@
 entity_type: person
 names:
 - MUBARAK MUSHAKHAS SANAD MUBARAK AL-BATHALI
-- 'Mubarak Mishkhis Sanad Al-Bathali '
-- 'Mubarak Mishkhis Sanad Al-Badhali '
-- 'Mubarak Al-Bathali '
-- 'Mubarak Mishkhas Sanad Al-Bathali '
-- 'Mubarak Mishkhas Sanad Al-Bazali '
-- 'Mobarak Meshkhas Sanad Al-Bthaly '
-- 'Abu Abdulrahman '
+- Mubarak Mishkhis Sanad Al-Bathali
+- Mubarak Mishkhis Sanad Al-Badhali
+- Mubarak Al-Bathali
+- Mubarak Mishkhas Sanad Al-Bathali
+- Mubarak Mishkhas Sanad Al-Bazali
+- Mobarak Meshkhas Sanad Al-Bthaly
+- Abu Abdulrahman
 designation: 
 source: un-data
 ref_number: QDi.238
@@ -29,12 +29,12 @@ documents:
 - type: Passport
   number: '101856740'
   country: Kuwait
-  note: 'and expired on 11 May 2007 ,    ,   '
+  note: and expired on 11 May 2007
 - type: Passport
   number: '002955916'
   country: Kuwait
-  note: "   ,   "
+  note: 
 - type: National Identification Number
   number: '261122400761'
   country: Kuwait
-  note: "   ,   "
+  note: 

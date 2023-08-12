@@ -2,13 +2,13 @@
 entity_type: person
 names:
 - MAYSAR ALI MUSA ABDALLAH AL-JUBURI
-- 'Muyassir al-Jiburi '
-- 'Muyassir Harara '
-- 'Muyassir al-Shammari '
-- 'Muhammad Khalid Hassan '
-- 'Al-Shammari '
-- 'Mus''ab al-Qahtani '
-- 'Abu Maria al-Qatani '
+- Muyassir al-Jiburi
+- Muyassir Harara
+- Muyassir al-Shammari
+- Muhammad Khalid Hassan
+- Al-Shammari
+- Mus'ab al-Qahtani
+- Abu Maria al-Qatani
 designation: 
 source: un-data
 ref_number: QDi.337

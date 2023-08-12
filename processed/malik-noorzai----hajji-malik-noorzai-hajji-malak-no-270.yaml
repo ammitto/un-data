@@ -2,10 +2,12 @@
 entity_type: person
 names:
 - MALIK NOORZAI
-- "حاجى مالك نورزى (Hajji Malik Noorzai; Hajji Malak Noorzai;\nHaji Malek Noorzai) "
-- 'Haji Maluk '
-- 'Haji Aminullah '
-- 'Allah Muhammad '
+- |-
+  حاجى مالك نورزى (Hajji Malik Noorzai; Hajji Malak Noorzai;
+  Haji Malek Noorzai)
+- Haji Maluk
+- Haji Aminullah
+- Allah Muhammad
 designation: 
 source: un-data
 ref_number: TAi.154
@@ -33,9 +35,10 @@ documents:
 - type: Passport
   number: FA0157612
   country: 
-  note: "expires on 22 Jul. 2014 , officially cancelled as of 2013 , issued under
-    name\nAllah Muhammad ,    ,   "
+  note: |-
+    expires on 22 Jul. 2014 , officially cancelled as of 2013 , issued under name
+    Allah Muhammad
 - type: National Identification Number
   number: 54201-247561-5
   country: 
-  note: 'officially cancelled as of 2013 ,    ,   '
+  note: officially cancelled as of 2013

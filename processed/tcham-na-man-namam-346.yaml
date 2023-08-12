@@ -2,7 +2,7 @@
 entity_type: person
 names:
 - TCHAM NA MAN
-- 'Namam '
+- Namam
 designation: Lieutenant-colonel
 source: un-data
 ref_number: GBi.007
@@ -25,4 +25,4 @@ documents:
 - type: Passport
   number: SA0002264
   country: 
-  note: 'Expiration date 23 Jul. 2009 ,    ,   '
+  note: Expiration date 23 Jul. 2009

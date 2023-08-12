@@ -2,7 +2,7 @@
 entity_type: person
 names:
 - ANTÓNIO INJAI
-- 'António Indjai '
+- António Indjai
 designation: Lieutenant General
 source: un-data
 ref_number: GBi.005
@@ -31,4 +31,4 @@ documents:
 - type: Passport
   number: AAID00435
   country: 
-  note: 'Expiration date 18 Feb. 2013 ,    ,   '
+  note: Expiration date 18 Feb. 2013

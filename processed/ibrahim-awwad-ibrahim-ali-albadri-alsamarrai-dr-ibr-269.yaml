@@ -2,11 +2,11 @@
 entity_type: person
 names:
 - IBRAHIM AWWAD IBRAHIM ALI AL-BADRI AL-SAMARRAI
-- 'Dr. Ibrahim ‘Awwad Ibrahim ’Ali al-Badri al-Samarrai’ '
-- 'أبو دعاء  '
-- 'Dr. Ibrahim '
-- 'أبو بكر البغدادي الحسيني القريشي (Abu Bakr al-Baghdadi al-Husayni al-Quraishi;
-  Abu Bakr al-Baghdadi) '
+- Dr. Ibrahim ‘Awwad Ibrahim ’Ali al-Badri al-Samarrai’
+- أبو دعاء
+- Dr. Ibrahim
+- أبو بكر البغدادي الحسيني القريشي (Abu Bakr al-Baghdadi al-Husayni al-Quraishi; Abu
+  Bakr al-Baghdadi)
 designation: 
 source: un-data
 ref_number: QDi.299
@@ -31,4 +31,4 @@ documents:
 - type: National Identification Number
   number: '0134852'
   country: 
-  note: "   ,   "
+  note: 

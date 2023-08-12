@@ -1,0 +1,26 @@
+---
+entity_type: person
+names:
+- IRUTA DOUGLAS MPAMO
+- Douglas Iruta Mpamo
+- Mpano
+designation: 
+source: un-data
+ref_number: CDi.011
+ref_type: DRC
+country: Democratic Republic of the Congo
+birthdate: '1965-12-28'
+remark: |-
+  No known occupation since two of the planes managed by Great Lakes
+  Business Company (GLBC) crashed.
+address:
+- street: 
+  city: Gisenyi
+  state: 
+  country: Rwanda
+  zip: 
+documents:
+- type: 
+  number: 
+  country: 
+  note: 

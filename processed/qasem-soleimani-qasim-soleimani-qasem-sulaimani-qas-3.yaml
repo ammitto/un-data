@@ -2,9 +2,11 @@
 entity_type: person
 names:
 - QASEM SOLEIMANI
-- "Qasim Soleimani; Qasem Sulaimani; Qasim Sulaimani; Qasim\nSulaymani; Qasem Sulaymani;
-  Kasim Soleimani; Kasim Sulaimani; Kasim\nSulaymani "
-- 'Haj Qasem; Haji Qassem; Sardar Soleimani '
+- |-
+  Qasim Soleimani; Qasem Sulaimani; Qasim Sulaimani; Qasim
+  Sulaymani; Qasem Sulaymani; Kasim Soleimani; Kasim Sulaimani; Kasim
+  Sulaymani
+- Haj Qasem; Haji Qassem; Sardar Soleimani
 designation: Brigadier General
 source: un-data
 ref_number: IRi.039
@@ -24,4 +26,4 @@ documents:
 - type: Passport
   number: '008827'
   country: 
-  note: "   ,   Iran (Islamic Republic of)"
+  note: Iran (Islamic Republic of)

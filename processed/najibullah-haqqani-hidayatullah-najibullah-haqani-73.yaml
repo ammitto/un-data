@@ -2,7 +2,7 @@
 entity_type: person
 names:
 - NAJIBULLAH HAQQANI HIDAYATULLAH
-- 'Najibullah Haqani '
+- Najibullah Haqani
 designation: Deputy Minister of Finance under the Taliban regime
 source: un-data
 ref_number: TAi.071
@@ -24,4 +24,4 @@ documents:
 - type: National Identification Number
   number: 
   country: 
-  note: 'issued in 1974 ,    ,   '
+  note: issued in 1974

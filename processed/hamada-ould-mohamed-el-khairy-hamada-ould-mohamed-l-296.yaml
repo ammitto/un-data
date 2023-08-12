@@ -2,10 +2,10 @@
 entity_type: person
 names:
 - HAMADA OULD MOHAMED EL KHAIRY
-- 'Hamada Ould Mohamed Lemine Ould Mohamed el Khairy '
-- 'Ould Kheirou '
-- 'Abou QumQum '
-- 'Hamad el Khairy '
+- Hamada Ould Mohamed Lemine Ould Mohamed el Khairy
+- Ould Kheirou
+- Abou QumQum
+- Hamad el Khairy
 designation: 
 source: un-data
 ref_number: QDi.315
@@ -28,4 +28,4 @@ documents:
 - type: Passport
   number: A1447120
   country: Mali
-  note: 'expired on 19 Oct. 2011 ,    ,   '
+  note: expired on 19 Oct. 2011

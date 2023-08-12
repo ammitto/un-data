@@ -2,9 +2,9 @@
 entity_type: person
 names:
 - HAMADI BEN ABDUL AZIZ BEN ALI BOUYEHIA
-- 'Gamel Mohamed '
-- 'Abd el Wanis Abd Gawwad Abd el Latif Bahaa '
-- 'Mahmoud Hamid '
+- Gamel Mohamed
+- Abd el Wanis Abd Gawwad Abd el Latif Bahaa
+- Mahmoud Hamid
 designation: 
 source: un-data
 ref_number: QDi.143
@@ -24,5 +24,6 @@ documents:
 - type: Passport
   number: 
   country: 
-  note: "Tunisian passport number L723315, issued on 5 May 1998, expired on 4 May\n2003
-    ,    ,   "
+  note: |-
+    Tunisian passport number L723315, issued on 5 May 1998, expired on 4 May
+    2003

@@ -2,7 +2,9 @@
 entity_type: person
 names:
 - Ibrahim Saeed Salim Jadhran
-- "Ibrahim Saeed Salem Awad Aissa Hamed Dawoud Al\n                        Jadhran "
+- |-
+  Ibrahim Saeed Salem Awad Aissa Hamed Dawoud Al
+                          Jadhran
 designation: 'Leader of armed militias '
 source: un-data
 ref_number: LYi.027
@@ -21,12 +23,12 @@ documents:
 - type: Passport
   number: S/263963
   country: 
-  note: "   ,   "
+  note: 
 - type: National Identification Number
   number: '119820043341'
   country: 
-  note: "   ,   "
+  note: 
 - type: National Identification Number
   number: '137803'
   country: 
-  note: "   ,   "
+  note: 

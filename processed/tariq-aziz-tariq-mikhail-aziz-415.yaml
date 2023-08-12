@@ -2,7 +2,7 @@
 entity_type: person
 names:
 - TARIQ AZIZ
-- 'Tariq Mikhail Aziz '
+- Tariq Mikhail Aziz
 designation: 
 source: un-data
 ref_number: IQi.025
@@ -20,4 +20,4 @@ documents:
 - type: Passport
   number: No34409/129
   country: 
-  note: "(July 1997) ,    ,   "
+  note: "(July 1997)"

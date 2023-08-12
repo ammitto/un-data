@@ -1,0 +1,42 @@
+---
+entity_type: person
+names:
+- Yasin Ali Baynah
+- ALI, Yasin Baynah
+- ALI, Yassin Mohamed
+- BAYNAH, Yasin
+- BAYNAH, Yassin
+- BAYNAX, Yasiin Cali
+- BEENAH, Yasin
+- BEENAH, Yassin
+- BEENAX, Yasin
+- BEENAX, Yassin
+- BENAH, Yasin
+- BENAH, Yassin
+- BENAX, Yassin
+- BEYNAH, Yasin
+- BINAH, Yassin
+- CALI, Yasiin Baynax
+designation: 
+source: un-data
+ref_number: SOi.001
+ref_type: Somalia
+country: Somalia
+birthdate: '1965-12-24'
+remark: ''
+address:
+- street: 
+  city: Rinkeby, Stockholm
+  state: 
+  country: Sweden
+  zip: 
+- street: 
+  city: Mogadishu
+  state: 
+  country: Somalia
+  zip: 
+documents:
+- type: 
+  number: 
+  country: 
+  note: 

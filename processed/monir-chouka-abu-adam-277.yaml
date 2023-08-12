@@ -2,7 +2,7 @@
 entity_type: person
 names:
 - MONIR CHOUKA
-- 'Abu Adam '
+- Abu Adam
 designation: 
 source: un-data
 ref_number: QDi.300
@@ -23,8 +23,8 @@ documents:
 - type: Passport
   number: '5208323009'
   country: Germany
-  note: 'expires on 1 Feb. 2012 ,    ,   '
+  note: expires on 1 Feb. 2012
 - type: National Identification Number
   number: '5209530116'
   country: Germany
-  note: 'expired on 20 Jun. 2011 ,    ,   '
+  note: expired on 20 Jun. 2011

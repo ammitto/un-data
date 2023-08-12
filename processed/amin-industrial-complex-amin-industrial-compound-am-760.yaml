@@ -1,0 +1,34 @@
+---
+entity_type: organization
+names:
+- AMIN INDUSTRIAL COMPLEX
+- Amin Industrial Compound
+- Amin Industrial Company
+designation: 
+source: un-data
+ref_number: IRe.003
+ref_type: Iran
+country: 
+birthdate: 
+remark: |-
+  Sought temperature controllers which may be used in nuclear research and
+  operational/production facilities. Amin Industrial Complex is owned or controlled by, or
+  acts on behalf of, DIO, which was designated in resolution 1737 (2006). [Old Reference #
+  E.29.I.1]
+address:
+- street: P.O. Box 91735-549
+  city: Mashad
+  state: 
+  country: Iran (Islamic Republic of)
+  zip: 
+- street: Amin Industrial Estate, Khalage Rd., Seyedi District
+  city: Mashad
+  state: 
+  country: Iran (Islamic Republic of)
+  zip: 
+- street: Kaveh Complex, Khalaj Rd., Seyedi St.
+  city: Mashad
+  state: 
+  country: Iran (Islamic Republic of)
+  zip: 
+documents: []

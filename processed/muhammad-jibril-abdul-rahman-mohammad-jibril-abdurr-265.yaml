@@ -2,14 +2,14 @@
 entity_type: person
 names:
 - MUHAMMAD JIBRIL ABDUL RAHMAN
-- 'Mohammad Jibril Abdurrahman '
-- 'Muhammad Jibriel Abdul Rahman '
-- 'Mohammad Jibriel Abdurrahman '
-- 'Muhamad Ricky Ardhan '
-- 'Muhammad Ricky Ardhan bin Muhammad Iqbal '
-- 'Muhammad Ricky Ardhan bin Abu Jibril '
-- 'Muhammad Yunus '
-- 'Heris Syah '
+- Mohammad Jibril Abdurrahman
+- Muhammad Jibriel Abdul Rahman
+- Mohammad Jibriel Abdurrahman
+- Muhamad Ricky Ardhan
+- Muhammad Ricky Ardhan bin Muhammad Iqbal
+- Muhammad Ricky Ardhan bin Abu Jibril
+- Muhammad Yunus
+- Heris Syah
 designation: 
 source: un-data
 ref_number: QDi.295
@@ -36,8 +36,8 @@ documents:
 - type: National Identification Number
   number: '3219222002.2181558'
   country: 
-  note: "   ,   "
+  note: 
 - type: National Identification Number
   number: '2181558'
   country: 
-  note: "   ,   "
+  note: 

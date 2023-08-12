@@ -2,21 +2,21 @@
 entity_type: person
 names:
 - ABDELRAHMAN MOUHAMAD ZAFIR AL DABIDI AL JAHANI
-- 'Abd Al-Rahman Muhammad Zafir Al-Dubaysi Al-Juhni '
-- 'Abd Al-Rahman Muhammad Zafir al-Dubaysi al-Jahni '
-- 'Abd Al-Rahman Muhammad Zafir al-Dubaysi al-Jahani '
-- 'Abd Al-Rahman Muhammad Zafir al-Dubaysi al-Juhani '
-- 'Abdulrhman Mohammed D. Aljahani '
-- 'Abu al-Wafa’ '
-- 'Abu Anas '
-- 'Abd al-Rahman Muhammad Zafir al-Dabisi al-Jahani '
-- 'Abu Wafa al-Saudi '
-- 'Abu al-Wafa '
-- 'Abd al-Rahman Muhammad Thafir al-Jahni '
-- 'Abd al-Rahman Muhammad al-Juhani '
-- ") Abdelrahman Mouhamad Zafir al Dabissi Juhan "
-- 'Abdelrahman Mouhamad Zafir al Dabissi Juhani '
-- 'Abou Wafa al Saoudi '
+- Abd Al-Rahman Muhammad Zafir Al-Dubaysi Al-Juhni
+- Abd Al-Rahman Muhammad Zafir al-Dubaysi al-Jahni
+- Abd Al-Rahman Muhammad Zafir al-Dubaysi al-Jahani
+- Abd Al-Rahman Muhammad Zafir al-Dubaysi al-Juhani
+- Abdulrhman Mohammed D. Aljahani
+- Abu al-Wafa’
+- Abu Anas
+- Abd al-Rahman Muhammad Zafir al-Dabisi al-Jahani
+- Abu Wafa al-Saudi
+- Abu al-Wafa
+- Abd al-Rahman Muhammad Thafir al-Jahni
+- Abd al-Rahman Muhammad al-Juhani
+- ") Abdelrahman Mouhamad Zafir al Dabissi Juhan"
+- Abdelrahman Mouhamad Zafir al Dabissi Juhani
+- Abou Wafa al Saoudi
 designation: 
 source: un-data
 ref_number: QDi.327
@@ -37,8 +37,8 @@ documents:
 - type: Passport
   number: F508591
   country: 
-  note: "   ,   "
+  note: 
 - type: National Identification Number
   number: '1027508157'
   country: Saudi Arabia
-  note: "   ,   "
+  note: 

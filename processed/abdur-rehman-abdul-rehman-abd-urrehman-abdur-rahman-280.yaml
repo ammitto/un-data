@@ -2,10 +2,10 @@
 entity_type: person
 names:
 - ABDUR REHMAN
-- 'Abdul Rehman; Abd Ur-Rehman; Abdur Rahman '
-- 'عبد الرحمن السيندي '
-- 'عبدالله السندي (Abdullah Sindhi) '
-- 'Abdur Rehman Muhammad Yamin '
+- Abdul Rehman; Abd Ur-Rehman; Abdur Rahman
+- عبد الرحمن السيندي
+- عبدالله السندي (Abdullah Sindhi)
+- Abdur Rehman Muhammad Yamin
 designation: 
 source: un-data
 ref_number: QDi.309
@@ -26,8 +26,8 @@ documents:
 - type: Passport
   number: " CV9157521"
   country: Pakistan
-  note: 'expires on 7 Sep. 2013  ,    ,   '
+  note: expires on 7 Sep. 2013
 - type: National Identification Number
   number: national identity card number 44103-5251752-5
   country: Pakistan
-  note: "   ,   "
+  note: 

@@ -27,12 +27,12 @@ documents:
 - type: 'Numéro de passeport '
   number: PS381420397
   country: 
-  note: "   ,   "
+  note: 
 - type: Número de pasaporte
   number: PS381420397
   country: 
-  note: "   ,   "
+  note: 
 - type: Passport
   number: PS381420397
   country: 
-  note: "   ,   "
+  note: 

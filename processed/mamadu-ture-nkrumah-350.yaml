@@ -2,7 +2,7 @@
 entity_type: person
 names:
 - MAMADU TURE
-- 'N’Krumah '
+- N’Krumah
 designation: Major General
 source: un-data
 ref_number: GBi.011
@@ -23,4 +23,4 @@ documents:
 - type: Passport
   number: DA0002186
   country: 
-  note: 'Expiration date 26 Aug. 2013 ,    ,   '
+  note: Expiration date 26 Aug. 2013

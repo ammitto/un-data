@@ -2,12 +2,12 @@
 entity_type: person
 names:
 - HUSAYN JUAYTHINI
-- 'Hussein Mohammed Hussein Aljeithni '
-- 'Husayn Muhammad al-Juaythini '
-- 'Husayn Muhammad Husayn al-Juaythini '
-- 'Husayn Muhamad Husayn al-Juaythini '
-- 'Husayn Muhammad Husayn Juaythini '
-- 'Abu Muath al-Juaitni '
+- Hussein Mohammed Hussein Aljeithni
+- Husayn Muhammad al-Juaythini
+- Husayn Muhammad Husayn al-Juaythini
+- Husayn Muhamad Husayn al-Juaythini
+- Husayn Muhammad Husayn Juaythini
+- Abu Muath al-Juaitni
 designation: 
 source: un-data
 ref_number: QDi.394
@@ -29,4 +29,4 @@ documents:
 - type: Passport
   number: '0363464'
   country: 
-  note: 'issued by Palestinian Authority ,    ,   '
+  note: issued by Palestinian Authority

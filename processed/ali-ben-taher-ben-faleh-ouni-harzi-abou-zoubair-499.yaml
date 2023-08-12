@@ -2,7 +2,7 @@
 entity_type: person
 names:
 - ALI BEN TAHER BEN FALEH OUNI HARZI
-- 'Abou Zoubair '
+- Abou Zoubair
 designation: 
 source: un-data
 ref_number: QDi.353
@@ -45,8 +45,8 @@ documents:
 - type: Passport
   number: W342058
   country: Tunisia
-  note: 'expires on 13 Mar 2016 ,    ,   '
+  note: expires on 13 Mar 2016
 - type: National Identification Number
   number: '08705184'
   country: Tunisia
-  note: "   ,   "
+  note: 

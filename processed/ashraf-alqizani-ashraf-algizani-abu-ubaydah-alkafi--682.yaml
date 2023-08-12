@@ -1,0 +1,28 @@
+---
+entity_type: person
+names:
+- ASHRAF AL-QIZANI
+- Ashraf al-Gizani
+- Abu ‘Ubaydah al-Kafi
+- Achref Ben Fethi Ben Mabrouk Guizani
+- Achraf Ben Fathi Ben Mabrouk Guizani
+designation: 
+source: un-data
+ref_number: QDi.432
+ref_type: Al-Qaida
+country: Tunisia
+birthdate: '1991-10-05'
+remark: Senior member of Islamic State in Iraq and the Levant (ISIL), listed as Al-Qaida
+  in Iraq (QDe.115). Recruited for ISIL and instructed individuals to perpetrate terrorist
+  acts via online video.
+address:
+- street: 
+  city: 
+  state: 
+  country: ''
+  zip: 
+documents:
+- type: National Identification Number
+  number: '13601334'
+  country: Tunisia
+  note: 

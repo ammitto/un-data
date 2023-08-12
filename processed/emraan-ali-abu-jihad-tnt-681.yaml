@@ -2,7 +2,7 @@
 entity_type: person
 names:
 - EMRAAN ALI
-- 'Abu Jihad TNT '
+- Abu Jihad TNT
 designation: 
 source: un-data
 ref_number: QDi.430
@@ -38,12 +38,12 @@ documents:
 - type: Passport
   number: TB162181
   country: Trinidad and Tobago
-  note: 'issued on 27 January 2015, expired 26 January 2020 ,    ,   '
+  note: issued on 27 January 2015, expired 26 January 2020
 - type: Passport
   number: '420985453 '
   country: United States of America
-  note: 'expired 6 February 2017 ,    ,   '
+  note: expired 6 February 2017
 - type: National Identification Number
   number: '19670704052'
   country: Trinidad and Tobago
-  note: "   ,   "
+  note: 

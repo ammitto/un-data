@@ -2,15 +2,15 @@
 entity_type: person
 names:
 - UMAR MAHMUD IRHAYYIM AL-KUBAYSI
-- 'Umar Mahmud Rahim al-Kubaysi  '
-- 'Omar Mahmood Irhayyim Al-Fayyadh '
-- 'Umar Mahmud Rahim '
-- 'Umar Mahmud Rahim Al-Qubaysi '
-- 'Umar Mahmud Al-Kubaysi Arhaym '
-- 'Umar Mahmud Arhaym '
-- 'Omar Mahmood Irhayyim '
-- 'Omar Mahmood Irhayyim Al-Fayyadh Al-Kobaisi '
-- 'Umar al-Kubaysi '
+- Umar Mahmud Rahim al-Kubaysi
+- Omar Mahmood Irhayyim Al-Fayyadh
+- Umar Mahmud Rahim
+- Umar Mahmud Rahim Al-Qubaysi
+- Umar Mahmud Al-Kubaysi Arhaym
+- Umar Mahmud Arhaym
+- Omar Mahmood Irhayyim
+- Omar Mahmood Irhayyim Al-Fayyadh Al-Kobaisi
+- Umar al-Kubaysi
 designation: 
 source: un-data
 ref_number: QDi.412
@@ -30,12 +30,12 @@ documents:
 - type: Passport
   number: A4059346
   country: Iraq
-  note: 'expires on 27 May 2021 ,    ,   '
+  note: expires on 27 May 2021
 - type: National Identification Number
   number: '00405771'
   country: Iraq
-  note: 'name in Arabic script: عمر محمود إرحيم الفياض ,    ,   '
+  note: 'name in Arabic script: عمر محمود إرحيم الفياض'
 - type: National Identification Number
   number: '540763'
   country: Iraq
-  note: 'name in Arabic script: عمر محمود إرحيم ,    ,   '
+  note: 'name in Arabic script: عمر محمود إرحيم'
