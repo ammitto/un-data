@@ -2,7 +2,7 @@
 entity_type: person
 names:
 - MEHDI BEN MOHAMED BEN MOHAMED KAMMOUN
-- 'Salmane  '
+- Salmane
 designation: 
 source: un-data
 ref_number: QDi.072
@@ -24,4 +24,4 @@ documents:
 - type: Passport
   number: M307707
   country: Tunisia
-  note: 'expired on 11 Apr. 2005 ,    ,   '
+  note: expired on 11 Apr. 2005

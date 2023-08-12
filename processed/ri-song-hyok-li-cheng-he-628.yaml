@@ -2,7 +2,7 @@
 entity_type: person
 names:
 - RI SONG HYOK
-- 'Li Cheng He '
+- Li Cheng He
 designation: |-
   Ri Song Hyok is an overseas representative for Koryo Bank and Koryo Credit
                   Development Bank
@@ -24,4 +24,4 @@ documents:
 - type: Passport
   number: '654234735'
   country: Democratic People's Republic of Korea
-  note: "   ,   "
+  note: 

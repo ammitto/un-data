@@ -2,7 +2,7 @@
 entity_type: person
 names:
 - MAXIME HAUCHARD
-- 'Abou Abdallah al Faransi '
+- Abou Abdallah al Faransi
 designation: 
 source: un-data
 ref_number: QDi.378
@@ -25,4 +25,4 @@ documents:
 - type: National Identification Number
   number: 'French national identity card number 101127200129 '
   country: 
-  note: 'issued by the Sous-Préfecture of Bernay, France and expires 4 Nov. 2020 ,    ,   '
+  note: issued by the Sous-Préfecture of Bernay, France and expires 4 Nov. 2020

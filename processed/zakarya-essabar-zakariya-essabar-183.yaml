@@ -2,7 +2,7 @@
 entity_type: person
 names:
 - ZAKARYA ESSABAR
-- 'Zakariya Essabar '
+- Zakariya Essabar
 designation: 
 source: un-data
 ref_number: QDi.083
@@ -23,16 +23,16 @@ documents:
 - type: Passport
   number: M 271351
   country: Morocco
-  note: "   ,   "
+  note: 
 - type: Passport
   number: K-348486
   country: Morocco
-  note: "   ,   "
+  note: 
 - type: National Identification Number
   number: E-189935
   country: Morocco
-  note: "   ,   "
+  note: 
 - type: National Identification Number
   number: G-0343089
   country: Morocco
-  note: "   ,   "
+  note: 

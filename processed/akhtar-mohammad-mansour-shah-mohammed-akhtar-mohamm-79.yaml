@@ -2,10 +2,10 @@
 entity_type: person
 names:
 - AKHTAR MOHAMMAD MANSOUR SHAH MOHAMMED
-- 'Akhtar Mohammad Mansour Khan Muhammad '
-- 'Akhtar Muhammad Mansoor '
-- 'Akhtar Mohammad Mansoor '
-- 'Naib Imam '
+- Akhtar Mohammad Mansour Khan Muhammad
+- Akhtar Muhammad Mansoor
+- Akhtar Mohammad Mansoor
+- Naib Imam
 designation: |-
   Minister of Civil Aviation and Transportation under the Taliban
   regime
@@ -34,4 +34,4 @@ documents:
 - type: Passport
   number: SE-011697
   country: Afghanistan
-  note: 'expired on 23 Feb. 2000 ,    ,   '
+  note: expired on 23 Feb. 2000

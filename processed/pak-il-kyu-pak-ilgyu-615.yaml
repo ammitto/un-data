@@ -2,7 +2,7 @@
 entity_type: person
 names:
 - Pak Il Kyu
-- 'Pak Il-Gyu '
+- Pak Il-Gyu
 designation: Official for Korea Ryonbong General Corporation
 source: un-data
 ref_number: KPi.062
@@ -23,4 +23,4 @@ documents:
 - type: Passport
   number: '563120235'
   country: 
-  note: "   ,   "
+  note: 

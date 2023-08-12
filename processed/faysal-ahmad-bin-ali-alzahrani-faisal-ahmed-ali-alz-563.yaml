@@ -2,9 +2,9 @@
 entity_type: person
 names:
 - FAYSAL AHMAD BIN ALI AL-ZAHRANI
-- 'Faisal Ahmed Ali Alzahrani '
-- 'Abu Sarah al-Saudi '
-- 'Abu Sara Zahrani '
+- Faisal Ahmed Ali Alzahrani
+- Abu Sarah al-Saudi
+- Abu Sara Zahrani
 designation: 
 source: un-data
 ref_number: QDi.392
@@ -26,8 +26,8 @@ documents:
 - type: Passport
   number: K142736
   country: Saudi Arabia
-  note: "   ,   "
+  note: 
 - type: Passport
   number: G579315
   country: Saudi Arabia
-  note: "   ,   "
+  note: 

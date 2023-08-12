@@ -2,14 +2,14 @@
 entity_type: person
 names:
 - HAFIZ ABDUL SALAM BHUTTAVI
-- 'Hafiz Abdul Salam Bhattvi '
-- 'Hafiz Abdusalam Budvi '
-- 'Hafiz Abdussalaam Bhutvi '
-- 'Abdul Salam Budvi '
-- 'Abdul Salam Bhattwi '
-- 'Abdul Salam Bhutvi '
-- 'Mullah Abdul Salaam Bhattvi '
-- 'Molvi Abdursalam Bhattvi '
+- Hafiz Abdul Salam Bhattvi
+- Hafiz Abdusalam Budvi
+- Hafiz Abdussalaam Bhutvi
+- Abdul Salam Budvi
+- Abdul Salam Bhattwi
+- Abdul Salam Bhutvi
+- Mullah Abdul Salaam Bhattvi
+- Molvi Abdursalam Bhattvi
 designation: 
 source: un-data
 ref_number: QDi.307

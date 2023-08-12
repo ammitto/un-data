@@ -2,8 +2,8 @@
 entity_type: person
 names:
 - SAMI BEN KHAMIS BEN SALEH ELSSEID
-- 'Omar El Mouhajer '
-- 'Saber '
+- Omar El Mouhajer
+- Saber
 designation: 
 source: un-data
 ref_number: QDi.064
@@ -24,12 +24,12 @@ documents:
 - type: Passport
   number: K929139
   country: Tunisia
-  note: 'expired on 13 Feb. 2000 ,    ,   '
+  note: expired on 13 Feb. 2000
 - type: National Identification Number
   number: '00319547'
   country: 
-  note: "   ,   "
+  note: 
 - type: National Identification Number
   number: SSDSBN68B10Z352F
   country: 
-  note: 'Italian Fiscal Code  ,    ,   '
+  note: Italian Fiscal Code

@@ -2,12 +2,12 @@
 entity_type: person
 names:
 - TAHA IBRAHIM ABDALLAH BAKR AL KHUWAYT
-- 'Hajji Abdelnasser '
-- 'Hajji Abd al-Nasr '
-- 'Hajji ''Abd Al-Nasir '
-- 'Taha al-Khuwayt '
-- 'Mullah Taha  '
-- 'Mullah Khuwayt '
+- Hajji Abdelnasser
+- Hajji Abd al-Nasr
+- Hajji 'Abd Al-Nasir
+- Taha al-Khuwayt
+- Mullah Taha
+- Mullah Khuwayt
 designation: 
 source: un-data
 ref_number: QDi.420

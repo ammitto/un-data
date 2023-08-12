@@ -1,0 +1,35 @@
+---
+entity_type: person
+names:
+- ABDUL HAKIM MURAD
+- Murad, Abdul Hakim Hasim
+- Murad, Abdul Hakim Ali Hashim
+- Murad, Abdul Hakim al Hashim
+- Saeed Akman
+- Saeed Ahmed
+- Abdul Hakim Ali al-Hashem Murad
+designation: 
+source: un-data
+ref_number: QDi.120
+ref_type: Al-Qaida
+country: Pakistan
+birthdate: '1968-04-11'
+remark: |-
+  Mother's name is Aminah Ahmad Sher al-Baloushi. In custody of the United
+  States. Review pursuant to Security Council resolution 1822 (2008) was concluded on 25
+  May 2010. Review pursuant to Security Council resolution 2368 (2017) was concluded on 4 Dec. 2019.
+address:
+- street: 
+  city: 
+  state: 
+  country: ''
+  zip: 
+documents:
+- type: Passport
+  number: '665334'
+  country: Pakistan
+  note: 
+- type: Passport
+  number: '917739'
+  country: Pakistan
+  note: expired on 7 Aug. 1996

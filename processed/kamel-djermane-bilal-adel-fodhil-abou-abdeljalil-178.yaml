@@ -1,0 +1,31 @@
+---
+entity_type: person
+names:
+- KAMEL DJERMANE
+- Bilal
+- Adel
+- Fodhil
+- Abou Abdeljalil
+designation: 
+source: un-data
+ref_number: QDi.167
+ref_type: Al-Qaida
+country: Algeria
+birthdate: '1965-10-12'
+remark: |-
+  In detention in Algeria as at April 2010. Arrest warrant issued by the
+  German authorities on 9 Oct. 2003 for involvement in kidnapping. Former member of the
+  Katibat Tarek Ibn Ziad of The Organization of Al-Qaida in the Islamic Maghreb (QDe.014).
+  Review pursuant to Security Council resolution 1822 (2008) was concluded on 27 Jul.
+  2010. Review pursuant to Security Council resolution 2368 (2017) was concluded on 4 Dec. 2019.
+address:
+- street: 
+  city: 
+  state: 
+  country: Algeria
+  zip: 
+documents:
+- type: 
+  number: 
+  country: 
+  note: 

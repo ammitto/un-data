@@ -2,8 +2,10 @@
 entity_type: person
 names:
 - HOSEIN SALIMI
-- "Husain Salimi; Hosain Salimi; Hussain Salimi; Hosein Saleemi;\nHusain Saleemi;
-  Hosain Saleemi; Hussain Saleemi; Hossein Salimi; Hossein\nSaleemi "
+- |-
+  Husain Salimi; Hosain Salimi; Hussain Salimi; Hosein Saleemi;
+  Husain Saleemi; Hosain Saleemi; Hussain Saleemi; Hossein Salimi; Hossein
+  Saleemi
 designation: General
 source: un-data
 ref_number: IRi.038
@@ -21,4 +23,4 @@ documents:
 - type: Passport
   number: D08531177
   country: 
-  note: "   ,   Iran (Islamic Republic of)"
+  note: Iran (Islamic Republic of)

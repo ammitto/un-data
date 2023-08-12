@@ -2,9 +2,9 @@
 entity_type: person
 names:
 - ABDULPATTA ESCALON ABUBAKAR
-- 'Abdulpatta Abubakar Escalon '
-- 'Abdul Patta Escalon Abubakar '
-- 'Abdul Patta Abu Bakar '
+- Abdulpatta Abubakar Escalon
+- Abdul Patta Escalon Abubakar
+- Abdul Patta Abu Bakar
 designation: 
 source: un-data
 ref_number: QDi.414
@@ -33,16 +33,16 @@ documents:
 - type: Passport
   number: EC6530802
   country: Philippines
-  note: 'expires 19 Jan. 2021 ,    ,   '
+  note: expires 19 Jan. 2021
 - type: Passport
   number: EB2778599
   country: Philippines
-  note: "   ,   "
+  note: 
 - type: National Identification Number
   number: '2135314355'
   country: Saudi Arabia
-  note: "   ,   "
+  note: 
 - type: National Identification Number
   number: '202112421'
   country: Saudi Arabia
-  note: "   ,   "
+  note: 

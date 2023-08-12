@@ -2,10 +2,10 @@
 entity_type: person
 names:
 - ABDUL SATAR ABDUL MANAN
-- 'Haji Abdul Sattar Barakzai '
-- 'Haji Abdul Satar '
-- 'Haji Satar Barakzai '
-- 'Abdulasattar '
+- Haji Abdul Sattar Barakzai
+- Haji Abdul Satar
+- Haji Satar Barakzai
+- Abdulasattar
 designation: 
 source: un-data
 ref_number: TAi.162
@@ -41,12 +41,12 @@ documents:
 - type: Passport
   number: AM5421691
   country: 
-  note: 'expires on 11 Aug. 2013 ,    ,   '
+  note: expires on 11 Aug. 2013
 - type: National Identification Number
   number: '5420250161699'
   country: 
-  note: "   ,   "
+  note: 
 - type: National Identification Number
   number: '585629'
   country: 
-  note: "   ,   "
+  note: 

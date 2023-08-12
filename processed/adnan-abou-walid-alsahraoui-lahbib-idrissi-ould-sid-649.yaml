@@ -2,12 +2,14 @@
 entity_type: person
 names:
 - ADNAN ABOU WALID AL-SAHRAOUI
-- "Lahbib Idrissi ould Sidi Abdi ould Said ould El\nBachir "
-- 'Adnan Abu Walid al-Sahrawi '
-- 'Abu Walid al Sahrawi '
-- 'Adnan Abu Walid al-Sahraoui '
-- 'Adnan Abu Waleed al-Sahrawi '
-- 'Lehbib Ould Ali Ould Said Ould Joumani '
+- |-
+  Lahbib Idrissi ould Sidi Abdi ould Said ould El
+  Bachir
+- Adnan Abu Walid al-Sahrawi
+- Abu Walid al Sahrawi
+- Adnan Abu Walid al-Sahraoui
+- Adnan Abu Waleed al-Sahrawi
+- Lehbib Ould Ali Ould Said Ould Joumani
 designation: 
 source: un-data
 ref_number: QDi.415

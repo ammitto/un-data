@@ -2,7 +2,7 @@
 entity_type: person
 names:
 - KIM JUNG JONG
-- 'Kim Chung Chong  '
+- Kim Chung Chong
 designation: Tanchon Commercial Bank Representative
 source: un-data
 ref_number: KPi.021
@@ -20,12 +20,12 @@ documents:
 - type: Passport
   number: '199421147'
   country: 
-  note: 'Expired 29 Dec. 2014 ,    ,   '
+  note: Expired 29 Dec. 2014
 - type: Passport
   number: 381110042 (Expired 25 Jan. 2016)
   country: 
-  note: "   ,   "
+  note: 
 - type: Passport
   number: 563210184 (Expires 18 Jun. 2018)
   country: 
-  note: "   ,   "
+  note: 

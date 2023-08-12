@@ -2,13 +2,13 @@
 entity_type: person
 names:
 - JABER ABDALLAH JABER AHMAD AL-JALAHMAH
-- 'Jaber Al-Jalamah '
-- 'Abu Muhammad Al-Jalahmah '
-- 'Jabir Abdallah Jabir Ahmad Jalahmah '
-- 'Jabir ''Abdallah Jabir Ahmad Al-Jalamah '
-- 'Jabir Al-Jalhami '
-- 'Abdul-Ghani '
-- 'Abu Muhammad '
+- Jaber Al-Jalamah
+- Abu Muhammad Al-Jalahmah
+- Jabir Abdallah Jabir Ahmad Jalahmah
+- Jabir 'Abdallah Jabir Ahmad Al-Jalamah
+- Jabir Al-Jalhami
+- Abdul-Ghani
+- Abu Muhammad
 designation: 
 source: un-data
 ref_number: QDi.237
@@ -29,16 +29,16 @@ documents:
 - type: Passport
   number: '101423404'
   country: 
-  note: "   ,   "
+  note: 
 - type: Passport
   number: '2541451'
   country: Kuwait
-  note: 'valid until 16 Feb. 2017 ,    ,   '
+  note: valid until 16 Feb. 2017
 - type: Passport
   number: '002327881'
   country: Kuwait
-  note: "   ,   "
+  note: 
 - type: National Identification Number
   number: '259092401188'
   country: Kuwait
-  note: "   ,   "
+  note: 

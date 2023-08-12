@@ -2,14 +2,14 @@
 entity_type: person
 names:
 - SA'D BIN SA'D MUHAMMAD SHARIYAN AL-KA'BI
-- 'Sa''d bin Sa''d Muhammad Shiryan al-Ka''bi '
-- 'Sa''d Sa''d Muhammad Shiryan al-Ka''bi '
-- 'Sa''d al-Sharyan al-Ka''bi '
-- 'Abu Haza'' '
-- 'Abu Hazza'' '
-- 'Umar al-Afghani '
-- 'Abu Sa''d '
-- 'Abu Suad '
+- Sa'd bin Sa'd Muhammad Shiryan al-Ka'bi
+- Sa'd Sa'd Muhammad Shiryan al-Ka'bi
+- Sa'd al-Sharyan al-Ka'bi
+- Abu Haza'
+- Abu Hazza'
+- Umar al-Afghani
+- Abu Sa'd
+- Abu Suad
 designation: 
 source: un-data
 ref_number: QDi.382
@@ -29,8 +29,8 @@ documents:
 - type: Passport
   number: '00966737'
   country: Qatar
-  note: 'expired 16 Feb. 2016 ,    ,   '
+  note: expired 16 Feb. 2016
 - type: National Identification Number
   number: '27263401275'
   country: Qatar
-  note: "   ,   "
+  note: 

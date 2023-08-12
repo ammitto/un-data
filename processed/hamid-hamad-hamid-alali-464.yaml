@@ -25,8 +25,8 @@ documents:
 - type: Passport
   number: '001714467'
   country: Kuwait
-  note: "   ,   "
+  note: 
 - type: Passport
   number: '101505554'
   country: Kuwait
-  note: "   ,   "
+  note: 

@@ -2,7 +2,7 @@
 entity_type: person
 names:
 - EMILIE EDWIGE KONIG
-- 'Emilie Samra Konig  '
+- Emilie Samra Konig
 designation: 
 source: un-data
 ref_number: QDi.340
@@ -26,12 +26,12 @@ documents:
 - type: Passport
   number: French passport number 05AT521433
   country: 
-  note: 'issued by the sous-prefecture of police of Lorient, France ,    ,   '
+  note: issued by the sous-prefecture of police of Lorient, France
 - type: National Identification Number
   number: French national identity card number 050456101445
   country: 
-  note: 'issued by the sous-prefecture of police of Lorient, France ,    ,   '
+  note: issued by the sous-prefecture of police of Lorient, France
 - type: National Identification Number
   number: French identity card number 0205561020089
   country: 
-  note: 'issued under name Emilie Edwige Konig ,    ,   '
+  note: issued under name Emilie Edwige Konig

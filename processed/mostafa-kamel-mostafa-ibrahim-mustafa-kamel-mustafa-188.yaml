@@ -2,14 +2,14 @@
 entity_type: person
 names:
 - MOSTAFA KAMEL MOSTAFA IBRAHIM
-- 'Mustafa Kamel Mustafa '
-- 'Adam Ramsey Eaman '
-- 'Kamel Mustapha Mustapha '
-- 'Mustapha Kamel Mustapha '
-- 'Mostafa Kamel Mostafa '
-- 'Abu Hamza Al-Masri '
-- 'Abu Hamza '
-- 'Abu Hamza Al-Misri '
+- Mustafa Kamel Mustafa
+- Adam Ramsey Eaman
+- Kamel Mustapha Mustapha
+- Mustapha Kamel Mustapha
+- Mostafa Kamel Mostafa
+- Abu Hamza Al-Masri
+- Abu Hamza
+- Abu Hamza Al-Misri
 designation: 
 source: un-data
 ref_number: QDi.067

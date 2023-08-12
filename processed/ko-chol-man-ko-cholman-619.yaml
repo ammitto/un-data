@@ -2,7 +2,7 @@
 entity_type: person
 names:
 - KO CHOL MAN
-- 'Ko Ch''o''l-man '
+- Ko Ch'o'l-man
 designation: Ko Chol Man is an overseas Foreign Trade Bank representative
 source: un-data
 ref_number: KPi.069
@@ -20,4 +20,4 @@ documents:
 - type: Passport
   number: '472420180'
   country: 
-  note: "   ,   "
+  note: 

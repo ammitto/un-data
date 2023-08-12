@@ -2,7 +2,7 @@
 entity_type: person
 names:
 - MOUNIR EL MOTASSADEQ
-- 'Mounir el Moutassadeq '
+- Mounir el Moutassadeq
 designation: 
 source: un-data
 ref_number: QDi.082
@@ -25,8 +25,8 @@ documents:
 - type: Passport
   number: H 236483
   country: Morocco
-  note: "   ,   "
+  note: 
 - type: National Identification Number
   number: E-491591
   country: Morocco
-  note: "   ,   "
+  note: 

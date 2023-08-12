@@ -2,7 +2,7 @@
 entity_type: person
 names:
 - ABDELKADER LAAGOUB
-- 'Rachid '
+- Rachid
 designation: 
 source: un-data
 ref_number: QDi.190
@@ -23,8 +23,8 @@ documents:
 - type: Passport
   number: D-379312
   country: Morocco
-  note: "   ,   "
+  note: 
 - type: National Identification Number
   number: 
   country: 
-  note: 'Moroccan national identity card DE- 473900 ,    ,   '
+  note: Moroccan national identity card DE- 473900

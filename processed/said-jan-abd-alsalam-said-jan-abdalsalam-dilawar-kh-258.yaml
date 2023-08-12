@@ -1,0 +1,47 @@
+---
+entity_type: person
+names:
+- SAID JAN ‘ABD AL-SALAM
+- Sa'id Jan 'Abd-al-Salam
+- Dilawar Khan Zain Khan
+- Qazi 'Abdallah
+- Qazi Abdullah
+- Ibrahim Walid
+- Qasi Sa'id Jan
+- Said Jhan
+- Farhan Khan
+- Aziz Cairo
+- Nangiali
+designation: 
+source: un-data
+ref_number: QDi.289
+ref_type: Al-Qaida
+country: Afghanistan
+birthdate: '1981-02-05'
+remark: In approximately 2005, ran a "basic training" camp for Al-Qaida (QDe.004)
+  in Pakistan.  Review pursuant to Security Council resolution 2253 (2015) was concluded
+  on 21 Feb. 2019. Review pursuant to Security Council resolution 2610 (2021) was
+  concluded on 8 November 2022.
+address:
+- street: 
+  city: 
+  state: 
+  country: ''
+  zip: 
+documents:
+- type: Passport
+  number: |2-
+
+    OR801168
+  country: Afghanistan
+  note: expires 27 Feb. 2011, under name Said Jan 'Abd al-Salam
+- type: Passport
+  number: |2-
+
+    4117921
+  country: Pakistan
+  note: expires 9 Sep. 2013, issued under name Dilawar Khan Zain Khan
+- type: National Identification Number
+  number: '281020505755'
+  country: Kuwait
+  note: issued under name Said Jan 'Abd al-Salam

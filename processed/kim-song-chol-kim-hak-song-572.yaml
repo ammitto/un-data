@@ -2,7 +2,7 @@
 entity_type: person
 names:
 - KIM SONG CHOL
-- 'Kim Hak Song '
+- Kim Hak Song
 designation: 
 source: un-data
 ref_number: KPi.030
@@ -21,8 +21,8 @@ documents:
 - type: Passport
   number: '381420565'
   country: 
-  note: "   ,   "
+  note: 
 - type: Passport
   number: '654120219'
   country: 
-  note: "   ,   "
+  note: 

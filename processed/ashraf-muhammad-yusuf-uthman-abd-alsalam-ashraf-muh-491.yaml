@@ -2,11 +2,11 @@
 entity_type: person
 names:
 - ASHRAF MUHAMMAD YUSUF 'UTHMAN 'ABD AL-SALAM
-- 'Ashraf Muhammad Yusif ''Uthman ''Abd-al-Salam '
-- 'Ashraf Muhammad Yusuf ''Abd-al-Salam '
-- 'Ashraf Muhammad Yusif ''Abd al-Salam '
-- 'Khattab '
-- 'Ibn al-Khattab '
+- Ashraf Muhammad Yusif 'Uthman 'Abd-al-Salam
+- Ashraf Muhammad Yusuf 'Abd-al-Salam
+- Ashraf Muhammad Yusif 'Abd al-Salam
+- Khattab
+- Ibn al-Khattab
 designation: 
 source: un-data
 ref_number: QDi.343
@@ -29,8 +29,8 @@ documents:
 - type: Passport
   number: K048787
   country: 
-  note: "   ,   "
+  note: 
 - type: Passport
   number: '486298'
   country: 
-  note: "   ,   "
+  note: 

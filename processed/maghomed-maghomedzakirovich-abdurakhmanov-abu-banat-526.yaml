@@ -2,8 +2,8 @@
 entity_type: person
 names:
 - MAGHOMED MAGHOMEDZAKIROVICH ABDURAKHMANOV
-- 'Abu Banat '
-- 'Abu al Banat '
+- Abu Banat
+- Abu al Banat
 designation: 
 source: un-data
 ref_number: QDi.363
@@ -28,8 +28,8 @@ documents:
 - type: Passport
   number: Russian foreign travel passport number 515458008
   country: 
-  note: 'expires 30 May 2017 ,    ,   '
+  note: expires 30 May 2017
 - type: National Identification Number
   number: '8200203535'
   country: Russian Federation
-  note: "   ,   "
+  note: 

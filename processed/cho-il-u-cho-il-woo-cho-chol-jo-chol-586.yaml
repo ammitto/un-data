@@ -1,0 +1,26 @@
+---
+entity_type: person
+names:
+- CHO IL U
+- Cho Il Woo
+- Cho Ch’o’l
+- Jo Chol
+designation: 'Director of the Fifth Bureau of the Reconnaissance General Bureau '
+source: un-data
+ref_number: KPi.040
+ref_type: DPRK
+country: Democratic People's Republic of Korea
+birthdate: '1945-05-10'
+remark: Cho is believed to be in charge of overseas espionage operations and foreign
+  intelligence collection for the Democratic People's Republic of Korea.
+address:
+- street: 
+  city: 
+  state: 
+  country: Democratic People's Republic of Korea
+  zip: 
+documents:
+- type: Passport
+  number: '736410010'
+  country: 
+  note: 

@@ -2,14 +2,14 @@
 entity_type: person
 names:
 - HAMID ABDALLAH AHMAD AL-ALI
-- 'Dr. Hamed Abdullah Al-Ali '
-- 'Hamed Al-''Ali '
-- 'Hamed bin ''Abdallah Al-''Ali '
-- 'Hamid ''Abdallah Al-''Ali '
-- 'Hamid ''Abdallah Ahmad Al-''Ali '
-- 'Hamid bin Abdallah Ahmed Al-Ali '
-- 'Hamid Abdallah Ahmed Al-Ali '
-- 'Abu Salim '
+- Dr. Hamed Abdullah Al-Ali
+- Hamed Al-'Ali
+- Hamed bin 'Abdallah Al-'Ali
+- Hamid 'Abdallah Al-'Ali
+- Hamid 'Abdallah Ahmad Al-'Ali
+- Hamid bin Abdallah Ahmed Al-Ali
+- Hamid Abdallah Ahmed Al-Ali
+- Abu Salim
 designation: 
 source: un-data
 ref_number: QDi.236
@@ -29,8 +29,8 @@ documents:
 - type: Passport
   number: '1739010'
   country: Kuwait
-  note: 'and expired on 25 May 2008 ,    ,   '
+  note: and expired on 25 May 2008
 - type: National Identification Number
   number: '260012001546'
   country: Kuwait
-  note: "   ,   "
+  note: 

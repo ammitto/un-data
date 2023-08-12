@@ -2,9 +2,9 @@
 entity_type: person
 names:
 - HASAN AL-SALAHAYN SALIH AL-SHA’ARI
-- 'Husayn al-Salihin Salih al-Sha‘iri '
-- 'Abu Habib al-Libi '
-- 'Hasan Abu Habib '
+- Husayn al-Salihin Salih al-Sha‘iri
+- Abu Habib al-Libi
+- Hasan Abu Habib
 designation: 
 source: un-data
 ref_number: QDi.385
@@ -24,8 +24,8 @@ documents:
 - type: Passport
   number: '542858'
   country: Libya
-  note: "   ,   "
+  note: 
 - type: National Identification Number
   number: national identification number 55252
   country: Libya
-  note: "   ,   "
+  note: 

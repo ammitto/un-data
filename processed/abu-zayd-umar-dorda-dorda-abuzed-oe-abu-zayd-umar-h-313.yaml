@@ -1,0 +1,26 @@
+---
+entity_type: person
+names:
+- ABU ZAYD UMAR DORDA
+- Dorda Abuzed OE
+- Abu Zayd Umar Hmeid Dorda
+designation: Director, External Security Organisation.
+source: un-data
+ref_number: LYi.006
+ref_type: Libya
+country: 
+birthdate: '1944-04-04'
+remark: |-
+  Listed pursuant to paragraph 15 of resolution 1970 (Travel Ban). Listed
+  on 17 March 2011 pursuant to paragraph 17 of resolution 1970 (Asset Freeze).
+address:
+- street: 
+  city: 
+  state: 
+  country: Libya
+  zip: 
+documents:
+- type: Passport
+  number: FK117RK0
+  country: Libya
+  note: 'Date of expiration: 24 Nov 2026'

@@ -1,0 +1,28 @@
+---
+entity_type: organization
+names:
+- JUND AL AQSA
+- The Soldiers of Aqsa
+- Soldiers of Aqsa
+- Sarayat Al Quds
+designation: 
+source: un-data
+ref_number: QDe.156
+ref_type: Al-Qaida
+country: 
+birthdate: 
+remark: Associated with the Al Nusrah Front for the People of the Levant (QDe.137).
+  Review pursuant to Security Council resolution 2610 (2021) was concluded on 8 November
+  2022.
+address:
+- street: 
+  city: 
+  state: Idlib Governorate
+  country: Syrian Arab Republic
+  zip: 
+- street: 
+  city: 
+  state: Hama Governorate
+  country: Syrian Arab Republic
+  zip: 
+documents: []

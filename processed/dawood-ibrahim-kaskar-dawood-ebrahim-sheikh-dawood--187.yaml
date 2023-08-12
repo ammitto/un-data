@@ -1,0 +1,111 @@
+---
+entity_type: person
+names:
+- DAWOOD IBRAHIM KASKAR
+- Dawood Ebrahim
+- Sheikh Dawood Hassan
+- Abdul Hamid Abdul Aziz
+- Anis Ibrahim
+- Aziz Dilip
+- Daud Hasan Shaikh Ibrahim Kaskar
+- Daud Ibrahim Memon Kaskar
+- Dawood Hasan Ibrahim Kaskar
+- Dawood Ibrahim Memon
+- Dawood Sabri
+- Kaskar Dawood Hasan
+- Shaikh Mohd Ismail Abdul Rehman
+- Dowood Hassan Shaikh Ibrahim
+- Dawood Bhai
+- Ibrahim Shaikh Mohd Anis
+- Shaikh Ismail Abdul
+- Hizrat
+- Sheikh Farooqi
+- Bada Seth
+- Bada Bhai
+- Iqbal Bhai
+- Mucchad
+- Haji Sahab
+designation: 
+source: un-data
+ref_number: QDi.135
+ref_type: Al-Qaida
+country: India
+birthdate: '1955-12-26'
+remark: |-
+  Father’s name is Sheikh Ibrahim Ali Kaskar, mother’s name is Amina Bi, wife’s
+  name is Mehjabeen Shaikh. International arrest warrant issued by the Government of India. Review
+  pursuant to Security Council resolution 1822 (2008) was concluded on 20 May
+  2010. Review pursuant to Security Council resolution 2368 (2017) was concluded on 24 November 2020.
+address:
+- street: 
+  city: Karachi
+  state: 
+  country: Pakistan
+  zip: 
+- street: House Nu 37 - 30th Street - defence, Housing Authority, Karachi
+  city: 
+  state: 
+  country: Pakistan
+  zip: 
+- street: Palatial bungalow in the hilly area of Noorabad in Karachi
+  city: 
+  state: 
+  country: Pakistan
+  zip: 
+documents:
+- type: Passport
+  number: A-333602
+  country: India
+  note: passport subsequently revoked by the Government of India
+- type: Passport
+  number: M110522
+  country: India
+  note: 
+- type: Passport
+  number: R841697
+  country: India
+  note: 
+- type: Passport
+  number: 'F823692 '
+  country: India
+  note: "(JEDDAH) issued by CGI in Jeddah"
+- type: Passport
+  number: 'A501801 '
+  country: India
+  note: 
+- type: Passport
+  number: K560098
+  country: India
+  note: 
+- type: Passport
+  number: V57865
+  country: 
+  note: 
+- type: Passport
+  number: 'P537849 '
+  country: India
+  note: 
+- type: Passport
+  number: 'A717288 '
+  country: 
+  note: MISUSE
+- type: Passport
+  number: 'G866537 '
+  country: Pakistan
+  note: MISUSE
+- type: Passport
+  number: C-267185
+  country: 
+  note: issued in Karachi in Jul.1996
+- type: Passport
+  number: H-123259
+  country: 
+  note: issued in Rawalpindi in Jul. 2001
+- type: Passport
+  number: G-869537
+  country: 
+  note: issued in Rawalpindi
+- type: Passport
+  number: KC-285901
+  country: 
+  note: 

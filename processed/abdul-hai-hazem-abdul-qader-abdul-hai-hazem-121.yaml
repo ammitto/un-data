@@ -2,7 +2,7 @@
 entity_type: person
 names:
 - ABDUL HAI HAZEM ABDUL QADER
-- 'Abdul Hai Hazem '
+- Abdul Hai Hazem
 designation: |-
   First Secretary, Taliban Consulate General, Quetta,
   Pakistan
@@ -24,4 +24,4 @@ documents:
 - type: Passport
   number: D 0001203
   country: 
-  note: "   ,   "
+  note: 

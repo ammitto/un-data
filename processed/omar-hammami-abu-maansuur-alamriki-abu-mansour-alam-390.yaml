@@ -1,0 +1,33 @@
+---
+entity_type: person
+names:
+- OMAR HAMMAMI
+- Abu Maansuur Al-Amriki
+- Abu Mansour Al-Amriki
+- Abu Mansuur Al-Amriki
+- Umar Hammami
+- Abu Mansur Al-Amriki
+designation: 
+source: un-data
+ref_number: SOi.010
+ref_type: Somalia
+country: United States of America
+birthdate: '1986-05-06'
+remark: |-
+  Married to a Somali woman. Lived in Egypt in 2005 and moved to Somalia in
+  2009.
+address:
+- street: 
+  city: 
+  state: 
+  country: Somalia
+  zip: 
+documents:
+- type: Passport
+  number: 403062567 (US)
+  country: 
+  note: 
+- type: National Identification Number
+  number: Social Security Number 423-31-3021 (US)
+  country: 
+  note: 

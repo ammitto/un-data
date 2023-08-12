@@ -31,8 +31,8 @@ documents:
 - type: Passport
   number: D9011156
   country: 
-  note: "   ,   "
+  note: 
 - type: Passport
   number: " AA0260156"
   country: 
-  note: 'date of expiration: 2 August 2023 ,    ,   '
+  note: 'date of expiration: 2 August 2023'

@@ -2,7 +2,7 @@
 entity_type: person
 names:
 - NAJIBULLAH MUHAMMAD JUMA
-- 'Najib Ullah '
+- Najib Ullah
 designation: |-
   Consul General, Taliban Consulate General, Peshawar,
   Pakistan
@@ -25,4 +25,4 @@ documents:
 - type: Passport
   number: '000737'
   country: Afghanistan
-  note: "   ,   "
+  note: 

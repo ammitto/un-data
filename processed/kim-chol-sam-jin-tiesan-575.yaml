@@ -2,7 +2,7 @@
 entity_type: person
 names:
 - KIM CHOL SAM
-- 'Jin Tiesan (金铁三) '
+- Jin Tiesan (金铁三)
 designation: Representative for Daedong Credit Bank (DCB)
 source: un-data
 ref_number: KPi.035
@@ -26,4 +26,4 @@ documents:
 - type: Passport
   number: '645120378 '
   country: Democratic People's Republic of Korea
-  note: "   ,   "
+  note: 

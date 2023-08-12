@@ -2,18 +2,18 @@
 entity_type: person
 names:
 - TARKHAN TAYUMURAZOVICH BATIRASHVILI
-- 'Tarkhan Tayumurazovich Batyrashvili '
-- 'Tarkhan Batirashvili '
-- 'Omar Shishani '
-- 'Umar Shishani '
-- 'Abu Umar al-Shishani '
-- 'Omar al-Shishani '
-- 'Chechen Omar '
-- 'Omar the Chechen '
-- 'Omer the Chechen '
-- 'Umar the Chechen '
-- 'Abu Umar '
-- 'Abu Hudhayfah '
+- Tarkhan Tayumurazovich Batyrashvili
+- Tarkhan Batirashvili
+- Omar Shishani
+- Umar Shishani
+- Abu Umar al-Shishani
+- Omar al-Shishani
+- Chechen Omar
+- Omar the Chechen
+- Omer the Chechen
+- Umar the Chechen
+- Abu Umar
+- Abu Hudhayfah
 designation: 
 source: un-data
 ref_number: QDi.345
@@ -36,8 +36,8 @@ documents:
 - type: Passport
   number: '09AL14455'
   country: 
-  note: 'expires on 26 Jun. 2019 ,    ,   '
+  note: expires on 26 Jun. 2019
 - type: National Identification Number
   number: '08001007864'
   country: 
-  note: "   ,   "
+  note: 

@@ -2,7 +2,7 @@
 entity_type: person
 names:
 - ISLAM SEIT-UMAROVICH ATABIEV
-- 'Abu Jihad '
+- Abu Jihad
 designation: 
 source: un-data
 ref_number: QDi.364
@@ -32,9 +32,10 @@ documents:
 - type: Passport
   number: Russian foreign travel passport number 620169661
   country: 
-  note: "   ,   "
+  note: 
 - type: National Identification Number
   number: '9103314932'
   country: Russian Federation
-  note: "issued by Department of the Federal Migration Service of the Russian\nFederation
-    for the Republic Karachayevo-Cherkessia ,    ,   "
+  note: |-
+    issued by Department of the Federal Migration Service of the Russian
+    Federation for the Republic Karachayevo-Cherkessia

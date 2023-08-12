@@ -2,9 +2,9 @@
 entity_type: person
 names:
 - MAHMOOD SULTAN BASHIR-UD-DIN
-- 'Mahmood, Sultan Bashiruddin '
-- 'Mehmood, Dr. Bashir Uddin '
-- 'Mekmud, Sultan Baishiruddin '
+- Mahmood, Sultan Bashiruddin
+- Mehmood, Dr. Bashir Uddin
+- Mekmud, Sultan Baishiruddin
 designation: 
 source: un-data
 ref_number: QDi.055

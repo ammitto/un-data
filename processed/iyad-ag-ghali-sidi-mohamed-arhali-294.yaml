@@ -2,7 +2,7 @@
 entity_type: person
 names:
 - IYAD AG GHALI
-- 'Sidi Mohamed Arhali '
+- Sidi Mohamed Arhali
 designation: 
 source: un-data
 ref_number: QDi.316
@@ -26,8 +26,8 @@ documents:
 - type: Passport
   number: A1037434
   country: Mali
-  note: 'expires on 31 Dec. 2014 ,    ,   '
+  note: expires on 31 Dec. 2014
 - type: National Identification Number
   number: '012546'
   country: Mali
-  note: "   ,   "
+  note: 

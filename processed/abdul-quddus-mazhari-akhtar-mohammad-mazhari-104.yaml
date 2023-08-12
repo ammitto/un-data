@@ -2,7 +2,7 @@
 entity_type: person
 names:
 - ABDUL QUDDUS MAZHARI
-- 'Akhtar Mohammad Maz-hari '
+- Akhtar Mohammad Maz-hari
 designation: |-
   Education Attache, Taliban Consulate General, Peshawar,
   Pakistan
@@ -24,4 +24,4 @@ documents:
 - type: Passport
   number: Afghan passport number SE 012820
   country: 
-  note: "   ,   "
+  note: 

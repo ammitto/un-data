@@ -2,7 +2,7 @@
 entity_type: person
 names:
 - SAYYID MOHAMMED QADHAF AL-DAM
-- 'Sayed M. Gaddef Eddam '
+- Sayed M. Gaddef Eddam
 designation: 
 source: un-data
 ref_number: LYi.003
@@ -22,4 +22,4 @@ documents:
 - type: Passport
   number: 'Libyan passport No. 513519 '
   country: 
-  note: "   ,   "
+  note: 

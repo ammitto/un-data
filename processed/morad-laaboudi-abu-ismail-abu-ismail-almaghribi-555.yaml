@@ -1,0 +1,31 @@
+---
+entity_type: person
+names:
+- MORAD LAABOUDI
+- Abu Ismail
+- Abu Ismail al-Maghribi
+designation: 
+source: un-data
+ref_number: QDi.383
+ref_type: Al-Qaida
+country: Morocco
+birthdate: '1993-02-26'
+remark: |-
+  Facilitator for travel of foreign terrorist fighters to join Islamic State in
+                  Iraq and the Levant, listed as Al-Qaida in Iraq (QDe.115), in Syrian Arab
+                  Republic. Review pursuant to Security Council resolution 2368 (2017) was concluded on 15 November 2021.
+address:
+- street: 
+  city: 
+  state: 
+  country: Turkey
+  zip: 
+documents:
+- type: Passport
+  number: UZ6430184
+  country: Morocco
+  note: 
+- type: National Identification Number
+  number: CD595054
+  country: Morocco
+  note: 

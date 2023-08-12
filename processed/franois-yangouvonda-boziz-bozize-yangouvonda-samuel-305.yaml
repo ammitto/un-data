@@ -1,0 +1,36 @@
+---
+entity_type: person
+names:
+- FRANÇOIS YANGOUVONDA BOZIZÉ
+- Bozize Yangouvonda
+- Samuel Peter Mudde
+designation: 
+source: un-data
+ref_number: CFi.001
+ref_type: CAR
+country: Central African Republic
+birthdate: '1946-10-14'
+remark: Mother’s name is Martine Kofio. Photo available for inclusion in the INTERPOL-UN
+  Security Council Special Notice.
+address:
+- street: 
+  city: 
+  state: 
+  country: Uganda
+  zip: 
+- street: 
+  city: Bangui
+  state: 
+  country: Central African Republic
+  zip: 
+documents:
+- type: Passport
+  number: D00002264
+  country: 
+  note: |-
+    issued by the Minister of Foreign Affairs, in Juba, South Sudan. Expires on 11
+    Jun. 2017. Diplomatic passport issued under name Samuel Peter Mudde
+- type: National Identification Number
+  number: M4800002143743
+  country: 
+  note: Personal number on passport

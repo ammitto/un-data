@@ -2,11 +2,11 @@
 entity_type: person
 names:
 - MOHAMMAD HAMDI MOHAMMAD SADIQ AL-AHDAL
-- 'Al-Hamati, Muhammad '
-- 'Muhammad Muhammad Abdullah Al-Ahdal '
-- 'Mohamed Mohamed Abdullah Al-Ahdal '
-- 'Abu Asim Al-Makki '
-- 'Ahmed '
+- Al-Hamati, Muhammad
+- Muhammad Muhammad Abdullah Al-Ahdal
+- Mohamed Mohamed Abdullah Al-Ahdal
+- Abu Asim Al-Makki
+- Ahmed
 designation: 
 source: un-data
 ref_number: QDi.020
@@ -30,8 +30,8 @@ documents:
 - type: Passport
   number: '541939'
   country: Yemen
-  note: 'in the name of Muhammad Muhammad Abdullah Al-Ahdal ,    ,   '
+  note: in the name of Muhammad Muhammad Abdullah Al-Ahdal
 - type: National Identification Number
   number: '216040'
   country: 
-  note: "   ,   "
+  note: 

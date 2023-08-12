@@ -2,22 +2,39 @@
 entity_type: person
 names:
 - Amir Muhammad Sa’id Abdal-Rahman al-Salbi
-- "Abu Ibrahim al-Hashimi\n                                                  al-Qurashi "
-- 'Hajji Abdallah '
-- "Abu ‘Umar\n                                                  al-Turkmani "
-- "Abdullah\n                                                  Qardash "
-- "Abu ‘Abdullah\n                                                  Qardash "
-- "al-Hajj Abdullah\n                                                  Qardash "
-- "Hajji Abdullah\n                                                  Al-Afari "
-- "`Abdul Amir Muhammad\n                                                  Sa'id Salbi "
-- "Muhammad Sa'id\n                                                  `Abd-al-Rahman
-  al-Mawla "
-- "Amir Muhammad Sa’id\n                                                  ‘Abd-al-Rahman
-  Muhammad al-Mula "
-- 'Al-Ustadh '
-- 'Ustadh Ahmad '
-- "Amir Muhammad Sa’id\n                                                  Abdal-Rahman
-  al-Mawla "
+- |-
+  Abu Ibrahim al-Hashimi
+                                                    al-Qurashi
+- Hajji Abdallah
+- |-
+  Abu ‘Umar
+                                                    al-Turkmani
+- |-
+  Abdullah
+                                                    Qardash
+- |-
+  Abu ‘Abdullah
+                                                    Qardash
+- |-
+  al-Hajj Abdullah
+                                                    Qardash
+- |-
+  Hajji Abdullah
+                                                    Al-Afari
+- |-
+  `Abdul Amir Muhammad
+                                                    Sa'id Salbi
+- |-
+  Muhammad Sa'id
+                                                    `Abd-al-Rahman al-Mawla
+- |-
+  Amir Muhammad Sa’id
+                                                    ‘Abd-al-Rahman Muhammad al-Mula
+- Al-Ustadh
+- Ustadh Ahmad
+- |-
+  Amir Muhammad Sa’id
+                                                    Abdal-Rahman al-Mawla
 designation: 
 source: un-data
 ref_number: QDi.426
@@ -56,4 +73,4 @@ documents:
                                                       Number
   number: '00278640'
   country: 
-  note: "   ,   "
+  note: 

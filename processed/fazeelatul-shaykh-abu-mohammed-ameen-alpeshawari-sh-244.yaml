@@ -2,13 +2,13 @@
 entity_type: person
 names:
 - FAZEEL-A-TUL SHAYKH ABU MOHAMMED AMEEN AL-PESHAWARI
-- 'Shaykh Aminullah '
-- 'Sheik Aminullah '
-- 'Abu Mohammad Aminullah Peshawari '
-- 'Abu Mohammad Amin Bishawri '
-- 'Abu Mohammad Shaykh Aminullah Al-Bishauri '
-- 'Shaykh Abu Mohammed Ameen al-Peshawari '
-- 'Shaykh Aminullah Al-Peshawari '
+- Shaykh Aminullah
+- Sheik Aminullah
+- Abu Mohammad Aminullah Peshawari
+- Abu Mohammad Amin Bishawri
+- Abu Mohammad Shaykh Aminullah Al-Bishauri
+- Shaykh Abu Mohammed Ameen al-Peshawari
+- Shaykh Aminullah Al-Peshawari
 designation: 
 source: un-data
 ref_number: QDi.273

@@ -2,17 +2,17 @@
 entity_type: person
 names:
 - RAMZI MOHAMED ABDULLAH BINALSHIBH
-- 'Binalsheidah, Ramzi Mohamed Abdullah '
-- 'Bin Al Shibh, Ramzi '
-- 'Omar, Ramzi Mohamed Abdellah '
-- 'Mohamed Ali Abdullah Bawazir '
-- 'Binalshibh Ramzi Mohammed Abdullah '
-- 'Ramzi Binalshib '
-- 'Ramzi Mohamed Abdellah Omar Hassan Alassiri '
-- 'Binalshibh Ramsi Mohamed Abdullah '
-- 'Abu Ubaydah '
-- "'Umar Muhammad 'Abdallah Ba' Amar "
-- 'Ramzi Omar '
+- Binalsheidah, Ramzi Mohamed Abdullah
+- Bin Al Shibh, Ramzi
+- Omar, Ramzi Mohamed Abdellah
+- Mohamed Ali Abdullah Bawazir
+- Binalshibh Ramzi Mohammed Abdullah
+- Ramzi Binalshib
+- Ramzi Mohamed Abdellah Omar Hassan Alassiri
+- Binalshibh Ramsi Mohamed Abdullah
+- Abu Ubaydah
+- "'Umar Muhammad 'Abdallah Ba' Amar"
+- Ramzi Omar
 designation: 
 source: un-data
 ref_number: QDi.081
@@ -33,4 +33,4 @@ documents:
 - type: Passport
   number: '00085243'
   country: 
-  note: "   ,   "
+  note: 

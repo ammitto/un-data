@@ -2,7 +2,7 @@
 entity_type: person
 names:
 - NAZIRULLAH HANAFI WALIULLAH
-- 'Nazirullah Aanafi Waliullah '
+- Nazirullah Aanafi Waliullah
 designation: |-
   Commercial Attache, Taliban Embassy, Islamabad,
   Pakistan
@@ -24,4 +24,4 @@ documents:
 - type: Passport
   number: D 000912
   country: Afghanistan
-  note: "   ,   "
+  note: 

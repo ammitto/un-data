@@ -2,7 +2,7 @@
 entity_type: person
 names:
 - SULAIMAN JASSEM SULAIMAN ALI ABO GHAITH
-- 'Abo Ghaith '
+- Abo Ghaith
 designation: 
 source: un-data
 ref_number: QDi.154
@@ -22,4 +22,4 @@ documents:
 - type: Passport
   number: '849594'
   country: Kuwait
-  note: 'and expired on 24 Jun. 2003 ,    ,   '
+  note: and expired on 24 Jun. 2003

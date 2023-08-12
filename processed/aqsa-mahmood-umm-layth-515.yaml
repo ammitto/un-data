@@ -2,7 +2,7 @@
 entity_type: person
 names:
 - AQSA MAHMOOD
-- 'Umm Layth '
+- Umm Layth
 designation: 
 source: un-data
 ref_number: QDi.356
@@ -27,4 +27,4 @@ documents:
 - type: Passport
   number: '720134834'
   country: United Kingdom of Great Britain and Northern Ireland
-  note: 'expires on 27 Jun. 2022 ,    ,   '
+  note: expires on 27 Jun. 2022

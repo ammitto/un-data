@@ -2,14 +2,14 @@
 entity_type: person
 names:
 - MEHREZ BEN MAHMOUD BEN SASSI AL-AMDOUNI
-- 'Fabio Fusco '
-- 'Fabio Fusco '
-- 'Fabio Fusco '
-- 'Mohamed Hassan '
-- 'Meherez Hamdouni '
-- 'Amdouni Mehrez ben Tah '
-- 'Meherez ben Ahdoud ben Amdouni '
-- 'Abu Thale '
+- Fabio Fusco
+- Fabio Fusco
+- Fabio Fusco
+- Mohamed Hassan
+- Meherez Hamdouni
+- Amdouni Mehrez ben Tah
+- Meherez ben Ahdoud ben Amdouni
+- Abu Thale
 designation: 
 source: un-data
 ref_number: QDi.092
@@ -30,4 +30,4 @@ documents:
 - type: Passport
   number: G737411
   country: Tunisia
-  note: 'expired on 20 Sep. 1997 ,    ,   '
+  note: expired on 20 Sep. 1997

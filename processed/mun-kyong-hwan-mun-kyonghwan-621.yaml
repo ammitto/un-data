@@ -2,7 +2,7 @@
 entity_type: person
 names:
 - MUN KYONG HWAN
-- 'Mun Kyo''ng-hwan '
+- Mun Kyo'ng-hwan
 designation: |-
   Mun Kyong Hwan is an overseas Bank of East Land
                   representative
@@ -22,4 +22,4 @@ documents:
 - type: Passport
   number: '381120660'
   country: 
-  note: 'Expires 25 March 2016 ,    ,   '
+  note: Expires 25 March 2016

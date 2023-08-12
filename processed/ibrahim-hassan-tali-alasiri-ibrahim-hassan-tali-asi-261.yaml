@@ -2,18 +2,18 @@
 entity_type: person
 names:
 - IBRAHIM HASSAN TALI AL-ASIRI
-- 'Ibrahim Hassan Tali Asiri (إبراهيم حسن طالع عسيري) '
-- 'Ibrahim Hasan Talea Aseeri '
-- 'Ibrahim Hassan al-Asiri '
-- 'Ibrahim Hasan Tali Asiri '
-- 'Ibrahim Hassan Tali Assiri '
-- 'Ibrahim Hasan Tali''A ''Asiri '
-- 'Ibrahim Hasan Tali al-''Asiri '
-- 'Ibrahim al-''Asiri '
-- 'Ibrahim Hassan Al Asiri '
-- 'Abu Saleh '
-- 'Abosslah '
-- 'Abu-Salaah '
+- Ibrahim Hassan Tali Asiri (إبراهيم حسن طالع عسيري)
+- Ibrahim Hasan Talea Aseeri
+- Ibrahim Hassan al-Asiri
+- Ibrahim Hasan Tali Asiri
+- Ibrahim Hassan Tali Assiri
+- Ibrahim Hasan Tali'A 'Asiri
+- Ibrahim Hasan Tali al-'Asiri
+- Ibrahim al-'Asiri
+- Ibrahim Hassan Al Asiri
+- Abu Saleh
+- Abosslah
+- Abu-Salaah
 designation: 
 source: un-data
 ref_number: QDi.291
@@ -37,9 +37,10 @@ documents:
 - type: Passport
   number: F654645
   country: Saudi Arabia
-  note: "expired on 7 Mar. 2010. Issue date in Hijri Calendar 24/06/1426. Expiry date\n
-    \                   in Hijri Calendar 21/03/1431. ,    ,   "
+  note: |-
+    expired on 7 Mar. 2010. Issue date in Hijri Calendar 24/06/1426. Expiry date
+                        in Hijri Calendar 21/03/1431.
 - type: National Identification Number
   number: '1028745097'
   country: Saudi Arabia
-  note: "   ,   "
+  note: 

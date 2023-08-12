@@ -1,0 +1,29 @@
+---
+entity_type: person
+names:
+- FARED SAAL
+- Abu Luqmaan Al Almani
+- Abu Lugmaan
+designation: 
+source: un-data
+ref_number: QDi.403
+ref_type: Al-Qaida
+country: Germany
+birthdate: '1989-02-18'
+remark: 'German foreign terrorist fighter for Islamic State in Iraq and the Levant,
+  listed as Al-Qaida in Iraq (QDe.115). Physical description: eye colour: brown; hair
+  colour: black; height: 178cm; weight: 80kg. European arrest warrant issued by the
+  investigating judge of the German Federal Supreme Court on 13 Aug. 2014. Review
+  pursuant to Security Council resolution 2610 (2021) was concluded on 8 November
+  2022.'
+address:
+- street: 
+  city: 
+  state: 
+  country: ''
+  zip: 
+documents:
+- type: National Identification Number
+  number: national identity card number 5802098444
+  country: Germany
+  note: on 15 Apr. 2010, expired on 14 Apr. 2016

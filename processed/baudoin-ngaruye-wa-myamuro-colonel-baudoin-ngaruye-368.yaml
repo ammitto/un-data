@@ -2,7 +2,7 @@
 entity_type: person
 names:
 - BAUDOIN NGARUYE WA MYAMURO
-- 'Colonel Baudoin NGARUYE '
+- Colonel Baudoin NGARUYE
 designation: Brigadier General
 source: un-data
 ref_number: CDi.019
@@ -22,4 +22,4 @@ documents:
 - type: National Identification Number
   number: 1-78-09-44621-80
   country: 
-  note: "   ,   "
+  note: 

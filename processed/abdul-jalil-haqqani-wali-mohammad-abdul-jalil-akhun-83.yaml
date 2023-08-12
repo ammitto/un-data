@@ -2,11 +2,13 @@
 entity_type: person
 names:
 - ABDUL JALIL HAQQANI WALI MOHAMMAD
-- 'Abdul Jalil Akhund '
-- "Akhter Mohmad son of Noor Mohmad (اختر محمد ولد نور محمد\n),  "
-- 'Haji Gulab Gul (حاجی گلاب گل ولد حاجی حضرت گل ) '
-- 'Abdul Jalil Haqqani '
-- 'Nazar Jan '
+- Abdul Jalil Akhund
+- |-
+  Akhter Mohmad son of Noor Mohmad (اختر محمد ولد نور محمد
+  ),
+- Haji Gulab Gul (حاجی گلاب گل ولد حاجی حضرت گل )
+- Abdul Jalil Haqqani
+- Nazar Jan
 designation: |-
   Deputy Minister of Foreign Affairs under the Taliban
   regime
@@ -32,8 +34,8 @@ documents:
 - type: Passport
   number: OR1961825
   country: Afghanistan
-  note: 'expired 2 Feb. 2006, under the name of Akhter Mohmad ,    ,   '
+  note: expired 2 Feb. 2006, under the name of Akhter Mohmad
 - type: Passport
   number: TR024417
   country: Afghanistan
-  note: 'expired 29 Dec. 2006 under the name of Haji Gulab Gul ,    ,   '
+  note: expired 29 Dec. 2006 under the name of Haji Gulab Gul

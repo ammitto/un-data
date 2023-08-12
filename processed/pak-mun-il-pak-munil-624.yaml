@@ -2,7 +2,7 @@
 entity_type: person
 names:
 - PAK MUN IL
-- 'Pak Mun-il '
+- Pak Mun-il
 designation: Former overseas representative of Korea Daesong Bank
 source: un-data
 ref_number: KPi.079
@@ -20,4 +20,4 @@ documents:
 - type: Passport
   number: '563335509'
   country: 
-  note: 'Expires 27 August 2018  ,    ,   '
+  note: Expires 27 August 2018

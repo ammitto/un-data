@@ -2,9 +2,9 @@
 entity_type: person
 names:
 - NOUREDDINE BEN ALI BEN BELKASSEM AL-DRISSI
-- 'Drissi Noureddine '
-- 'Abou Ali '
-- 'Faycal '
+- Drissi Noureddine
+- Abou Ali
+- Faycal
 designation: 
 source: un-data
 ref_number: QDi.149
@@ -26,4 +26,4 @@ documents:
 - type: Passport
   number: L851940
   country: Tunisia
-  note: 'expired on 8 Sep. 2003 ,    ,   '
+  note: expired on 8 Sep. 2003

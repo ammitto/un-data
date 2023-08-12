@@ -2,7 +2,7 @@
 entity_type: person
 names:
 - TARAK BEN TAHER BEN FALEH OUNI HARZI
-- 'Abou Omar Al Tounisi '
+- Abou Omar Al Tounisi
 designation: 
 source: un-data
 ref_number: QDi.354
@@ -44,8 +44,8 @@ documents:
 - type: Passport
   number: Z050399
   country: Tunisia
-  note: 'expired on 8 Dec. 2008 ,    ,   '
+  note: expired on 8 Dec. 2008
 - type: National Identification Number
   number: '04711809'
   country: Tunisia
-  note: "   ,   "
+  note: 

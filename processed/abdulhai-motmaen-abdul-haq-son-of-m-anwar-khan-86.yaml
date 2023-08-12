@@ -2,7 +2,9 @@
 entity_type: person
 names:
 - ABDULHAI MOTMAEN
-- "Abdul Haq son of M. Anwar Khan (عبد الحق ولد محمد انور\nخان) "
+- |-
+  Abdul Haq son of M. Anwar Khan (عبد الحق ولد محمد انور
+  خان)
 designation: |-
   Director of the Information and Culture Department in Kandahar
   Province under the Taliban regime
@@ -27,4 +29,4 @@ documents:
 - type: Passport
   number: OA462456
   country: Afghanistan
-  note: 'issued under the name of Abdul Haq ,    ,   '
+  note: issued under the name of Abdul Haq

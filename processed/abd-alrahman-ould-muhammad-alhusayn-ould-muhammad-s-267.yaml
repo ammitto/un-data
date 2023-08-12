@@ -2,15 +2,17 @@
 entity_type: person
 names:
 - ABD AL-RAHMAN OULD MUHAMMAD AL-HUSAYN OULD MUHAMMAD SALIM
-- "Abdarrahmane ould Mohamed el Houcein ould Mohamed\nSalem "
-- 'شيخ يونس الموريتاني  '
-- 'Salih the Mauritanian '
-- 'Mohamed Salem '
-- 'Youssef Ould Abdel Jelil '
-- 'El Hadj Ould Abdel Ghader '
-- 'Abdel Khader '
-- 'Abou Souleimane '
-- 'Chingheity '
+- |-
+  Abdarrahmane ould Mohamed el Houcein ould Mohamed
+  Salem
+- شيخ يونس الموريتاني
+- Salih the Mauritanian
+- Mohamed Salem
+- Youssef Ould Abdel Jelil
+- El Hadj Ould Abdel Ghader
+- Abdel Khader
+- Abou Souleimane
+- Chingheity
 designation: 
 source: un-data
 ref_number: QDi.298

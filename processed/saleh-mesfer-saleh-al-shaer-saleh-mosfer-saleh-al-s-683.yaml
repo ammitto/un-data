@@ -2,12 +2,12 @@
 entity_type: person
 names:
 - SALEH MESFER SALEH AL SHAER
-- 'Saleh Mosfer Saleh al Shaer  '
-- 'Saleh Musfer Saleh al Shaer '
-- 'Saleh Mesfer al Shaer  '
-- 'Saleh al Shae  '
-- 'Saleh al Sha’ir  '
-- 'Abu Yasser  '
+- Saleh Mosfer Saleh al Shaer
+- Saleh Musfer Saleh al Shaer
+- Saleh Mesfer al Shaer
+- Saleh al Shae
+- Saleh al Sha’ir
+- Abu Yasser
 designation: |-
   Major General, ‘Judicial Custodian’ of properties and funds owned by
                   Houthis’ opponents
@@ -34,16 +34,16 @@ documents:
 - type: Passport
   number: '05274639'
   country: Yemen
-  note: 'Expiration date: 7 Oct 2019 ,    ,   '
+  note: 'Expiration date: 7 Oct 2019'
 - type: Passport
   number: '00481779'
   country: Yemen
-  note: 'Expiration date: 9 Dec 2006 ,    ,   '
+  note: 'Expiration date: 9 Dec 2006'
 - type: National Identification Number
   number: '1388114'
   country: Yemen
-  note: "   ,   "
+  note: 
 - type: National Identification Number
   number: '10010057512'
   country: Yemen
-  note: "   ,   "
+  note: 

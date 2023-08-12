@@ -2,11 +2,11 @@
 entity_type: person
 names:
 - SALIM MUSTAFA MUHAMMAD AL-MANSUR
-- 'Salim Mustafa Muhammad Mansur Al-Ifri '
-- 'Saleem Al-Ifri '
-- 'Salim Mansur Mustafa '
-- 'Salim Mansur '
-- 'Hajji Salim Al-Shaklar '
+- Salim Mustafa Muhammad Mansur Al-Ifri
+- Saleem Al-Ifri
+- Salim Mansur Mustafa
+- Salim Mansur
+- Hajji Salim Al-Shaklar
 designation: 
 source: un-data
 ref_number: QDi.411
@@ -31,13 +31,14 @@ documents:
 - type: Passport
   number: A6489694
   country: Iraq
-  note: "expires on 31 Aug. 2021; name in Arabic script: سالم مصطفى محمد ال\nمنصور
-    ,    ,   "
+  note: |-
+    expires on 31 Aug. 2021; name in Arabic script: سالم مصطفى محمد ال
+    منصور
 - type: National Identification Number
   number: '00813602'
   country: Iraq
-  note: 'name in Arabic script: سالم مصطفى محمد ال منصور ,    ,   '
+  note: 'name in Arabic script: سالم مصطفى محمد ال منصور'
 - type: National Identification Number
   number: '300397'
   country: Iraq
-  note: 'name in Arabic script: سالم مصطفى محمد ,    ,   '
+  note: 'name in Arabic script: سالم مصطفى محمد'

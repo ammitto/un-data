@@ -2,7 +2,7 @@
 entity_type: person
 names:
 - ABDULLAH HAMAD MOHAMMAD KARIM
-- 'al-Hammad '
+- al-Hammad
 designation: |-
   Consul General, Taliban Consulate General, Quetta,
   Pakistan
@@ -25,8 +25,8 @@ documents:
 - type: Passport
   number: D 000857
   country: Afghanistan
-  note: "   ,   "
+  note: 
 - type: National Identification Number
   number: Afghan national identification card (tazkira) number 300786
   country: 
-  note: "   ,   "
+  note: 

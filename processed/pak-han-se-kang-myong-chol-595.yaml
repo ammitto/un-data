@@ -2,7 +2,7 @@
 entity_type: person
 names:
 - PAK HAN SE
-- 'Kang Myong Chol  '
+- Kang Myong Chol
 designation: "Vice Chairman of the Second Economic Committee, which oversees the\nproduction
   of the DPRK’s ballistic missiles "
 source: un-data
@@ -23,4 +23,4 @@ documents:
 - type: Passport
   number: '290410121 '
   country: 
-  note: "   ,   "
+  note: 

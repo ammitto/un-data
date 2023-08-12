@@ -2,13 +2,13 @@
 entity_type: person
 names:
 - AZZAM ABDULLAH ZUREIK AL-MAULID AL-SUBHI
-- 'Mansur al-Harbi '
-- 'Azzam al-Subhi '
-- 'Azam Abdallah Razeeq al Mouled Alsbhua '
-- 'Abu Muslem al-Maky '
-- 'Abu Suliman al-Harbi '
-- 'Abu Abdalla al-Harbi '
-- 'Azam A.R. Alsbhua '
+- Mansur al-Harbi
+- Azzam al-Subhi
+- Azam Abdallah Razeeq al Mouled Alsbhua
+- Abu Muslem al-Maky
+- Abu Suliman al-Harbi
+- Abu Abdalla al-Harbi
+- Azam A.R. Alsbhua
 designation: 
 source: un-data
 ref_number: QDi.330
@@ -31,8 +31,8 @@ documents:
 - type: Passport
   number: C389664
   country: Saudi Arabia
-  note: "   ,   "
+  note: 
 - type: National Identification Number
   number: '1024026187'
   country: 
-  note: "   ,   "
+  note: 
