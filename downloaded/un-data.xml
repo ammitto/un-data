@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<CONSOLIDATED_LIST xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:noNamespaceSchemaLocation='https://www.un.org/sc/resources/sc-sanctions.xsd' dateGenerated='2023-08-11T23:00:04.301Z'>
+<CONSOLIDATED_LIST xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:noNamespaceSchemaLocation='https://www.un.org/sc/resources/sc-sanctions.xsd' dateGenerated='2023-08-14T23:00:05.880Z'>
     <INDIVIDUALS>
         <INDIVIDUAL>
             <DATAID>110404</DATAID>
@@ -7592,7 +7592,7 @@ concluded on 15 Jun. 2010. Review pursuant to Security Council resolution 2253 (
             </INDIVIDUAL_ADDRESS>
             <INDIVIDUAL_DATE_OF_BIRTH>
                 <TYPE_OF_DATE>EXACT</TYPE_OF_DATE>
-                <DATE>Invalid date</DATE>
+                <DATE>1966-02-02</DATE>
             </INDIVIDUAL_DATE_OF_BIRTH>
             <INDIVIDUAL_PLACE_OF_BIRTH>
                 <CITY>al Aziziyya</CITY>
@@ -30489,7 +30489,7 @@ Juba, many who were buried in mass graves. One such grave was purported to conta
             </INDIVIDUAL_ADDRESS>
             <INDIVIDUAL_DATE_OF_BIRTH>
                 <TYPE_OF_DATE>EXACT</TYPE_OF_DATE>
-                <DATE>Invalid date</DATE>
+                <DATE>1960-01-01</DATE>
             </INDIVIDUAL_DATE_OF_BIRTH>
             <INDIVIDUAL_PLACE_OF_BIRTH>
                 <COUNTRY/>
