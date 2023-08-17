@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<CONSOLIDATED_LIST xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:noNamespaceSchemaLocation='https://www.un.org/sc/resources/sc-sanctions.xsd' dateGenerated='2023-08-15T23:00:00.830Z'>
+<CONSOLIDATED_LIST xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:noNamespaceSchemaLocation='https://www.un.org/sc/resources/sc-sanctions.xsd' dateGenerated='2023-08-16T23:00:04.158Z'>
     <INDIVIDUALS>
         <INDIVIDUAL>
             <DATAID>110404</DATAID>
@@ -32410,50 +32410,6 @@ number 911-10-77</NUMBER>
             <SORT_KEY_LAST_MOD/>
         </INDIVIDUAL>
         <INDIVIDUAL>
-            <DATAID>6908500</DATAID>
-            <VERSIONNUM>1</VERSIONNUM>
-            <FIRST_NAME>CHOE</FIRST_NAME>
-            <SECOND_NAME>CHUN-SIK</SECOND_NAME>
-            <UN_LIST_TYPE>DPRK</UN_LIST_TYPE>
-            <REFERENCE_NUMBER>KPi.013</REFERENCE_NUMBER>
-            <LISTED_ON>2016-03-02</LISTED_ON>
-            <COMMENTS1>Choe Chun-sik was the director of the Second Academy of Natural Sciences (SANS) and was the head of the DPRK’s long-range missile program.</COMMENTS1>
-            <DESIGNATION>
-                <VALUE>Director of the Second Academy of Natural Sciences (SANS) </VALUE>
-                <VALUE>Former head of the DPRK’s long-range missile program </VALUE>
-            </DESIGNATION>
-            <NATIONALITY>
-                <VALUE>Democratic People's Republic of Korea</VALUE>
-            </NATIONALITY>
-            <LIST_TYPE>
-                <VALUE>UN List</VALUE>
-            </LIST_TYPE>
-            <LAST_DAY_UPDATED>
-                <VALUE>2022-07-26</VALUE>
-            </LAST_DAY_UPDATED>
-            <INDIVIDUAL_ALIAS>
-                <QUALITY>Good</QUALITY>
-                <ALIAS_NAME>Choe Chun Sik</ALIAS_NAME>
-            </INDIVIDUAL_ALIAS>
-            <INDIVIDUAL_ALIAS>
-                <QUALITY>Good</QUALITY>
-                <ALIAS_NAME>Ch’oe Ch’un Sik</ALIAS_NAME>
-            </INDIVIDUAL_ALIAS>
-            <INDIVIDUAL_ADDRESS>
-                <COUNTRY>Democratic People's Republic of Korea</COUNTRY>
-            </INDIVIDUAL_ADDRESS>
-            <INDIVIDUAL_DATE_OF_BIRTH>
-                <TYPE_OF_DATE>EXACT</TYPE_OF_DATE>
-                <DATE>1954-10-12</DATE>
-            </INDIVIDUAL_DATE_OF_BIRTH>
-            <INDIVIDUAL_PLACE_OF_BIRTH>
-                <COUNTRY/>
-            </INDIVIDUAL_PLACE_OF_BIRTH>
-            <INDIVIDUAL_DOCUMENT/>
-            <SORT_KEY/>
-            <SORT_KEY_LAST_MOD/>
-        </INDIVIDUAL>
-        <INDIVIDUAL>
             <DATAID>6908501</DATAID>
             <VERSIONNUM>1</VERSIONNUM>
             <FIRST_NAME>CHOE</FIRST_NAME>
@@ -32722,46 +32678,6 @@ Development Administration </VALUE>
             <SORT_KEY_LAST_MOD/>
         </INDIVIDUAL>
         <INDIVIDUAL>
-            <DATAID>6908508</DATAID>
-            <VERSIONNUM>1</VERSIONNUM>
-            <FIRST_NAME>KANG</FIRST_NAME>
-            <SECOND_NAME>RYONG </SECOND_NAME>
-            <UN_LIST_TYPE>DPRK</UN_LIST_TYPE>
-            <REFERENCE_NUMBER>KPi.020</REFERENCE_NUMBER>
-            <LISTED_ON>2016-03-02</LISTED_ON>
-            <COMMENTS1/>
-            <DESIGNATION>
-                <VALUE>Korea Mining Development Trading Corporation (KOMID) Representative in
-Syria </VALUE>
-            </DESIGNATION>
-            <NATIONALITY>
-                <VALUE>Democratic People's Republic of Korea</VALUE>
-            </NATIONALITY>
-            <LIST_TYPE>
-                <VALUE>UN List</VALUE>
-            </LIST_TYPE>
-            <LAST_DAY_UPDATED>
-                <VALUE/>
-            </LAST_DAY_UPDATED>
-            <INDIVIDUAL_ALIAS>
-                <QUALITY/>
-                <ALIAS_NAME/>
-            </INDIVIDUAL_ALIAS>
-            <INDIVIDUAL_ADDRESS>
-                <COUNTRY/>
-            </INDIVIDUAL_ADDRESS>
-            <INDIVIDUAL_DATE_OF_BIRTH>
-                <TYPE_OF_DATE>EXACT</TYPE_OF_DATE>
-                <DATE>1969-08-21</DATE>
-            </INDIVIDUAL_DATE_OF_BIRTH>
-            <INDIVIDUAL_PLACE_OF_BIRTH>
-                <COUNTRY/>
-            </INDIVIDUAL_PLACE_OF_BIRTH>
-            <INDIVIDUAL_DOCUMENT/>
-            <SORT_KEY/>
-            <SORT_KEY_LAST_MOD/>
-        </INDIVIDUAL>
-        <INDIVIDUAL>
             <DATAID>6908509</DATAID>
             <VERSIONNUM>1</VERSIONNUM>
             <FIRST_NAME>KIM</FIRST_NAME>
@@ -32899,49 +32815,6 @@ Officer</VALUE>
                 <TYPE_OF_DOCUMENT>Passport</TYPE_OF_DOCUMENT>
                 <NUMBER>563120630</NUMBER>
                 <NOTE>Expires 20 Mar. 2018</NOTE>
-            </INDIVIDUAL_DOCUMENT>
-            <SORT_KEY/>
-            <SORT_KEY_LAST_MOD/>
-        </INDIVIDUAL>
-        <INDIVIDUAL>
-            <DATAID>6908513</DATAID>
-            <VERSIONNUM>1</VERSIONNUM>
-            <FIRST_NAME>RI </FIRST_NAME>
-            <SECOND_NAME>MAN GON </SECOND_NAME>
-            <UN_LIST_TYPE>DPRK</UN_LIST_TYPE>
-            <REFERENCE_NUMBER>KPi.026</REFERENCE_NUMBER>
-            <LISTED_ON>2016-03-02</LISTED_ON>
-            <COMMENTS1/>
-            <DESIGNATION>
-                <VALUE>Minister of the Munitions Industry Department </VALUE>
-            </DESIGNATION>
-            <NATIONALITY>
-                <VALUE>Democratic People's Republic of Korea</VALUE>
-            </NATIONALITY>
-            <LIST_TYPE>
-                <VALUE>UN List</VALUE>
-            </LIST_TYPE>
-            <LAST_DAY_UPDATED>
-                <VALUE/>
-            </LAST_DAY_UPDATED>
-            <INDIVIDUAL_ALIAS>
-                <QUALITY/>
-                <ALIAS_NAME/>
-            </INDIVIDUAL_ALIAS>
-            <INDIVIDUAL_ADDRESS>
-                <COUNTRY/>
-            </INDIVIDUAL_ADDRESS>
-            <INDIVIDUAL_DATE_OF_BIRTH>
-                <TYPE_OF_DATE>EXACT</TYPE_OF_DATE>
-                <DATE>1945-10-29</DATE>
-            </INDIVIDUAL_DATE_OF_BIRTH>
-            <INDIVIDUAL_PLACE_OF_BIRTH>
-                <COUNTRY/>
-            </INDIVIDUAL_PLACE_OF_BIRTH>
-            <INDIVIDUAL_DOCUMENT>
-                <TYPE_OF_DOCUMENT>Passport</TYPE_OF_DOCUMENT>
-                <NUMBER>PO381230469 </NUMBER>
-                <NOTE>Expires 6 Apr. 2016</NOTE>
             </INDIVIDUAL_DOCUMENT>
             <SORT_KEY/>
             <SORT_KEY_LAST_MOD/>
@@ -34508,49 +34381,6 @@ Review pursuant to Security Council resolution 2368 (2017) was concluded on 24 N
             <SORT_KEY_LAST_MOD/>
         </INDIVIDUAL>
         <INDIVIDUAL>
-            <DATAID>6908568</DATAID>
-            <VERSIONNUM>1</VERSIONNUM>
-            <FIRST_NAME>KIM</FIRST_NAME>
-            <SECOND_NAME>SOK CHOL</SECOND_NAME>
-            <UN_LIST_TYPE>DPRK</UN_LIST_TYPE>
-            <REFERENCE_NUMBER>KPi.036</REFERENCE_NUMBER>
-            <LISTED_ON>2016-11-30</LISTED_ON>
-            <COMMENTS1>Kim Sok Chol acted as the DPRK Ambassador to Burma and he operates as a KOMID facilitator.  He was paid by KOMID for his assistance and arranges meetings on behalf of KOMID, including a meeting between KOMID and Burmese defense related persons to discuss financial matters.   </COMMENTS1>
-            <DESIGNATION>
-                <VALUE>Acted as the DPRK Ambassador to Burma </VALUE>
-                <VALUE>KOMID facilitator</VALUE>
-            </DESIGNATION>
-            <NATIONALITY>
-                <VALUE>Democratic People's Republic of Korea</VALUE>
-            </NATIONALITY>
-            <LIST_TYPE>
-                <VALUE>UN List</VALUE>
-            </LIST_TYPE>
-            <LAST_DAY_UPDATED>
-                <VALUE>2022-07-26</VALUE>
-            </LAST_DAY_UPDATED>
-            <INDIVIDUAL_ALIAS>
-                <QUALITY/>
-                <ALIAS_NAME/>
-            </INDIVIDUAL_ALIAS>
-            <INDIVIDUAL_ADDRESS>
-                <COUNTRY>Myanmar</COUNTRY>
-            </INDIVIDUAL_ADDRESS>
-            <INDIVIDUAL_DATE_OF_BIRTH>
-                <TYPE_OF_DATE>EXACT</TYPE_OF_DATE>
-                <DATE>1955-05-08</DATE>
-            </INDIVIDUAL_DATE_OF_BIRTH>
-            <INDIVIDUAL_PLACE_OF_BIRTH>
-                <COUNTRY/>
-            </INDIVIDUAL_PLACE_OF_BIRTH>
-            <INDIVIDUAL_DOCUMENT>
-                <TYPE_OF_DOCUMENT>Passport</TYPE_OF_DOCUMENT>
-                <NUMBER>472310082</NUMBER>
-            </INDIVIDUAL_DOCUMENT>
-            <SORT_KEY/>
-            <SORT_KEY_LAST_MOD/>
-        </INDIVIDUAL>
-        <INDIVIDUAL>
             <DATAID>6908570</DATAID>
             <VERSIONNUM>1</VERSIONNUM>
             <FIRST_NAME>CHANG</FIRST_NAME>
@@ -35200,47 +35030,6 @@ the public </VALUE>
             <SORT_KEY_LAST_MOD/>
         </INDIVIDUAL>
         <INDIVIDUAL>
-            <DATAID>6908583</DATAID>
-            <VERSIONNUM>1</VERSIONNUM>
-            <FIRST_NAME>JO</FIRST_NAME>
-            <SECOND_NAME>YONG-WON</SECOND_NAME>
-            <UN_LIST_TYPE>DPRK</UN_LIST_TYPE>
-            <REFERENCE_NUMBER>KPi.043</REFERENCE_NUMBER>
-            <LISTED_ON>2017-06-02</LISTED_ON>
-            <COMMENTS1>Gender:  male</COMMENTS1>
-            <DESIGNATION>
-                <VALUE>Vice Director of the Worker's Party of Korea's Organization and Guidance
-Department, which directs key personnel appointments for the Workers’ Party of Korea
-and the DPRK’s military</VALUE>
-            </DESIGNATION>
-            <NATIONALITY>
-                <VALUE>Democratic People's Republic of Korea</VALUE>
-            </NATIONALITY>
-            <LIST_TYPE>
-                <VALUE>UN List</VALUE>
-            </LIST_TYPE>
-            <LAST_DAY_UPDATED>
-                <VALUE/>
-            </LAST_DAY_UPDATED>
-            <INDIVIDUAL_ALIAS>
-                <QUALITY>Good</QUALITY>
-                <ALIAS_NAME>Cho Yongwon</ALIAS_NAME>
-            </INDIVIDUAL_ALIAS>
-            <INDIVIDUAL_ADDRESS>
-                <COUNTRY>Democratic People's Republic of Korea</COUNTRY>
-            </INDIVIDUAL_ADDRESS>
-            <INDIVIDUAL_DATE_OF_BIRTH>
-                <TYPE_OF_DATE>EXACT</TYPE_OF_DATE>
-                <DATE>1957-10-24</DATE>
-            </INDIVIDUAL_DATE_OF_BIRTH>
-            <INDIVIDUAL_PLACE_OF_BIRTH>
-                <COUNTRY/>
-            </INDIVIDUAL_PLACE_OF_BIRTH>
-            <INDIVIDUAL_DOCUMENT/>
-            <SORT_KEY/>
-            <SORT_KEY_LAST_MOD/>
-        </INDIVIDUAL>
-        <INDIVIDUAL>
             <DATAID>6908584</DATAID>
             <VERSIONNUM>1</VERSIONNUM>
             <FIRST_NAME>KIM</FIRST_NAME>
@@ -35502,90 +35291,6 @@ production of the DPRK’s ballistic missiles </VALUE>
             <SORT_KEY_LAST_MOD/>
         </INDIVIDUAL>
         <INDIVIDUAL>
-            <DATAID>6908590</DATAID>
-            <VERSIONNUM>1</VERSIONNUM>
-            <FIRST_NAME>PAK </FIRST_NAME>
-            <SECOND_NAME>TO CHUN </SECOND_NAME>
-            <UN_LIST_TYPE>DPRK</UN_LIST_TYPE>
-            <REFERENCE_NUMBER>KPi.050</REFERENCE_NUMBER>
-            <LISTED_ON>2017-06-02</LISTED_ON>
-            <COMMENTS1>Pak To Chun is a former Secretary of Munitions Industry Department (MID) and
-                currently advises on affairs relating to nuclear and missile programmes. He is a
-                former State Affairs Commission member and is a member Workers’ Party of Korea
-                Political Bureau.</COMMENTS1>
-            <NATIONALITY>
-                <VALUE>Democratic People's Republic of Korea</VALUE>
-            </NATIONALITY>
-            <LIST_TYPE>
-                <VALUE>UN List</VALUE>
-            </LIST_TYPE>
-            <LAST_DAY_UPDATED>
-                <VALUE>2022-07-26</VALUE>
-            </LAST_DAY_UPDATED>
-            <INDIVIDUAL_ALIAS>
-                <QUALITY>Good</QUALITY>
-                <ALIAS_NAME>Pak Do Chun</ALIAS_NAME>
-            </INDIVIDUAL_ALIAS>
-            <INDIVIDUAL_ALIAS>
-                <QUALITY>Good</QUALITY>
-                <ALIAS_NAME>Pak To’-Ch’un</ALIAS_NAME>
-            </INDIVIDUAL_ALIAS>
-            <INDIVIDUAL_ADDRESS>
-                <COUNTRY/>
-            </INDIVIDUAL_ADDRESS>
-            <INDIVIDUAL_DATE_OF_BIRTH>
-                <TYPE_OF_DATE>EXACT</TYPE_OF_DATE>
-                <DATE>1944-03-09</DATE>
-            </INDIVIDUAL_DATE_OF_BIRTH>
-            <INDIVIDUAL_PLACE_OF_BIRTH>
-                <COUNTRY/>
-            </INDIVIDUAL_PLACE_OF_BIRTH>
-            <INDIVIDUAL_DOCUMENT/>
-            <SORT_KEY/>
-            <SORT_KEY_LAST_MOD/>
-        </INDIVIDUAL>
-        <INDIVIDUAL>
-            <DATAID>6908591</DATAID>
-            <VERSIONNUM>1</VERSIONNUM>
-            <FIRST_NAME>RI </FIRST_NAME>
-            <SECOND_NAME>JAE IL </SECOND_NAME>
-            <UN_LIST_TYPE>DPRK</UN_LIST_TYPE>
-            <REFERENCE_NUMBER>KPi.051</REFERENCE_NUMBER>
-            <LISTED_ON>2017-06-02</LISTED_ON>
-            <COMMENTS1/>
-            <DESIGNATION>
-                <VALUE>Vice Director of the Workers’ Party of Korea Propaganda and Agitation
-Department, which controls all DPRK’s media and is used by the government to control
-the public </VALUE>
-            </DESIGNATION>
-            <NATIONALITY>
-                <VALUE>Democratic People's Republic of Korea</VALUE>
-            </NATIONALITY>
-            <LIST_TYPE>
-                <VALUE>UN List</VALUE>
-            </LIST_TYPE>
-            <LAST_DAY_UPDATED>
-                <VALUE/>
-            </LAST_DAY_UPDATED>
-            <INDIVIDUAL_ALIAS>
-                <QUALITY>Good</QUALITY>
-                <ALIAS_NAME>RI Chae-Il</ALIAS_NAME>
-            </INDIVIDUAL_ALIAS>
-            <INDIVIDUAL_ADDRESS>
-                <COUNTRY/>
-            </INDIVIDUAL_ADDRESS>
-            <INDIVIDUAL_DATE_OF_BIRTH>
-                <TYPE_OF_DATE>EXACT</TYPE_OF_DATE>
-                <YEAR>1934</YEAR>
-            </INDIVIDUAL_DATE_OF_BIRTH>
-            <INDIVIDUAL_PLACE_OF_BIRTH>
-                <COUNTRY/>
-            </INDIVIDUAL_PLACE_OF_BIRTH>
-            <INDIVIDUAL_DOCUMENT/>
-            <SORT_KEY/>
-            <SORT_KEY_LAST_MOD/>
-        </INDIVIDUAL>
-        <INDIVIDUAL>
             <DATAID>6908592</DATAID>
             <VERSIONNUM>1</VERSIONNUM>
             <FIRST_NAME>RI </FIRST_NAME>
@@ -35627,47 +35332,6 @@ programme</VALUE>
                 <TYPE_OF_DOCUMENT>Passport</TYPE_OF_DOCUMENT>
                 <NUMBER>654310175 </NUMBER>
             </INDIVIDUAL_DOCUMENT>
-            <SORT_KEY/>
-            <SORT_KEY_LAST_MOD/>
-        </INDIVIDUAL>
-        <INDIVIDUAL>
-            <DATAID>6908593</DATAID>
-            <VERSIONNUM>1</VERSIONNUM>
-            <FIRST_NAME>RI </FIRST_NAME>
-            <SECOND_NAME>YONG MU </SECOND_NAME>
-            <UN_LIST_TYPE>DPRK</UN_LIST_TYPE>
-            <REFERENCE_NUMBER>KPi.053</REFERENCE_NUMBER>
-            <LISTED_ON>2017-06-02</LISTED_ON>
-            <COMMENTS1/>
-            <DESIGNATION>
-                <VALUE>Ri Yong Mu is a Vice Chairman of the State Affairs Commission, which
-directs and guides all DPRK’s military, defence, and security-related affairs,
-including acquisition and procurement</VALUE>
-            </DESIGNATION>
-            <NATIONALITY>
-                <VALUE>Democratic People's Republic of Korea</VALUE>
-            </NATIONALITY>
-            <LIST_TYPE>
-                <VALUE>UN List</VALUE>
-            </LIST_TYPE>
-            <LAST_DAY_UPDATED>
-                <VALUE>2022-07-26</VALUE>
-            </LAST_DAY_UPDATED>
-            <INDIVIDUAL_ALIAS>
-                <QUALITY>Good</QUALITY>
-                <ALIAS_NAME>Ri Yong-Mu</ALIAS_NAME>
-            </INDIVIDUAL_ALIAS>
-            <INDIVIDUAL_ADDRESS>
-                <COUNTRY>Democratic People's Republic of Korea</COUNTRY>
-            </INDIVIDUAL_ADDRESS>
-            <INDIVIDUAL_DATE_OF_BIRTH>
-                <TYPE_OF_DATE>EXACT</TYPE_OF_DATE>
-                <DATE>1925-01-25</DATE>
-            </INDIVIDUAL_DATE_OF_BIRTH>
-            <INDIVIDUAL_PLACE_OF_BIRTH>
-                <COUNTRY/>
-            </INDIVIDUAL_PLACE_OF_BIRTH>
-            <INDIVIDUAL_DOCUMENT/>
             <SORT_KEY/>
             <SORT_KEY_LAST_MOD/>
         </INDIVIDUAL>
@@ -41458,6 +41122,348 @@ for inclusion in the INTERPOL-UN Security Council Special Notice.</COMMENTS1>
                 <DATE_OF_ISSUE>2016-10-28</DATE_OF_ISSUE>
                 <NOTE>Expires 28 October 2021</NOTE>
             </INDIVIDUAL_DOCUMENT>
+            <SORT_KEY/>
+            <SORT_KEY_LAST_MOD/>
+        </INDIVIDUAL>
+        <INDIVIDUAL>
+            <DATAID>6908500</DATAID>
+            <VERSIONNUM>1</VERSIONNUM>
+            <FIRST_NAME>CHOE</FIRST_NAME>
+            <SECOND_NAME>CHUN-SIK</SECOND_NAME>
+            <UN_LIST_TYPE>DPRK</UN_LIST_TYPE>
+            <REFERENCE_NUMBER>KPi.013</REFERENCE_NUMBER>
+            <LISTED_ON>2016-03-02</LISTED_ON>
+            <COMMENTS1>Choe Chun-sik was the director of the Second Academy of Natural Sciences (SANS) and was the head of the DPRK’s long-range missile program.</COMMENTS1>
+            <DESIGNATION>
+                <VALUE>Former Director of the Second Academy of Natural Sciences (SANS) </VALUE>
+                <VALUE>Former head of the DPRK’s long-range missile program </VALUE>
+            </DESIGNATION>
+            <NATIONALITY>
+                <VALUE>Democratic People's Republic of Korea</VALUE>
+            </NATIONALITY>
+            <LIST_TYPE>
+                <VALUE>UN List</VALUE>
+            </LIST_TYPE>
+            <LAST_DAY_UPDATED>
+                <VALUE>2023-08-16</VALUE>
+                <VALUE>2022-07-26</VALUE>
+            </LAST_DAY_UPDATED>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY>Good</QUALITY>
+                <ALIAS_NAME>Choe Chun Sik</ALIAS_NAME>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY>Good</QUALITY>
+                <ALIAS_NAME>Ch’oe Ch’un Sik</ALIAS_NAME>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ADDRESS>
+                <COUNTRY>Democratic People's Republic of Korea</COUNTRY>
+            </INDIVIDUAL_ADDRESS>
+            <INDIVIDUAL_DATE_OF_BIRTH>
+                <TYPE_OF_DATE>EXACT</TYPE_OF_DATE>
+                <DATE>1954-10-12</DATE>
+            </INDIVIDUAL_DATE_OF_BIRTH>
+            <INDIVIDUAL_PLACE_OF_BIRTH>
+                <COUNTRY/>
+            </INDIVIDUAL_PLACE_OF_BIRTH>
+            <INDIVIDUAL_DOCUMENT/>
+            <SORT_KEY/>
+            <SORT_KEY_LAST_MOD/>
+        </INDIVIDUAL>
+        <INDIVIDUAL>
+            <DATAID>6908508</DATAID>
+            <VERSIONNUM>1</VERSIONNUM>
+            <FIRST_NAME>KANG</FIRST_NAME>
+            <SECOND_NAME>RYONG </SECOND_NAME>
+            <UN_LIST_TYPE>DPRK</UN_LIST_TYPE>
+            <REFERENCE_NUMBER>KPi.020</REFERENCE_NUMBER>
+            <LISTED_ON>2016-03-02</LISTED_ON>
+            <COMMENTS1/>
+            <DESIGNATION>
+                <VALUE>Former Korea Mining Development Trading Corporation (KOMID) Representative in Syria </VALUE>
+            </DESIGNATION>
+            <NATIONALITY>
+                <VALUE>Democratic People's Republic of Korea</VALUE>
+            </NATIONALITY>
+            <LIST_TYPE>
+                <VALUE>UN List</VALUE>
+            </LIST_TYPE>
+            <LAST_DAY_UPDATED>
+                <VALUE>2023-08-16</VALUE>
+            </LAST_DAY_UPDATED>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY/>
+                <ALIAS_NAME/>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ADDRESS>
+                <COUNTRY/>
+            </INDIVIDUAL_ADDRESS>
+            <INDIVIDUAL_DATE_OF_BIRTH>
+                <TYPE_OF_DATE>EXACT</TYPE_OF_DATE>
+                <DATE>1969-08-21</DATE>
+            </INDIVIDUAL_DATE_OF_BIRTH>
+            <INDIVIDUAL_PLACE_OF_BIRTH>
+                <COUNTRY/>
+            </INDIVIDUAL_PLACE_OF_BIRTH>
+            <INDIVIDUAL_DOCUMENT/>
+            <SORT_KEY/>
+            <SORT_KEY_LAST_MOD/>
+        </INDIVIDUAL>
+        <INDIVIDUAL>
+            <DATAID>6908513</DATAID>
+            <VERSIONNUM>1</VERSIONNUM>
+            <FIRST_NAME>RI </FIRST_NAME>
+            <SECOND_NAME>MAN GON </SECOND_NAME>
+            <UN_LIST_TYPE>DPRK</UN_LIST_TYPE>
+            <REFERENCE_NUMBER>KPi.026</REFERENCE_NUMBER>
+            <LISTED_ON>2016-03-02</LISTED_ON>
+            <COMMENTS1/>
+            <DESIGNATION>
+                <VALUE>Former Minister of the Munitions Industry Department </VALUE>
+            </DESIGNATION>
+            <NATIONALITY>
+                <VALUE>Democratic People's Republic of Korea</VALUE>
+            </NATIONALITY>
+            <LIST_TYPE>
+                <VALUE>UN List</VALUE>
+            </LIST_TYPE>
+            <LAST_DAY_UPDATED>
+                <VALUE>2023-08-16</VALUE>
+            </LAST_DAY_UPDATED>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY/>
+                <ALIAS_NAME/>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ADDRESS>
+                <COUNTRY/>
+            </INDIVIDUAL_ADDRESS>
+            <INDIVIDUAL_DATE_OF_BIRTH>
+                <TYPE_OF_DATE>EXACT</TYPE_OF_DATE>
+                <DATE>1945-10-29</DATE>
+            </INDIVIDUAL_DATE_OF_BIRTH>
+            <INDIVIDUAL_PLACE_OF_BIRTH>
+                <COUNTRY/>
+            </INDIVIDUAL_PLACE_OF_BIRTH>
+            <INDIVIDUAL_DOCUMENT>
+                <TYPE_OF_DOCUMENT>Passport</TYPE_OF_DOCUMENT>
+                <NUMBER>PO381230469 </NUMBER>
+                <NOTE>Expires 6 Apr. 2016</NOTE>
+            </INDIVIDUAL_DOCUMENT>
+            <SORT_KEY/>
+            <SORT_KEY_LAST_MOD/>
+        </INDIVIDUAL>
+        <INDIVIDUAL>
+            <DATAID>6908568</DATAID>
+            <VERSIONNUM>1</VERSIONNUM>
+            <FIRST_NAME>KIM</FIRST_NAME>
+            <SECOND_NAME>SOK CHOL</SECOND_NAME>
+            <UN_LIST_TYPE>DPRK</UN_LIST_TYPE>
+            <REFERENCE_NUMBER>KPi.036</REFERENCE_NUMBER>
+            <LISTED_ON>2016-11-30</LISTED_ON>
+            <COMMENTS1>Kim Sok Chol acted as the DPRK Ambassador to Burma and he operates as a KOMID facilitator.  He was paid by KOMID for his assistance and arranges meetings on behalf of KOMID, including a meeting between KOMID and Burmese defense related persons to discuss financial matters.   </COMMENTS1>
+            <DESIGNATION>
+                <VALUE>Former DPRK Ambassador to Burma </VALUE>
+                <VALUE>KOMID facilitator</VALUE>
+            </DESIGNATION>
+            <NATIONALITY>
+                <VALUE>Democratic People's Republic of Korea</VALUE>
+            </NATIONALITY>
+            <LIST_TYPE>
+                <VALUE>UN List</VALUE>
+            </LIST_TYPE>
+            <LAST_DAY_UPDATED>
+                <VALUE>2023-08-16</VALUE>
+                <VALUE>2022-07-26</VALUE>
+            </LAST_DAY_UPDATED>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY/>
+                <ALIAS_NAME/>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ADDRESS>
+                <COUNTRY>Myanmar</COUNTRY>
+            </INDIVIDUAL_ADDRESS>
+            <INDIVIDUAL_DATE_OF_BIRTH>
+                <TYPE_OF_DATE>EXACT</TYPE_OF_DATE>
+                <DATE>1955-05-08</DATE>
+            </INDIVIDUAL_DATE_OF_BIRTH>
+            <INDIVIDUAL_PLACE_OF_BIRTH>
+                <COUNTRY/>
+            </INDIVIDUAL_PLACE_OF_BIRTH>
+            <INDIVIDUAL_DOCUMENT>
+                <TYPE_OF_DOCUMENT>Passport</TYPE_OF_DOCUMENT>
+                <NUMBER>472310082</NUMBER>
+            </INDIVIDUAL_DOCUMENT>
+            <SORT_KEY/>
+            <SORT_KEY_LAST_MOD/>
+        </INDIVIDUAL>
+        <INDIVIDUAL>
+            <DATAID>6908583</DATAID>
+            <VERSIONNUM>1</VERSIONNUM>
+            <FIRST_NAME>JO</FIRST_NAME>
+            <SECOND_NAME>YONG-WON</SECOND_NAME>
+            <UN_LIST_TYPE>DPRK</UN_LIST_TYPE>
+            <REFERENCE_NUMBER>KPi.043</REFERENCE_NUMBER>
+            <LISTED_ON>2017-06-02</LISTED_ON>
+            <COMMENTS1>Gender:  male</COMMENTS1>
+            <DESIGNATION>
+                <VALUE>Secretary and Chief of Organization and Guidance Department of the Worker’s Party of Korea</VALUE>
+                <VALUE>Former Vice Director of the Worker's Party of Korea's Organization and Guidance Department, which directs key personnel appointments for the Workers’ Party of Korea and the DPRK’s military</VALUE>
+            </DESIGNATION>
+            <NATIONALITY>
+                <VALUE>Democratic People's Republic of Korea</VALUE>
+            </NATIONALITY>
+            <LIST_TYPE>
+                <VALUE>UN List</VALUE>
+            </LIST_TYPE>
+            <LAST_DAY_UPDATED>
+                <VALUE>2023-08-16</VALUE>
+            </LAST_DAY_UPDATED>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY>Good</QUALITY>
+                <ALIAS_NAME>Cho Yongwon</ALIAS_NAME>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ADDRESS>
+                <COUNTRY>Democratic People's Republic of Korea</COUNTRY>
+            </INDIVIDUAL_ADDRESS>
+            <INDIVIDUAL_DATE_OF_BIRTH>
+                <TYPE_OF_DATE>EXACT</TYPE_OF_DATE>
+                <DATE>1957-10-24</DATE>
+            </INDIVIDUAL_DATE_OF_BIRTH>
+            <INDIVIDUAL_PLACE_OF_BIRTH>
+                <COUNTRY/>
+            </INDIVIDUAL_PLACE_OF_BIRTH>
+            <INDIVIDUAL_DOCUMENT>
+                <TYPE_OF_DOCUMENT>Passport</TYPE_OF_DOCUMENT>
+                <NUMBER>108210124</NUMBER>
+                <NOTE>Expiration date: 2023-06-04. </NOTE>
+            </INDIVIDUAL_DOCUMENT>
+            <SORT_KEY/>
+            <SORT_KEY_LAST_MOD/>
+        </INDIVIDUAL>
+        <INDIVIDUAL>
+            <DATAID>6908590</DATAID>
+            <VERSIONNUM>1</VERSIONNUM>
+            <FIRST_NAME>PAK </FIRST_NAME>
+            <SECOND_NAME>TO CHUN </SECOND_NAME>
+            <UN_LIST_TYPE>DPRK</UN_LIST_TYPE>
+            <REFERENCE_NUMBER>KPi.050</REFERENCE_NUMBER>
+            <LISTED_ON>2017-06-02</LISTED_ON>
+            <COMMENTS1>Pak To Chun is a former Secretary of Munitions Industry Department (MID) and
+                currently advises on affairs relating to nuclear and missile programmes. He is a
+                former State Affairs Commission member and is a member Workers’ Party of Korea
+                Political Bureau. Died on 27 July 2022.</COMMENTS1>
+            <NATIONALITY>
+                <VALUE>Democratic People's Republic of Korea</VALUE>
+            </NATIONALITY>
+            <LIST_TYPE>
+                <VALUE>UN List</VALUE>
+            </LIST_TYPE>
+            <LAST_DAY_UPDATED>
+                <VALUE>2023-08-16</VALUE>
+                <VALUE>2022-07-26</VALUE>
+            </LAST_DAY_UPDATED>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY>Good</QUALITY>
+                <ALIAS_NAME>Pak Do Chun</ALIAS_NAME>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY>Good</QUALITY>
+                <ALIAS_NAME>Pak To’-Ch’un</ALIAS_NAME>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ADDRESS>
+                <COUNTRY/>
+            </INDIVIDUAL_ADDRESS>
+            <INDIVIDUAL_DATE_OF_BIRTH>
+                <TYPE_OF_DATE>EXACT</TYPE_OF_DATE>
+                <DATE>1944-03-09</DATE>
+            </INDIVIDUAL_DATE_OF_BIRTH>
+            <INDIVIDUAL_PLACE_OF_BIRTH>
+                <COUNTRY/>
+            </INDIVIDUAL_PLACE_OF_BIRTH>
+            <INDIVIDUAL_DOCUMENT/>
+            <SORT_KEY/>
+            <SORT_KEY_LAST_MOD/>
+        </INDIVIDUAL>
+        <INDIVIDUAL>
+            <DATAID>6908591</DATAID>
+            <VERSIONNUM>1</VERSIONNUM>
+            <FIRST_NAME>RI </FIRST_NAME>
+            <SECOND_NAME>JAE IL </SECOND_NAME>
+            <UN_LIST_TYPE>DPRK</UN_LIST_TYPE>
+            <REFERENCE_NUMBER>KPi.051</REFERENCE_NUMBER>
+            <LISTED_ON>2017-06-02</LISTED_ON>
+            <COMMENTS1>Died on 4 February 2021.</COMMENTS1>
+            <DESIGNATION>
+                <VALUE>Vice Director of the Workers’ Party of Korea Propaganda and Agitation
+Department, which controls all DPRK’s media and is used by the government to control
+the public </VALUE>
+            </DESIGNATION>
+            <NATIONALITY>
+                <VALUE>Democratic People's Republic of Korea</VALUE>
+            </NATIONALITY>
+            <LIST_TYPE>
+                <VALUE>UN List</VALUE>
+            </LIST_TYPE>
+            <LAST_DAY_UPDATED>
+                <VALUE>2023-08-16</VALUE>
+            </LAST_DAY_UPDATED>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY>Good</QUALITY>
+                <ALIAS_NAME>RI Chae-Il</ALIAS_NAME>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ADDRESS>
+                <COUNTRY/>
+            </INDIVIDUAL_ADDRESS>
+            <INDIVIDUAL_DATE_OF_BIRTH>
+                <TYPE_OF_DATE>EXACT</TYPE_OF_DATE>
+                <YEAR>1934</YEAR>
+            </INDIVIDUAL_DATE_OF_BIRTH>
+            <INDIVIDUAL_PLACE_OF_BIRTH>
+                <COUNTRY/>
+            </INDIVIDUAL_PLACE_OF_BIRTH>
+            <INDIVIDUAL_DOCUMENT/>
+            <SORT_KEY/>
+            <SORT_KEY_LAST_MOD/>
+        </INDIVIDUAL>
+        <INDIVIDUAL>
+            <DATAID>6908593</DATAID>
+            <VERSIONNUM>1</VERSIONNUM>
+            <FIRST_NAME>RI </FIRST_NAME>
+            <SECOND_NAME>YONG MU </SECOND_NAME>
+            <UN_LIST_TYPE>DPRK</UN_LIST_TYPE>
+            <REFERENCE_NUMBER>KPi.053</REFERENCE_NUMBER>
+            <LISTED_ON>2017-06-02</LISTED_ON>
+            <COMMENTS1>Died on 27 January 2022.</COMMENTS1>
+            <DESIGNATION>
+                <VALUE>Ri Yong Mu is a Vice Chairman of the State Affairs Commission, which
+directs and guides all DPRK’s military, defence, and security-related affairs,
+including acquisition and procurement</VALUE>
+            </DESIGNATION>
+            <NATIONALITY>
+                <VALUE>Democratic People's Republic of Korea</VALUE>
+            </NATIONALITY>
+            <LIST_TYPE>
+                <VALUE>UN List</VALUE>
+            </LIST_TYPE>
+            <LAST_DAY_UPDATED>
+                <VALUE>2023-08-16</VALUE>
+                <VALUE>2022-07-26</VALUE>
+            </LAST_DAY_UPDATED>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY>Good</QUALITY>
+                <ALIAS_NAME>Ri Yong-Mu</ALIAS_NAME>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ADDRESS>
+                <COUNTRY>Democratic People's Republic of Korea</COUNTRY>
+            </INDIVIDUAL_ADDRESS>
+            <INDIVIDUAL_DATE_OF_BIRTH>
+                <TYPE_OF_DATE>EXACT</TYPE_OF_DATE>
+                <DATE>1925-01-25</DATE>
+            </INDIVIDUAL_DATE_OF_BIRTH>
+            <INDIVIDUAL_PLACE_OF_BIRTH>
+                <COUNTRY/>
+            </INDIVIDUAL_PLACE_OF_BIRTH>
+            <INDIVIDUAL_DOCUMENT/>
             <SORT_KEY/>
             <SORT_KEY_LAST_MOD/>
         </INDIVIDUAL>
@@ -48300,35 +48306,6 @@ Review pursuant to Security Council resolution 2368 (2017) was concluded on 15 N
             <SORT_KEY_LAST_MOD/>
         </ENTITY>
         <ENTITY>
-            <DATAID>6908522</DATAID>
-            <VERSIONNUM>1</VERSIONNUM>
-            <FIRST_NAME>MUNITIONS INDUSTRY DEPARTMENT</FIRST_NAME>
-            <UN_LIST_TYPE>DPRK</UN_LIST_TYPE>
-            <REFERENCE_NUMBER>KPe.028</REFERENCE_NUMBER>
-            <LISTED_ON>2016-03-02</LISTED_ON>
-            <COMMENTS1>The Munitions Industry Department is involved in key aspects of the DPRK's missile program. MID is responsible for overseeing the development of the DPRK's ballistic missiles, including the Taepo Dong-2.The MID oversees the DPRK's weapons production and R&amp;D programs, including the DPRK's ballistic missile program. The Second Economic Committee and the Second Academy of Natural Sciences – also designated in August 2010 – are subordinate to the MID. The MID in recent years has worked to develop the KN08 road-mobile ICBM. The MID oversees the DPRK’s nuclear program. The Nuclear Weapons Institute is subordinate to the MID.</COMMENTS1>
-            <LIST_TYPE>
-                <VALUE>UN List</VALUE>
-            </LIST_TYPE>
-            <LAST_DAY_UPDATED>
-                <VALUE>2018-07-09</VALUE>
-            </LAST_DAY_UPDATED>
-            <ENTITY_ALIAS>
-                <QUALITY>Good</QUALITY>
-                <ALIAS_NAME>Military Supplies Industry Department</ALIAS_NAME>
-            </ENTITY_ALIAS>
-            <ENTITY_ALIAS>
-                <QUALITY>Good</QUALITY>
-                <ALIAS_NAME>MID</ALIAS_NAME>
-            </ENTITY_ALIAS>
-            <ENTITY_ADDRESS>
-                <CITY>Pyongyang</CITY>
-                <COUNTRY>Democratic People's Republic of Korea</COUNTRY>
-            </ENTITY_ADDRESS>
-            <SORT_KEY/>
-            <SORT_KEY_LAST_MOD/>
-        </ENTITY>
-        <ENTITY>
             <DATAID>6908523</DATAID>
             <VERSIONNUM>1</VERSIONNUM>
             <FIRST_NAME>NATIONAL AEROSPACE DEVELOPMENT ADMINISTRATION</FIRST_NAME>
@@ -50366,6 +50343,40 @@ ship-to-ship transfer of refined petroleum product. IMO number: 5987860.</COMMEN
             </ENTITY_ALIAS>
             <ENTITY_ADDRESS>
                 <COUNTRY/>
+            </ENTITY_ADDRESS>
+            <SORT_KEY/>
+            <SORT_KEY_LAST_MOD/>
+        </ENTITY>
+        <ENTITY>
+            <DATAID>6908522</DATAID>
+            <VERSIONNUM>1</VERSIONNUM>
+            <FIRST_NAME>MUNITIONS INDUSTRY DEPARTMENT</FIRST_NAME>
+            <UN_LIST_TYPE>DPRK</UN_LIST_TYPE>
+            <REFERENCE_NUMBER>KPe.028</REFERENCE_NUMBER>
+            <LISTED_ON>2016-03-02</LISTED_ON>
+            <COMMENTS1>The Munitions Industry Department is involved in key aspects of the DPRK's missile program. MID is responsible for overseeing the development of the DPRK's ballistic missiles, including the Taepo Dong-2.The MID oversees the DPRK's weapons production and R&amp;D programs, including the DPRK's ballistic missile program. The Second Economic Committee and the Second Academy of Natural Sciences – also designated in August 2010 – are subordinate to the MID. The MID in recent years has worked to develop the KN08 road-mobile ICBM. The MID oversees the DPRK’s nuclear program. The Nuclear Weapons Institute is subordinate to the MID.</COMMENTS1>
+            <LIST_TYPE>
+                <VALUE>UN List</VALUE>
+            </LIST_TYPE>
+            <LAST_DAY_UPDATED>
+                <VALUE>2023-08-16</VALUE>
+                <VALUE>2018-07-09</VALUE>
+            </LAST_DAY_UPDATED>
+            <ENTITY_ALIAS>
+                <QUALITY>Good</QUALITY>
+                <ALIAS_NAME>Military Supplies Industry Department</ALIAS_NAME>
+            </ENTITY_ALIAS>
+            <ENTITY_ALIAS>
+                <QUALITY>Good</QUALITY>
+                <ALIAS_NAME>MID</ALIAS_NAME>
+            </ENTITY_ALIAS>
+            <ENTITY_ALIAS>
+                <QUALITY>Good</QUALITY>
+                <ALIAS_NAME>MACHINE INDUSTRY DEPARTMENT</ALIAS_NAME>
+            </ENTITY_ALIAS>
+            <ENTITY_ADDRESS>
+                <CITY>Pyongyang</CITY>
+                <COUNTRY>Democratic People's Republic of Korea</COUNTRY>
             </ENTITY_ADDRESS>
             <SORT_KEY/>
             <SORT_KEY_LAST_MOD/>
