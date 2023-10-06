@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<CONSOLIDATED_LIST xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:noNamespaceSchemaLocation='https://www.un.org/sc/resources/sc-sanctions.xsd' dateGenerated='2023-10-04T23:00:04.240Z'>
+<CONSOLIDATED_LIST xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:noNamespaceSchemaLocation='https://www.un.org/sc/resources/sc-sanctions.xsd' dateGenerated='2023-10-05T23:00:02.560Z'>
     <INDIVIDUALS>
         <INDIVIDUAL>
             <DATAID>110404</DATAID>
@@ -25514,46 +25514,6 @@ Nuclear Research Center and Namchongang Trading Corporation.</COMMENTS1>
                 <NUMBER>No34409/129</NUMBER>
                 <NOTE>(July 1997)</NOTE>
             </INDIVIDUAL_DOCUMENT>
-            <SORT_KEY/>
-            <SORT_KEY_LAST_MOD/>
-        </INDIVIDUAL>
-        <INDIVIDUAL>
-            <DATAID>6908073</DATAID>
-            <VERSIONNUM>1</VERSIONNUM>
-            <FIRST_NAME>WALID</FIRST_NAME>
-            <SECOND_NAME>HAMID</SECOND_NAME>
-            <THIRD_NAME>TAWFIQ</THIRD_NAME>
-            <FOURTH_NAME>AL-TIKRITI</FOURTH_NAME>
-            <UN_LIST_TYPE>Iraq</UN_LIST_TYPE>
-            <REFERENCE_NUMBER>IQi.026</REFERENCE_NUMBER>
-            <LISTED_ON>2003-06-27</LISTED_ON>
-            <NAME_ORIGINAL_SCRIPT>وليد حامد توفيق التكريتي</NAME_ORIGINAL_SCRIPT>
-            <COMMENTS1/>
-            <NATIONALITY>
-                <VALUE>Iraq</VALUE>
-            </NATIONALITY>
-            <LIST_TYPE>
-                <VALUE>UN List</VALUE>
-            </LIST_TYPE>
-            <LAST_DAY_UPDATED>
-                <VALUE/>
-            </LAST_DAY_UPDATED>
-            <INDIVIDUAL_ALIAS>
-                <QUALITY>Good</QUALITY>
-                <ALIAS_NAME>Walid Hamid Tawfiq al-Nasiri</ALIAS_NAME>
-            </INDIVIDUAL_ALIAS>
-            <INDIVIDUAL_ADDRESS>
-                <COUNTRY/>
-            </INDIVIDUAL_ADDRESS>
-            <INDIVIDUAL_DATE_OF_BIRTH>
-                <TYPE_OF_DATE>EXACT</TYPE_OF_DATE>
-                <YEAR>1954</YEAR>
-            </INDIVIDUAL_DATE_OF_BIRTH>
-            <INDIVIDUAL_PLACE_OF_BIRTH>
-                <CITY>Tikrit</CITY>
-                <COUNTRY>Iraq</COUNTRY>
-            </INDIVIDUAL_PLACE_OF_BIRTH>
-            <INDIVIDUAL_DOCUMENT/>
             <SORT_KEY/>
             <SORT_KEY_LAST_MOD/>
         </INDIVIDUAL>
