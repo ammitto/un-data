@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<CONSOLIDATED_LIST xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:noNamespaceSchemaLocation='https://www.un.org/sc/resources/sc-sanctions.xsd' dateGenerated='2023-10-19T04:00:02.893Z'>
+<CONSOLIDATED_LIST xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:noNamespaceSchemaLocation='https://www.un.org/sc/resources/sc-sanctions.xsd' dateGenerated='2023-10-20T23:00:04.270Z'>
     <INDIVIDUALS>
         <INDIVIDUAL>
             <DATAID>110447</DATAID>
@@ -39323,38 +39323,6 @@ for inclusion in the INTERPOL-UN Security Council Special Notice.</COMMENTS1>
             <SORT_KEY_LAST_MOD/>
         </INDIVIDUAL>
         <INDIVIDUAL>
-            <DATAID>6908911</DATAID>
-            <VERSIONNUM>1</VERSIONNUM>
-            <FIRST_NAME>JIMMY</FIRST_NAME>
-            <SECOND_NAME>CHERIZIER</SECOND_NAME>
-            <UN_LIST_TYPE>Haiti</UN_LIST_TYPE>
-            <REFERENCE_NUMBER>HTi.001</REFERENCE_NUMBER>
-            <LISTED_ON>2022-10-21</LISTED_ON>
-            <COMMENTS1>Jimmy Cherizier (AKA “Barbeque”) has engaged in acts that threaten the peace, security, and stability of Haiti and has planned, directed, or committed acts that constitute serious human rights abuses. Jimmy Cherizier is one of Haiti’s most influential gang leaders and leads an alliance of Haitian gangs known as the "G9 Family and Allies."</COMMENTS1>
-            <LIST_TYPE>
-                <VALUE>UN List</VALUE>
-            </LIST_TYPE>
-            <LAST_DAY_UPDATED>
-                <VALUE/>
-            </LAST_DAY_UPDATED>
-            <INDIVIDUAL_ALIAS>
-                <QUALITY>Low</QUALITY>
-                <ALIAS_NAME>BARBEQUE</ALIAS_NAME>
-            </INDIVIDUAL_ALIAS>
-            <INDIVIDUAL_ADDRESS>
-                <COUNTRY/>
-            </INDIVIDUAL_ADDRESS>
-            <INDIVIDUAL_DATE_OF_BIRTH>
-                <TYPE_OF_DATE/>
-            </INDIVIDUAL_DATE_OF_BIRTH>
-            <INDIVIDUAL_PLACE_OF_BIRTH>
-                <COUNTRY/>
-            </INDIVIDUAL_PLACE_OF_BIRTH>
-            <INDIVIDUAL_DOCUMENT/>
-            <SORT_KEY/>
-            <SORT_KEY_LAST_MOD/>
-        </INDIVIDUAL>
-        <INDIVIDUAL>
             <DATAID>6908614</DATAID>
             <VERSIONNUM>1</VERSIONNUM>
             <FIRST_NAME>HAN </FIRST_NAME>
@@ -39941,6 +39909,51 @@ Asset Freeze). INTERPOL-UN Security Council Special Notice web link:https://www.
             <INDIVIDUAL_DOCUMENT>
                 <TYPE_OF_DOCUMENT>National Identification Number</TYPE_OF_DOCUMENT>
                 <NUMBER>98606612</NUMBER>
+            </INDIVIDUAL_DOCUMENT>
+            <SORT_KEY/>
+            <SORT_KEY_LAST_MOD/>
+        </INDIVIDUAL>
+        <INDIVIDUAL>
+            <DATAID>6908911</DATAID>
+            <VERSIONNUM>1</VERSIONNUM>
+            <FIRST_NAME>JIMMY</FIRST_NAME>
+            <SECOND_NAME>CHERIZIER</SECOND_NAME>
+            <UN_LIST_TYPE>Haiti</UN_LIST_TYPE>
+            <REFERENCE_NUMBER>HTi.001</REFERENCE_NUMBER>
+            <LISTED_ON>2022-10-21</LISTED_ON>
+            <COMMENTS1>Jimmy Cherizier (AKA “Barbeque”) has engaged in acts that threaten the peace, security, and stability of Haiti and has planned, directed, or committed acts that constitute serious human rights abuses. Jimmy Cherizier is one of Haiti’s most influential gang leaders and leads an alliance of Haitian gangs known as the "G9 Family and Allies."</COMMENTS1>
+            <DESIGNATION>
+                <VALUE>Former Police Officer</VALUE>
+            </DESIGNATION>
+            <NATIONALITY>
+                <VALUE>Haiti</VALUE>
+            </NATIONALITY>
+            <LIST_TYPE>
+                <VALUE>UN List</VALUE>
+            </LIST_TYPE>
+            <LAST_DAY_UPDATED>
+                <VALUE>2023-10-20</VALUE>
+            </LAST_DAY_UPDATED>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY>Low</QUALITY>
+                <ALIAS_NAME>BARBEQUE</ALIAS_NAME>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ADDRESS>
+                <STREET>16, Imp Manius, Delmas 40 B, Port-au-Prince</STREET>
+                <COUNTRY>Haiti</COUNTRY>
+            </INDIVIDUAL_ADDRESS>
+            <INDIVIDUAL_DATE_OF_BIRTH>
+                <TYPE_OF_DATE>EXACT</TYPE_OF_DATE>
+                <DATE>1977-03-30</DATE>
+            </INDIVIDUAL_DATE_OF_BIRTH>
+            <INDIVIDUAL_PLACE_OF_BIRTH>
+                <STATE_PROVINCE>Port-au-Prince</STATE_PROVINCE>
+                <COUNTRY>Haiti</COUNTRY>
+            </INDIVIDUAL_PLACE_OF_BIRTH>
+            <INDIVIDUAL_DOCUMENT>
+                <TYPE_OF_DOCUMENT>National Identification Number</TYPE_OF_DOCUMENT>
+                <NUMBER>001-843-989-7</NUMBER>
+                <NOTE>NIF - Haiti</NOTE>
             </INDIVIDUAL_DOCUMENT>
             <SORT_KEY/>
             <SORT_KEY_LAST_MOD/>
