@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<CONSOLIDATED_LIST xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:noNamespaceSchemaLocation='https://www.un.org/sc/resources/sc-sanctions.xsd' dateGenerated='2023-11-15T22:56:05.575Z'>
+<CONSOLIDATED_LIST xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:noNamespaceSchemaLocation='https://www.un.org/sc/resources/sc-sanctions.xsd' dateGenerated='2023-11-17T00:00:10.471Z'>
     <INDIVIDUALS>
         <INDIVIDUAL>
             <DATAID>110447</DATAID>
@@ -18015,67 +18015,6 @@ suicide attacks in neighboring provinces. Associated with Abdul Samad Achekzai
             <INDIVIDUAL_PLACE_OF_BIRTH>
                 <STATE_PROVINCE>Kandahar Province</STATE_PROVINCE>
                 <COUNTRY>Afghanistan</COUNTRY>
-            </INDIVIDUAL_PLACE_OF_BIRTH>
-            <INDIVIDUAL_DOCUMENT/>
-            <SORT_KEY/>
-            <SORT_KEY_LAST_MOD/>
-        </INDIVIDUAL>
-        <INDIVIDUAL>
-            <DATAID>3020633</DATAID>
-            <VERSIONNUM>1</VERSIONNUM>
-            <FIRST_NAME>ABU MOHAMMED</FIRST_NAME>
-            <SECOND_NAME>AL-JAWLANI</SECOND_NAME>
-            <UN_LIST_TYPE>Al-Qaida</UN_LIST_TYPE>
-            <REFERENCE_NUMBER>QDi.317</REFERENCE_NUMBER>
-            <LISTED_ON>2013-07-24</LISTED_ON>
-            <NAME_ORIGINAL_SCRIPT>أبو محمد الجولاني</NAME_ORIGINAL_SCRIPT>
-            <COMMENTS1>Description: Dark complexion. Height: 1.70 m. Since Jan. 2012, he is the Leader of Al-Nusrah Front for the People of the Levant (QDe.137), a Syria-based group listed in May 2014, and previously listed as an alias of Al-Qaida in Iraq (AQI) (QDe.115) between 30 May 2013 and 13 May 2014. Associated with Aiman Muhammed Rabi al-Zawahiri (QDi.006). Wanted by the Iraqi security forces. Photo available for inclusion in the INTERPOL-UN Security Council Special Notice.  Review pursuant to Security Council resolution 2253 (2015) was concluded on 21 Feb. 2019. Review pursuant to Security Council resolution 2610 (2021) was concluded on 8 November 2022. INTERPOL-UN Security Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals</COMMENTS1>
-            <NATIONALITY>
-                <VALUE>Syrian Arab Republic</VALUE>
-            </NATIONALITY>
-            <LIST_TYPE>
-                <VALUE>UN List</VALUE>
-            </LIST_TYPE>
-            <LAST_DAY_UPDATED>
-                <VALUE>2014-06-02</VALUE>
-                <VALUE>2015-12-10</VALUE>
-                <VALUE>2019-05-01</VALUE>
-                <VALUE>2022-11-08</VALUE>
-            </LAST_DAY_UPDATED>
-            <INDIVIDUAL_ALIAS>
-                <QUALITY>Good</QUALITY>
-                <ALIAS_NAME>Abu Mohamed al-Jawlani</ALIAS_NAME>
-                <NOTE>Abu Muhammad al-Jawlani, Abu Mohammed al-Julani, Abu Mohammed al-Golani,
-Abu Muhammad al-Golani, Abu Muhammad Aljawlani, Muhammad al-Jawlani
-(transliterations of original script name)</NOTE>
-            </INDIVIDUAL_ALIAS>
-            <INDIVIDUAL_ALIAS>
-                <QUALITY>Low</QUALITY>
-                <ALIAS_NAME>شيخ الفاتح ، الفاتح</ALIAS_NAME>
-                <NOTE>transliterations: Shaykh al-Fatih; Al Fatih ) (Translation: The
-Conqueror) (Nom de guerre</NOTE>
-            </INDIVIDUAL_ALIAS>
-            <INDIVIDUAL_ALIAS>
-                <QUALITY>Good</QUALITY>
-                <ALIAS_NAME>Amjad Muzaffar Hussein Ali al-Naimi</ALIAS_NAME>
-                <DATE_OF_BIRTH>1980</DATE_OF_BIRTH>
-                <COUNTRY_OF_BIRTH>Syrian Arab Republic</COUNTRY_OF_BIRTH>
-                <NOTE>(Mother’s name: Fatma Ali Majour. Address: Mosul, Souq al-Nabi Yunis</NOTE>
-            </INDIVIDUAL_ALIAS>
-            <INDIVIDUAL_ALIAS>
-                <QUALITY>Low</QUALITY>
-                <ALIAS_NAME>Abu Ashraf</ALIAS_NAME>
-            </INDIVIDUAL_ALIAS>
-            <INDIVIDUAL_ADDRESS>
-                <NOTE>Active in Syria as at Jun. 2013</NOTE>
-            </INDIVIDUAL_ADDRESS>
-            <INDIVIDUAL_DATE_OF_BIRTH>
-                <TYPE_OF_DATE>BETWEEN</TYPE_OF_DATE>
-                <FROM_YEAR>1975</FROM_YEAR>
-                <TO_YEAR>1979</TO_YEAR>
-            </INDIVIDUAL_DATE_OF_BIRTH>
-            <INDIVIDUAL_PLACE_OF_BIRTH>
-                <COUNTRY>Syrian Arab Republic</COUNTRY>
             </INDIVIDUAL_PLACE_OF_BIRTH>
             <INDIVIDUAL_DOCUMENT/>
             <SORT_KEY/>
@@ -39869,7 +39808,6 @@ Jan. 2012. Review pursuant to Security Council resolution 1822 (2008) was conclu
             </LIST_TYPE>
             <LAST_DAY_UPDATED>
                 <VALUE>2023-11-14</VALUE>
-                <VALUE>2023-11-14</VALUE>
                 <VALUE>2005-09-09</VALUE>
                 <VALUE>2007-06-07</VALUE>
                 <VALUE>2011-05-16</VALUE>
@@ -40063,6 +40001,65 @@ number</TYPE_OF_DOCUMENT2>
                 <NUMBER>012546</NUMBER>
                 <ISSUING_COUNTRY>Mali</ISSUING_COUNTRY>
             </INDIVIDUAL_DOCUMENT>
+            <SORT_KEY/>
+            <SORT_KEY_LAST_MOD/>
+        </INDIVIDUAL>
+        <INDIVIDUAL>
+            <DATAID>3020633</DATAID>
+            <VERSIONNUM>1</VERSIONNUM>
+            <FIRST_NAME>ABU MOHAMMED</FIRST_NAME>
+            <SECOND_NAME>AL-JAWLANI</SECOND_NAME>
+            <UN_LIST_TYPE>Al-Qaida</UN_LIST_TYPE>
+            <REFERENCE_NUMBER>QDi.317</REFERENCE_NUMBER>
+            <LISTED_ON>2013-07-24</LISTED_ON>
+            <NAME_ORIGINAL_SCRIPT>أبو محمد الجولاني</NAME_ORIGINAL_SCRIPT>
+            <COMMENTS1>Description: Dark complexion. Height: 1.70 m. Since Jan. 2012, he is the Leader of Al-Nusrah Front for the People of the Levant (QDe.137), a Syria-based group listed in May 2014, and previously listed as an alias of Al-Qaida in Iraq (AQI) (QDe.115) between 30 May 2013 and 13 May 2014. Associated with Aiman Muhammed Rabi al-Zawahiri (QDi.006). Wanted by the Iraqi security forces. Photo available for inclusion in the INTERPOL-UN Security Council Special Notice.  Review pursuant to Security Council resolution 2253 (2015) was concluded on 21 Feb. 2019. Review pursuant to Security Council resolution 2610 (2021) was concluded on 8 November 2022. INTERPOL-UN Security Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals</COMMENTS1>
+            <NATIONALITY>
+                <VALUE>Syrian Arab Republic</VALUE>
+            </NATIONALITY>
+            <LIST_TYPE>
+                <VALUE>UN List</VALUE>
+            </LIST_TYPE>
+            <LAST_DAY_UPDATED>
+                <VALUE>2023-11-14</VALUE>
+                <VALUE>2014-06-02</VALUE>
+                <VALUE>2015-12-10</VALUE>
+                <VALUE>2019-05-01</VALUE>
+                <VALUE>2022-11-08</VALUE>
+            </LAST_DAY_UPDATED>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY>Good</QUALITY>
+                <ALIAS_NAME>ABU MOHAMED AL-JAWLANI</ALIAS_NAME>
+                <NOTE>Abu Muhammad al-Jawlani, Abu Mohammed al-Julani, Abu Mohammed al-Golani, Abu Muhammad al-Golani, Abu Muhammad Aljawlani, Muhammad al-Jawlani (transliterations of original script name)</NOTE>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY>Good</QUALITY>
+                <ALIAS_NAME>AMJAD MUZAFFAR HUSSEIN ALI AL-NAIMI</ALIAS_NAME>
+                <DATE_OF_BIRTH>1980</DATE_OF_BIRTH>
+                <COUNTRY_OF_BIRTH>Syrian Arab Republic</COUNTRY_OF_BIRTH>
+                <NOTE>Mother’s name: Fatma Ali Majour. Address: Mosul, Souq al-Nabi Yunis</NOTE>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY>Low</QUALITY>
+                <ALIAS_NAME>شيخ الفاتح ، الفاتح</ALIAS_NAME>
+                <NOTE>transliterations: Shaykh al-Fatih; Al Fatih ) (Translation: The Conqueror) (Nom de guerre</NOTE>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY>Low</QUALITY>
+                <ALIAS_NAME>ABU ASHRAF</ALIAS_NAME>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ADDRESS>
+                <NOTE>Active in Syria as at Jun. 2013</NOTE>
+            </INDIVIDUAL_ADDRESS>
+            <INDIVIDUAL_DATE_OF_BIRTH>
+                <TYPE_OF_DATE>BETWEEN</TYPE_OF_DATE>
+                <FROM_YEAR>1976</FROM_YEAR>
+                <TO_YEAR>1980</TO_YEAR>
+            </INDIVIDUAL_DATE_OF_BIRTH>
+            <INDIVIDUAL_PLACE_OF_BIRTH>
+                <COUNTRY>Syrian Arab Republic</COUNTRY>
+            </INDIVIDUAL_PLACE_OF_BIRTH>
+            <INDIVIDUAL_DOCUMENT/>
             <SORT_KEY/>
             <SORT_KEY_LAST_MOD/>
         </INDIVIDUAL>
@@ -47441,7 +47438,6 @@ resolution 1822 (2008) was concluded on 21 Jun. 2010. Review pursuant to Securit
                 <VALUE>UN List</VALUE>
             </LIST_TYPE>
             <LAST_DAY_UPDATED>
-                <VALUE>2023-11-14</VALUE>
                 <VALUE>2023-11-14</VALUE>
                 <VALUE>2009-03-05</VALUE>
                 <VALUE>2011-12-13</VALUE>
