@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<CONSOLIDATED_LIST xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:noNamespaceSchemaLocation='https://www.un.org/sc/resources/sc-sanctions.xsd' dateGenerated='2023-11-29T00:00:05.735Z'>
+<CONSOLIDATED_LIST xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:noNamespaceSchemaLocation='https://www.un.org/sc/resources/sc-sanctions.xsd' dateGenerated='2023-11-30T00:00:02.767Z'>
     <INDIVIDUALS>
         <INDIVIDUAL>
             <DATAID>110447</DATAID>
@@ -18698,49 +18698,6 @@ Ban). INTERPOL-UN Security Council Special Notice web link:https://www.interpol.
             <SORT_KEY_LAST_MOD/>
         </INDIVIDUAL>
         <INDIVIDUAL>
-            <DATAID>690732</DATAID>
-            <VERSIONNUM>1</VERSIONNUM>
-            <FIRST_NAME>SAYYID</FIRST_NAME>
-            <SECOND_NAME>MOHAMMED</SECOND_NAME>
-            <THIRD_NAME>QADHAF AL-DAM</THIRD_NAME>
-            <UN_LIST_TYPE>Libya</UN_LIST_TYPE>
-            <REFERENCE_NUMBER>LYi.003</REFERENCE_NUMBER>
-            <LISTED_ON>2011-02-26</LISTED_ON>
-            <COMMENTS1>Listed pursuant to paragraph 15 of resolution 1970 (Travel
-Ban). INTERPOL-UN Security Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals</COMMENTS1>
-            <LIST_TYPE>
-                <VALUE>UN List</VALUE>
-            </LIST_TYPE>
-            <LAST_DAY_UPDATED>
-                <VALUE>2016-04-01</VALUE>
-            </LAST_DAY_UPDATED>
-            <INDIVIDUAL_ALIAS>
-                <QUALITY/>
-                <ALIAS_NAME/>
-            </INDIVIDUAL_ALIAS>
-            <INDIVIDUAL_ALIAS>
-                <QUALITY>Good</QUALITY>
-                <ALIAS_NAME>Sayed M. Gaddef Eddam</ALIAS_NAME>
-            </INDIVIDUAL_ALIAS>
-            <INDIVIDUAL_ADDRESS>
-                <COUNTRY/>
-            </INDIVIDUAL_ADDRESS>
-            <INDIVIDUAL_DATE_OF_BIRTH>
-                <TYPE_OF_DATE>EXACT</TYPE_OF_DATE>
-                <YEAR>1948</YEAR>
-            </INDIVIDUAL_DATE_OF_BIRTH>
-            <INDIVIDUAL_PLACE_OF_BIRTH>
-                <CITY>Sirte</CITY>
-                <COUNTRY>Libya</COUNTRY>
-            </INDIVIDUAL_PLACE_OF_BIRTH>
-            <INDIVIDUAL_DOCUMENT>
-                <TYPE_OF_DOCUMENT>Passport</TYPE_OF_DOCUMENT>
-                <NUMBER>Libyan passport No. 513519 </NUMBER>
-            </INDIVIDUAL_DOCUMENT>
-            <SORT_KEY/>
-            <SORT_KEY_LAST_MOD/>
-        </INDIVIDUAL>
-        <INDIVIDUAL>
             <DATAID>690734</DATAID>
             <VERSIONNUM>1</VERSIONNUM>
             <FIRST_NAME>YUN</FIRST_NAME>
@@ -19735,64 +19692,6 @@ Forces</VALUE>
                 <TYPE_OF_DOCUMENT>Passport</TYPE_OF_DOCUMENT>
                 <NUMBER>B/001897 </NUMBER>
                 <ISSUING_COUNTRY>Libya</ISSUING_COUNTRY>
-            </INDIVIDUAL_DOCUMENT>
-            <SORT_KEY/>
-            <SORT_KEY_LAST_MOD/>
-        </INDIVIDUAL>
-        <INDIVIDUAL>
-            <DATAID>690776</DATAID>
-            <VERSIONNUM>1</VERSIONNUM>
-            <FIRST_NAME>SAADI</FIRST_NAME>
-            <SECOND_NAME>QADHAFI</SECOND_NAME>
-            <UN_LIST_TYPE>Libya</UN_LIST_TYPE>
-            <REFERENCE_NUMBER>LYi.015</REFERENCE_NUMBER>
-            <LISTED_ON>2011-02-26</LISTED_ON>
-            <COMMENTS1>Listed pursuant to paragraph 15 of resolution 1970 (Travel Ban). Listed
-on 17 March 2011 pursuant to paragraph 17 of resolution 1970 (Asset Freeze). INTERPOL-UN Security Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals</COMMENTS1>
-            <DESIGNATION>
-                <VALUE>Commander Special Forces</VALUE>
-            </DESIGNATION>
-            <LIST_TYPE>
-                <VALUE>UN List</VALUE>
-            </LIST_TYPE>
-            <LAST_DAY_UPDATED>
-                <VALUE>2015-03-26</VALUE>
-                <VALUE>2012-04-02</VALUE>
-                <VALUE>2012-03-14</VALUE>
-                <VALUE>2022-01-28</VALUE>
-            </LAST_DAY_UPDATED>
-            <INDIVIDUAL_ALIAS>
-                <QUALITY/>
-                <ALIAS_NAME/>
-                <DATE_OF_BIRTH>1975-01-01</DATE_OF_BIRTH>
-            </INDIVIDUAL_ALIAS>
-            <INDIVIDUAL_ADDRESS>
-                <COUNTRY>Libya</COUNTRY>
-                <NOTE>in custody</NOTE>
-            </INDIVIDUAL_ADDRESS>
-            <INDIVIDUAL_DATE_OF_BIRTH>
-                <TYPE_OF_DATE>EXACT</TYPE_OF_DATE>
-                <DATE>1973-05-27</DATE>
-            </INDIVIDUAL_DATE_OF_BIRTH>
-            <INDIVIDUAL_PLACE_OF_BIRTH>
-                <CITY>Tripoli</CITY>
-                <COUNTRY>Libya</COUNTRY>
-            </INDIVIDUAL_PLACE_OF_BIRTH>
-            <INDIVIDUAL_DOCUMENT>
-                <TYPE_OF_DOCUMENT>Passport</TYPE_OF_DOCUMENT>
-                <NUMBER>014797</NUMBER>
-            </INDIVIDUAL_DOCUMENT>
-            <INDIVIDUAL_DOCUMENT>
-                <TYPE_OF_DOCUMENT>Passport</TYPE_OF_DOCUMENT>
-                <NUMBER>524521</NUMBER>
-            </INDIVIDUAL_DOCUMENT>
-            <INDIVIDUAL_DOCUMENT>
-                <TYPE_OF_DOCUMENT>Passport</TYPE_OF_DOCUMENT>
-                <NUMBER>AA862825</NUMBER>
-                <ISSUING_COUNTRY>Libya</ISSUING_COUNTRY>
-                <DATE_OF_ISSUE>2021-05-19</DATE_OF_ISSUE>
-                <CITY_OF_ISSUE>Tripoli</CITY_OF_ISSUE>
-                <NOTE>expires 18 May 2029</NOTE>
             </INDIVIDUAL_DOCUMENT>
             <SORT_KEY/>
             <SORT_KEY_LAST_MOD/>
@@ -26644,7 +26543,7 @@ Hajji Meyawar Khan (deceased). INTERPOL-UN Security Council Special Notice web l
             <DATAID>6908406</DATAID>
             <VERSIONNUM>1</VERSIONNUM>
             <FIRST_NAME>RAHMATULLAH</FIRST_NAME>
-            <SECOND_NAME>SHAH NAWAZ </SECOND_NAME>
+            <SECOND_NAME>SHAH NAWAZ</SECOND_NAME>
             <UN_LIST_TYPE>Taliban</UN_LIST_TYPE>
             <REFERENCE_NUMBER>TAi.172</REFERENCE_NUMBER>
             <LISTED_ON>2014-08-21</LISTED_ON>
@@ -26908,9 +26807,9 @@ Notice.  Review pursuant to Security Council resolution 2368 (2017) was conclude
             <DATAID>6908413</DATAID>
             <VERSIONNUM>1</VERSIONNUM>
             <FIRST_NAME>SEIFALLAH</FIRST_NAME>
-            <SECOND_NAME>BEN OMAR </SECOND_NAME>
-            <THIRD_NAME>BEN MOHAMED </THIRD_NAME>
-            <FOURTH_NAME>BEN HASSINE </FOURTH_NAME>
+            <SECOND_NAME>BEN OMAR</SECOND_NAME>
+            <THIRD_NAME>BEN MOHAMED</THIRD_NAME>
+            <FOURTH_NAME>BEN HASSINE</FOURTH_NAME>
             <UN_LIST_TYPE>Al-Qaida</UN_LIST_TYPE>
             <REFERENCE_NUMBER>QDi.333</REFERENCE_NUMBER>
             <LISTED_ON>2014-09-23</LISTED_ON>
@@ -27325,7 +27224,7 @@ Iraq (AQI) (QDe.115), official. Previously served as a representative of AQI to 
             <VERSIONNUM>1</VERSIONNUM>
             <FIRST_NAME>EMILIE</FIRST_NAME>
             <SECOND_NAME>EDWIGE</SECOND_NAME>
-            <THIRD_NAME>KONIG </THIRD_NAME>
+            <THIRD_NAME>KONIG</THIRD_NAME>
             <UN_LIST_TYPE>Al-Qaida</UN_LIST_TYPE>
             <REFERENCE_NUMBER>QDi.340</REFERENCE_NUMBER>
             <LISTED_ON>2014-09-23</LISTED_ON>
@@ -27859,7 +27758,7 @@ that group. Review pursuant to Security Council resolution 2368 (2017) was concl
             <VERSIONNUM>1</VERSIONNUM>
             <FIRST_NAME>ABD</FIRST_NAME>
             <SECOND_NAME>AL-KHALIQ</SECOND_NAME>
-            <THIRD_NAME> AL-HOUTHI </THIRD_NAME>
+            <THIRD_NAME>AL-HOUTHI</THIRD_NAME>
             <UN_LIST_TYPE>Yemen</UN_LIST_TYPE>
             <REFERENCE_NUMBER>YEi.001</REFERENCE_NUMBER>
             <LISTED_ON>2014-11-07</LISTED_ON>
@@ -29992,7 +29891,7 @@ Review pursuant to Security Council resolution 2368 (2017) was concluded on 24 N
             <VERSIONNUM>1</VERSIONNUM>
             <FIRST_NAME>TARAD</FIRST_NAME>
             <SECOND_NAME>MOHAMMAD</SECOND_NAME>
-            <THIRD_NAME>Alnori Alfares </THIRD_NAME>
+            <THIRD_NAME>Alnori Alfares</THIRD_NAME>
             <FOURTH_NAME>ALJARBA</FOURTH_NAME>
             <UN_LIST_TYPE>Al-Qaida</UN_LIST_TYPE>
             <REFERENCE_NUMBER>QDi.370</REFERENCE_NUMBER>
@@ -30303,7 +30202,7 @@ Review pursuant to Security Council resolution 2368 (2017) was concluded on 24 N
         <INDIVIDUAL>
             <DATAID>6908488</DATAID>
             <VERSIONNUM>1</VERSIONNUM>
-            <FIRST_NAME>ISLAM </FIRST_NAME>
+            <FIRST_NAME>ISLAM</FIRST_NAME>
             <SECOND_NAME>SEIT-UMAROVICH</SECOND_NAME>
             <THIRD_NAME>ATABIEV</THIRD_NAME>
             <UN_LIST_TYPE>Al-Qaida</UN_LIST_TYPE>
@@ -30765,8 +30664,8 @@ Review pursuant to Security Council resolution 2368 (2017) was concluded on 24 N
         <INDIVIDUAL>
             <DATAID>6908495</DATAID>
             <VERSIONNUM>1</VERSIONNUM>
-            <FIRST_NAME>HAROUN </FIRST_NAME>
-            <SECOND_NAME>GAYE </SECOND_NAME>
+            <FIRST_NAME>HAROUN</FIRST_NAME>
+            <SECOND_NAME>GAYE</SECOND_NAME>
             <UN_LIST_TYPE>CAR</UN_LIST_TYPE>
             <REFERENCE_NUMBER>CFi.007</REFERENCE_NUMBER>
             <LISTED_ON>2015-12-17</LISTED_ON>
@@ -30821,8 +30720,8 @@ Renaissance de Centrafrique (FPRC)</VALUE>
             <DATAID>6908496</DATAID>
             <VERSIONNUM>1</VERSIONNUM>
             <FIRST_NAME>EUGÈNE</FIRST_NAME>
-            <SECOND_NAME>BARRET </SECOND_NAME>
-            <THIRD_NAME>NGAÏKOSSET </THIRD_NAME>
+            <SECOND_NAME>BARRET</SECOND_NAME>
+            <THIRD_NAME>NGAÏKOSSET</THIRD_NAME>
             <UN_LIST_TYPE>CAR</UN_LIST_TYPE>
             <REFERENCE_NUMBER>CFi.008</REFERENCE_NUMBER>
             <LISTED_ON>2015-12-17</LISTED_ON>
@@ -30889,7 +30788,7 @@ number 911-10-77</NUMBER>
             <DATAID>6908497</DATAID>
             <VERSIONNUM>1</VERSIONNUM>
             <FIRST_NAME>KIM</FIRST_NAME>
-            <SECOND_NAME>TONG MY’ONG </SECOND_NAME>
+            <SECOND_NAME>TONG MY’ONG</SECOND_NAME>
             <UN_LIST_TYPE>DPRK</UN_LIST_TYPE>
             <REFERENCE_NUMBER>KPi.023</REFERENCE_NUMBER>
             <LISTED_ON>2016-03-02</LISTED_ON>
@@ -30960,8 +30859,8 @@ number 911-10-77</NUMBER>
         <INDIVIDUAL>
             <DATAID>6908498</DATAID>
             <VERSIONNUM>1</VERSIONNUM>
-            <FIRST_NAME>KIM </FIRST_NAME>
-            <SECOND_NAME>JUNG JONG </SECOND_NAME>
+            <FIRST_NAME>KIM</FIRST_NAME>
+            <SECOND_NAME>JUNG JONG</SECOND_NAME>
             <UN_LIST_TYPE>DPRK</UN_LIST_TYPE>
             <REFERENCE_NUMBER>KPi.021</REFERENCE_NUMBER>
             <LISTED_ON>2016-03-02</LISTED_ON>
@@ -31020,7 +30919,7 @@ number 911-10-77</NUMBER>
             <DATAID>6908501</DATAID>
             <VERSIONNUM>1</VERSIONNUM>
             <FIRST_NAME>CHOE</FIRST_NAME>
-            <SECOND_NAME>SONG IL </SECOND_NAME>
+            <SECOND_NAME>SONG IL</SECOND_NAME>
             <UN_LIST_TYPE>DPRK</UN_LIST_TYPE>
             <REFERENCE_NUMBER>KPi.014</REFERENCE_NUMBER>
             <LISTED_ON>2016-03-02</LISTED_ON>
@@ -31066,7 +30965,7 @@ number 911-10-77</NUMBER>
             <DATAID>6908502</DATAID>
             <VERSIONNUM>1</VERSIONNUM>
             <FIRST_NAME>HYON</FIRST_NAME>
-            <SECOND_NAME>KWANG IL </SECOND_NAME>
+            <SECOND_NAME>KWANG IL</SECOND_NAME>
             <UN_LIST_TYPE>DPRK</UN_LIST_TYPE>
             <REFERENCE_NUMBER>KPi.015</REFERENCE_NUMBER>
             <LISTED_ON>2016-03-02</LISTED_ON>
@@ -31106,7 +31005,7 @@ Development Administration </VALUE>
             <DATAID>6908503</DATAID>
             <VERSIONNUM>1</VERSIONNUM>
             <FIRST_NAME>JANG</FIRST_NAME>
-            <SECOND_NAME>BOM SU </SECOND_NAME>
+            <SECOND_NAME>BOM SU</SECOND_NAME>
             <UN_LIST_TYPE>DPRK</UN_LIST_TYPE>
             <REFERENCE_NUMBER>KPi.016</REFERENCE_NUMBER>
             <LISTED_ON>2016-03-02</LISTED_ON>
@@ -31149,8 +31048,8 @@ Development Administration </VALUE>
         <INDIVIDUAL>
             <DATAID>6908505</DATAID>
             <VERSIONNUM>1</VERSIONNUM>
-            <FIRST_NAME>JANG </FIRST_NAME>
-            <SECOND_NAME>YONG SON </SECOND_NAME>
+            <FIRST_NAME>JANG</FIRST_NAME>
+            <SECOND_NAME>YONG SON</SECOND_NAME>
             <UN_LIST_TYPE>DPRK</UN_LIST_TYPE>
             <REFERENCE_NUMBER>KPi.017</REFERENCE_NUMBER>
             <LISTED_ON>2016-03-02</LISTED_ON>
@@ -31194,8 +31093,8 @@ Development Administration </VALUE>
         <INDIVIDUAL>
             <DATAID>6908506</DATAID>
             <VERSIONNUM>1</VERSIONNUM>
-            <FIRST_NAME>JON </FIRST_NAME>
-            <SECOND_NAME>MYONG GUK </SECOND_NAME>
+            <FIRST_NAME>JON</FIRST_NAME>
+            <SECOND_NAME>MYONG GUK</SECOND_NAME>
             <UN_LIST_TYPE>DPRK</UN_LIST_TYPE>
             <REFERENCE_NUMBER>KPi.018</REFERENCE_NUMBER>
             <LISTED_ON>2016-03-02</LISTED_ON>
@@ -31242,8 +31141,8 @@ Development Administration </VALUE>
         <INDIVIDUAL>
             <DATAID>6908507</DATAID>
             <VERSIONNUM>1</VERSIONNUM>
-            <FIRST_NAME>KANG </FIRST_NAME>
-            <SECOND_NAME>MUN KIL </SECOND_NAME>
+            <FIRST_NAME>KANG</FIRST_NAME>
+            <SECOND_NAME>MUN KIL</SECOND_NAME>
             <UN_LIST_TYPE>DPRK</UN_LIST_TYPE>
             <REFERENCE_NUMBER>KPi.019</REFERENCE_NUMBER>
             <LISTED_ON>2016-03-02</LISTED_ON>
@@ -31328,7 +31227,7 @@ Officer</VALUE>
             <DATAID>6908511</DATAID>
             <VERSIONNUM>1</VERSIONNUM>
             <FIRST_NAME>KIM</FIRST_NAME>
-            <SECOND_NAME>YONG CHOL </SECOND_NAME>
+            <SECOND_NAME>YONG CHOL</SECOND_NAME>
             <UN_LIST_TYPE>DPRK</UN_LIST_TYPE>
             <REFERENCE_NUMBER>KPi.024</REFERENCE_NUMBER>
             <LISTED_ON>2016-03-02</LISTED_ON>
@@ -31385,7 +31284,7 @@ Officer</VALUE>
             <DATAID>6908512</DATAID>
             <VERSIONNUM>1</VERSIONNUM>
             <FIRST_NAME>KO</FIRST_NAME>
-            <SECOND_NAME>TAE HUN </SECOND_NAME>
+            <SECOND_NAME>TAE HUN</SECOND_NAME>
             <UN_LIST_TYPE>DPRK</UN_LIST_TYPE>
             <REFERENCE_NUMBER>KPi.025</REFERENCE_NUMBER>
             <LISTED_ON>2016-03-02</LISTED_ON>
@@ -31429,8 +31328,8 @@ Officer</VALUE>
         <INDIVIDUAL>
             <DATAID>6908514</DATAID>
             <VERSIONNUM>1</VERSIONNUM>
-            <FIRST_NAME>RYU </FIRST_NAME>
-            <SECOND_NAME>JIN </SECOND_NAME>
+            <FIRST_NAME>RYU</FIRST_NAME>
+            <SECOND_NAME>JIN</SECOND_NAME>
             <UN_LIST_TYPE>DPRK</UN_LIST_TYPE>
             <REFERENCE_NUMBER>KPi.027</REFERENCE_NUMBER>
             <LISTED_ON>2016-03-02</LISTED_ON>
@@ -31472,7 +31371,7 @@ Officer</VALUE>
             <DATAID>6908515</DATAID>
             <VERSIONNUM>1</VERSIONNUM>
             <FIRST_NAME>YU</FIRST_NAME>
-            <SECOND_NAME>CHOL U </SECOND_NAME>
+            <SECOND_NAME>CHOL U</SECOND_NAME>
             <UN_LIST_TYPE>DPRK</UN_LIST_TYPE>
             <REFERENCE_NUMBER>KPi.028</REFERENCE_NUMBER>
             <LISTED_ON>2016-03-02</LISTED_ON>
@@ -31567,7 +31466,7 @@ Review pursuant to Security Council resolution 2368 (2017) was concluded on 24 N
         <INDIVIDUAL>
             <DATAID>6908527</DATAID>
             <VERSIONNUM>1</VERSIONNUM>
-            <FIRST_NAME>GULMUROD </FIRST_NAME>
+            <FIRST_NAME>GULMUROD</FIRST_NAME>
             <SECOND_NAME>KHALIMOV</SECOND_NAME>
             <UN_LIST_TYPE>Al-Qaida</UN_LIST_TYPE>
             <REFERENCE_NUMBER>QDi.372</REFERENCE_NUMBER>
@@ -32131,7 +32030,7 @@ Review pursuant to Security Council resolution 2368 (2017) was concluded on 24 N
         <INDIVIDUAL>
             <DATAID>6908538</DATAID>
             <VERSIONNUM>1</VERSIONNUM>
-            <FIRST_NAME>JOSEPH </FIRST_NAME>
+            <FIRST_NAME>JOSEPH</FIRST_NAME>
             <SECOND_NAME>KONY</SECOND_NAME>
             <UN_LIST_TYPE>CAR</UN_LIST_TYPE>
             <REFERENCE_NUMBER>CFi.009</REFERENCE_NUMBER>
@@ -32469,7 +32368,7 @@ Review pursuant to Security Council resolution 2368 (2017) was concluded on 24 N
             <DATAID>6908547</DATAID>
             <VERSIONNUM>1</VERSIONNUM>
             <FIRST_NAME>ASLAN</FIRST_NAME>
-            <SECOND_NAME>AVGAZAROVICH </SECOND_NAME>
+            <SECOND_NAME>AVGAZAROVICH</SECOND_NAME>
             <THIRD_NAME>BYUTUKAEV</THIRD_NAME>
             <UN_LIST_TYPE>Al-Qaida</UN_LIST_TYPE>
             <REFERENCE_NUMBER>QDi.396</REFERENCE_NUMBER>
@@ -32516,8 +32415,8 @@ Review pursuant to Security Council resolution 2368 (2017) was concluded on 24 N
             <DATAID>6908548</DATAID>
             <VERSIONNUM>1</VERSIONNUM>
             <FIRST_NAME>AYRAT</FIRST_NAME>
-            <SECOND_NAME>NASIMOVICH </SECOND_NAME>
-            <THIRD_NAME>VAKHITOV </THIRD_NAME>
+            <SECOND_NAME>NASIMOVICH</SECOND_NAME>
+            <THIRD_NAME>VAKHITOV</THIRD_NAME>
             <UN_LIST_TYPE>Al-Qaida</UN_LIST_TYPE>
             <REFERENCE_NUMBER>QDi.397</REFERENCE_NUMBER>
             <LISTED_ON>2016-08-03</LISTED_ON>
@@ -32559,7 +32458,7 @@ Review pursuant to Security Council resolution 2368 (2017) was concluded on 24 N
         <INDIVIDUAL>
             <DATAID>6908549</DATAID>
             <VERSIONNUM>1</VERSIONNUM>
-            <FIRST_NAME>ALI </FIRST_NAME>
+            <FIRST_NAME>ALI</FIRST_NAME>
             <SECOND_NAME>KONY</SECOND_NAME>
             <UN_LIST_TYPE>CAR</UN_LIST_TYPE>
             <REFERENCE_NUMBER>CFi.010</REFERENCE_NUMBER>
@@ -32663,7 +32562,7 @@ Review pursuant to Security Council resolution 2368 (2017) was concluded on 24 N
         <INDIVIDUAL>
             <DATAID>6908550</DATAID>
             <VERSIONNUM>1</VERSIONNUM>
-            <FIRST_NAME>SALIM </FIRST_NAME>
+            <FIRST_NAME>SALIM</FIRST_NAME>
             <SECOND_NAME>KONY</SECOND_NAME>
             <UN_LIST_TYPE>CAR</UN_LIST_TYPE>
             <REFERENCE_NUMBER>CFi.011</REFERENCE_NUMBER>
@@ -32776,7 +32675,7 @@ Review pursuant to Security Council resolution 2368 (2017) was concluded on 24 N
         <INDIVIDUAL>
             <DATAID>6908555</DATAID>
             <VERSIONNUM>1</VERSIONNUM>
-            <FIRST_NAME> RI </FIRST_NAME>
+            <FIRST_NAME>RI</FIRST_NAME>
             <SECOND_NAME>WON HO</SECOND_NAME>
             <UN_LIST_TYPE>DPRK</UN_LIST_TYPE>
             <REFERENCE_NUMBER>KPi.033</REFERENCE_NUMBER>
@@ -32902,7 +32801,7 @@ Review pursuant to Security Council resolution 2368 (2017) was concluded on 24 N
         <INDIVIDUAL>
             <DATAID>6908565</DATAID>
             <VERSIONNUM>1</VERSIONNUM>
-            <FIRST_NAME>JO </FIRST_NAME>
+            <FIRST_NAME>JO</FIRST_NAME>
             <SECOND_NAME>YONG CHOL</SECOND_NAME>
             <UN_LIST_TYPE>DPRK</UN_LIST_TYPE>
             <REFERENCE_NUMBER>KPi.034</REFERENCE_NUMBER>
@@ -33028,8 +32927,8 @@ Review pursuant to Security Council resolution 2368 (2017) was concluded on 24 N
         <INDIVIDUAL>
             <DATAID>6908571</DATAID>
             <VERSIONNUM>1</VERSIONNUM>
-            <FIRST_NAME>CHO  </FIRST_NAME>
-            <SECOND_NAME>CHUN RYONG </SECOND_NAME>
+            <FIRST_NAME>CHO</FIRST_NAME>
+            <SECOND_NAME>CHUN RYONG</SECOND_NAME>
             <UN_LIST_TYPE>DPRK</UN_LIST_TYPE>
             <REFERENCE_NUMBER>KPi.038</REFERENCE_NUMBER>
             <LISTED_ON>2016-11-30</LISTED_ON>
@@ -33067,8 +32966,8 @@ Review pursuant to Security Council resolution 2368 (2017) was concluded on 24 N
         <INDIVIDUAL>
             <DATAID>6908572</DATAID>
             <VERSIONNUM>1</VERSIONNUM>
-            <FIRST_NAME>SON  </FIRST_NAME>
-            <SECOND_NAME>MUN SAN </SECOND_NAME>
+            <FIRST_NAME>SON</FIRST_NAME>
+            <SECOND_NAME>MUN SAN</SECOND_NAME>
             <UN_LIST_TYPE>DPRK</UN_LIST_TYPE>
             <REFERENCE_NUMBER>KPi.039</REFERENCE_NUMBER>
             <LISTED_ON>2016-11-30</LISTED_ON>
@@ -33107,8 +33006,8 @@ Atomic Energy (GBAE) </VALUE>
         <INDIVIDUAL>
             <DATAID>6908573</DATAID>
             <VERSIONNUM>1</VERSIONNUM>
-            <FIRST_NAME>KIM </FIRST_NAME>
-            <SECOND_NAME>SE GON </SECOND_NAME>
+            <FIRST_NAME>KIM</FIRST_NAME>
+            <SECOND_NAME>SE GON</SECOND_NAME>
             <UN_LIST_TYPE>DPRK</UN_LIST_TYPE>
             <REFERENCE_NUMBER>KPi.032</REFERENCE_NUMBER>
             <LISTED_ON>2016-11-30</LISTED_ON>
@@ -33204,8 +33103,8 @@ Atomic Energy (GBAE) </VALUE>
             <DATAID>6908575</DATAID>
             <VERSIONNUM>1</VERSIONNUM>
             <FIRST_NAME>BASSAM</FIRST_NAME>
-            <SECOND_NAME>AHMAD </SECOND_NAME>
-            <THIRD_NAME>AL-HASRI </THIRD_NAME>
+            <SECOND_NAME>AHMAD</SECOND_NAME>
+            <THIRD_NAME>AL-HASRI</THIRD_NAME>
             <UN_LIST_TYPE>Al-Qaida</UN_LIST_TYPE>
             <REFERENCE_NUMBER>QDi.399</REFERENCE_NUMBER>
             <LISTED_ON>2017-02-22</LISTED_ON>
@@ -33271,9 +33170,9 @@ Atomic Energy (GBAE) </VALUE>
             <DATAID>6908576</DATAID>
             <VERSIONNUM>1</VERSIONNUM>
             <FIRST_NAME>IYAD</FIRST_NAME>
-            <SECOND_NAME>NAZMI </SECOND_NAME>
+            <SECOND_NAME>NAZMI</SECOND_NAME>
             <THIRD_NAME>SALIH</THIRD_NAME>
-            <FOURTH_NAME> KHALIL</FOURTH_NAME>
+            <FOURTH_NAME>KHALIL</FOURTH_NAME>
             <UN_LIST_TYPE>Al-Qaida</UN_LIST_TYPE>
             <REFERENCE_NUMBER>QDi.400</REFERENCE_NUMBER>
             <LISTED_ON>2017-02-22</LISTED_ON>
@@ -33345,7 +33244,7 @@ Atomic Energy (GBAE) </VALUE>
             <VERSIONNUM>1</VERSIONNUM>
             <FIRST_NAME>GHALIB</FIRST_NAME>
             <SECOND_NAME>ABDULLAH</SECOND_NAME>
-            <THIRD_NAME>AL-ZAIDI </THIRD_NAME>
+            <THIRD_NAME>AL-ZAIDI</THIRD_NAME>
             <UN_LIST_TYPE>Al-Qaida</UN_LIST_TYPE>
             <REFERENCE_NUMBER>QDi.401</REFERENCE_NUMBER>
             <LISTED_ON>2017-02-22</LISTED_ON>
@@ -33729,8 +33628,8 @@ military</VALUE>
         <INDIVIDUAL>
             <DATAID>6908586</DATAID>
             <VERSIONNUM>1</VERSIONNUM>
-            <FIRST_NAME>KIM </FIRST_NAME>
-            <SECOND_NAME>TONG-HO </SECOND_NAME>
+            <FIRST_NAME>KIM</FIRST_NAME>
+            <SECOND_NAME>TONG-HO</SECOND_NAME>
             <UN_LIST_TYPE>DPRK</UN_LIST_TYPE>
             <REFERENCE_NUMBER>KPi.046</REFERENCE_NUMBER>
             <LISTED_ON>2017-06-02</LISTED_ON>
@@ -33773,7 +33672,7 @@ financial entity for weapons and missile-related sales </VALUE>
             <DATAID>6908587</DATAID>
             <VERSIONNUM>1</VERSIONNUM>
             <FIRST_NAME>MIN</FIRST_NAME>
-            <SECOND_NAME>BYONG CHOL </SECOND_NAME>
+            <SECOND_NAME>BYONG CHOL</SECOND_NAME>
             <UN_LIST_TYPE>DPRK</UN_LIST_TYPE>
             <REFERENCE_NUMBER>KPi.047</REFERENCE_NUMBER>
             <LISTED_ON>2017-06-02</LISTED_ON>
@@ -33821,8 +33720,8 @@ and the DPRK’s military </VALUE>
         <INDIVIDUAL>
             <DATAID>6908588</DATAID>
             <VERSIONNUM>1</VERSIONNUM>
-            <FIRST_NAME>PAEK </FIRST_NAME>
-            <SECOND_NAME>SE BONG </SECOND_NAME>
+            <FIRST_NAME>PAEK</FIRST_NAME>
+            <SECOND_NAME>SE BONG</SECOND_NAME>
             <UN_LIST_TYPE>DPRK</UN_LIST_TYPE>
             <REFERENCE_NUMBER>KPi.048</REFERENCE_NUMBER>
             <LISTED_ON>2017-06-02</LISTED_ON>
@@ -33858,7 +33757,7 @@ and the DPRK’s military </VALUE>
             <DATAID>6908589</DATAID>
             <VERSIONNUM>1</VERSIONNUM>
             <FIRST_NAME>PAK</FIRST_NAME>
-            <SECOND_NAME>HAN SE </SECOND_NAME>
+            <SECOND_NAME>HAN SE</SECOND_NAME>
             <UN_LIST_TYPE>DPRK</UN_LIST_TYPE>
             <REFERENCE_NUMBER>KPi.049</REFERENCE_NUMBER>
             <LISTED_ON>2017-06-02</LISTED_ON>
@@ -33899,8 +33798,8 @@ production of the DPRK’s ballistic missiles </VALUE>
         <INDIVIDUAL>
             <DATAID>6908592</DATAID>
             <VERSIONNUM>1</VERSIONNUM>
-            <FIRST_NAME>RI </FIRST_NAME>
-            <SECOND_NAME>SU YONG </SECOND_NAME>
+            <FIRST_NAME>RI</FIRST_NAME>
+            <SECOND_NAME>SU YONG</SECOND_NAME>
             <UN_LIST_TYPE>DPRK</UN_LIST_TYPE>
             <REFERENCE_NUMBER>KPi.052</REFERENCE_NUMBER>
             <LISTED_ON>2017-06-02</LISTED_ON>
@@ -33995,9 +33894,9 @@ programme</VALUE>
             <DATAID>6908600</DATAID>
             <VERSIONNUM>1</VERSIONNUM>
             <FIRST_NAME>MUHAMMAD</FIRST_NAME>
-            <SECOND_NAME>BAHRUM </SECOND_NAME>
-            <THIRD_NAME>NAIM </THIRD_NAME>
-            <FOURTH_NAME>ANGGIH TAMTOMO </FOURTH_NAME>
+            <SECOND_NAME>BAHRUM</SECOND_NAME>
+            <THIRD_NAME>NAIM</THIRD_NAME>
+            <FOURTH_NAME>ANGGIH TAMTOMO</FOURTH_NAME>
             <UN_LIST_TYPE>Al-Qaida</UN_LIST_TYPE>
             <REFERENCE_NUMBER>QDi.404</REFERENCE_NUMBER>
             <LISTED_ON>2017-07-20</LISTED_ON>
@@ -34452,7 +34351,7 @@ Dec. 2014</NOTE>
             <DATAID>6908613</DATAID>
             <VERSIONNUM>1</VERSIONNUM>
             <FIRST_NAME>CHOE</FIRST_NAME>
-            <SECOND_NAME>CHUN YONG </SECOND_NAME>
+            <SECOND_NAME>CHUN YONG</SECOND_NAME>
             <UN_LIST_TYPE>DPRK</UN_LIST_TYPE>
             <REFERENCE_NUMBER>KPi.054</REFERENCE_NUMBER>
             <LISTED_ON>2017-08-05</LISTED_ON>
@@ -34532,7 +34431,7 @@ Dec. 2014</NOTE>
             <DATAID>6908616</DATAID>
             <VERSIONNUM>1</VERSIONNUM>
             <FIRST_NAME>JANG</FIRST_NAME>
-            <SECOND_NAME>SUNG NAM </SECOND_NAME>
+            <SECOND_NAME>SUNG NAM</SECOND_NAME>
             <UN_LIST_TYPE>DPRK</UN_LIST_TYPE>
             <REFERENCE_NUMBER>KPi.057</REFERENCE_NUMBER>
             <LISTED_ON>2017-08-05</LISTED_ON>
@@ -34576,7 +34475,7 @@ Dec. 2014</NOTE>
             <DATAID>6908617</DATAID>
             <VERSIONNUM>1</VERSIONNUM>
             <FIRST_NAME>JO</FIRST_NAME>
-            <SECOND_NAME>CHOL SONG </SECOND_NAME>
+            <SECOND_NAME>CHOL SONG</SECOND_NAME>
             <UN_LIST_TYPE>DPRK</UN_LIST_TYPE>
             <REFERENCE_NUMBER>KPi.058</REFERENCE_NUMBER>
             <LISTED_ON>2017-08-05</LISTED_ON>
@@ -34620,7 +34519,7 @@ Dec. 2014</NOTE>
             <DATAID>6908618</DATAID>
             <VERSIONNUM>1</VERSIONNUM>
             <FIRST_NAME>KANG</FIRST_NAME>
-            <SECOND_NAME>CHOL SU </SECOND_NAME>
+            <SECOND_NAME>CHOL SU</SECOND_NAME>
             <UN_LIST_TYPE>DPRK</UN_LIST_TYPE>
             <REFERENCE_NUMBER>KPi.059</REFERENCE_NUMBER>
             <LISTED_ON>2017-08-05</LISTED_ON>
@@ -34662,7 +34561,7 @@ Dec. 2014</NOTE>
             <DATAID>6908619</DATAID>
             <VERSIONNUM>1</VERSIONNUM>
             <FIRST_NAME>KIM</FIRST_NAME>
-            <SECOND_NAME>MUN CHOL </SECOND_NAME>
+            <SECOND_NAME>MUN CHOL</SECOND_NAME>
             <UN_LIST_TYPE>DPRK</UN_LIST_TYPE>
             <REFERENCE_NUMBER>KPi.060</REFERENCE_NUMBER>
             <LISTED_ON>2017-08-05</LISTED_ON>
@@ -34701,7 +34600,7 @@ Dec. 2014</NOTE>
             <DATAID>6908620</DATAID>
             <VERSIONNUM>1</VERSIONNUM>
             <FIRST_NAME>KIM</FIRST_NAME>
-            <SECOND_NAME>NAM UNG </SECOND_NAME>
+            <SECOND_NAME>NAM UNG</SECOND_NAME>
             <UN_LIST_TYPE>DPRK</UN_LIST_TYPE>
             <REFERENCE_NUMBER>KPi.061</REFERENCE_NUMBER>
             <LISTED_ON>2017-08-05</LISTED_ON>
@@ -34950,8 +34849,8 @@ Dec. 2014</NOTE>
         <INDIVIDUAL>
             <DATAID>6908647</DATAID>
             <VERSIONNUM>1</VERSIONNUM>
-            <FIRST_NAME> KU</FIRST_NAME>
-            <SECOND_NAME>JA HYONG </SECOND_NAME>
+            <FIRST_NAME>KU</FIRST_NAME>
+            <SECOND_NAME>JA HYONG</SECOND_NAME>
             <UN_LIST_TYPE>DPRK</UN_LIST_TYPE>
             <REFERENCE_NUMBER>KPi.070</REFERENCE_NUMBER>
             <LISTED_ON>2017-12-22</LISTED_ON>
@@ -34989,8 +34888,8 @@ Dec. 2014</NOTE>
         <INDIVIDUAL>
             <DATAID>6908648</DATAID>
             <VERSIONNUM>1</VERSIONNUM>
-            <FIRST_NAME>MUN </FIRST_NAME>
-            <SECOND_NAME>KYONG HWAN </SECOND_NAME>
+            <FIRST_NAME>MUN</FIRST_NAME>
+            <SECOND_NAME>KYONG HWAN</SECOND_NAME>
             <UN_LIST_TYPE>DPRK</UN_LIST_TYPE>
             <REFERENCE_NUMBER>KPi.071</REFERENCE_NUMBER>
             <LISTED_ON>2017-12-22</LISTED_ON>
@@ -35123,8 +35022,8 @@ Dec. 2014</NOTE>
         <INDIVIDUAL>
             <DATAID>6908651</DATAID>
             <VERSIONNUM>1</VERSIONNUM>
-            <FIRST_NAME>PAK </FIRST_NAME>
-            <SECOND_NAME>MUN IL </SECOND_NAME>
+            <FIRST_NAME>PAK</FIRST_NAME>
+            <SECOND_NAME>MUN IL</SECOND_NAME>
             <UN_LIST_TYPE>DPRK</UN_LIST_TYPE>
             <REFERENCE_NUMBER>KPi.079</REFERENCE_NUMBER>
             <LISTED_ON>2017-12-22</LISTED_ON>
@@ -35593,7 +35492,7 @@ Dec. 2014</NOTE>
         <INDIVIDUAL>
             <DATAID>6908662</DATAID>
             <VERSIONNUM>1</VERSIONNUM>
-            <FIRST_NAME>GUIDON </FIRST_NAME>
+            <FIRST_NAME>GUIDON</FIRST_NAME>
             <SECOND_NAME>SHIMIRAY</SECOND_NAME>
             <THIRD_NAME>MWISSA</THIRD_NAME>
             <UN_LIST_TYPE>DRC</UN_LIST_TYPE>
@@ -35668,7 +35567,7 @@ Dec. 2014</NOTE>
             <VERSIONNUM>1</VERSIONNUM>
             <FIRST_NAME>GÉDÉON</FIRST_NAME>
             <SECOND_NAME>KYUNGU</SECOND_NAME>
-            <THIRD_NAME>MUTANGA WA BAFUNKWA </THIRD_NAME>
+            <THIRD_NAME>MUTANGA WA BAFUNKWA</THIRD_NAME>
             <FOURTH_NAME>KANONGA</FOURTH_NAME>
             <UN_LIST_TYPE>DRC</UN_LIST_TYPE>
             <REFERENCE_NUMBER>CDi.035</REFERENCE_NUMBER>
@@ -35705,7 +35604,7 @@ Dec. 2014</NOTE>
             <DATAID>6908690</DATAID>
             <VERSIONNUM>1</VERSIONNUM>
             <FIRST_NAME>TSANG</FIRST_NAME>
-            <SECOND_NAME>YUNG YUAN </SECOND_NAME>
+            <SECOND_NAME>YUNG YUAN</SECOND_NAME>
             <UN_LIST_TYPE>DPRK</UN_LIST_TYPE>
             <REFERENCE_NUMBER>KPi.080</REFERENCE_NUMBER>
             <LISTED_ON>2018-03-30</LISTED_ON>
@@ -35800,7 +35699,7 @@ Dec. 2014</NOTE>
             <VERSIONNUM>1</VERSIONNUM>
             <FIRST_NAME>Abdifatah</FIRST_NAME>
             <SECOND_NAME>Abubakar</SECOND_NAME>
-            <THIRD_NAME>Abdi </THIRD_NAME>
+            <THIRD_NAME>Abdi</THIRD_NAME>
             <UN_LIST_TYPE>Somalia</UN_LIST_TYPE>
             <REFERENCE_NUMBER>SOi.017</REFERENCE_NUMBER>
             <LISTED_ON>2018-03-08</LISTED_ON>
@@ -36237,124 +36136,6 @@ Dec. 2014</NOTE>
             <SORT_KEY_LAST_MOD/>
         </INDIVIDUAL>
         <INDIVIDUAL>
-            <DATAID>6908706</DATAID>
-            <VERSIONNUM>1</VERSIONNUM>
-            <FIRST_NAME>Mohammed</FIRST_NAME>
-            <SECOND_NAME>Al Amin </SECOND_NAME>
-            <THIRD_NAME>Al-Arabi</THIRD_NAME>
-            <FOURTH_NAME>Kashlaf</FOURTH_NAME>
-            <UN_LIST_TYPE>Libya</UN_LIST_TYPE>
-            <REFERENCE_NUMBER>LYi.025</REFERENCE_NUMBER>
-            <LISTED_ON>2018-06-07</LISTED_ON>
-            <NAME_ORIGINAL_SCRIPT>محمد الأمين العربي كشلاف</NAME_ORIGINAL_SCRIPT>
-            <COMMENTS1>Listed pursuant to paragraphs 15 and 17 of resolution 1970 (Travel Ban, Asset Freeze)</COMMENTS1>
-            <DESIGNATION>
-                <VALUE>Commander of the Shuhada al-Nasr brigade, Head of the Petrol Refinery Guard of Zawiya’s refinery</VALUE>
-            </DESIGNATION>
-            <NATIONALITY>
-                <VALUE>Libya</VALUE>
-            </NATIONALITY>
-            <LIST_TYPE>
-                <VALUE>UN List</VALUE>
-            </LIST_TYPE>
-            <LAST_DAY_UPDATED>
-                <VALUE>2018-09-17</VALUE>
-                <VALUE>2020-02-25</VALUE>
-            </LAST_DAY_UPDATED>
-            <INDIVIDUAL_ALIAS>
-                <QUALITY>Low</QUALITY>
-                <ALIAS_NAME>Kashlaf</ALIAS_NAME>
-            </INDIVIDUAL_ALIAS>
-            <INDIVIDUAL_ALIAS>
-                <QUALITY>Low</QUALITY>
-                <ALIAS_NAME>Koshlaf</ALIAS_NAME>
-            </INDIVIDUAL_ALIAS>
-            <INDIVIDUAL_ALIAS>
-                <QUALITY>Low</QUALITY>
-                <ALIAS_NAME>Keslaf</ALIAS_NAME>
-            </INDIVIDUAL_ALIAS>
-            <INDIVIDUAL_ALIAS>
-                <QUALITY>Low</QUALITY>
-                <ALIAS_NAME>al-Qasab</ALIAS_NAME>
-            </INDIVIDUAL_ALIAS>
-            <INDIVIDUAL_ADDRESS>
-                <CITY>Zawiya</CITY>
-                <COUNTRY>Libya</COUNTRY>
-            </INDIVIDUAL_ADDRESS>
-            <INDIVIDUAL_DATE_OF_BIRTH>
-                <TYPE_OF_DATE>EXACT</TYPE_OF_DATE>
-                <DATE>1985-12-02</DATE>
-            </INDIVIDUAL_DATE_OF_BIRTH>
-            <INDIVIDUAL_PLACE_OF_BIRTH>
-                <CITY>Zawiya</CITY>
-                <COUNTRY>Libya</COUNTRY>
-            </INDIVIDUAL_PLACE_OF_BIRTH>
-            <INDIVIDUAL_DOCUMENT>
-                <TYPE_OF_DOCUMENT>Passport</TYPE_OF_DOCUMENT>
-                <NUMBER>C17HLRL3</NUMBER>
-                <DATE_OF_ISSUE>2015-12-30</DATE_OF_ISSUE>
-                <CITY_OF_ISSUE>Zawiya</CITY_OF_ISSUE>
-            </INDIVIDUAL_DOCUMENT>
-            <SORT_KEY/>
-            <SORT_KEY_LAST_MOD/>
-        </INDIVIDUAL>
-        <INDIVIDUAL>
-            <DATAID>6908707</DATAID>
-            <VERSIONNUM>1</VERSIONNUM>
-            <FIRST_NAME>Abd</FIRST_NAME>
-            <SECOND_NAME>Al-Rahman </SECOND_NAME>
-            <THIRD_NAME>al-Milad </THIRD_NAME>
-            <UN_LIST_TYPE>Libya</UN_LIST_TYPE>
-            <REFERENCE_NUMBER>LYi.026</REFERENCE_NUMBER>
-            <LISTED_ON>2018-06-07</LISTED_ON>
-            <COMMENTS1>Listed pursuant to paragraphs 15 and 17 of resolution 1970 (Travel Ban, Asset Freeze)</COMMENTS1>
-            <DESIGNATION>
-                <VALUE>Commander of the Coast Guard in Zawiya</VALUE>
-            </DESIGNATION>
-            <NATIONALITY>
-                <VALUE>Libya</VALUE>
-            </NATIONALITY>
-            <LIST_TYPE>
-                <VALUE>UN List</VALUE>
-            </LIST_TYPE>
-            <LAST_DAY_UPDATED>
-                <VALUE>2021-04-29</VALUE>
-            </LAST_DAY_UPDATED>
-            <INDIVIDUAL_ALIAS>
-                <QUALITY>Low</QUALITY>
-                <ALIAS_NAME>Rahman Salim Milad</ALIAS_NAME>
-            </INDIVIDUAL_ALIAS>
-            <INDIVIDUAL_ALIAS>
-                <QUALITY>Low</QUALITY>
-                <ALIAS_NAME>al-Bija</ALIAS_NAME>
-            </INDIVIDUAL_ALIAS>
-            <INDIVIDUAL_ALIAS>
-                <QUALITY>Good</QUALITY>
-                <ALIAS_NAME>Abdurahman Salem Ibrahim Milad</ALIAS_NAME>
-            </INDIVIDUAL_ALIAS>
-            <INDIVIDUAL_ADDRESS>
-                <CITY>Zawiya</CITY>
-                <COUNTRY>Libya</COUNTRY>
-            </INDIVIDUAL_ADDRESS>
-            <INDIVIDUAL_DATE_OF_BIRTH>
-                <TYPE_OF_DATE>EXACT</TYPE_OF_DATE>
-                <DATE>1986-07-27</DATE>
-            </INDIVIDUAL_DATE_OF_BIRTH>
-            <INDIVIDUAL_PLACE_OF_BIRTH>
-                <CITY> Tripoli</CITY>
-                <COUNTRY>Libya</COUNTRY>
-            </INDIVIDUAL_PLACE_OF_BIRTH>
-            <INDIVIDUAL_DOCUMENT>
-                <TYPE_OF_DOCUMENT>Passport</TYPE_OF_DOCUMENT>
-                <NUMBER>G52FYPRL</NUMBER>
-                <ISSUING_COUNTRY>Libya</ISSUING_COUNTRY>
-                <DATE_OF_ISSUE>2014-05-08</DATE_OF_ISSUE>
-                <NOTE>Date of expiration: 7 May 2022</NOTE>
-            </INDIVIDUAL_DOCUMENT>
-            <SORT_KEY/>
-            <SORT_KEY_LAST_MOD/>
-        </INDIVIDUAL>
-        <INDIVIDUAL>
             <DATAID>6908711</DATAID>
             <VERSIONNUM>1</VERSIONNUM>
             <FIRST_NAME>MALEK</FIRST_NAME>
@@ -36707,7 +36488,7 @@ Bachir</ALIAS_NAME>
             <DATAID>6908720</DATAID>
             <VERSIONNUM>1</VERSIONNUM>
             <FIRST_NAME>MOHAMAD</FIRST_NAME>
-            <SECOND_NAME> RAFI</SECOND_NAME>
+            <SECOND_NAME>RAFI</SECOND_NAME>
             <THIRD_NAME>BIN UDIN</THIRD_NAME>
             <UN_LIST_TYPE>Al-Qaida</UN_LIST_TYPE>
             <REFERENCE_NUMBER>QDi.417</REFERENCE_NUMBER>
@@ -36930,7 +36711,7 @@ Feb. 2020</NOTE>
             <DATAID>6908757</DATAID>
             <VERSIONNUM>1</VERSIONNUM>
             <FIRST_NAME>TAHA</FIRST_NAME>
-            <SECOND_NAME>IBRAHIM </SECOND_NAME>
+            <SECOND_NAME>IBRAHIM</SECOND_NAME>
             <THIRD_NAME>ABDALLAH BAKR</THIRD_NAME>
             <FOURTH_NAME>AL KHUWAYT</FOURTH_NAME>
             <UN_LIST_TYPE>Al-Qaida</UN_LIST_TYPE>
@@ -37122,7 +36903,7 @@ Feb. 2020</NOTE>
             <DATAID>6908782</DATAID>
             <VERSIONNUM>1</VERSIONNUM>
             <FIRST_NAME>ALI</FIRST_NAME>
-            <SECOND_NAME>MAYCHOU </SECOND_NAME>
+            <SECOND_NAME>MAYCHOU</SECOND_NAME>
             <UN_LIST_TYPE>Al-Qaida</UN_LIST_TYPE>
             <REFERENCE_NUMBER>QDi.423</REFERENCE_NUMBER>
             <LISTED_ON>2019-08-14</LISTED_ON>
@@ -37177,8 +36958,8 @@ Feb. 2020</NOTE>
         <INDIVIDUAL>
             <DATAID>6908783</DATAID>
             <VERSIONNUM>1</VERSIONNUM>
-            <FIRST_NAME>BAH </FIRST_NAME>
-            <SECOND_NAME>AG MOUSSA </SECOND_NAME>
+            <FIRST_NAME>BAH</FIRST_NAME>
+            <SECOND_NAME>AG MOUSSA</SECOND_NAME>
             <UN_LIST_TYPE>Al-Qaida</UN_LIST_TYPE>
             <REFERENCE_NUMBER>QDi.424</REFERENCE_NUMBER>
             <LISTED_ON>2019-08-14</LISTED_ON>
@@ -37676,8 +37457,8 @@ for inclusion in the INTERPOL-UN Security Council Special Notice.</COMMENTS1>
         <INDIVIDUAL>
             <DATAID>6908843</DATAID>
             <VERSIONNUM>1</VERSIONNUM>
-            <FIRST_NAME>Noor </FIRST_NAME>
-            <SECOND_NAME>Wali </SECOND_NAME>
+            <FIRST_NAME>Noor</FIRST_NAME>
+            <SECOND_NAME>Wali</SECOND_NAME>
             <THIRD_NAME>Mehsud</THIRD_NAME>
             <UN_LIST_TYPE>Al-Qaida</UN_LIST_TYPE>
             <REFERENCE_NUMBER>QDi.427</REFERENCE_NUMBER>
@@ -37717,7 +37498,7 @@ for inclusion in the INTERPOL-UN Security Council Special Notice.</COMMENTS1>
         <INDIVIDUAL>
             <DATAID>6908845</DATAID>
             <VERSIONNUM>1</VERSIONNUM>
-            <FIRST_NAME>BI SIDI </FIRST_NAME>
+            <FIRST_NAME>BI SIDI</FIRST_NAME>
             <SECOND_NAME>SOULEMAN</SECOND_NAME>
             <UN_LIST_TYPE>CAR</UN_LIST_TYPE>
             <REFERENCE_NUMBER>CFi.014</REFERENCE_NUMBER>
@@ -37779,70 +37560,11 @@ for inclusion in the INTERPOL-UN Security Council Special Notice.</COMMENTS1>
             <SORT_KEY_LAST_MOD/>
         </INDIVIDUAL>
         <INDIVIDUAL>
-            <DATAID>6908848</DATAID>
-            <VERSIONNUM>1</VERSIONNUM>
-            <FIRST_NAME>Osama</FIRST_NAME>
-            <SECOND_NAME>Al Kuni </SECOND_NAME>
-            <THIRD_NAME>Ibrahim</THIRD_NAME>
-            <UN_LIST_TYPE>Libya</UN_LIST_TYPE>
-            <REFERENCE_NUMBER>LYi.029</REFERENCE_NUMBER>
-            <LISTED_ON>2021-10-25</LISTED_ON>
-            <NAME_ORIGINAL_SCRIPT>أسامة الكوني ابراهيم</NAME_ORIGINAL_SCRIPT>
-            <COMMENTS1>As de facto manager of the Al Nasr detention center the person concerned has directly, and/or through subordinates engaged in or provided support to acts that violate applicable international human rights law, or acts that constitute human rights abuses in Libya. The Person concerned has acted for or on behalf of or at the direction of two listed individuals intrinsically linked to the human trafficking activities of the Zawiyah network, namely Mohamed Kashlaf (LYi.025) and Abdulrahman al Milad (LYi.026).  Listed pursuant to paragraphs 15 and 17 of resolution 1970 (Travel Ban, Asset Freeze)  INTERPOL-UN Security Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals</COMMENTS1>
-            <TITLE>
-                <VALUE>Manager of Al Nasr Detention Center in Zawiyah </VALUE>
-            </TITLE>
-            <NATIONALITY>
-                <VALUE>Libya</VALUE>
-            </NATIONALITY>
-            <LIST_TYPE>
-                <VALUE>UN List</VALUE>
-            </LIST_TYPE>
-            <LAST_DAY_UPDATED>
-                <VALUE/>
-            </LAST_DAY_UPDATED>
-            <INDIVIDUAL_ALIAS>
-                <QUALITY>Good</QUALITY>
-                <ALIAS_NAME>Osama Milad</ALIAS_NAME>
-            </INDIVIDUAL_ALIAS>
-            <INDIVIDUAL_ALIAS>
-                <QUALITY>Good</QUALITY>
-                <ALIAS_NAME>Osama al-Milad</ALIAS_NAME>
-            </INDIVIDUAL_ALIAS>
-            <INDIVIDUAL_ALIAS>
-                <QUALITY>Good</QUALITY>
-                <ALIAS_NAME>Osama Zawiya</ALIAS_NAME>
-            </INDIVIDUAL_ALIAS>
-            <INDIVIDUAL_ALIAS>
-                <QUALITY>Good</QUALITY>
-                <ALIAS_NAME>Osama Zawiyah</ALIAS_NAME>
-            </INDIVIDUAL_ALIAS>
-            <INDIVIDUAL_ALIAS>
-                <QUALITY>Good</QUALITY>
-                <ALIAS_NAME>Osama al Kuni</ALIAS_NAME>
-            </INDIVIDUAL_ALIAS>
-            <INDIVIDUAL_ADDRESS>
-                <STATE_PROVINCE>Zawiyah</STATE_PROVINCE>
-                <COUNTRY>Libya</COUNTRY>
-            </INDIVIDUAL_ADDRESS>
-            <INDIVIDUAL_DATE_OF_BIRTH>
-                <TYPE_OF_DATE>EXACT</TYPE_OF_DATE>
-                <DATE>1976-04-04</DATE>
-            </INDIVIDUAL_DATE_OF_BIRTH>
-            <INDIVIDUAL_PLACE_OF_BIRTH>
-                <CITY>Tripoli</CITY>
-                <COUNTRY>Libya</COUNTRY>
-            </INDIVIDUAL_PLACE_OF_BIRTH>
-            <INDIVIDUAL_DOCUMENT/>
-            <SORT_KEY/>
-            <SORT_KEY_LAST_MOD/>
-        </INDIVIDUAL>
-        <INDIVIDUAL>
             <DATAID>6908853</DATAID>
             <VERSIONNUM>1</VERSIONNUM>
-            <FIRST_NAME>ABUKAR </FIRST_NAME>
-            <SECOND_NAME>ALI </SECOND_NAME>
-            <THIRD_NAME>ADAN </THIRD_NAME>
+            <FIRST_NAME>ABUKAR</FIRST_NAME>
+            <SECOND_NAME>ALI</SECOND_NAME>
+            <THIRD_NAME>ADAN</THIRD_NAME>
             <UN_LIST_TYPE>Somalia</UN_LIST_TYPE>
             <REFERENCE_NUMBER>SOi.018</REFERENCE_NUMBER>
             <LISTED_ON>2021-02-26</LISTED_ON>
@@ -37895,8 +37617,8 @@ for inclusion in the INTERPOL-UN Security Council Special Notice.</COMMENTS1>
         <INDIVIDUAL>
             <DATAID>6908854</DATAID>
             <VERSIONNUM>1</VERSIONNUM>
-            <FIRST_NAME>MAALIM </FIRST_NAME>
-            <SECOND_NAME>AYMAN </SECOND_NAME>
+            <FIRST_NAME>MAALIM</FIRST_NAME>
+            <SECOND_NAME>AYMAN</SECOND_NAME>
             <UN_LIST_TYPE>Somalia</UN_LIST_TYPE>
             <REFERENCE_NUMBER>SOi.019</REFERENCE_NUMBER>
             <LISTED_ON>2021-02-26</LISTED_ON>
@@ -37958,8 +37680,8 @@ for inclusion in the INTERPOL-UN Security Council Special Notice.</COMMENTS1>
         <INDIVIDUAL>
             <DATAID>6908855</DATAID>
             <VERSIONNUM>1</VERSIONNUM>
-            <FIRST_NAME>MAHAD </FIRST_NAME>
-            <SECOND_NAME> KARATE </SECOND_NAME>
+            <FIRST_NAME>MAHAD</FIRST_NAME>
+            <SECOND_NAME>KARATE</SECOND_NAME>
             <UN_LIST_TYPE>Somalia</UN_LIST_TYPE>
             <REFERENCE_NUMBER>SOi.020</REFERENCE_NUMBER>
             <LISTED_ON>2021-02-26</LISTED_ON>
@@ -38001,9 +37723,9 @@ for inclusion in the INTERPOL-UN Security Council Special Notice.</COMMENTS1>
         <INDIVIDUAL>
             <DATAID>6908856</DATAID>
             <VERSIONNUM>1</VERSIONNUM>
-            <FIRST_NAME>SULTAN </FIRST_NAME>
+            <FIRST_NAME>SULTAN</FIRST_NAME>
             <SECOND_NAME>SALEH</SECOND_NAME>
-            <THIRD_NAME>AIDA AIDA </THIRD_NAME>
+            <THIRD_NAME>AIDA AIDA</THIRD_NAME>
             <FOURTH_NAME>ZABIN</FOURTH_NAME>
             <UN_LIST_TYPE>Yemen</UN_LIST_TYPE>
             <REFERENCE_NUMBER>YEi.006</REFERENCE_NUMBER>
@@ -38235,7 +37957,7 @@ for inclusion in the INTERPOL-UN Security Council Special Notice.</COMMENTS1>
             <DATAID>6908861</DATAID>
             <VERSIONNUM>1</VERSIONNUM>
             <FIRST_NAME>ASHRAF</FIRST_NAME>
-            <SECOND_NAME>AL-QIZANI </SECOND_NAME>
+            <SECOND_NAME>AL-QIZANI</SECOND_NAME>
             <UN_LIST_TYPE>Al-Qaida</UN_LIST_TYPE>
             <REFERENCE_NUMBER>QDi.432</REFERENCE_NUMBER>
             <LISTED_ON>2021-12-29</LISTED_ON>
@@ -38289,7 +38011,7 @@ for inclusion in the INTERPOL-UN Security Council Special Notice.</COMMENTS1>
         <INDIVIDUAL>
             <DATAID>6908863</DATAID>
             <VERSIONNUM>1</VERSIONNUM>
-            <FIRST_NAME>SALEH </FIRST_NAME>
+            <FIRST_NAME>SALEH</FIRST_NAME>
             <SECOND_NAME>MESFER</SECOND_NAME>
             <THIRD_NAME>SALEH</THIRD_NAME>
             <FOURTH_NAME>AL SHAER</FOURTH_NAME>
@@ -38372,8 +38094,8 @@ for inclusion in the INTERPOL-UN Security Council Special Notice.</COMMENTS1>
         <INDIVIDUAL>
             <DATAID>6908864</DATAID>
             <VERSIONNUM>1</VERSIONNUM>
-            <FIRST_NAME> MUHAMMAD </FIRST_NAME>
-            <SECOND_NAME>ABD AL-KARIM </SECOND_NAME>
+            <FIRST_NAME>MUHAMMAD</FIRST_NAME>
+            <SECOND_NAME>ABD AL-KARIM</SECOND_NAME>
             <THIRD_NAME>AL-GHAMARI</THIRD_NAME>
             <UN_LIST_TYPE>Yemen</UN_LIST_TYPE>
             <REFERENCE_NUMBER>YEi.008</REFERENCE_NUMBER>
@@ -38536,8 +38258,8 @@ for inclusion in the INTERPOL-UN Security Council Special Notice.</COMMENTS1>
         <INDIVIDUAL>
             <DATAID>6908867</DATAID>
             <VERSIONNUM>1</VERSIONNUM>
-            <FIRST_NAME>ALI </FIRST_NAME>
-            <SECOND_NAME>DARASSA </SECOND_NAME>
+            <FIRST_NAME>ALI</FIRST_NAME>
+            <SECOND_NAME>DARASSA</SECOND_NAME>
             <UN_LIST_TYPE>CAR</UN_LIST_TYPE>
             <REFERENCE_NUMBER>CFi.015</REFERENCE_NUMBER>
             <LISTED_ON>2021-12-21</LISTED_ON>
@@ -38707,7 +38429,7 @@ for inclusion in the INTERPOL-UN Security Council Special Notice.</COMMENTS1>
             <DATAID>6908884</DATAID>
             <VERSIONNUM>1</VERSIONNUM>
             <FIRST_NAME>MANSUR</FIRST_NAME>
-            <SECOND_NAME>AL-SA’ADI </SECOND_NAME>
+            <SECOND_NAME>AL-SA’ADI</SECOND_NAME>
             <UN_LIST_TYPE>Yemen</UN_LIST_TYPE>
             <REFERENCE_NUMBER>YEi.010</REFERENCE_NUMBER>
             <LISTED_ON>2022-09-26</LISTED_ON>
@@ -38923,7 +38645,7 @@ for inclusion in the INTERPOL-UN Security Council Special Notice.</COMMENTS1>
             <DATAID>6908905</DATAID>
             <VERSIONNUM>1</VERSIONNUM>
             <FIRST_NAME>SULTAN AZIZ</FIRST_NAME>
-            <SECOND_NAME>AZAM </SECOND_NAME>
+            <SECOND_NAME>AZAM</SECOND_NAME>
             <UN_LIST_TYPE>Al-Qaida</UN_LIST_TYPE>
             <REFERENCE_NUMBER>QDi.435</REFERENCE_NUMBER>
             <LISTED_ON>2023-04-26</LISTED_ON>
@@ -38958,7 +38680,7 @@ for inclusion in the INTERPOL-UN Security Council Special Notice.</COMMENTS1>
             <FIRST_NAME>ABDULLAHI</FIRST_NAME>
             <SECOND_NAME>OSMAN</SECOND_NAME>
             <THIRD_NAME>MOHAMED</THIRD_NAME>
-            <FOURTH_NAME>CADDOW </FOURTH_NAME>
+            <FOURTH_NAME>CADDOW</FOURTH_NAME>
             <UN_LIST_TYPE>Somalia</UN_LIST_TYPE>
             <REFERENCE_NUMBER>SOi.022</REFERENCE_NUMBER>
             <LISTED_ON>2023-05-26</LISTED_ON>
@@ -39049,8 +38771,8 @@ for inclusion in the INTERPOL-UN Security Council Special Notice.</COMMENTS1>
         <INDIVIDUAL>
             <DATAID>6908614</DATAID>
             <VERSIONNUM>1</VERSIONNUM>
-            <FIRST_NAME>HAN </FIRST_NAME>
-            <SECOND_NAME>JANG SU </SECOND_NAME>
+            <FIRST_NAME>HAN</FIRST_NAME>
+            <SECOND_NAME>JANG SU</SECOND_NAME>
             <UN_LIST_TYPE>DPRK</UN_LIST_TYPE>
             <REFERENCE_NUMBER>KPi.055</REFERENCE_NUMBER>
             <LISTED_ON>2017-08-05</LISTED_ON>
@@ -39189,7 +38911,7 @@ for inclusion in the INTERPOL-UN Security Council Special Notice.</COMMENTS1>
         <INDIVIDUAL>
             <DATAID>6908641</DATAID>
             <VERSIONNUM>1</VERSIONNUM>
-            <FIRST_NAME>CHU </FIRST_NAME>
+            <FIRST_NAME>CHU</FIRST_NAME>
             <SECOND_NAME>HYO’K</SECOND_NAME>
             <UN_LIST_TYPE>DPRK</UN_LIST_TYPE>
             <REFERENCE_NUMBER>KPi.065</REFERENCE_NUMBER>
@@ -39280,7 +39002,7 @@ for inclusion in the INTERPOL-UN Security Council Special Notice.</COMMENTS1>
             <DATAID>6908508</DATAID>
             <VERSIONNUM>1</VERSIONNUM>
             <FIRST_NAME>KANG</FIRST_NAME>
-            <SECOND_NAME>RYONG </SECOND_NAME>
+            <SECOND_NAME>RYONG</SECOND_NAME>
             <UN_LIST_TYPE>DPRK</UN_LIST_TYPE>
             <REFERENCE_NUMBER>KPi.020</REFERENCE_NUMBER>
             <LISTED_ON>2016-03-02</LISTED_ON>
@@ -39318,8 +39040,8 @@ for inclusion in the INTERPOL-UN Security Council Special Notice.</COMMENTS1>
         <INDIVIDUAL>
             <DATAID>6908513</DATAID>
             <VERSIONNUM>1</VERSIONNUM>
-            <FIRST_NAME>RI </FIRST_NAME>
-            <SECOND_NAME>MAN GON </SECOND_NAME>
+            <FIRST_NAME>RI</FIRST_NAME>
+            <SECOND_NAME>MAN GON</SECOND_NAME>
             <UN_LIST_TYPE>DPRK</UN_LIST_TYPE>
             <REFERENCE_NUMBER>KPi.026</REFERENCE_NUMBER>
             <LISTED_ON>2016-03-02</LISTED_ON>
@@ -39449,8 +39171,8 @@ for inclusion in the INTERPOL-UN Security Council Special Notice.</COMMENTS1>
         <INDIVIDUAL>
             <DATAID>6908590</DATAID>
             <VERSIONNUM>1</VERSIONNUM>
-            <FIRST_NAME>PAK </FIRST_NAME>
-            <SECOND_NAME>TO CHUN </SECOND_NAME>
+            <FIRST_NAME>PAK</FIRST_NAME>
+            <SECOND_NAME>TO CHUN</SECOND_NAME>
             <UN_LIST_TYPE>DPRK</UN_LIST_TYPE>
             <REFERENCE_NUMBER>KPi.050</REFERENCE_NUMBER>
             <LISTED_ON>2017-06-02</LISTED_ON>
@@ -39493,8 +39215,8 @@ for inclusion in the INTERPOL-UN Security Council Special Notice.</COMMENTS1>
         <INDIVIDUAL>
             <DATAID>6908591</DATAID>
             <VERSIONNUM>1</VERSIONNUM>
-            <FIRST_NAME>RI </FIRST_NAME>
-            <SECOND_NAME>JAE IL </SECOND_NAME>
+            <FIRST_NAME>RI</FIRST_NAME>
+            <SECOND_NAME>JAE IL</SECOND_NAME>
             <UN_LIST_TYPE>DPRK</UN_LIST_TYPE>
             <REFERENCE_NUMBER>KPi.051</REFERENCE_NUMBER>
             <LISTED_ON>2017-06-02</LISTED_ON>
@@ -39534,8 +39256,8 @@ the public </VALUE>
         <INDIVIDUAL>
             <DATAID>6908593</DATAID>
             <VERSIONNUM>1</VERSIONNUM>
-            <FIRST_NAME>RI </FIRST_NAME>
-            <SECOND_NAME>YONG MU </SECOND_NAME>
+            <FIRST_NAME>RI</FIRST_NAME>
+            <SECOND_NAME>YONG MU</SECOND_NAME>
             <UN_LIST_TYPE>DPRK</UN_LIST_TYPE>
             <REFERENCE_NUMBER>KPi.053</REFERENCE_NUMBER>
             <LISTED_ON>2017-06-02</LISTED_ON>
@@ -39617,7 +39339,7 @@ including acquisition and procurement</VALUE>
         <INDIVIDUAL>
             <DATAID>6908955</DATAID>
             <VERSIONNUM>1</VERSIONNUM>
-            <FIRST_NAME> PROTOGÈNE </FIRST_NAME>
+            <FIRST_NAME>PROTOGÈNE</FIRST_NAME>
             <SECOND_NAME>RUVUGAYIMIKORE</SECOND_NAME>
             <UN_LIST_TYPE>DRC</UN_LIST_TYPE>
             <REFERENCE_NUMBER>CDi.037</REFERENCE_NUMBER>
@@ -40058,6 +39780,298 @@ number</TYPE_OF_DOCUMENT2>
             </INDIVIDUAL_DATE_OF_BIRTH>
             <INDIVIDUAL_PLACE_OF_BIRTH>
                 <COUNTRY>Syrian Arab Republic</COUNTRY>
+            </INDIVIDUAL_PLACE_OF_BIRTH>
+            <INDIVIDUAL_DOCUMENT/>
+            <SORT_KEY/>
+            <SORT_KEY_LAST_MOD/>
+        </INDIVIDUAL>
+        <INDIVIDUAL>
+            <DATAID>690732</DATAID>
+            <VERSIONNUM>1</VERSIONNUM>
+            <FIRST_NAME>SAYYID</FIRST_NAME>
+            <SECOND_NAME>MOHAMMED</SECOND_NAME>
+            <THIRD_NAME>QADHAF AL-DAM</THIRD_NAME>
+            <UN_LIST_TYPE>Libya</UN_LIST_TYPE>
+            <REFERENCE_NUMBER>LYi.003</REFERENCE_NUMBER>
+            <LISTED_ON>2011-02-26</LISTED_ON>
+            <COMMENTS1>Listed pursuant to paragraph 15 of resolution 1970 (Travel
+Ban). INTERPOL-UN Security Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals</COMMENTS1>
+            <LIST_TYPE>
+                <VALUE>UN List</VALUE>
+            </LIST_TYPE>
+            <LAST_DAY_UPDATED>
+                <VALUE>2023-11-29</VALUE>
+                <VALUE>2016-04-01</VALUE>
+            </LAST_DAY_UPDATED>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY>Good</QUALITY>
+                <ALIAS_NAME>Sayed M. Gaddef Eddam</ALIAS_NAME>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ADDRESS>
+                <COUNTRY>Egypt</COUNTRY>
+                <NOTE>Believed status/location: deceased</NOTE>
+            </INDIVIDUAL_ADDRESS>
+            <INDIVIDUAL_DATE_OF_BIRTH>
+                <TYPE_OF_DATE>EXACT</TYPE_OF_DATE>
+                <YEAR>1948</YEAR>
+            </INDIVIDUAL_DATE_OF_BIRTH>
+            <INDIVIDUAL_PLACE_OF_BIRTH>
+                <CITY>Sirte</CITY>
+                <COUNTRY>Libya</COUNTRY>
+            </INDIVIDUAL_PLACE_OF_BIRTH>
+            <INDIVIDUAL_DOCUMENT>
+                <TYPE_OF_DOCUMENT>Passport</TYPE_OF_DOCUMENT>
+                <NUMBER>Libyan passport No. 513519 </NUMBER>
+            </INDIVIDUAL_DOCUMENT>
+            <SORT_KEY/>
+            <SORT_KEY_LAST_MOD/>
+        </INDIVIDUAL>
+        <INDIVIDUAL>
+            <DATAID>690776</DATAID>
+            <VERSIONNUM>1</VERSIONNUM>
+            <FIRST_NAME>SAADI</FIRST_NAME>
+            <SECOND_NAME>QADHAFI</SECOND_NAME>
+            <UN_LIST_TYPE>Libya</UN_LIST_TYPE>
+            <REFERENCE_NUMBER>LYi.015</REFERENCE_NUMBER>
+            <LISTED_ON>2011-02-26</LISTED_ON>
+            <COMMENTS1>Listed pursuant to paragraph 15 of resolution 1970 (Travel Ban). Listed
+on 17 March 2011 pursuant to paragraph 17 of resolution 1970 (Asset Freeze). INTERPOL-UN Security Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals</COMMENTS1>
+            <DESIGNATION>
+                <VALUE>Commander Special Forces</VALUE>
+            </DESIGNATION>
+            <LIST_TYPE>
+                <VALUE>UN List</VALUE>
+            </LIST_TYPE>
+            <LAST_DAY_UPDATED>
+                <VALUE>2023-11-29</VALUE>
+                <VALUE>2015-03-26</VALUE>
+                <VALUE>2012-04-02</VALUE>
+                <VALUE>2012-03-14</VALUE>
+                <VALUE>2022-01-28</VALUE>
+            </LAST_DAY_UPDATED>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY/>
+                <ALIAS_NAME/>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ADDRESS>
+                <COUNTRY>Türkiye</COUNTRY>
+            </INDIVIDUAL_ADDRESS>
+            <INDIVIDUAL_DATE_OF_BIRTH>
+                <TYPE_OF_DATE>EXACT</TYPE_OF_DATE>
+                <DATE>1973-05-27</DATE>
+            </INDIVIDUAL_DATE_OF_BIRTH>
+            <INDIVIDUAL_PLACE_OF_BIRTH>
+                <CITY>Tripoli</CITY>
+                <COUNTRY>Libya</COUNTRY>
+            </INDIVIDUAL_PLACE_OF_BIRTH>
+            <INDIVIDUAL_DOCUMENT>
+                <TYPE_OF_DOCUMENT>Passport</TYPE_OF_DOCUMENT>
+                <NUMBER>014797</NUMBER>
+            </INDIVIDUAL_DOCUMENT>
+            <INDIVIDUAL_DOCUMENT>
+                <TYPE_OF_DOCUMENT>Passport</TYPE_OF_DOCUMENT>
+                <NUMBER>524521</NUMBER>
+            </INDIVIDUAL_DOCUMENT>
+            <INDIVIDUAL_DOCUMENT>
+                <TYPE_OF_DOCUMENT>Passport</TYPE_OF_DOCUMENT>
+                <NUMBER>AA862825</NUMBER>
+                <ISSUING_COUNTRY>Libya</ISSUING_COUNTRY>
+                <DATE_OF_ISSUE>2021-05-19</DATE_OF_ISSUE>
+                <CITY_OF_ISSUE>Tripoli</CITY_OF_ISSUE>
+                <NOTE>expires 18 May 2029</NOTE>
+            </INDIVIDUAL_DOCUMENT>
+            <SORT_KEY/>
+            <SORT_KEY_LAST_MOD/>
+        </INDIVIDUAL>
+        <INDIVIDUAL>
+            <DATAID>6908706</DATAID>
+            <VERSIONNUM>1</VERSIONNUM>
+            <FIRST_NAME>Mohammed</FIRST_NAME>
+            <SECOND_NAME>Al Amin</SECOND_NAME>
+            <THIRD_NAME>Al-Arabi</THIRD_NAME>
+            <FOURTH_NAME>Kashlaf</FOURTH_NAME>
+            <UN_LIST_TYPE>Libya</UN_LIST_TYPE>
+            <REFERENCE_NUMBER>LYi.025</REFERENCE_NUMBER>
+            <LISTED_ON>2018-06-07</LISTED_ON>
+            <NAME_ORIGINAL_SCRIPT>محمد الأمين العربي كشلاف</NAME_ORIGINAL_SCRIPT>
+            <COMMENTS1>Listed pursuant to paragraphs 15 and 17 of resolution 1970 (Travel Ban, Asset Freeze)</COMMENTS1>
+            <DESIGNATION>
+                <VALUE>Commander of the Shuhada al-Nasr brigade, Head of the Petrol Refinery Guard of Zawiya’s refinery</VALUE>
+            </DESIGNATION>
+            <NATIONALITY>
+                <VALUE>Libya</VALUE>
+            </NATIONALITY>
+            <LIST_TYPE>
+                <VALUE>UN List</VALUE>
+            </LIST_TYPE>
+            <LAST_DAY_UPDATED>
+                <VALUE>2023-11-29</VALUE>
+                <VALUE>2018-09-17</VALUE>
+                <VALUE>2020-02-25</VALUE>
+            </LAST_DAY_UPDATED>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY>Good</QUALITY>
+                <ALIAS_NAME>Kashlaf</ALIAS_NAME>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY>Good</QUALITY>
+                <ALIAS_NAME>Koshlaf</ALIAS_NAME>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY>Low</QUALITY>
+                <ALIAS_NAME>Keslaf</ALIAS_NAME>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY>Good</QUALITY>
+                <ALIAS_NAME>al-Qasab</ALIAS_NAME>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ADDRESS>
+                <CITY>Zawiya</CITY>
+                <COUNTRY>Libya</COUNTRY>
+            </INDIVIDUAL_ADDRESS>
+            <INDIVIDUAL_DATE_OF_BIRTH>
+                <TYPE_OF_DATE>EXACT</TYPE_OF_DATE>
+                <DATE>1985-12-02</DATE>
+            </INDIVIDUAL_DATE_OF_BIRTH>
+            <INDIVIDUAL_PLACE_OF_BIRTH>
+                <CITY>Zawiya</CITY>
+                <COUNTRY>Libya</COUNTRY>
+            </INDIVIDUAL_PLACE_OF_BIRTH>
+            <INDIVIDUAL_DOCUMENT>
+                <TYPE_OF_DOCUMENT>Passport</TYPE_OF_DOCUMENT>
+                <NUMBER>C17HLRL3</NUMBER>
+                <DATE_OF_ISSUE>2015-12-30</DATE_OF_ISSUE>
+                <CITY_OF_ISSUE>Zawiya</CITY_OF_ISSUE>
+            </INDIVIDUAL_DOCUMENT>
+            <SORT_KEY/>
+            <SORT_KEY_LAST_MOD/>
+        </INDIVIDUAL>
+        <INDIVIDUAL>
+            <DATAID>6908707</DATAID>
+            <VERSIONNUM>1</VERSIONNUM>
+            <FIRST_NAME>Abd</FIRST_NAME>
+            <SECOND_NAME>Al-Rahman</SECOND_NAME>
+            <THIRD_NAME>SALIM</THIRD_NAME>
+            <FOURTH_NAME>IBRAHIM AL-MILAD</FOURTH_NAME>
+            <UN_LIST_TYPE>Libya</UN_LIST_TYPE>
+            <REFERENCE_NUMBER>LYi.026</REFERENCE_NUMBER>
+            <LISTED_ON>2018-06-07</LISTED_ON>
+            <NAME_ORIGINAL_SCRIPT>IBRAHIM AL-MILAD</NAME_ORIGINAL_SCRIPT>
+            <COMMENTS1>Listed pursuant to paragraphs 15 and 17 of resolution 1970 (Travel Ban, Asset Freeze), 1) Name of
+mother Huriyah Al-A’ib; and 2) Military ID is 36479</COMMENTS1>
+            <TITLE>
+                <VALUE>Navy Major</VALUE>
+            </TITLE>
+            <DESIGNATION>
+                <VALUE>Commander of the Coast Guard in Zawiya</VALUE>
+            </DESIGNATION>
+            <NATIONALITY>
+                <VALUE>Libya</VALUE>
+            </NATIONALITY>
+            <LIST_TYPE>
+                <VALUE>UN List</VALUE>
+            </LIST_TYPE>
+            <LAST_DAY_UPDATED>
+                <VALUE>2023-11-29</VALUE>
+                <VALUE>2021-04-29</VALUE>
+            </LAST_DAY_UPDATED>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY>Low</QUALITY>
+                <ALIAS_NAME>Rahman Salim Milad</ALIAS_NAME>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY>Low</QUALITY>
+                <ALIAS_NAME>al-Bija</ALIAS_NAME>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY>Good</QUALITY>
+                <ALIAS_NAME>Abdurahman Salem Ibrahim Milad</ALIAS_NAME>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY>Good</QUALITY>
+                <ALIAS_NAME>ABDULRAHMAN SALIM MILAD KASHLAF</ALIAS_NAME>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ADDRESS>
+                <CITY>Zawiya</CITY>
+                <COUNTRY>Libya</COUNTRY>
+            </INDIVIDUAL_ADDRESS>
+            <INDIVIDUAL_DATE_OF_BIRTH>
+                <TYPE_OF_DATE>EXACT</TYPE_OF_DATE>
+                <DATE>1986-07-27</DATE>
+            </INDIVIDUAL_DATE_OF_BIRTH>
+            <INDIVIDUAL_PLACE_OF_BIRTH>
+                <CITY> Tripoli</CITY>
+                <COUNTRY>Libya</COUNTRY>
+            </INDIVIDUAL_PLACE_OF_BIRTH>
+            <INDIVIDUAL_DOCUMENT>
+                <TYPE_OF_DOCUMENT>Passport</TYPE_OF_DOCUMENT>
+                <NUMBER>G52FYPRL</NUMBER>
+                <ISSUING_COUNTRY>Libya</ISSUING_COUNTRY>
+                <DATE_OF_ISSUE>2014-05-08</DATE_OF_ISSUE>
+                <NOTE>Date of expiration: 7 May 2022</NOTE>
+            </INDIVIDUAL_DOCUMENT>
+            <INDIVIDUAL_DOCUMENT>
+                <TYPE_OF_DOCUMENT>National Identification Number</TYPE_OF_DOCUMENT>
+                <NUMBER>2519910</NUMBER>
+                <ISSUING_COUNTRY>Libya</ISSUING_COUNTRY>
+            </INDIVIDUAL_DOCUMENT>
+            <SORT_KEY/>
+            <SORT_KEY_LAST_MOD/>
+        </INDIVIDUAL>
+        <INDIVIDUAL>
+            <DATAID>6908848</DATAID>
+            <VERSIONNUM>1</VERSIONNUM>
+            <FIRST_NAME>Osama</FIRST_NAME>
+            <SECOND_NAME>Al Kuni</SECOND_NAME>
+            <THIRD_NAME>Ibrahim</THIRD_NAME>
+            <UN_LIST_TYPE>Libya</UN_LIST_TYPE>
+            <REFERENCE_NUMBER>LYi.029</REFERENCE_NUMBER>
+            <LISTED_ON>2021-10-25</LISTED_ON>
+            <NAME_ORIGINAL_SCRIPT>أسامة الكوني ابراهيم</NAME_ORIGINAL_SCRIPT>
+            <COMMENTS1>As de facto manager of the Al Nasr detention center the person concerned has directly, and/or through subordinates engaged in or provided support to acts that violate applicable international human rights law, or acts that constitute human rights abuses in Libya. The Person concerned has acted for or on behalf of or at the direction of two listed individuals intrinsically linked to the human trafficking activities of the Zawiyah network, namely Mohamed Kashlaf (LYi.025) and Abdulrahman al Milad (LYi.026).  Listed pursuant to paragraphs 15 and 17 of resolution 1970 (Travel Ban, Asset Freeze)  INTERPOL-UN Security Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals</COMMENTS1>
+            <TITLE>
+                <VALUE>Manager of Al Nasr Detention Center in Zawiyah </VALUE>
+            </TITLE>
+            <NATIONALITY>
+                <VALUE>Libya</VALUE>
+            </NATIONALITY>
+            <LIST_TYPE>
+                <VALUE>UN List</VALUE>
+            </LIST_TYPE>
+            <LAST_DAY_UPDATED>
+                <VALUE>2023-11-29</VALUE>
+            </LAST_DAY_UPDATED>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY>Good</QUALITY>
+                <ALIAS_NAME>Osama Milad</ALIAS_NAME>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY>Good</QUALITY>
+                <ALIAS_NAME>Osama al-Milad</ALIAS_NAME>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY>Good</QUALITY>
+                <ALIAS_NAME>Osama Zawiya</ALIAS_NAME>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY>Good</QUALITY>
+                <ALIAS_NAME>Osama Zawiyah</ALIAS_NAME>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY>Good</QUALITY>
+                <ALIAS_NAME>Osama al Kuni</ALIAS_NAME>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ADDRESS>
+                <STATE_PROVINCE>Zawiyah</STATE_PROVINCE>
+                <COUNTRY>Libya</COUNTRY>
+            </INDIVIDUAL_ADDRESS>
+            <INDIVIDUAL_DATE_OF_BIRTH>
+                <TYPE_OF_DATE>EXACT</TYPE_OF_DATE>
+                <DATE>1976-04-02</DATE>
+            </INDIVIDUAL_DATE_OF_BIRTH>
+            <INDIVIDUAL_PLACE_OF_BIRTH>
+                <CITY>Tripoli</CITY>
+                <COUNTRY>Libya</COUNTRY>
             </INDIVIDUAL_PLACE_OF_BIRTH>
             <INDIVIDUAL_DOCUMENT/>
             <SORT_KEY/>
@@ -44975,7 +44989,7 @@ to Taliban commanders in the region. Owned by Abdul Basir Noorzai (TAi.173). INT
         <ENTITY>
             <DATAID>6908463</DATAID>
             <VERSIONNUM>1</VERSIONNUM>
-            <FIRST_NAME>THE ARMY OF EMIGRANTS AND SUPPORTERS </FIRST_NAME>
+            <FIRST_NAME>THE ARMY OF EMIGRANTS AND SUPPORTERS</FIRST_NAME>
             <UN_LIST_TYPE>Al-Qaida</UN_LIST_TYPE>
             <REFERENCE_NUMBER>QDe.148</REFERENCE_NUMBER>
             <LISTED_ON>2015-08-06</LISTED_ON>
@@ -45763,7 +45777,7 @@ Company</ALIAS_NAME>
         <ENTITY>
             <DATAID>6908563</DATAID>
             <VERSIONNUM>1</VERSIONNUM>
-            <FIRST_NAME>KOREA UNITED DEVELOPMENT BANK </FIRST_NAME>
+            <FIRST_NAME>KOREA UNITED DEVELOPMENT BANK</FIRST_NAME>
             <UN_LIST_TYPE>DPRK</UN_LIST_TYPE>
             <REFERENCE_NUMBER>KPe.033 </REFERENCE_NUMBER>
             <LISTED_ON>2016-11-30</LISTED_ON>
@@ -45933,7 +45947,7 @@ region </STATE_PROVINCE>
             <DATAID>6908604</DATAID>
             <VERSIONNUM>1</VERSIONNUM>
             <FIRST_NAME>HANIFA MONEY EXCHANGE OFFICE (BRANCH LOCATED IN ALBU KAMAL,
-SYRIAN ARAB REPUBLIC) </FIRST_NAME>
+SYRIAN ARAB REPUBLIC)</FIRST_NAME>
             <UN_LIST_TYPE>Al-Qaida</UN_LIST_TYPE>
             <REFERENCE_NUMBER>QDe.153</REFERENCE_NUMBER>
             <LISTED_ON>2017-07-20</LISTED_ON>
@@ -46130,7 +46144,7 @@ SYRIAN ARAB REPUBLIC) </FIRST_NAME>
         <ENTITY>
             <DATAID>6908623</DATAID>
             <VERSIONNUM>1</VERSIONNUM>
-            <FIRST_NAME>KOREAN NATIONAL INSURANCE COMPANY (KNIC) </FIRST_NAME>
+            <FIRST_NAME>KOREAN NATIONAL INSURANCE COMPANY (KNIC)</FIRST_NAME>
             <UN_LIST_TYPE>DPRK</UN_LIST_TYPE>
             <REFERENCE_NUMBER>KPe.048</REFERENCE_NUMBER>
             <LISTED_ON>2017-08-05</LISTED_ON>
@@ -46253,7 +46267,7 @@ SYRIAN ARAB REPUBLIC) </FIRST_NAME>
         <ENTITY>
             <DATAID>6908629</DATAID>
             <VERSIONNUM>1</VERSIONNUM>
-            <FIRST_NAME> PROPAGANDA AND AGITATION DEPARTMENT (PAD)</FIRST_NAME>
+            <FIRST_NAME>PROPAGANDA AND AGITATION DEPARTMENT (PAD)</FIRST_NAME>
             <UN_LIST_TYPE>DPRK</UN_LIST_TYPE>
             <REFERENCE_NUMBER>KPe.053 </REFERENCE_NUMBER>
             <LISTED_ON>2017-09-11</LISTED_ON>
@@ -46361,7 +46375,7 @@ SYRIAN ARAB REPUBLIC) </FIRST_NAME>
         <ENTITY>
             <DATAID>6908670</DATAID>
             <VERSIONNUM>1</VERSIONNUM>
-            <FIRST_NAME>CHONMYONG SHIPPING CO </FIRST_NAME>
+            <FIRST_NAME>CHONMYONG SHIPPING CO</FIRST_NAME>
             <UN_LIST_TYPE>DPRK</UN_LIST_TYPE>
             <REFERENCE_NUMBER>KPe.056 </REFERENCE_NUMBER>
             <LISTED_ON>2018-03-30</LISTED_ON>
@@ -46392,7 +46406,7 @@ SYRIAN ARAB REPUBLIC) </FIRST_NAME>
         <ENTITY>
             <DATAID>6908671</DATAID>
             <VERSIONNUM>1</VERSIONNUM>
-            <FIRST_NAME>FIRST OIL JV CO LTD </FIRST_NAME>
+            <FIRST_NAME>FIRST OIL JV CO LTD</FIRST_NAME>
             <UN_LIST_TYPE>DPRK</UN_LIST_TYPE>
             <REFERENCE_NUMBER>KPe.057</REFERENCE_NUMBER>
             <LISTED_ON>2018-03-30</LISTED_ON>
@@ -46418,7 +46432,7 @@ SYRIAN ARAB REPUBLIC) </FIRST_NAME>
         <ENTITY>
             <DATAID>6908672</DATAID>
             <VERSIONNUM>1</VERSIONNUM>
-            <FIRST_NAME>HAPJANGGANG SHIPPING CORP </FIRST_NAME>
+            <FIRST_NAME>HAPJANGGANG SHIPPING CORP</FIRST_NAME>
             <UN_LIST_TYPE>DPRK</UN_LIST_TYPE>
             <REFERENCE_NUMBER>KPe.058</REFERENCE_NUMBER>
             <LISTED_ON>2018-03-30</LISTED_ON>
@@ -46494,7 +46508,7 @@ SYRIAN ARAB REPUBLIC) </FIRST_NAME>
         <ENTITY>
             <DATAID>6908675</DATAID>
             <VERSIONNUM>1</VERSIONNUM>
-            <FIRST_NAME>KOREA ANSAN SHIPPING COMPANY </FIRST_NAME>
+            <FIRST_NAME>KOREA ANSAN SHIPPING COMPANY</FIRST_NAME>
             <UN_LIST_TYPE>DPRK</UN_LIST_TYPE>
             <REFERENCE_NUMBER>KPe.062</REFERENCE_NUMBER>
             <LISTED_ON>2018-03-30</LISTED_ON>
@@ -46525,7 +46539,7 @@ SYRIAN ARAB REPUBLIC) </FIRST_NAME>
         <ENTITY>
             <DATAID>6908676</DATAID>
             <VERSIONNUM>1</VERSIONNUM>
-            <FIRST_NAME>KOREA MYONGDOK SHIPPING CO </FIRST_NAME>
+            <FIRST_NAME>KOREA MYONGDOK SHIPPING CO</FIRST_NAME>
             <UN_LIST_TYPE>DPRK</UN_LIST_TYPE>
             <REFERENCE_NUMBER>KPe.063</REFERENCE_NUMBER>
             <LISTED_ON>2018-03-30</LISTED_ON>
@@ -46604,7 +46618,7 @@ conducted a ship-to-ship transfer of 1,721 metric tons of fuel oil. IMO number: 
         <ENTITY>
             <DATAID>6908680</DATAID>
             <VERSIONNUM>1</VERSIONNUM>
-            <FIRST_NAME>KOREA YUJONG SHIPPING CO LTD </FIRST_NAME>
+            <FIRST_NAME>KOREA YUJONG SHIPPING CO LTD</FIRST_NAME>
             <UN_LIST_TYPE>DPRK</UN_LIST_TYPE>
             <REFERENCE_NUMBER>KPe.066</REFERENCE_NUMBER>
             <LISTED_ON>2018-03-30</LISTED_ON>
@@ -46652,7 +46666,7 @@ conducted a ship-to-ship transfer of 1,721 metric tons of fuel oil. IMO number: 
         <ENTITY>
             <DATAID>6908683</DATAID>
             <VERSIONNUM>1</VERSIONNUM>
-            <FIRST_NAME>PAEKMA SHIPPING CO </FIRST_NAME>
+            <FIRST_NAME>PAEKMA SHIPPING CO</FIRST_NAME>
             <UN_LIST_TYPE>DPRK</UN_LIST_TYPE>
             <REFERENCE_NUMBER>KPe.069</REFERENCE_NUMBER>
             <LISTED_ON>2018-03-30</LISTED_ON>

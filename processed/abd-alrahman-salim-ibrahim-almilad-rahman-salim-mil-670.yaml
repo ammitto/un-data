@@ -1,18 +1,20 @@
 ---
 entity_type: person
 names:
-- Abd Al-Rahman al-Milad
+- Abd Al-Rahman SALIM IBRAHIM AL-MILAD
 - Rahman Salim Milad
 - al-Bija
 - Abdurahman Salem Ibrahim Milad
+- ABDULRAHMAN SALIM MILAD KASHLAF
 designation: Commander of the Coast Guard in Zawiya
 source: un-data
 ref_number: LYi.026
 ref_type: Libya
 country: Libya
 birthdate: '1986-07-27'
-remark: Listed pursuant to paragraphs 15 and 17 of resolution 1970 (Travel Ban, Asset
-  Freeze)
+remark: |-
+  Listed pursuant to paragraphs 15 and 17 of resolution 1970 (Travel Ban, Asset Freeze), 1) Name of
+  mother Huriyah Al-A’ib; and 2) Military ID is 36479
 address:
 - street: 
   city: Zawiya
@@ -24,3 +26,7 @@ documents:
   number: G52FYPRL
   country: Libya
   note: 'Date of expiration: 7 May 2022'
+- type: National Identification Number
+  number: '2519910'
+  country: Libya
+  note: 

@@ -16,7 +16,7 @@ address:
 - street: 
   city: 
   state: 
-  country: ''
+  country: Egypt
   zip: 
 documents:
 - type: Passport
