@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<CONSOLIDATED_LIST xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:noNamespaceSchemaLocation='https://www.un.org/sc/resources/sc-sanctions.xsd' dateGenerated='2023-12-05T00:00:01.068Z'>
+<CONSOLIDATED_LIST xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:noNamespaceSchemaLocation='https://www.un.org/sc/resources/sc-sanctions.xsd' dateGenerated='2023-12-06T00:00:02.730Z'>
     <INDIVIDUALS>
         <INDIVIDUAL>
             <DATAID>110447</DATAID>
@@ -39786,47 +39786,6 @@ number</TYPE_OF_DOCUMENT2>
             <SORT_KEY_LAST_MOD/>
         </INDIVIDUAL>
         <INDIVIDUAL>
-            <DATAID>690732</DATAID>
-            <VERSIONNUM>1</VERSIONNUM>
-            <FIRST_NAME>SAYYID</FIRST_NAME>
-            <SECOND_NAME>MOHAMMED</SECOND_NAME>
-            <THIRD_NAME>QADHAF AL-DAM</THIRD_NAME>
-            <UN_LIST_TYPE>Libya</UN_LIST_TYPE>
-            <REFERENCE_NUMBER>LYi.003</REFERENCE_NUMBER>
-            <LISTED_ON>2011-02-26</LISTED_ON>
-            <COMMENTS1>Listed pursuant to paragraph 15 of resolution 1970 (Travel
-Ban). INTERPOL-UN Security Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals</COMMENTS1>
-            <LIST_TYPE>
-                <VALUE>UN List</VALUE>
-            </LIST_TYPE>
-            <LAST_DAY_UPDATED>
-                <VALUE>2023-11-29</VALUE>
-                <VALUE>2016-04-01</VALUE>
-            </LAST_DAY_UPDATED>
-            <INDIVIDUAL_ALIAS>
-                <QUALITY>Good</QUALITY>
-                <ALIAS_NAME>Sayed M. Gaddef Eddam</ALIAS_NAME>
-            </INDIVIDUAL_ALIAS>
-            <INDIVIDUAL_ADDRESS>
-                <COUNTRY>Egypt</COUNTRY>
-                <NOTE>Believed status/location: deceased</NOTE>
-            </INDIVIDUAL_ADDRESS>
-            <INDIVIDUAL_DATE_OF_BIRTH>
-                <TYPE_OF_DATE>EXACT</TYPE_OF_DATE>
-                <YEAR>1948</YEAR>
-            </INDIVIDUAL_DATE_OF_BIRTH>
-            <INDIVIDUAL_PLACE_OF_BIRTH>
-                <CITY>Sirte</CITY>
-                <COUNTRY>Libya</COUNTRY>
-            </INDIVIDUAL_PLACE_OF_BIRTH>
-            <INDIVIDUAL_DOCUMENT>
-                <TYPE_OF_DOCUMENT>Passport</TYPE_OF_DOCUMENT>
-                <NUMBER>Libyan passport No. 513519 </NUMBER>
-            </INDIVIDUAL_DOCUMENT>
-            <SORT_KEY/>
-            <SORT_KEY_LAST_MOD/>
-        </INDIVIDUAL>
-        <INDIVIDUAL>
             <DATAID>690776</DATAID>
             <VERSIONNUM>1</VERSIONNUM>
             <FIRST_NAME>SAADI</FIRST_NAME>
@@ -39947,18 +39906,75 @@ on 17 March 2011 pursuant to paragraph 17 of resolution 1970 (Asset Freeze). INT
             <SORT_KEY_LAST_MOD/>
         </INDIVIDUAL>
         <INDIVIDUAL>
+            <DATAID>6908848</DATAID>
+            <VERSIONNUM>1</VERSIONNUM>
+            <FIRST_NAME>Osama</FIRST_NAME>
+            <SECOND_NAME>Al Kuni</SECOND_NAME>
+            <THIRD_NAME>Ibrahim</THIRD_NAME>
+            <UN_LIST_TYPE>Libya</UN_LIST_TYPE>
+            <REFERENCE_NUMBER>LYi.029</REFERENCE_NUMBER>
+            <LISTED_ON>2021-10-25</LISTED_ON>
+            <NAME_ORIGINAL_SCRIPT>أسامة الكوني ابراهيم</NAME_ORIGINAL_SCRIPT>
+            <COMMENTS1>As de facto manager of the Al Nasr detention center the person concerned has directly, and/or through subordinates engaged in or provided support to acts that violate applicable international human rights law, or acts that constitute human rights abuses in Libya. The Person concerned has acted for or on behalf of or at the direction of two listed individuals intrinsically linked to the human trafficking activities of the Zawiyah network, namely Mohamed Kashlaf (LYi.025) and Abdulrahman al Milad (LYi.026).  Listed pursuant to paragraphs 15 and 17 of resolution 1970 (Travel Ban, Asset Freeze)  INTERPOL-UN Security Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals</COMMENTS1>
+            <TITLE>
+                <VALUE>Manager of Al Nasr Detention Center in Zawiyah </VALUE>
+            </TITLE>
+            <NATIONALITY>
+                <VALUE>Libya</VALUE>
+            </NATIONALITY>
+            <LIST_TYPE>
+                <VALUE>UN List</VALUE>
+            </LIST_TYPE>
+            <LAST_DAY_UPDATED>
+                <VALUE>2023-11-29</VALUE>
+            </LAST_DAY_UPDATED>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY>Good</QUALITY>
+                <ALIAS_NAME>Osama Milad</ALIAS_NAME>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY>Good</QUALITY>
+                <ALIAS_NAME>Osama al-Milad</ALIAS_NAME>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY>Good</QUALITY>
+                <ALIAS_NAME>Osama Zawiya</ALIAS_NAME>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY>Good</QUALITY>
+                <ALIAS_NAME>Osama Zawiyah</ALIAS_NAME>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY>Good</QUALITY>
+                <ALIAS_NAME>Osama al Kuni</ALIAS_NAME>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ADDRESS>
+                <STATE_PROVINCE>Zawiyah</STATE_PROVINCE>
+                <COUNTRY>Libya</COUNTRY>
+            </INDIVIDUAL_ADDRESS>
+            <INDIVIDUAL_DATE_OF_BIRTH>
+                <TYPE_OF_DATE>EXACT</TYPE_OF_DATE>
+                <DATE>1976-04-02</DATE>
+            </INDIVIDUAL_DATE_OF_BIRTH>
+            <INDIVIDUAL_PLACE_OF_BIRTH>
+                <CITY>Tripoli</CITY>
+                <COUNTRY>Libya</COUNTRY>
+            </INDIVIDUAL_PLACE_OF_BIRTH>
+            <INDIVIDUAL_DOCUMENT/>
+            <SORT_KEY/>
+            <SORT_KEY_LAST_MOD/>
+        </INDIVIDUAL>
+        <INDIVIDUAL>
             <DATAID>6908707</DATAID>
             <VERSIONNUM>1</VERSIONNUM>
             <FIRST_NAME>Abd</FIRST_NAME>
             <SECOND_NAME>Al-Rahman</SECOND_NAME>
-            <THIRD_NAME>SALIM</THIRD_NAME>
+            <THIRD_NAME>SALIM </THIRD_NAME>
             <FOURTH_NAME>IBRAHIM AL-MILAD</FOURTH_NAME>
             <UN_LIST_TYPE>Libya</UN_LIST_TYPE>
             <REFERENCE_NUMBER>LYi.026</REFERENCE_NUMBER>
             <LISTED_ON>2018-06-07</LISTED_ON>
-            <NAME_ORIGINAL_SCRIPT>IBRAHIM AL-MILAD</NAME_ORIGINAL_SCRIPT>
-            <COMMENTS1>Listed pursuant to paragraphs 15 and 17 of resolution 1970 (Travel Ban, Asset Freeze), 1) Name of
-mother Huriyah Al-A’ib; and 2) Military ID is 36479</COMMENTS1>
+            <COMMENTS1>Listed pursuant to paragraphs 15 and 17 of resolution 1970 (Travel Ban, Asset Freeze),  1) Name of mother Huriyah Al-A’ib; and 2) Military ID is 36479</COMMENTS1>
             <TITLE>
                 <VALUE>Navy Major</VALUE>
             </TITLE>
@@ -40019,61 +40035,43 @@ mother Huriyah Al-A’ib; and 2) Military ID is 36479</COMMENTS1>
             <SORT_KEY_LAST_MOD/>
         </INDIVIDUAL>
         <INDIVIDUAL>
-            <DATAID>6908848</DATAID>
+            <DATAID>690732</DATAID>
             <VERSIONNUM>1</VERSIONNUM>
-            <FIRST_NAME>Osama</FIRST_NAME>
-            <SECOND_NAME>Al Kuni</SECOND_NAME>
-            <THIRD_NAME>Ibrahim</THIRD_NAME>
+            <FIRST_NAME>SAYYID</FIRST_NAME>
+            <SECOND_NAME>MOHAMMED</SECOND_NAME>
+            <THIRD_NAME>QADHAF AL-DAM</THIRD_NAME>
             <UN_LIST_TYPE>Libya</UN_LIST_TYPE>
-            <REFERENCE_NUMBER>LYi.029</REFERENCE_NUMBER>
-            <LISTED_ON>2021-10-25</LISTED_ON>
-            <NAME_ORIGINAL_SCRIPT>أسامة الكوني ابراهيم</NAME_ORIGINAL_SCRIPT>
-            <COMMENTS1>As de facto manager of the Al Nasr detention center the person concerned has directly, and/or through subordinates engaged in or provided support to acts that violate applicable international human rights law, or acts that constitute human rights abuses in Libya. The Person concerned has acted for or on behalf of or at the direction of two listed individuals intrinsically linked to the human trafficking activities of the Zawiyah network, namely Mohamed Kashlaf (LYi.025) and Abdulrahman al Milad (LYi.026).  Listed pursuant to paragraphs 15 and 17 of resolution 1970 (Travel Ban, Asset Freeze)  INTERPOL-UN Security Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals</COMMENTS1>
-            <TITLE>
-                <VALUE>Manager of Al Nasr Detention Center in Zawiyah </VALUE>
-            </TITLE>
-            <NATIONALITY>
-                <VALUE>Libya</VALUE>
-            </NATIONALITY>
+            <REFERENCE_NUMBER>LYi.003</REFERENCE_NUMBER>
+            <LISTED_ON>2011-02-26</LISTED_ON>
+            <COMMENTS1>Listed pursuant to paragraph 15 of resolution 1970 (Travel
+Ban). INTERPOL-UN Security Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals</COMMENTS1>
             <LIST_TYPE>
                 <VALUE>UN List</VALUE>
             </LIST_TYPE>
             <LAST_DAY_UPDATED>
                 <VALUE>2023-11-29</VALUE>
+                <VALUE>2016-04-01</VALUE>
             </LAST_DAY_UPDATED>
             <INDIVIDUAL_ALIAS>
                 <QUALITY>Good</QUALITY>
-                <ALIAS_NAME>Osama Milad</ALIAS_NAME>
-            </INDIVIDUAL_ALIAS>
-            <INDIVIDUAL_ALIAS>
-                <QUALITY>Good</QUALITY>
-                <ALIAS_NAME>Osama al-Milad</ALIAS_NAME>
-            </INDIVIDUAL_ALIAS>
-            <INDIVIDUAL_ALIAS>
-                <QUALITY>Good</QUALITY>
-                <ALIAS_NAME>Osama Zawiya</ALIAS_NAME>
-            </INDIVIDUAL_ALIAS>
-            <INDIVIDUAL_ALIAS>
-                <QUALITY>Good</QUALITY>
-                <ALIAS_NAME>Osama Zawiyah</ALIAS_NAME>
-            </INDIVIDUAL_ALIAS>
-            <INDIVIDUAL_ALIAS>
-                <QUALITY>Good</QUALITY>
-                <ALIAS_NAME>Osama al Kuni</ALIAS_NAME>
+                <ALIAS_NAME>Sayed M. Gaddef Eddam</ALIAS_NAME>
             </INDIVIDUAL_ALIAS>
             <INDIVIDUAL_ADDRESS>
-                <STATE_PROVINCE>Zawiyah</STATE_PROVINCE>
-                <COUNTRY>Libya</COUNTRY>
+                <COUNTRY>Egypt</COUNTRY>
+                <NOTE>Believed status/location: deceased</NOTE>
             </INDIVIDUAL_ADDRESS>
             <INDIVIDUAL_DATE_OF_BIRTH>
                 <TYPE_OF_DATE>EXACT</TYPE_OF_DATE>
-                <DATE>1976-04-02</DATE>
+                <YEAR>1948</YEAR>
             </INDIVIDUAL_DATE_OF_BIRTH>
             <INDIVIDUAL_PLACE_OF_BIRTH>
-                <CITY>Tripoli</CITY>
+                <CITY>Sirte</CITY>
                 <COUNTRY>Libya</COUNTRY>
             </INDIVIDUAL_PLACE_OF_BIRTH>
-            <INDIVIDUAL_DOCUMENT/>
+            <INDIVIDUAL_DOCUMENT>
+                <TYPE_OF_DOCUMENT>Passport</TYPE_OF_DOCUMENT>
+                <NUMBER>Libyan passport No. 513519 </NUMBER>
+            </INDIVIDUAL_DOCUMENT>
             <SORT_KEY/>
             <SORT_KEY_LAST_MOD/>
         </INDIVIDUAL>
