@@ -1,0 +1,22 @@
+---
+entity_type: person
+names:
+- VITELHOMME INNOCENT
+designation: Leader of Kraze Barye gang
+source: un-data
+ref_number: HTi.005
+ref_type: Haiti
+country: Haiti
+birthdate: '1986-03-27'
+remark: 'Gender: Male'
+address:
+- street: 
+  city: 64, Soisson, Tabarre 49, Port-au-Prince
+  state: 
+  country: Haiti
+  zip: 
+documents:
+- type: National Identification Number
+  number: 004-341-263-3
+  country: Haiti
+  note: 
