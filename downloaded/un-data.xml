@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<CONSOLIDATED_LIST xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:noNamespaceSchemaLocation='https://www.un.org/sc/resources/sc-sanctions.xsd' dateGenerated='2024-01-05T00:00:05.451Z'>
+<CONSOLIDATED_LIST xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:noNamespaceSchemaLocation='https://www.un.org/sc/resources/sc-sanctions.xsd' dateGenerated='2024-01-06T00:00:04.257Z'>
     <INDIVIDUALS>
         <INDIVIDUAL>
             <DATAID>110447</DATAID>
@@ -7084,64 +7084,6 @@ on 15 Jun. 2010. Review pursuant to Security Council resolution 2368 (2017) was 
             <SORT_KEY_LAST_MOD/>
         </INDIVIDUAL>
         <INDIVIDUAL>
-            <DATAID>111785</DATAID>
-            <VERSIONNUM>1</VERSIONNUM>
-            <FIRST_NAME>HABIB</FIRST_NAME>
-            <SECOND_NAME>BEN</SECOND_NAME>
-            <THIRD_NAME>AHMED</THIRD_NAME>
-            <FOURTH_NAME>AL-LOUBIRI</FOURTH_NAME>
-            <UN_LIST_TYPE>Al-Qaida</UN_LIST_TYPE>
-            <REFERENCE_NUMBER>QDi.177</REFERENCE_NUMBER>
-            <LISTED_ON>2004-06-23</LISTED_ON>
-            <NAME_ORIGINAL_SCRIPT>حبيب بن احمد اللوبيري</NAME_ORIGINAL_SCRIPT>
-            <COMMENTS1>Italian Fiscal Code: LBR HBB 61S17 Z352F. In detention in Tunisia as at Dec. 2009. Mother’s name is Fatima al-Galasi. Review pursuant to Security Council resolution 1822 (2008) was concluded on 9 Apr. 2010. Review pursuant to Security Council resolution 2368 (2017) was concluded on 4 Dec. 2019 INTERPOL-UN Security Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals</COMMENTS1>
-            <NATIONALITY>
-                <VALUE>Tunisia</VALUE>
-            </NATIONALITY>
-            <LIST_TYPE>
-                <VALUE>UN List</VALUE>
-            </LIST_TYPE>
-            <LAST_DAY_UPDATED>
-                <VALUE>2005-12-20</VALUE>
-                <VALUE>2007-10-17</VALUE>
-                <VALUE>2009-08-10</VALUE>
-                <VALUE>2011-12-13</VALUE>
-                <VALUE>2016-02-23</VALUE>
-                <VALUE>2019-12-06</VALUE>
-            </LAST_DAY_UPDATED>
-            <INDIVIDUAL_ALIAS>
-                <QUALITY>Good</QUALITY>
-                <ALIAS_NAME>Al-Habib ben Ahmad ben al-Tayib al-Lubiri</ALIAS_NAME>
-            </INDIVIDUAL_ALIAS>
-            <INDIVIDUAL_ADDRESS>
-                <STREET>Salam Marnaq Ben Arous district</STREET>
-                <CITY>Sidi Mesoud</CITY>
-                <COUNTRY>Tunisia</COUNTRY>
-            </INDIVIDUAL_ADDRESS>
-            <INDIVIDUAL_DATE_OF_BIRTH>
-                <TYPE_OF_DATE>EXACT</TYPE_OF_DATE>
-                <DATE>1961-11-17</DATE>
-            </INDIVIDUAL_DATE_OF_BIRTH>
-            <INDIVIDUAL_PLACE_OF_BIRTH>
-                <CITY>Manzal Tmim</CITY>
-                <STATE_PROVINCE>Nabul</STATE_PROVINCE>
-                <COUNTRY>Tunisia</COUNTRY>
-            </INDIVIDUAL_PLACE_OF_BIRTH>
-            <INDIVIDUAL_DOCUMENT>
-                <TYPE_OF_DOCUMENT>Passport</TYPE_OF_DOCUMENT>
-                <NUMBER>M788439</NUMBER>
-                <ISSUING_COUNTRY>Tunisia</ISSUING_COUNTRY>
-                <DATE_OF_ISSUE>2001-10-20</DATE_OF_ISSUE>
-                <NOTE>expires on 19 Oct. 2006</NOTE>
-            </INDIVIDUAL_DOCUMENT>
-            <INDIVIDUAL_DOCUMENT>
-                <TYPE_OF_DOCUMENT>National Identification Number</TYPE_OF_DOCUMENT>
-                <NUMBER>01817002</NUMBER>
-            </INDIVIDUAL_DOCUMENT>
-            <SORT_KEY/>
-            <SORT_KEY_LAST_MOD/>
-        </INDIVIDUAL>
-        <INDIVIDUAL>
             <DATAID>111790</DATAID>
             <VERSIONNUM>1</VERSIONNUM>
             <FIRST_NAME>ABDULLAH</FIRST_NAME>
@@ -14034,89 +13976,6 @@ Noor Muhammad. Review pursuant to Security Council resolution 2253 (2015) was co
             <SORT_KEY_LAST_MOD/>
         </INDIVIDUAL>
         <INDIVIDUAL>
-            <DATAID>2833107</DATAID>
-            <VERSIONNUM>1</VERSIONNUM>
-            <FIRST_NAME>HAFIZ</FIRST_NAME>
-            <SECOND_NAME>MUHAMMAD</SECOND_NAME>
-            <THIRD_NAME>SAEED</THIRD_NAME>
-            <UN_LIST_TYPE>Al-Qaida</UN_LIST_TYPE>
-            <REFERENCE_NUMBER>QDi.263</REFERENCE_NUMBER>
-            <LISTED_ON>2008-12-10</LISTED_ON>
-            <COMMENTS1>Muhammad Saeed is the leader of Lashkar-e-Tayyiba (QDe.118). INTERPOL-UN Security Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals</COMMENTS1>
-            <NATIONALITY>
-                <VALUE>Pakistan</VALUE>
-            </NATIONALITY>
-            <LIST_TYPE>
-                <VALUE>UN List</VALUE>
-            </LIST_TYPE>
-            <LAST_DAY_UPDATED>
-                <VALUE>2009-07-17</VALUE>
-            </LAST_DAY_UPDATED>
-            <INDIVIDUAL_ALIAS>
-                <QUALITY>Good</QUALITY>
-                <ALIAS_NAME>Hafiz Mohammad Sahib</ALIAS_NAME>
-            </INDIVIDUAL_ALIAS>
-            <INDIVIDUAL_ALIAS>
-                <QUALITY>Good</QUALITY>
-                <ALIAS_NAME>Hafiz Mohammad Sayid</ALIAS_NAME>
-            </INDIVIDUAL_ALIAS>
-            <INDIVIDUAL_ALIAS>
-                <QUALITY>Good</QUALITY>
-                <ALIAS_NAME>Hafiz Muhammad</ALIAS_NAME>
-            </INDIVIDUAL_ALIAS>
-            <INDIVIDUAL_ALIAS>
-                <QUALITY>Good</QUALITY>
-                <ALIAS_NAME>Hafiz Saeed</ALIAS_NAME>
-            </INDIVIDUAL_ALIAS>
-            <INDIVIDUAL_ALIAS>
-                <QUALITY>Good</QUALITY>
-                <ALIAS_NAME>Hafez Mohammad Saeed</ALIAS_NAME>
-            </INDIVIDUAL_ALIAS>
-            <INDIVIDUAL_ALIAS>
-                <QUALITY>Good</QUALITY>
-                <ALIAS_NAME>Hafiz Mohammad Sayeed</ALIAS_NAME>
-            </INDIVIDUAL_ALIAS>
-            <INDIVIDUAL_ALIAS>
-                <QUALITY>Good</QUALITY>
-                <ALIAS_NAME>Tata Mohammad Syeed</ALIAS_NAME>
-            </INDIVIDUAL_ALIAS>
-            <INDIVIDUAL_ALIAS>
-                <QUALITY>Good</QUALITY>
-                <ALIAS_NAME>Mohammad Sayed</ALIAS_NAME>
-            </INDIVIDUAL_ALIAS>
-            <INDIVIDUAL_ALIAS>
-                <QUALITY>Good</QUALITY>
-                <ALIAS_NAME>Muhammad Saeed</ALIAS_NAME>
-            </INDIVIDUAL_ALIAS>
-            <INDIVIDUAL_ALIAS>
-                <QUALITY>Low</QUALITY>
-                <ALIAS_NAME>Hafiz Ji</ALIAS_NAME>
-            </INDIVIDUAL_ALIAS>
-            <INDIVIDUAL_ADDRESS>
-                <STREET>House No. 116E, Mohalla Johar, Lahore, Tehsil</STREET>
-                <CITY>Lahore City</CITY>
-                <STATE_PROVINCE>Lahore District</STATE_PROVINCE>
-                <COUNTRY>Pakistan</COUNTRY>
-                <NOTE>location as at May 2008</NOTE>
-            </INDIVIDUAL_ADDRESS>
-            <INDIVIDUAL_DATE_OF_BIRTH>
-                <TYPE_OF_DATE>EXACT</TYPE_OF_DATE>
-                <DATE>1950-06-05</DATE>
-            </INDIVIDUAL_DATE_OF_BIRTH>
-            <INDIVIDUAL_PLACE_OF_BIRTH>
-                <CITY>Sargodha</CITY>
-                <STATE_PROVINCE>Punjab</STATE_PROVINCE>
-                <COUNTRY>Pakistan</COUNTRY>
-            </INDIVIDUAL_PLACE_OF_BIRTH>
-            <INDIVIDUAL_DOCUMENT>
-                <TYPE_OF_DOCUMENT>National Identification Number</TYPE_OF_DOCUMENT>
-                <NUMBER>3520025509842-7</NUMBER>
-                <ISSUING_COUNTRY>Pakistan</ISSUING_COUNTRY>
-            </INDIVIDUAL_DOCUMENT>
-            <SORT_KEY/>
-            <SORT_KEY_LAST_MOD/>
-        </INDIVIDUAL>
-        <INDIVIDUAL>
             <DATAID>2854925</DATAID>
             <VERSIONNUM>1</VERSIONNUM>
             <FIRST_NAME>ABDUL</FIRST_NAME>
@@ -17060,77 +16919,6 @@ As of late 2010, in custody of Pakistan authorities. Father’s name is Fazal Ah
                 <TYPE_OF_DOCUMENT2>Indonesia National Identity Card</TYPE_OF_DOCUMENT2>
                 <NUMBER> 353010405480001 </NUMBER>
             </INDIVIDUAL_DOCUMENT>
-            <SORT_KEY/>
-            <SORT_KEY_LAST_MOD/>
-        </INDIVIDUAL>
-        <INDIVIDUAL>
-            <DATAID>2983834</DATAID>
-            <VERSIONNUM>1</VERSIONNUM>
-            <FIRST_NAME>HAFIZ</FIRST_NAME>
-            <SECOND_NAME>ABDUL SALAM</SECOND_NAME>
-            <THIRD_NAME>BHUTTAVI</THIRD_NAME>
-            <UN_LIST_TYPE>Al-Qaida</UN_LIST_TYPE>
-            <REFERENCE_NUMBER>QDi.307</REFERENCE_NUMBER>
-            <LISTED_ON>2012-03-14</LISTED_ON>
-            <COMMENTS1>Founding member of Lashkar-e-Tayyiba (QDe.118) and deputy to Lashkar-e-Tayyiba leader Hafiz Muhammad Saeed (QDi.263). Review pursuant to Security Council resolution 2368 (2017) was concluded on 15 November 2021. INTERPOL-UN Security Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals</COMMENTS1>
-            <TITLE>
-                <VALUE>Maulavi</VALUE>
-                <VALUE>Mullah</VALUE>
-            </TITLE>
-            <NATIONALITY>
-                <VALUE>Pakistan</VALUE>
-            </NATIONALITY>
-            <LIST_TYPE>
-                <VALUE>UN List</VALUE>
-            </LIST_TYPE>
-            <LAST_DAY_UPDATED>
-                <VALUE>2021-11-15</VALUE>
-            </LAST_DAY_UPDATED>
-            <INDIVIDUAL_ALIAS>
-                <QUALITY>Good</QUALITY>
-                <ALIAS_NAME>Hafiz Abdul Salam Bhattvi</ALIAS_NAME>
-            </INDIVIDUAL_ALIAS>
-            <INDIVIDUAL_ALIAS>
-                <QUALITY>Good</QUALITY>
-                <ALIAS_NAME>Hafiz Abdusalam Budvi</ALIAS_NAME>
-            </INDIVIDUAL_ALIAS>
-            <INDIVIDUAL_ALIAS>
-                <QUALITY>Good</QUALITY>
-                <ALIAS_NAME>Hafiz Abdussalaam Bhutvi</ALIAS_NAME>
-            </INDIVIDUAL_ALIAS>
-            <INDIVIDUAL_ALIAS>
-                <QUALITY>Good</QUALITY>
-                <ALIAS_NAME>Abdul Salam Budvi</ALIAS_NAME>
-            </INDIVIDUAL_ALIAS>
-            <INDIVIDUAL_ALIAS>
-                <QUALITY>Good</QUALITY>
-                <ALIAS_NAME>Abdul Salam Bhattwi</ALIAS_NAME>
-            </INDIVIDUAL_ALIAS>
-            <INDIVIDUAL_ALIAS>
-                <QUALITY>Good</QUALITY>
-                <ALIAS_NAME>Abdul Salam Bhutvi</ALIAS_NAME>
-            </INDIVIDUAL_ALIAS>
-            <INDIVIDUAL_ALIAS>
-                <QUALITY>Good</QUALITY>
-                <ALIAS_NAME>Mullah Abdul Salaam Bhattvi</ALIAS_NAME>
-            </INDIVIDUAL_ALIAS>
-            <INDIVIDUAL_ALIAS>
-                <QUALITY>Good</QUALITY>
-                <ALIAS_NAME>Molvi Abdursalam Bhattvi</ALIAS_NAME>
-            </INDIVIDUAL_ALIAS>
-            <INDIVIDUAL_ADDRESS>
-                <COUNTRY/>
-            </INDIVIDUAL_ADDRESS>
-            <INDIVIDUAL_DATE_OF_BIRTH>
-                <TYPE_OF_DATE>EXACT</TYPE_OF_DATE>
-                <YEAR>1940</YEAR>
-            </INDIVIDUAL_DATE_OF_BIRTH>
-            <INDIVIDUAL_PLACE_OF_BIRTH>
-                <CITY>Gujranwala</CITY>
-                <STATE_PROVINCE>Punjab Province</STATE_PROVINCE>
-                <COUNTRY>Pakistan</COUNTRY>
-            </INDIVIDUAL_PLACE_OF_BIRTH>
-            <INDIVIDUAL_DOCUMENT/>
             <SORT_KEY/>
             <SORT_KEY_LAST_MOD/>
         </INDIVIDUAL>
@@ -28457,50 +28245,6 @@ financial services to Taliban in the region. INTERPOL-UN Security Council Specia
             <SORT_KEY_LAST_MOD/>
         </INDIVIDUAL>
         <INDIVIDUAL>
-            <DATAID>6908452</DATAID>
-            <VERSIONNUM>1</VERSIONNUM>
-            <FIRST_NAME>MAULANA</FIRST_NAME>
-            <SECOND_NAME>FAZLULLAH</SECOND_NAME>
-            <UN_LIST_TYPE>Al-Qaida</UN_LIST_TYPE>
-            <REFERENCE_NUMBER>QDi.352</REFERENCE_NUMBER>
-            <LISTED_ON>2015-04-07-04:00</LISTED_ON>
-            <COMMENTS1>Commander of Tehrik-e Taliban Pakistan (TTP) (QDe.132) since 7 Nov. 2013.
-Led the local TTP in Pakistan’s northwest valley of Swat from 2007 to 2009. Review pursuant to Security Council resolution 2253 (2015) was concluded on 21 Feb. 2019. INTERPOL-UN Security Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals</COMMENTS1>
-            <LIST_TYPE>
-                <VALUE>UN List</VALUE>
-            </LIST_TYPE>
-            <LAST_DAY_UPDATED>
-                <VALUE>2019-05-01</VALUE>
-            </LAST_DAY_UPDATED>
-            <INDIVIDUAL_ALIAS>
-                <QUALITY>Good</QUALITY>
-                <ALIAS_NAME>Mullah Fazlullah</ALIAS_NAME>
-            </INDIVIDUAL_ALIAS>
-            <INDIVIDUAL_ALIAS>
-                <QUALITY>Good</QUALITY>
-                <ALIAS_NAME>Fazal Hayat</ALIAS_NAME>
-            </INDIVIDUAL_ALIAS>
-            <INDIVIDUAL_ALIAS>
-                <QUALITY>Low</QUALITY>
-                <ALIAS_NAME>Mullah Radio</ALIAS_NAME>
-            </INDIVIDUAL_ALIAS>
-            <INDIVIDUAL_ADDRESS>
-                <NOTE>Afghanistan / Pakistan border region</NOTE>
-            </INDIVIDUAL_ADDRESS>
-            <INDIVIDUAL_DATE_OF_BIRTH>
-                <TYPE_OF_DATE>EXACT</TYPE_OF_DATE>
-                <YEAR>1974</YEAR>
-            </INDIVIDUAL_DATE_OF_BIRTH>
-            <INDIVIDUAL_PLACE_OF_BIRTH>
-                <CITY>Kuza Bandai village, Swat Valley</CITY>
-                <STATE_PROVINCE>Khyber Pakhtunkhawa Province</STATE_PROVINCE>
-                <COUNTRY>Pakistan</COUNTRY>
-            </INDIVIDUAL_PLACE_OF_BIRTH>
-            <INDIVIDUAL_DOCUMENT/>
-            <SORT_KEY/>
-            <SORT_KEY_LAST_MOD/>
-        </INDIVIDUAL>
-        <INDIVIDUAL>
             <DATAID>6908453</DATAID>
             <VERSIONNUM>1</VERSIONNUM>
             <FIRST_NAME>ALI</FIRST_NAME>
@@ -37455,47 +37199,6 @@ for inclusion in the INTERPOL-UN Security Council Special Notice.</COMMENTS1>
             <SORT_KEY_LAST_MOD/>
         </INDIVIDUAL>
         <INDIVIDUAL>
-            <DATAID>6908843</DATAID>
-            <VERSIONNUM>1</VERSIONNUM>
-            <FIRST_NAME>Noor</FIRST_NAME>
-            <SECOND_NAME>Wali</SECOND_NAME>
-            <THIRD_NAME>Mehsud</THIRD_NAME>
-            <UN_LIST_TYPE>Al-Qaida</UN_LIST_TYPE>
-            <REFERENCE_NUMBER>QDi.427</REFERENCE_NUMBER>
-            <LISTED_ON>2020-07-16</LISTED_ON>
-            <COMMENTS1>Leader of Tehrik-e Taliban Pakistan (TTP) (QDe.132).  INTERPOL-UN Security Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals</COMMENTS1>
-            <TITLE>
-                <VALUE>Mufti </VALUE>
-            </TITLE>
-            <NATIONALITY>
-                <VALUE>Pakistan</VALUE>
-            </NATIONALITY>
-            <LIST_TYPE>
-                <VALUE>UN List</VALUE>
-            </LIST_TYPE>
-            <LAST_DAY_UPDATED>
-                <VALUE/>
-            </LAST_DAY_UPDATED>
-            <INDIVIDUAL_ALIAS>
-                <QUALITY>Good</QUALITY>
-                <ALIAS_NAME>Abu Mansoor Asim</ALIAS_NAME>
-            </INDIVIDUAL_ALIAS>
-            <INDIVIDUAL_ADDRESS>
-                <COUNTRY/>
-            </INDIVIDUAL_ADDRESS>
-            <INDIVIDUAL_DATE_OF_BIRTH>
-                <TYPE_OF_DATE>EXACT</TYPE_OF_DATE>
-                <DATE>1978-06-26</DATE>
-            </INDIVIDUAL_DATE_OF_BIRTH>
-            <INDIVIDUAL_PLACE_OF_BIRTH>
-                <STATE_PROVINCE>Gurguray</STATE_PROVINCE>
-                <COUNTRY>Pakistan</COUNTRY>
-            </INDIVIDUAL_PLACE_OF_BIRTH>
-            <INDIVIDUAL_DOCUMENT/>
-            <SORT_KEY/>
-            <SORT_KEY_LAST_MOD/>
-        </INDIVIDUAL>
-        <INDIVIDUAL>
             <DATAID>6908845</DATAID>
             <VERSIONNUM>1</VERSIONNUM>
             <FIRST_NAME>BI SIDI</FIRST_NAME>
@@ -40238,6 +39941,312 @@ Ban). INTERPOL-UN Security Council Special Notice web link:https://www.interpol.
             <SORT_KEY/>
             <SORT_KEY_LAST_MOD/>
         </INDIVIDUAL>
+        <INDIVIDUAL>
+            <DATAID>111785</DATAID>
+            <VERSIONNUM>1</VERSIONNUM>
+            <FIRST_NAME>HABIB</FIRST_NAME>
+            <SECOND_NAME>BEN</SECOND_NAME>
+            <THIRD_NAME>AHMED</THIRD_NAME>
+            <FOURTH_NAME>AL-LOUBIRI</FOURTH_NAME>
+            <UN_LIST_TYPE>Al-Qaida</UN_LIST_TYPE>
+            <REFERENCE_NUMBER>QDi.177</REFERENCE_NUMBER>
+            <LISTED_ON>2004-06-23</LISTED_ON>
+            <NAME_ORIGINAL_SCRIPT>حبيب بن احمد اللوبيري</NAME_ORIGINAL_SCRIPT>
+            <COMMENTS1>Italian Fiscal Code: LBR HBB 61S17 Z352F. In detention in Tunisia as of Dec. 2009.  Reportedly fled to Afghanistan in June 2014. Mother’s name is Fatima al-Galasi. Review pursuant to Security Council resolution 1822 (2008) was concluded on 9 Apr. 2010. Review pursuant to Security Council resolution 2368 (2017) was concluded on 4 Dec. 2019 INTERPOL-UN Security Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals</COMMENTS1>
+            <NATIONALITY>
+                <VALUE>Tunisia</VALUE>
+            </NATIONALITY>
+            <LIST_TYPE>
+                <VALUE>UN List</VALUE>
+            </LIST_TYPE>
+            <LAST_DAY_UPDATED>
+                <VALUE>2023-12-19</VALUE>
+                <VALUE>2005-12-20</VALUE>
+                <VALUE>2007-10-17</VALUE>
+                <VALUE>2009-08-10</VALUE>
+                <VALUE>2011-12-13</VALUE>
+                <VALUE>2016-02-23</VALUE>
+                <VALUE>2019-12-06</VALUE>
+            </LAST_DAY_UPDATED>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY>Good</QUALITY>
+                <ALIAS_NAME>Al-Habib ben Ahmad ben al-Tayib al-Lubiri</ALIAS_NAME>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ADDRESS>
+                <STREET>Salam Marnaq Ben Arous district</STREET>
+                <CITY>Sidi Mesoud</CITY>
+                <COUNTRY>Tunisia</COUNTRY>
+            </INDIVIDUAL_ADDRESS>
+            <INDIVIDUAL_ADDRESS>
+                <COUNTRY>Afghanistan</COUNTRY>
+            </INDIVIDUAL_ADDRESS>
+            <INDIVIDUAL_DATE_OF_BIRTH>
+                <TYPE_OF_DATE>EXACT</TYPE_OF_DATE>
+                <DATE>1961-11-17</DATE>
+            </INDIVIDUAL_DATE_OF_BIRTH>
+            <INDIVIDUAL_PLACE_OF_BIRTH>
+                <CITY>Manzal Tmim</CITY>
+                <STATE_PROVINCE>Nabul</STATE_PROVINCE>
+                <COUNTRY>Tunisia</COUNTRY>
+            </INDIVIDUAL_PLACE_OF_BIRTH>
+            <INDIVIDUAL_DOCUMENT>
+                <TYPE_OF_DOCUMENT>Passport</TYPE_OF_DOCUMENT>
+                <NUMBER>M788439</NUMBER>
+                <ISSUING_COUNTRY>Tunisia</ISSUING_COUNTRY>
+                <DATE_OF_ISSUE>2001-10-20</DATE_OF_ISSUE>
+                <NOTE>expired on 19 Oct. 2006</NOTE>
+            </INDIVIDUAL_DOCUMENT>
+            <INDIVIDUAL_DOCUMENT>
+                <TYPE_OF_DOCUMENT>National Identification Number</TYPE_OF_DOCUMENT>
+                <NUMBER>01817002</NUMBER>
+            </INDIVIDUAL_DOCUMENT>
+            <SORT_KEY/>
+            <SORT_KEY_LAST_MOD/>
+        </INDIVIDUAL>
+        <INDIVIDUAL>
+            <DATAID>2833107</DATAID>
+            <VERSIONNUM>1</VERSIONNUM>
+            <FIRST_NAME>HAFIZ</FIRST_NAME>
+            <SECOND_NAME>MUHAMMAD</SECOND_NAME>
+            <THIRD_NAME>SAEED</THIRD_NAME>
+            <UN_LIST_TYPE>Al-Qaida</UN_LIST_TYPE>
+            <REFERENCE_NUMBER>QDi.263</REFERENCE_NUMBER>
+            <LISTED_ON>2008-12-10</LISTED_ON>
+            <COMMENTS1>Muhammad Saeed is the leader of Lashkar-e-Tayyiba (QDe.118).In custody of the Government of Pakistan serving a 78 year imprisonment sentence since 12 February 2020 as a result of conviction in seven terror financing cases. INTERPOL-UN Security Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals</COMMENTS1>
+            <NATIONALITY>
+                <VALUE>Pakistan</VALUE>
+            </NATIONALITY>
+            <LIST_TYPE>
+                <VALUE>UN List</VALUE>
+            </LIST_TYPE>
+            <LAST_DAY_UPDATED>
+                <VALUE>2023-12-19</VALUE>
+                <VALUE>2009-07-17</VALUE>
+            </LAST_DAY_UPDATED>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY>Good</QUALITY>
+                <ALIAS_NAME>Hafiz Mohammad Sahib</ALIAS_NAME>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY>Good</QUALITY>
+                <ALIAS_NAME>Hafiz Mohammad Sayid</ALIAS_NAME>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY>Good</QUALITY>
+                <ALIAS_NAME>Hafiz Muhammad</ALIAS_NAME>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY>Good</QUALITY>
+                <ALIAS_NAME>Hafiz Saeed</ALIAS_NAME>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY>Good</QUALITY>
+                <ALIAS_NAME>Hafez Mohammad Saeed</ALIAS_NAME>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY>Good</QUALITY>
+                <ALIAS_NAME>Hafiz Mohammad Sayeed</ALIAS_NAME>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY>Good</QUALITY>
+                <ALIAS_NAME>Tata Mohammad Syeed</ALIAS_NAME>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY>Good</QUALITY>
+                <ALIAS_NAME>Mohammad Sayed</ALIAS_NAME>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY>Good</QUALITY>
+                <ALIAS_NAME>Muhammad Saeed</ALIAS_NAME>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY>Low</QUALITY>
+                <ALIAS_NAME>Hafiz Ji</ALIAS_NAME>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ADDRESS>
+                <STREET>House No. 116E, Mohalla Johar, Lahore, Tehsil</STREET>
+                <CITY>Lahore City</CITY>
+                <STATE_PROVINCE>Lahore District</STATE_PROVINCE>
+                <COUNTRY>Pakistan</COUNTRY>
+                <NOTE>location as of May 2008</NOTE>
+            </INDIVIDUAL_ADDRESS>
+            <INDIVIDUAL_DATE_OF_BIRTH>
+                <TYPE_OF_DATE>EXACT</TYPE_OF_DATE>
+                <DATE>1950-06-05</DATE>
+            </INDIVIDUAL_DATE_OF_BIRTH>
+            <INDIVIDUAL_PLACE_OF_BIRTH>
+                <CITY>Sargodha</CITY>
+                <STATE_PROVINCE>Punjab</STATE_PROVINCE>
+                <COUNTRY>Pakistan</COUNTRY>
+            </INDIVIDUAL_PLACE_OF_BIRTH>
+            <INDIVIDUAL_DOCUMENT>
+                <TYPE_OF_DOCUMENT>National Identification Number</TYPE_OF_DOCUMENT>
+                <NUMBER>3520025509842-7</NUMBER>
+                <ISSUING_COUNTRY>Pakistan</ISSUING_COUNTRY>
+            </INDIVIDUAL_DOCUMENT>
+            <SORT_KEY/>
+            <SORT_KEY_LAST_MOD/>
+        </INDIVIDUAL>
+        <INDIVIDUAL>
+            <DATAID>6908452</DATAID>
+            <VERSIONNUM>1</VERSIONNUM>
+            <FIRST_NAME>MAULANA</FIRST_NAME>
+            <SECOND_NAME>FAZLULLAH</SECOND_NAME>
+            <UN_LIST_TYPE>Al-Qaida</UN_LIST_TYPE>
+            <REFERENCE_NUMBER>QDi.352</REFERENCE_NUMBER>
+            <LISTED_ON>2015-04-07-04:00</LISTED_ON>
+            <COMMENTS1>Confirmed deceased on 13 June 2018. Commander of Tehrik-e Taliban Pakistan (TTP) (QDe.132) since 7 Nov. 2013. Led the local TTP in Pakistan’s northwest valley of Swat from 2007 to 2009. Review pursuant to Security Council resolution 2253 (2015) was concluded on 21 Feb. 2019. INTERPOL-UN Security Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals</COMMENTS1>
+            <LIST_TYPE>
+                <VALUE>UN List</VALUE>
+            </LIST_TYPE>
+            <LAST_DAY_UPDATED>
+                <VALUE>2023-12-19</VALUE>
+                <VALUE>2019-05-01</VALUE>
+            </LAST_DAY_UPDATED>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY>Good</QUALITY>
+                <ALIAS_NAME>Mullah Fazlullah</ALIAS_NAME>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY>Good</QUALITY>
+                <ALIAS_NAME>Fazal Hayat</ALIAS_NAME>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY>Low</QUALITY>
+                <ALIAS_NAME>Mullah Radio</ALIAS_NAME>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ADDRESS>
+                <NOTE>Afghanistan / Pakistan border region</NOTE>
+            </INDIVIDUAL_ADDRESS>
+            <INDIVIDUAL_DATE_OF_BIRTH>
+                <TYPE_OF_DATE>EXACT</TYPE_OF_DATE>
+                <YEAR>1974</YEAR>
+            </INDIVIDUAL_DATE_OF_BIRTH>
+            <INDIVIDUAL_PLACE_OF_BIRTH>
+                <CITY>Kuza Bandai village, Swat Valley</CITY>
+                <STATE_PROVINCE>Khyber Pakhtunkhawa Province</STATE_PROVINCE>
+                <COUNTRY>Pakistan</COUNTRY>
+            </INDIVIDUAL_PLACE_OF_BIRTH>
+            <INDIVIDUAL_DOCUMENT/>
+            <SORT_KEY/>
+            <SORT_KEY_LAST_MOD/>
+        </INDIVIDUAL>
+        <INDIVIDUAL>
+            <DATAID>6908843</DATAID>
+            <VERSIONNUM>1</VERSIONNUM>
+            <FIRST_NAME>NOOR</FIRST_NAME>
+            <SECOND_NAME>WALI </SECOND_NAME>
+            <THIRD_NAME>MEHSUD</THIRD_NAME>
+            <UN_LIST_TYPE>Al-Qaida</UN_LIST_TYPE>
+            <REFERENCE_NUMBER>QDi.427</REFERENCE_NUMBER>
+            <LISTED_ON>2020-07-16</LISTED_ON>
+            <COMMENTS1>Leader of Tehrik-e Taliban Pakistan (TTP) (QDe.132) following the death of former TTP leader Maulana Fazlullah (QDi.352). INTERPOL-UN Security Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals</COMMENTS1>
+            <TITLE>
+                <VALUE>Mufti </VALUE>
+            </TITLE>
+            <NATIONALITY>
+                <VALUE>Pakistan</VALUE>
+            </NATIONALITY>
+            <LIST_TYPE>
+                <VALUE>UN List</VALUE>
+            </LIST_TYPE>
+            <LAST_DAY_UPDATED>
+                <VALUE>2023-12-19</VALUE>
+            </LAST_DAY_UPDATED>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY>Good</QUALITY>
+                <ALIAS_NAME>Abu Mansoor Asim</ALIAS_NAME>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ADDRESS>
+                <CITY>Lamman, District Barmal</CITY>
+                <STATE_PROVINCE>Paktika Province</STATE_PROVINCE>
+                <COUNTRY>Afghanistan</COUNTRY>
+                <NOTE>as of 26 Nov. 2022</NOTE>
+            </INDIVIDUAL_ADDRESS>
+            <INDIVIDUAL_DATE_OF_BIRTH>
+                <TYPE_OF_DATE>EXACT</TYPE_OF_DATE>
+                <DATE>1978-06-26</DATE>
+            </INDIVIDUAL_DATE_OF_BIRTH>
+            <INDIVIDUAL_PLACE_OF_BIRTH>
+                <STATE_PROVINCE>Gurguray</STATE_PROVINCE>
+                <COUNTRY>Pakistan</COUNTRY>
+            </INDIVIDUAL_PLACE_OF_BIRTH>
+            <INDIVIDUAL_DOCUMENT/>
+            <SORT_KEY/>
+            <SORT_KEY_LAST_MOD/>
+        </INDIVIDUAL>
+        <INDIVIDUAL>
+            <DATAID>2983834</DATAID>
+            <VERSIONNUM>1</VERSIONNUM>
+            <FIRST_NAME>HAFIZ</FIRST_NAME>
+            <SECOND_NAME>ABDUL SALAM</SECOND_NAME>
+            <THIRD_NAME>BHUTTAVI</THIRD_NAME>
+            <UN_LIST_TYPE>Al-Qaida</UN_LIST_TYPE>
+            <REFERENCE_NUMBER>QDi.307</REFERENCE_NUMBER>
+            <LISTED_ON>2012-03-14</LISTED_ON>
+            <COMMENTS1>Founding member of Lashkar-e-Tayyiba (QDe.118) and deputy to Lashkar-e-Tayyiba leader Hafiz Muhammad Saeed (QDi.263). Confirmed deceased. Review pursuant to Security Council resolution 2368 (2017) was concluded on 15 November 2021. INTERPOL-UN Security Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals</COMMENTS1>
+            <TITLE>
+                <VALUE>Maulavi</VALUE>
+                <VALUE>Mullah</VALUE>
+            </TITLE>
+            <NATIONALITY>
+                <VALUE>Pakistan</VALUE>
+            </NATIONALITY>
+            <LIST_TYPE>
+                <VALUE>UN List</VALUE>
+            </LIST_TYPE>
+            <LAST_DAY_UPDATED>
+                <VALUE>2023-12-19</VALUE>
+                <VALUE>2021-11-15</VALUE>
+            </LAST_DAY_UPDATED>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY>Good</QUALITY>
+                <ALIAS_NAME>Hafiz Abdul Salam Bhattvi</ALIAS_NAME>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY>Good</QUALITY>
+                <ALIAS_NAME>Hafiz Abdusalam Budvi</ALIAS_NAME>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY>Good</QUALITY>
+                <ALIAS_NAME>Hafiz Abdussalaam Bhutvi</ALIAS_NAME>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY>Good</QUALITY>
+                <ALIAS_NAME>Abdul Salam Budvi</ALIAS_NAME>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY>Good</QUALITY>
+                <ALIAS_NAME>Abdul Salam Bhattwi</ALIAS_NAME>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY>Good</QUALITY>
+                <ALIAS_NAME>Abdul Salam Bhutvi</ALIAS_NAME>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY>Good</QUALITY>
+                <ALIAS_NAME>Mullah Abdul Salaam Bhattvi</ALIAS_NAME>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY>Good</QUALITY>
+                <ALIAS_NAME>Molvi Abdursalam Bhattvi</ALIAS_NAME>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ADDRESS>
+                <COUNTRY/>
+            </INDIVIDUAL_ADDRESS>
+            <INDIVIDUAL_DATE_OF_BIRTH>
+                <TYPE_OF_DATE>EXACT</TYPE_OF_DATE>
+                <YEAR>1940</YEAR>
+            </INDIVIDUAL_DATE_OF_BIRTH>
+            <INDIVIDUAL_PLACE_OF_BIRTH>
+                <CITY>Gujranwala</CITY>
+                <STATE_PROVINCE>Punjab Province</STATE_PROVINCE>
+                <COUNTRY>Pakistan</COUNTRY>
+            </INDIVIDUAL_PLACE_OF_BIRTH>
+            <INDIVIDUAL_DOCUMENT/>
+            <SORT_KEY/>
+            <SORT_KEY_LAST_MOD/>
+        </INDIVIDUAL>
     </INDIVIDUALS>
     <ENTITIES>
         <ENTITY>
@@ -41087,112 +41096,6 @@ Crusaders</ALIAS_NAME>
             </ENTITY_ALIAS>
             <ENTITY_ADDRESS>
                 <COUNTRY/>
-            </ENTITY_ADDRESS>
-            <SORT_KEY/>
-            <SORT_KEY_LAST_MOD/>
-        </ENTITY>
-        <ENTITY>
-            <DATAID>113459</DATAID>
-            <VERSIONNUM>1</VERSIONNUM>
-            <FIRST_NAME>AL RASHID TRUST</FIRST_NAME>
-            <UN_LIST_TYPE>Al-Qaida</UN_LIST_TYPE>
-            <REFERENCE_NUMBER>QDe.005</REFERENCE_NUMBER>
-            <LISTED_ON>2001-10-06</LISTED_ON>
-            <COMMENTS1>Headquarters are in Pakistan. Operations in Afghanistan: Herat Jalalabad,
-Kabul, Kandahar, Mazar Sherif. Also operations in Kosovo, Chechnya. Involved in the
-financing of Al-Qaida and the Taliban. Until 21 Oct. 2008, this entity appeared also as
-"Aid Organization of the Ulema, Pakistan" (QDe.073), listed on 24 Apr. 2002 and amended
-on 25 Jul. 2006. The two entries Al Rashid Trust (QDe.005) and Aid Organization of the
-Ulema, Pakistan (QDe.073) were consolidated into this entity on 21 Oct. 2008. Founded by
-Mufti Rashid Ahmad Ledahyanoy (deceased). Associated with Jaish-i-Mohammed (QDe.019).
-Banned in Pakistan since Oct. 2001. Despite the closure of its offices in Pakistan in
-February 2007 it has continued its activities. Review pursuant to Security Council
-resolution 1822 (2008) was concluded on 6 May 2010. Review pursuant to Security Council resolution 2368 (2017) was concluded on 4 Dec. 2019.  INTERPOL-UN Security Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals</COMMENTS1>
-            <LIST_TYPE>
-                <VALUE>UN List</VALUE>
-            </LIST_TYPE>
-            <LAST_DAY_UPDATED>
-                <VALUE>2008-10-21</VALUE>
-                <VALUE>2008-12-10</VALUE>
-                <VALUE>2011-12-13</VALUE>
-                <VALUE>2019-12-06</VALUE>
-            </LAST_DAY_UPDATED>
-            <ENTITY_ALIAS>
-                <QUALITY>a.k.a.</QUALITY>
-                <ALIAS_NAME>Al-Rasheed Trust</ALIAS_NAME>
-            </ENTITY_ALIAS>
-            <ENTITY_ALIAS>
-                <QUALITY>a.k.a.</QUALITY>
-                <ALIAS_NAME>Al Rasheed Trust</ALIAS_NAME>
-            </ENTITY_ALIAS>
-            <ENTITY_ALIAS>
-                <QUALITY>a.k.a.</QUALITY>
-                <ALIAS_NAME>Al-Rashid Trust</ALIAS_NAME>
-            </ENTITY_ALIAS>
-            <ENTITY_ALIAS>
-                <QUALITY>a.k.a.</QUALITY>
-                <ALIAS_NAME>Aid Organization of the Ulema, Pakistan</ALIAS_NAME>
-            </ENTITY_ALIAS>
-            <ENTITY_ALIAS>
-                <QUALITY>a.k.a.</QUALITY>
-                <ALIAS_NAME>Al Amin Welfare Trust</ALIAS_NAME>
-            </ENTITY_ALIAS>
-            <ENTITY_ALIAS>
-                <QUALITY>a.k.a.</QUALITY>
-                <ALIAS_NAME>Al Amin Trust</ALIAS_NAME>
-            </ENTITY_ALIAS>
-            <ENTITY_ALIAS>
-                <QUALITY>a.k.a.</QUALITY>
-                <ALIAS_NAME>Al Ameen Trust</ALIAS_NAME>
-            </ENTITY_ALIAS>
-            <ENTITY_ALIAS>
-                <QUALITY>a.k.a.</QUALITY>
-                <ALIAS_NAME>Al-Ameen Trust</ALIAS_NAME>
-            </ENTITY_ALIAS>
-            <ENTITY_ALIAS>
-                <QUALITY>a.k.a.</QUALITY>
-                <ALIAS_NAME>Al Madina Trust</ALIAS_NAME>
-            </ENTITY_ALIAS>
-            <ENTITY_ALIAS>
-                <QUALITY>a.k.a.</QUALITY>
-                <ALIAS_NAME>Al-Madina Trust</ALIAS_NAME>
-            </ENTITY_ALIAS>
-            <ENTITY_ADDRESS>
-                <STREET>Kitas Ghar, Nazimabad 4, Dahgel-Iftah</STREET>
-                <CITY>Karachi</CITY>
-                <COUNTRY>Pakistan</COUNTRY>
-            </ENTITY_ADDRESS>
-            <ENTITY_ADDRESS>
-                <STREET>Jamia Maajid, Sulalman Park, Melgium Pura</STREET>
-                <CITY>Lahore</CITY>
-                <COUNTRY>Pakistan</COUNTRY>
-            </ENTITY_ADDRESS>
-            <ENTITY_ADDRESS>
-                <NOTE>Office Dha’rbi-M’unin, Opposite Khyber Bank, Abbottabad Road, Mansehra, Pakistan</NOTE>
-            </ENTITY_ADDRESS>
-            <ENTITY_ADDRESS>
-                <NOTE>Office Dha’rbi-M’unin ZR Brothers, Katcherry Road, Chowk Yadgaar, Peshawar, Pakistan</NOTE>
-            </ENTITY_ADDRESS>
-            <ENTITY_ADDRESS>
-                <NOTE>Office Dha’rbi-M’unin, Rm No. 3, Moti Plaza, Near Liaquat Bagh, Muree Road, Rawalpindi, Pakistan</NOTE>
-            </ENTITY_ADDRESS>
-            <ENTITY_ADDRESS>
-                <NOTE>Office Dha’rbi-M’unin, Top Floor, Dr. Dawa Khan Dental Clinic Surgeon, Main Baxae, Mingora, Swat, Pakistan</NOTE>
-            </ENTITY_ADDRESS>
-            <ENTITY_ADDRESS>
-                <NOTE>Kitab Ghar, Darul Ifta Wal Irshad, Nazimabad No. 4, Karachi, Pakistan, Phone 6683301; Phone 0300-8209199; Fax 6623814</NOTE>
-            </ENTITY_ADDRESS>
-            <ENTITY_ADDRESS>
-                <NOTE>302b-40, Good Earth Court, Opposite Pia Planitarium, Block 13a, Gulshan -l Igbal, Karachi, Pakistan; Phone 4979263</NOTE>
-            </ENTITY_ADDRESS>
-            <ENTITY_ADDRESS>
-                <NOTE>617 Clifton Center, Block 5, 6th Floor, Clifton, Karachi, Pakistan; Phone 587-2545</NOTE>
-            </ENTITY_ADDRESS>
-            <ENTITY_ADDRESS>
-                <NOTE>605 Landmark Plaza, 11 Chundrigar Road, Opposite Jang Building, Karachi, Pakistan; Phone 2623818-19</NOTE>
-            </ENTITY_ADDRESS>
-            <ENTITY_ADDRESS>
-                <NOTE>Jamia Masjid, Sulaiman Park, Begum Pura, Lahore, Pakistan; Phone 042-6812081</NOTE>
             </ENTITY_ADDRESS>
             <SORT_KEY/>
             <SORT_KEY_LAST_MOD/>
@@ -43304,29 +43207,6 @@ industries and support to that country’s military-related sales.</COMMENTS1>
             <SORT_KEY_LAST_MOD/>
         </ENTITY>
         <ENTITY>
-            <DATAID>690758</DATAID>
-            <VERSIONNUM>1</VERSIONNUM>
-            <FIRST_NAME>GENERAL BUREAU OF ATOMIC ENERGY (GBAE)</FIRST_NAME>
-            <UN_LIST_TYPE>DPRK</UN_LIST_TYPE>
-            <REFERENCE_NUMBER>KPe.007</REFERENCE_NUMBER>
-            <LISTED_ON>2009-07-16</LISTED_ON>
-            <COMMENTS1>The GBAE is responsible for the DPRK’s nuclear program, which includes the Yongbyon Nuclear Research Center and its 5 MWe (25 MWt) plutonium production research reactor, as well as its fuel fabrication and reprocessing facilities. The GBAE has held nuclear-related meetings and discussions with the International Atomic Energy Agency. GBAE is the primary DPRK government agency that oversees nuclear programs, including the operation of the Yongbyon Nuclear Research Center.</COMMENTS1>
-            <LIST_TYPE>
-                <VALUE>UN List</VALUE>
-            </LIST_TYPE>
-            <ENTITY_ALIAS>
-                <QUALITY>a.k.a.</QUALITY>
-                <ALIAS_NAME>General Department of Atomic Energy (GDAE)</ALIAS_NAME>
-            </ENTITY_ALIAS>
-            <ENTITY_ADDRESS>
-                <STREET>Haeudong, Pyongchen District</STREET>
-                <CITY>Pyongyang</CITY>
-                <COUNTRY>Democratic People's Republic of Korea</COUNTRY>
-            </ENTITY_ADDRESS>
-            <SORT_KEY/>
-            <SORT_KEY_LAST_MOD/>
-        </ENTITY>
-        <ENTITY>
             <DATAID>690759</DATAID>
             <VERSIONNUM>1</VERSIONNUM>
             <FIRST_NAME>KOREAN TANGUN TRADING CORPORATION</FIRST_NAME>
@@ -45319,28 +45199,6 @@ Review pursuant to Security Council resolution 2368 (2017) was concluded on 15 N
             <SORT_KEY_LAST_MOD/>
         </ENTITY>
         <ENTITY>
-            <DATAID>6908510</DATAID>
-            <VERSIONNUM>1</VERSIONNUM>
-            <FIRST_NAME>ACADEMY OF NATIONAL DEFENSE SCIENCE</FIRST_NAME>
-            <UN_LIST_TYPE>DPRK</UN_LIST_TYPE>
-            <REFERENCE_NUMBER>KPe.021</REFERENCE_NUMBER>
-            <LISTED_ON>2016-03-02</LISTED_ON>
-            <COMMENTS1>The Academy of National Defense Science is involved in the DPRK's efforts to advance the development of its ballistic missile and nuclear weapons programs.</COMMENTS1>
-            <LIST_TYPE>
-                <VALUE>UN List</VALUE>
-            </LIST_TYPE>
-            <ENTITY_ALIAS>
-                <QUALITY/>
-                <ALIAS_NAME/>
-            </ENTITY_ALIAS>
-            <ENTITY_ADDRESS>
-                <CITY>Pyongyang</CITY>
-                <COUNTRY>Democratic People's Republic of Korea</COUNTRY>
-            </ENTITY_ADDRESS>
-            <SORT_KEY/>
-            <SORT_KEY_LAST_MOD/>
-        </ENTITY>
-        <ENTITY>
             <DATAID>6908516</DATAID>
             <VERSIONNUM>1</VERSIONNUM>
             <FIRST_NAME>CHONGCHONGANG SHIPPING COMPANY</FIRST_NAME>
@@ -46502,38 +46360,6 @@ SYRIAN ARAB REPUBLIC)</FIRST_NAME>
             <SORT_KEY_LAST_MOD/>
         </ENTITY>
         <ENTITY>
-            <DATAID>6908669</DATAID>
-            <VERSIONNUM>1</VERSIONNUM>
-            <FIRST_NAME>KHATIBA IMAM AL-BUKHARI (KIB)</FIRST_NAME>
-            <UN_LIST_TYPE>Al-Qaida</UN_LIST_TYPE>
-            <REFERENCE_NUMBER>QDe.158</REFERENCE_NUMBER>
-            <LISTED_ON>2018-03-29</LISTED_ON>
-            <COMMENTS1>Associated with Al-Nusrah Front for the People of the Levant (QDe.137). Committed terrorist attacks in the Syrian Arab Republic. Since 2016 redeployed to Northern Afghanistan to project attacks against Central Asia countries. INTERPOL-UN Security Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals</COMMENTS1>
-            <LIST_TYPE>
-                <VALUE>UN List</VALUE>
-            </LIST_TYPE>
-            <ENTITY_ALIAS>
-                <QUALITY>a.k.a.</QUALITY>
-                <ALIAS_NAME>Khataib al-Imam al-Bukhari</ALIAS_NAME>
-            </ENTITY_ALIAS>
-            <ENTITY_ADDRESS>
-                <STATE_PROVINCE>Afghanistan/Pakistan border area</STATE_PROVINCE>
-                <NOTE>previous location</NOTE>
-            </ENTITY_ADDRESS>
-            <ENTITY_ADDRESS>
-                <CITY>Khan-Shaykhun</CITY>
-                <COUNTRY>Syrian Arab Republic</COUNTRY>
-                <NOTE>53 km south of Idlib, location as at Mar. 2018</NOTE>
-            </ENTITY_ADDRESS>
-            <ENTITY_ADDRESS>
-                <STATE_PROVINCE>Idlib, Aleppo and Khama</STATE_PROVINCE>
-                <COUNTRY>Syrian Arab Republic</COUNTRY>
-                <NOTE>operation zone</NOTE>
-            </ENTITY_ADDRESS>
-            <SORT_KEY/>
-            <SORT_KEY_LAST_MOD/>
-        </ENTITY>
-        <ENTITY>
             <DATAID>6908670</DATAID>
             <VERSIONNUM>1</VERSIONNUM>
             <FIRST_NAME>CHONMYONG SHIPPING CO</FIRST_NAME>
@@ -47633,6 +47459,195 @@ resolution 1822 (2008) was concluded on 21 Jun. 2010. Review pursuant to Securit
             </ENTITY_ALIAS>
             <ENTITY_ADDRESS>
                 <COUNTRY/>
+            </ENTITY_ADDRESS>
+            <SORT_KEY/>
+            <SORT_KEY_LAST_MOD/>
+        </ENTITY>
+        <ENTITY>
+            <DATAID>690758</DATAID>
+            <VERSIONNUM>1</VERSIONNUM>
+            <FIRST_NAME>GENERAL BUREAU OF ATOMIC ENERGY (GBAE)</FIRST_NAME>
+            <UN_LIST_TYPE>DPRK</UN_LIST_TYPE>
+            <REFERENCE_NUMBER>KPe.007</REFERENCE_NUMBER>
+            <LISTED_ON>2009-07-16</LISTED_ON>
+            <COMMENTS1>The GBAE is responsible for the DPRK’s nuclear program, which includes the Yongbyon Nuclear Research Center and its 5 MWe (25 MWt) plutonium production research reactor, as well as its fuel fabrication and reprocessing facilities. The GBAE has held nuclear-related meetings and discussions with the International Atomic Energy Agency. GBAE is the primary DPRK government agency that oversees nuclear programs, including the operation of the Yongbyon Nuclear Research Center. Changed name as Ministry of Atomic Energy Industry (KPe.027) in 2013.</COMMENTS1>
+            <LIST_TYPE>
+                <VALUE>UN List</VALUE>
+            </LIST_TYPE>
+            <LAST_DAY_UPDATED>
+                <VALUE>2024-01-05</VALUE>
+            </LAST_DAY_UPDATED>
+            <ENTITY_ALIAS>
+                <QUALITY>a.k.a.</QUALITY>
+                <ALIAS_NAME>General Department of Atomic Energy (GDAE)</ALIAS_NAME>
+            </ENTITY_ALIAS>
+            <ENTITY_ADDRESS>
+                <STREET>Haeudong, Pyongchen District</STREET>
+                <CITY>Pyongyang</CITY>
+                <COUNTRY>Democratic People's Republic of Korea</COUNTRY>
+            </ENTITY_ADDRESS>
+            <SORT_KEY/>
+            <SORT_KEY_LAST_MOD/>
+        </ENTITY>
+        <ENTITY>
+            <DATAID>6908510</DATAID>
+            <VERSIONNUM>1</VERSIONNUM>
+            <FIRST_NAME>ACADEMY OF NATIONAL DEFENSE SCIENCE</FIRST_NAME>
+            <UN_LIST_TYPE>DPRK</UN_LIST_TYPE>
+            <REFERENCE_NUMBER>KPe.021</REFERENCE_NUMBER>
+            <LISTED_ON>2016-03-02</LISTED_ON>
+            <COMMENTS1>The Academy of National Defense Science is involved in the DPRK's efforts to advance the development of its ballistic missile and nuclear weapons programs.</COMMENTS1>
+            <LIST_TYPE>
+                <VALUE>UN List</VALUE>
+            </LIST_TYPE>
+            <LAST_DAY_UPDATED>
+                <VALUE>2024-01-05</VALUE>
+            </LAST_DAY_UPDATED>
+            <ENTITY_ALIAS>
+                <QUALITY>a.k.a.</QUALITY>
+                <ALIAS_NAME>SECOND ACADEMY OF NATURAL SCIENCES (KPE.018)</ALIAS_NAME>
+            </ENTITY_ALIAS>
+            <ENTITY_ADDRESS>
+                <CITY>Pyongyang</CITY>
+                <COUNTRY>Democratic People's Republic of Korea</COUNTRY>
+            </ENTITY_ADDRESS>
+            <SORT_KEY/>
+            <SORT_KEY_LAST_MOD/>
+        </ENTITY>
+        <ENTITY>
+            <DATAID>6908669</DATAID>
+            <VERSIONNUM>1</VERSIONNUM>
+            <FIRST_NAME>KHATIBA IMAM AL-BUKHARI (KIB)</FIRST_NAME>
+            <UN_LIST_TYPE>Al-Qaida</UN_LIST_TYPE>
+            <REFERENCE_NUMBER>QDe.158</REFERENCE_NUMBER>
+            <LISTED_ON>2018-03-29</LISTED_ON>
+            <COMMENTS1>Associated with Al-Nusrah Front for the People of the Levant (QDe.137). Committed terrorist attacks in the Syrian Arab Republic. Since 2016 redeployed to Northern Afghanistan to project attacks against Central Asia countries. INTERPOL-UN Security Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals</COMMENTS1>
+            <LIST_TYPE>
+                <VALUE>UN List</VALUE>
+            </LIST_TYPE>
+            <LAST_DAY_UPDATED>
+                <VALUE>2023-12-19</VALUE>
+            </LAST_DAY_UPDATED>
+            <ENTITY_ALIAS>
+                <QUALITY>a.k.a.</QUALITY>
+                <ALIAS_NAME>Khataib al-Imam al-Bukhari</ALIAS_NAME>
+            </ENTITY_ALIAS>
+            <ENTITY_ADDRESS>
+                <STATE_PROVINCE>Afghanistan/Pakistan border area</STATE_PROVINCE>
+                <NOTE>previous location</NOTE>
+            </ENTITY_ADDRESS>
+            <ENTITY_ADDRESS>
+                <CITY>Khan-Shaykhun</CITY>
+                <COUNTRY>Syrian Arab Republic</COUNTRY>
+                <NOTE>53 km south of Idlib, location as of Mar. 2018</NOTE>
+            </ENTITY_ADDRESS>
+            <ENTITY_ADDRESS>
+                <STATE_PROVINCE>Idlib Aleppo and Khama</STATE_PROVINCE>
+                <COUNTRY>Syrian Arab Republic</COUNTRY>
+                <NOTE>operation zone</NOTE>
+            </ENTITY_ADDRESS>
+            <ENTITY_ADDRESS>
+                <CITY>Faryab</CITY>
+                <STATE_PROVINCE>Badghis and Jawzjan Provinces</STATE_PROVINCE>
+                <COUNTRY>Afghanistan</COUNTRY>
+            </ENTITY_ADDRESS>
+            <SORT_KEY/>
+            <SORT_KEY_LAST_MOD/>
+        </ENTITY>
+        <ENTITY>
+            <DATAID>113459</DATAID>
+            <VERSIONNUM>1</VERSIONNUM>
+            <FIRST_NAME>AL RASHID TRUST</FIRST_NAME>
+            <UN_LIST_TYPE>Al-Qaida</UN_LIST_TYPE>
+            <REFERENCE_NUMBER>QDe.005</REFERENCE_NUMBER>
+            <LISTED_ON>2001-10-06</LISTED_ON>
+            <COMMENTS1>Reportedly defunct. Headquarters were in Pakistan. Operations in Afghanistan: Herat Jalalabad, Kabul, Kandahar, Mazar Sherif. Also operations in Kosovo, Chechnya. Involved in the financing of Al-Qaida and the Taliban. Until 21 Oct. 2008, this entity appeared also as "Aid Organization of the Ulema, Pakistan" (QDe.073), listed on 24 Apr. 2002 and amended on 25 Jul. 2006. The two entries Al Rashid Trust (QDe.005) and Aid Organization of the Ulema, Pakistan (QDe.073) were consolidated into this entity on 21 Oct. 2008. Founded by Mufti Rashid Ahmad Ledahyanoy (deceased). Associated with Jaish-i-Mohammed (QDe.019). Banned in Pakistan since Oct. 2001. No indication of any activity under the name of Al-Rashid Trust has emerged as of November 2023. Review pursuant to Security Council resolution 1822 (2008) was concluded on 6 May 2010. Review pursuant to Security Council resolution 2368 (2017) was concluded on 4 Dec. 2019. INTERPOL-UN Security Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals</COMMENTS1>
+            <LIST_TYPE>
+                <VALUE>UN List</VALUE>
+            </LIST_TYPE>
+            <LAST_DAY_UPDATED>
+                <VALUE>2023-12-19</VALUE>
+                <VALUE>2008-10-21</VALUE>
+                <VALUE>2008-12-10</VALUE>
+                <VALUE>2011-12-13</VALUE>
+                <VALUE>2019-12-06</VALUE>
+            </LAST_DAY_UPDATED>
+            <ENTITY_ALIAS>
+                <QUALITY>a.k.a.</QUALITY>
+                <ALIAS_NAME>Al-Rasheed Trust</ALIAS_NAME>
+            </ENTITY_ALIAS>
+            <ENTITY_ALIAS>
+                <QUALITY>a.k.a.</QUALITY>
+                <ALIAS_NAME>Al Rasheed Trust</ALIAS_NAME>
+            </ENTITY_ALIAS>
+            <ENTITY_ALIAS>
+                <QUALITY>a.k.a.</QUALITY>
+                <ALIAS_NAME>Al-Rashid Trust</ALIAS_NAME>
+            </ENTITY_ALIAS>
+            <ENTITY_ALIAS>
+                <QUALITY>a.k.a.</QUALITY>
+                <ALIAS_NAME>Aid Organization of the Ulema, Pakistan</ALIAS_NAME>
+            </ENTITY_ALIAS>
+            <ENTITY_ALIAS>
+                <QUALITY>a.k.a.</QUALITY>
+                <ALIAS_NAME>Al Amin Welfare Trust</ALIAS_NAME>
+            </ENTITY_ALIAS>
+            <ENTITY_ALIAS>
+                <QUALITY>a.k.a.</QUALITY>
+                <ALIAS_NAME>Al Amin Trust</ALIAS_NAME>
+            </ENTITY_ALIAS>
+            <ENTITY_ALIAS>
+                <QUALITY>a.k.a.</QUALITY>
+                <ALIAS_NAME>Al Ameen Trust</ALIAS_NAME>
+            </ENTITY_ALIAS>
+            <ENTITY_ALIAS>
+                <QUALITY>a.k.a.</QUALITY>
+                <ALIAS_NAME>Al-Ameen Trust</ALIAS_NAME>
+            </ENTITY_ALIAS>
+            <ENTITY_ALIAS>
+                <QUALITY>a.k.a.</QUALITY>
+                <ALIAS_NAME>Al Madina Trust</ALIAS_NAME>
+            </ENTITY_ALIAS>
+            <ENTITY_ALIAS>
+                <QUALITY>a.k.a.</QUALITY>
+                <ALIAS_NAME>Al-Madina Trust</ALIAS_NAME>
+            </ENTITY_ALIAS>
+            <ENTITY_ADDRESS>
+                <STREET>Kitas Ghar, Nazimabad 4, Dahgel-Iftah</STREET>
+                <CITY>Karachi</CITY>
+                <COUNTRY>Pakistan</COUNTRY>
+            </ENTITY_ADDRESS>
+            <ENTITY_ADDRESS>
+                <STREET>Jamia Maajid, Sulalman Park, Melgium Pura</STREET>
+                <CITY>Lahore</CITY>
+                <COUNTRY>Pakistan</COUNTRY>
+            </ENTITY_ADDRESS>
+            <ENTITY_ADDRESS>
+                <NOTE>Office Dha’rbi-M’unin, Opposite Khyber Bank, Abbottabad Road, Mansehra, Pakistan</NOTE>
+            </ENTITY_ADDRESS>
+            <ENTITY_ADDRESS>
+                <NOTE>Office Dha’rbi-M’unin ZR Brothers, Katcherry Road, Chowk Yadgaar, Peshawar, Pakistan</NOTE>
+            </ENTITY_ADDRESS>
+            <ENTITY_ADDRESS>
+                <NOTE>Office Dha’rbi-M’unin, Rm No. 3, Moti Plaza, Near Liaquat Bagh, Muree Road, Rawalpindi, Pakistan</NOTE>
+            </ENTITY_ADDRESS>
+            <ENTITY_ADDRESS>
+                <NOTE>Office Dha’rbi-M’unin, Top Floor, Dr. Dawa Khan Dental Clinic Surgeon, Main Baxae, Mingora, Swat, Pakistan</NOTE>
+            </ENTITY_ADDRESS>
+            <ENTITY_ADDRESS>
+                <NOTE>Kitab Ghar, Darul Ifta Wal Irshad, Nazimabad No. 4, Karachi, Pakistan, Phone 6683301; Phone 0300-8209199; Fax 6623814</NOTE>
+            </ENTITY_ADDRESS>
+            <ENTITY_ADDRESS>
+                <NOTE>302b-40, Good Earth Court, Opposite Pia Planitarium, Block 13a, Gulshan -l Igbal, Karachi, Pakistan; Phone 4979263</NOTE>
+            </ENTITY_ADDRESS>
+            <ENTITY_ADDRESS>
+                <NOTE>617 Clifton Center, Block 5, 6th Floor, Clifton, Karachi, Pakistan; Phone 587-2545</NOTE>
+            </ENTITY_ADDRESS>
+            <ENTITY_ADDRESS>
+                <NOTE>605 Landmark Plaza, 11 Chundrigar Road, Opposite Jang Building, Karachi, Pakistan; Phone 2623818-19</NOTE>
+            </ENTITY_ADDRESS>
+            <ENTITY_ADDRESS>
+                <NOTE>Jamia Masjid, Sulaiman Park, Begum Pura, Lahore, Pakistan; Phone 042-6812081</NOTE>
             </ENTITY_ADDRESS>
             <SORT_KEY/>
             <SORT_KEY_LAST_MOD/>
