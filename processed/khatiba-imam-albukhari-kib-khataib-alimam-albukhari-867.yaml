@@ -26,7 +26,12 @@ address:
   zip: 
 - street: 
   city: 
-  state: Idlib, Aleppo and Khama
+  state: Idlib Aleppo and Khama
   country: Syrian Arab Republic
+  zip: 
+- street: 
+  city: Faryab
+  state: Badghis and Jawzjan Provinces
+  country: Afghanistan
   zip: 
 documents: []
