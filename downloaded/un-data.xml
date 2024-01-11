@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<CONSOLIDATED_LIST xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:noNamespaceSchemaLocation='https://www.un.org/sc/resources/sc-sanctions.xsd' dateGenerated='2024-01-10T00:00:07.008Z'>
+<CONSOLIDATED_LIST xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:noNamespaceSchemaLocation='https://www.un.org/sc/resources/sc-sanctions.xsd' dateGenerated='2024-01-11T00:00:07.456Z'>
     <INDIVIDUALS>
         <INDIVIDUAL>
             <DATAID>110447</DATAID>
@@ -6955,80 +6955,6 @@ Feb. 2001</NOTE>
             <SORT_KEY_LAST_MOD/>
         </INDIVIDUAL>
         <INDIVIDUAL>
-            <DATAID>111763</DATAID>
-            <VERSIONNUM>1</VERSIONNUM>
-            <FIRST_NAME>KHALID</FIRST_NAME>
-            <SECOND_NAME>ABD AL-RAHMAN</SECOND_NAME>
-            <THIRD_NAME>HAMD</THIRD_NAME>
-            <FOURTH_NAME>AL-FAWAZ</FOURTH_NAME>
-            <UN_LIST_TYPE>Al-Qaida</UN_LIST_TYPE>
-            <REFERENCE_NUMBER>QDi.059</REFERENCE_NUMBER>
-            <LISTED_ON>2002-04-24</LISTED_ON>
-            <NAME_ORIGINAL_SCRIPT>خالد عبد الرحمن حمد الفواز</NAME_ORIGINAL_SCRIPT>
-            <COMMENTS1>Extradited from the United Kingdom to the United States of America on 5
-Oct. 2012. Review pursuant to Security Council resolution 1822 (2008) was concluded on
-22 Apr. 2010.. Review pursuant to Security Council resolution 2368 (2017) was concluded on 4 Dec. 2019 INTERPOL-UN Security Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals</COMMENTS1>
-            <NATIONALITY>
-                <VALUE>Saudi Arabia</VALUE>
-            </NATIONALITY>
-            <LIST_TYPE>
-                <VALUE>UN List</VALUE>
-            </LIST_TYPE>
-            <LAST_DAY_UPDATED>
-                <VALUE>2004-11-26</VALUE>
-                <VALUE>2007-04-23</VALUE>
-                <VALUE>2010-10-21</VALUE>
-                <VALUE>2014-08-04</VALUE>
-                <VALUE>2019-12-06</VALUE>
-            </LAST_DAY_UPDATED>
-            <INDIVIDUAL_ALIAS>
-                <QUALITY>Good</QUALITY>
-                <ALIAS_NAME>Khaled Al-Fauwaz</ALIAS_NAME>
-            </INDIVIDUAL_ALIAS>
-            <INDIVIDUAL_ALIAS>
-                <QUALITY>Good</QUALITY>
-                <ALIAS_NAME>Khaled A. Al-Fauwaz</ALIAS_NAME>
-            </INDIVIDUAL_ALIAS>
-            <INDIVIDUAL_ALIAS>
-                <QUALITY>Good</QUALITY>
-                <ALIAS_NAME>Khalid Al-Fawwaz</ALIAS_NAME>
-            </INDIVIDUAL_ALIAS>
-            <INDIVIDUAL_ALIAS>
-                <QUALITY>Good</QUALITY>
-                <ALIAS_NAME>Khalik Al Fawwaz</ALIAS_NAME>
-            </INDIVIDUAL_ALIAS>
-            <INDIVIDUAL_ALIAS>
-                <QUALITY>Good</QUALITY>
-                <ALIAS_NAME>Khaled Al-Fawwaz</ALIAS_NAME>
-            </INDIVIDUAL_ALIAS>
-            <INDIVIDUAL_ALIAS>
-                <QUALITY>Good</QUALITY>
-                <ALIAS_NAME>Khaled Al Fawwaz</ALIAS_NAME>
-            </INDIVIDUAL_ALIAS>
-            <INDIVIDUAL_ALIAS>
-                <QUALITY>Good</QUALITY>
-                <ALIAS_NAME>Khalid Abdulrahman H. Al Fawaz</ALIAS_NAME>
-            </INDIVIDUAL_ALIAS>
-            <INDIVIDUAL_ADDRESS>
-                <COUNTRY>United States of America</COUNTRY>
-            </INDIVIDUAL_ADDRESS>
-            <INDIVIDUAL_DATE_OF_BIRTH>
-                <TYPE_OF_DATE>EXACT</TYPE_OF_DATE>
-                <DATE>1962-08-24</DATE>
-            </INDIVIDUAL_DATE_OF_BIRTH>
-            <INDIVIDUAL_PLACE_OF_BIRTH>
-                <COUNTRY>Kuwait</COUNTRY>
-            </INDIVIDUAL_PLACE_OF_BIRTH>
-            <INDIVIDUAL_DOCUMENT>
-                <TYPE_OF_DOCUMENT>Passport</TYPE_OF_DOCUMENT>
-                <NUMBER>456682</NUMBER>
-                <DATE_OF_ISSUE>1990-11-06</DATE_OF_ISSUE>
-                <NOTE>expired on 13 Sep. 1995</NOTE>
-            </INDIVIDUAL_DOCUMENT>
-            <SORT_KEY/>
-            <SORT_KEY_LAST_MOD/>
-        </INDIVIDUAL>
-        <INDIVIDUAL>
             <DATAID>111782</DATAID>
             <VERSIONNUM>1</VERSIONNUM>
             <FIRST_NAME>THARWAT</FIRST_NAME>
@@ -9137,82 +9063,6 @@ on 15 Jun. 2010. Review pursuant to Security Council resolution 2368 (2017) was 
             <SORT_KEY_LAST_MOD/>
         </INDIVIDUAL>
         <INDIVIDUAL>
-            <DATAID>112028</DATAID>
-            <VERSIONNUM>1</VERSIONNUM>
-            <FIRST_NAME>SAIFI</FIRST_NAME>
-            <SECOND_NAME>AMMARI</SECOND_NAME>
-            <UN_LIST_TYPE>Al-Qaida</UN_LIST_TYPE>
-            <REFERENCE_NUMBER>QDi.152</REFERENCE_NUMBER>
-            <LISTED_ON>2003-12-04</LISTED_ON>
-            <NAME_ORIGINAL_SCRIPT>سيفي عماري</NAME_ORIGINAL_SCRIPT>
-            <COMMENTS1>In detention in Algeria since Oct. 2004. Former member of the GSPC listed
-as The Organization of Al-Qaida in the Islamic Maghreb (QDe.014). Review pursuant to
-Security Council resolution 1822 (2008) was concluded on 27 Jul. 2010. Review pursuant to Security Council resolution 2368 (2017) was concluded on 4 Dec. 2019. INTERPOL-UN Security Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals</COMMENTS1>
-            <NATIONALITY>
-                <VALUE>Algeria</VALUE>
-            </NATIONALITY>
-            <LIST_TYPE>
-                <VALUE>UN List</VALUE>
-            </LIST_TYPE>
-            <LAST_DAY_UPDATED>
-                <VALUE>2008-04-07</VALUE>
-                <VALUE>2011-05-16</VALUE>
-                <VALUE>2019-12-06</VALUE>
-            </LAST_DAY_UPDATED>
-            <INDIVIDUAL_ALIAS>
-                <QUALITY>Good</QUALITY>
-                <ALIAS_NAME>El Para (combat name)</ALIAS_NAME>
-            </INDIVIDUAL_ALIAS>
-            <INDIVIDUAL_ALIAS>
-                <QUALITY>Good</QUALITY>
-                <ALIAS_NAME>Abderrezak Le Para</ALIAS_NAME>
-                <NOTE>combat name</NOTE>
-            </INDIVIDUAL_ALIAS>
-            <INDIVIDUAL_ALIAS>
-                <QUALITY>Good</QUALITY>
-                <ALIAS_NAME>Abou Haidara</ALIAS_NAME>
-            </INDIVIDUAL_ALIAS>
-            <INDIVIDUAL_ALIAS>
-                <QUALITY>Good</QUALITY>
-                <ALIAS_NAME>El Ourassi</ALIAS_NAME>
-            </INDIVIDUAL_ALIAS>
-            <INDIVIDUAL_ALIAS>
-                <QUALITY>Good</QUALITY>
-                <ALIAS_NAME>Abderrezak Zaimeche</ALIAS_NAME>
-            </INDIVIDUAL_ALIAS>
-            <INDIVIDUAL_ALIAS>
-                <QUALITY>Good</QUALITY>
-                <ALIAS_NAME>Abdul Rasak ammane Abu Haidra</ALIAS_NAME>
-            </INDIVIDUAL_ALIAS>
-            <INDIVIDUAL_ALIAS>
-                <QUALITY>Good</QUALITY>
-                <ALIAS_NAME>Abdalarak</ALIAS_NAME>
-            </INDIVIDUAL_ALIAS>
-            <INDIVIDUAL_ALIAS>
-                <QUALITY/>
-                <ALIAS_NAME/>
-                <DATE_OF_BIRTH>1968-04-24</DATE_OF_BIRTH>
-            </INDIVIDUAL_ALIAS>
-            <INDIVIDUAL_ALIAS>
-                <QUALITY/>
-                <ALIAS_NAME/>
-            </INDIVIDUAL_ALIAS>
-            <INDIVIDUAL_ADDRESS>
-                <COUNTRY>Algeria</COUNTRY>
-            </INDIVIDUAL_ADDRESS>
-            <INDIVIDUAL_DATE_OF_BIRTH>
-                <TYPE_OF_DATE>EXACT</TYPE_OF_DATE>
-                <DATE>1968-01-01</DATE>
-            </INDIVIDUAL_DATE_OF_BIRTH>
-            <INDIVIDUAL_PLACE_OF_BIRTH>
-                <CITY>Kef Rih</CITY>
-                <COUNTRY>Algeria</COUNTRY>
-            </INDIVIDUAL_PLACE_OF_BIRTH>
-            <INDIVIDUAL_DOCUMENT/>
-            <SORT_KEY/>
-            <SORT_KEY_LAST_MOD/>
-        </INDIVIDUAL>
-        <INDIVIDUAL>
             <DATAID>112030</DATAID>
             <VERSIONNUM>1</VERSIONNUM>
             <FIRST_NAME>SAID</FIRST_NAME>
@@ -9500,62 +9350,6 @@ Jun. 2010. Review pursuant to Security Council resolution 2368 (2017) was conclu
             <INDIVIDUAL_PLACE_OF_BIRTH>
                 <CITY>Kismaayo</CITY>
                 <COUNTRY>Somalia</COUNTRY>
-            </INDIVIDUAL_PLACE_OF_BIRTH>
-            <INDIVIDUAL_DOCUMENT/>
-            <SORT_KEY/>
-            <SORT_KEY_LAST_MOD/>
-        </INDIVIDUAL>
-        <INDIVIDUAL>
-            <DATAID>112037</DATAID>
-            <VERSIONNUM>1</VERSIONNUM>
-            <FIRST_NAME>KAMEL</FIRST_NAME>
-            <SECOND_NAME>DJERMANE</SECOND_NAME>
-            <UN_LIST_TYPE>Al-Qaida</UN_LIST_TYPE>
-            <REFERENCE_NUMBER>QDi.167</REFERENCE_NUMBER>
-            <LISTED_ON>2004-05-03</LISTED_ON>
-            <NAME_ORIGINAL_SCRIPT>كمال جرمان</NAME_ORIGINAL_SCRIPT>
-            <COMMENTS1>In detention in Algeria as at April 2010. Arrest warrant issued by the
-German authorities on 9 Oct. 2003 for involvement in kidnapping. Former member of the
-Katibat Tarek Ibn Ziad of The Organization of Al-Qaida in the Islamic Maghreb (QDe.014).
-Review pursuant to Security Council resolution 1822 (2008) was concluded on 27 Jul.
-2010. Review pursuant to Security Council resolution 2368 (2017) was concluded on 4 Dec. 2019. INTERPOL-UN Security Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals</COMMENTS1>
-            <NATIONALITY>
-                <VALUE>Algeria</VALUE>
-            </NATIONALITY>
-            <LIST_TYPE>
-                <VALUE>UN List</VALUE>
-            </LIST_TYPE>
-            <LAST_DAY_UPDATED>
-                <VALUE>2008-04-07</VALUE>
-                <VALUE>2011-12-13</VALUE>
-                <VALUE>2019-12-06</VALUE>
-            </LAST_DAY_UPDATED>
-            <INDIVIDUAL_ALIAS>
-                <QUALITY>Good</QUALITY>
-                <ALIAS_NAME>Bilal</ALIAS_NAME>
-            </INDIVIDUAL_ALIAS>
-            <INDIVIDUAL_ALIAS>
-                <QUALITY>Good</QUALITY>
-                <ALIAS_NAME>Adel</ALIAS_NAME>
-            </INDIVIDUAL_ALIAS>
-            <INDIVIDUAL_ALIAS>
-                <QUALITY>Good</QUALITY>
-                <ALIAS_NAME>Fodhil</ALIAS_NAME>
-            </INDIVIDUAL_ALIAS>
-            <INDIVIDUAL_ALIAS>
-                <QUALITY>Good</QUALITY>
-                <ALIAS_NAME>Abou Abdeljalil</ALIAS_NAME>
-            </INDIVIDUAL_ALIAS>
-            <INDIVIDUAL_ADDRESS>
-                <COUNTRY>Algeria</COUNTRY>
-            </INDIVIDUAL_ADDRESS>
-            <INDIVIDUAL_DATE_OF_BIRTH>
-                <TYPE_OF_DATE>EXACT</TYPE_OF_DATE>
-                <DATE>1965-10-12</DATE>
-            </INDIVIDUAL_DATE_OF_BIRTH>
-            <INDIVIDUAL_PLACE_OF_BIRTH>
-                <CITY>Oum el Bouaghi</CITY>
-                <COUNTRY>Algeria</COUNTRY>
             </INDIVIDUAL_PLACE_OF_BIRTH>
             <INDIVIDUAL_DOCUMENT/>
             <SORT_KEY/>
@@ -13538,53 +13332,6 @@ is Lakhdar. Review pursuant to Security Council resolution 2368 (2017) was concl
             <SORT_KEY_LAST_MOD/>
         </INDIVIDUAL>
         <INDIVIDUAL>
-            <DATAID>2816345</DATAID>
-            <VERSIONNUM>1</VERSIONNUM>
-            <FIRST_NAME>SALAH EDDINE</FIRST_NAME>
-            <SECOND_NAME>GASMI</SECOND_NAME>
-            <UN_LIST_TYPE>Al-Qaida</UN_LIST_TYPE>
-            <REFERENCE_NUMBER>QDi.251</REFERENCE_NUMBER>
-            <LISTED_ON>2008-07-03</LISTED_ON>
-            <NAME_ORIGINAL_SCRIPT>صالح قاسمي</NAME_ORIGINAL_SCRIPT>
-            <COMMENTS1>Belongs to the leadership and is in charge of information committee of the Organization of Al-Qaida in the Islamic Maghreb (QDe.014). Mother’s name is Yamina Soltane. Father’s name is Abdelaziz. Associated with Abdelmalek Droukdel (QDi.232). Arrested in Algeria on 16 Dec. 2012. Incarcerated at the El-Harrach prison in Algiers, as of August 2015. Review pursuant to Security Council resolution 2368 (2017) was concluded on 24 November 2020. INTERPOL-UN Security Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals</COMMENTS1>
-            <NATIONALITY>
-                <VALUE>Algeria</VALUE>
-            </NATIONALITY>
-            <LIST_TYPE>
-                <VALUE>UN List</VALUE>
-            </LIST_TYPE>
-            <LAST_DAY_UPDATED>
-                <VALUE>2009-03-24</VALUE>
-                <VALUE>2012-11-15</VALUE>
-                <VALUE>2013-03-14</VALUE>
-                <VALUE>2016-02-11</VALUE>
-                <VALUE>2020-11-24</VALUE>
-            </LAST_DAY_UPDATED>
-            <INDIVIDUAL_ALIAS>
-                <QUALITY>Good</QUALITY>
-                <ALIAS_NAME>Abou Mohamed Salah</ALIAS_NAME>
-            </INDIVIDUAL_ALIAS>
-            <INDIVIDUAL_ALIAS>
-                <QUALITY>Low</QUALITY>
-                <ALIAS_NAME>Bounouadher</ALIAS_NAME>
-            </INDIVIDUAL_ALIAS>
-            <INDIVIDUAL_ADDRESS>
-                <COUNTRY>Algeria</COUNTRY>
-            </INDIVIDUAL_ADDRESS>
-            <INDIVIDUAL_DATE_OF_BIRTH>
-                <TYPE_OF_DATE>EXACT</TYPE_OF_DATE>
-                <DATE>1971-04-13</DATE>
-            </INDIVIDUAL_DATE_OF_BIRTH>
-            <INDIVIDUAL_PLACE_OF_BIRTH>
-                <CITY>Zeribet El Oued</CITY>
-                <STATE_PROVINCE>Wilaya (province) of Biskra</STATE_PROVINCE>
-                <COUNTRY>Algeria</COUNTRY>
-            </INDIVIDUAL_PLACE_OF_BIRTH>
-            <INDIVIDUAL_DOCUMENT/>
-            <SORT_KEY/>
-            <SORT_KEY_LAST_MOD/>
-        </INDIVIDUAL>
-        <INDIVIDUAL>
             <DATAID>2816565</DATAID>
             <VERSIONNUM>1</VERSIONNUM>
             <FIRST_NAME>AMOR</FIRST_NAME>
@@ -13646,55 +13393,6 @@ is Lakhdar. Review pursuant to Security Council resolution 2368 (2017) was concl
                 <COUNTRY>Algeria</COUNTRY>
             </INDIVIDUAL_PLACE_OF_BIRTH>
             <INDIVIDUAL_DOCUMENT/>
-            <SORT_KEY/>
-            <SORT_KEY_LAST_MOD/>
-        </INDIVIDUAL>
-        <INDIVIDUAL>
-            <DATAID>2830354</DATAID>
-            <VERSIONNUM>1</VERSIONNUM>
-            <FIRST_NAME>ADEM</FIRST_NAME>
-            <SECOND_NAME>YILMAZ</SECOND_NAME>
-            <UN_LIST_TYPE>Al-Qaida</UN_LIST_TYPE>
-            <REFERENCE_NUMBER>QDi.261</REFERENCE_NUMBER>
-            <LISTED_ON>2008-10-27</LISTED_ON>
-            <COMMENTS1>Associated with the Islamic Jihad Union (IJU), also known as the Islamic
-Jihad Group (QDe.119). Associated with Fritz Martin Gelowicz (QDi.259). In detention in Germany as of Jun. 2010.  Review pursuant to Security Council resolution 2368 (2017) was concluded on 4 Dec. 2019. INTERPOL-UN Security Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals</COMMENTS1>
-            <NATIONALITY>
-                <VALUE>Turkey</VALUE>
-            </NATIONALITY>
-            <LIST_TYPE>
-                <VALUE>UN List</VALUE>
-            </LIST_TYPE>
-            <LAST_DAY_UPDATED>
-                <VALUE>2011-12-13</VALUE>
-                <VALUE>2019-12-06</VALUE>
-            </LAST_DAY_UPDATED>
-            <INDIVIDUAL_ALIAS>
-                <QUALITY>Low</QUALITY>
-                <ALIAS_NAME>Talha</ALIAS_NAME>
-            </INDIVIDUAL_ALIAS>
-            <INDIVIDUAL_ADDRESS>
-                <STREET>Südliche Ringstrasse 133</STREET>
-                <CITY>Langen</CITY>
-                <ZIP_CODE>63225</ZIP_CODE>
-                <COUNTRY>Germany</COUNTRY>
-                <NOTE>previous address</NOTE>
-            </INDIVIDUAL_ADDRESS>
-            <INDIVIDUAL_DATE_OF_BIRTH>
-                <TYPE_OF_DATE>EXACT</TYPE_OF_DATE>
-                <DATE>1978-11-04</DATE>
-            </INDIVIDUAL_DATE_OF_BIRTH>
-            <INDIVIDUAL_PLACE_OF_BIRTH>
-                <CITY>Bayburt</CITY>
-                <COUNTRY>Turkey</COUNTRY>
-            </INDIVIDUAL_PLACE_OF_BIRTH>
-            <INDIVIDUAL_DOCUMENT>
-                <TYPE_OF_DOCUMENT>Passport</TYPE_OF_DOCUMENT>
-                <NUMBER>TR-P 614 166</NUMBER>
-                <ISSUING_COUNTRY>Turkey</ISSUING_COUNTRY>
-                <NOTE>issued by the Turkish Consulate General in Frankfurt/M. on 22 Mar. 2006,
-expired on 15 Sep. 2009.</NOTE>
-            </INDIVIDUAL_DOCUMENT>
             <SORT_KEY/>
             <SORT_KEY_LAST_MOD/>
         </INDIVIDUAL>
@@ -14492,109 +14190,6 @@ Review pursuant to Security Council resolution 2610 (2021) was concluded on 8 No
                 <TYPE_OF_DOCUMENT2>Ration card number:</TYPE_OF_DOCUMENT2>
                 <NUMBER>1729765</NUMBER>
             </INDIVIDUAL_DOCUMENT>
-            <SORT_KEY/>
-            <SORT_KEY_LAST_MOD/>
-        </INDIVIDUAL>
-        <INDIVIDUAL>
-            <DATAID>2901762</DATAID>
-            <VERSIONNUM>1</VERSIONNUM>
-            <FIRST_NAME>TAYEB</FIRST_NAME>
-            <SECOND_NAME>NAIL</SECOND_NAME>
-            <UN_LIST_TYPE>Al-Qaida</UN_LIST_TYPE>
-            <REFERENCE_NUMBER>QDi.280</REFERENCE_NUMBER>
-            <LISTED_ON>2010-04-22</LISTED_ON>
-            <NAME_ORIGINAL_SCRIPT>الطيب نايل</NAME_ORIGINAL_SCRIPT>
-            <COMMENTS1>Convicted in absentia by Algerian tribunal on 28 Mar. 1996. Algerian
-international arrest warrant number 04/09 of 6 Jun. 2009 issued by the Tribunal of Sidi
-Mhamed, Algiers, Algeria. Algerian extradition request number 2307/09 of 3 Sep. 2009,
-presented to Malian authorities. Father’s name was Benazouz Nail. Mother’s name is
-Belkheiri Oum El Kheir. Member of The Organization of Al-Qaida in the Islamic Maghreb
-(QDe.014).  Review pursuant to Security Council resolution 2368 (2017) was concluded on 4 Dec. 2019. INTERPOL-UN Security Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals</COMMENTS1>
-            <NATIONALITY>
-                <VALUE>Algeria</VALUE>
-            </NATIONALITY>
-            <LIST_TYPE>
-                <VALUE>UN List</VALUE>
-            </LIST_TYPE>
-            <LAST_DAY_UPDATED>
-                <VALUE>2014-04-15</VALUE>
-                <VALUE>2019-12-06</VALUE>
-            </LAST_DAY_UPDATED>
-            <INDIVIDUAL_ALIAS>
-                <QUALITY>Good</QUALITY>
-                <ALIAS_NAME>Djaafar Abou Mohamed (جعفر ابو محمد)</ALIAS_NAME>
-            </INDIVIDUAL_ALIAS>
-            <INDIVIDUAL_ALIAS>
-                <QUALITY>Good</QUALITY>
-                <ALIAS_NAME>Abou Mouhadjir (ابو مهاجر)</ALIAS_NAME>
-            </INDIVIDUAL_ALIAS>
-            <INDIVIDUAL_ALIAS>
-                <QUALITY>Good</QUALITY>
-                <ALIAS_NAME>Mohamed Ould Ahmed Ould Ali</ALIAS_NAME>
-                <NOTE>born in 1976</NOTE>
-            </INDIVIDUAL_ALIAS>
-            <INDIVIDUAL_ADDRESS>
-                <COUNTRY>Mali</COUNTRY>
-            </INDIVIDUAL_ADDRESS>
-            <INDIVIDUAL_DATE_OF_BIRTH>
-                <TYPE_OF_DATE>APPROXIMATELY</TYPE_OF_DATE>
-                <YEAR>1972</YEAR>
-            </INDIVIDUAL_DATE_OF_BIRTH>
-            <INDIVIDUAL_PLACE_OF_BIRTH>
-                <CITY>Faidh El Batma</CITY>
-                <STATE_PROVINCE>Djelfa</STATE_PROVINCE>
-                <COUNTRY>Algeria</COUNTRY>
-            </INDIVIDUAL_PLACE_OF_BIRTH>
-            <INDIVIDUAL_DOCUMENT/>
-            <SORT_KEY/>
-            <SORT_KEY_LAST_MOD/>
-        </INDIVIDUAL>
-        <INDIVIDUAL>
-            <DATAID>2902221</DATAID>
-            <VERSIONNUM>1</VERSIONNUM>
-            <FIRST_NAME>MOHAMED</FIRST_NAME>
-            <SECOND_NAME>BELKALEM</SECOND_NAME>
-            <UN_LIST_TYPE>Al-Qaida</UN_LIST_TYPE>
-            <REFERENCE_NUMBER>QDi.279</REFERENCE_NUMBER>
-            <LISTED_ON>2010-04-22</LISTED_ON>
-            <NAME_ORIGINAL_SCRIPT>محمد بلكلام</NAME_ORIGINAL_SCRIPT>
-            <COMMENTS1>Convicted in absentia by Algerian tribunal on 28 Mar. 1996. Algerian
-international arrest warrant number 03/09 of 6 Jun. 2009 issued by the Tribunal of Sidi
-Mhamed, Algiers, Algeria. Algerian extradition request number 2307/09 of 3 Sep. 2009,
-presented to Malian authorities. Father’s name is Ali Belkalem. Mother’s name is Fatma
-Saadoudi. Member of The Organization of Al-Qaida in the Islamic Maghreb
-(QDe.014).  Review pursuant to Security Council resolution 2368 (2017) was concluded on 4 Dec. 2019. INTERPOL-UN Security Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals</COMMENTS1>
-            <NATIONALITY>
-                <VALUE>Algeria</VALUE>
-            </NATIONALITY>
-            <LIST_TYPE>
-                <VALUE>UN List</VALUE>
-            </LIST_TYPE>
-            <LAST_DAY_UPDATED>
-                <VALUE>2014-04-15</VALUE>
-                <VALUE>2019-12-06</VALUE>
-            </LAST_DAY_UPDATED>
-            <INDIVIDUAL_ALIAS>
-                <QUALITY>Low</QUALITY>
-                <ALIAS_NAME>Abdelali Abou Dher (عبد العالي ابو ذر)</ALIAS_NAME>
-            </INDIVIDUAL_ALIAS>
-            <INDIVIDUAL_ALIAS>
-                <QUALITY>Low</QUALITY>
-                <ALIAS_NAME>El Harrachi (الحراشي)</ALIAS_NAME>
-            </INDIVIDUAL_ALIAS>
-            <INDIVIDUAL_ADDRESS>
-                <COUNTRY>Mali</COUNTRY>
-            </INDIVIDUAL_ADDRESS>
-            <INDIVIDUAL_DATE_OF_BIRTH>
-                <TYPE_OF_DATE>EXACT</TYPE_OF_DATE>
-                <DATE>1969-12-19</DATE>
-            </INDIVIDUAL_DATE_OF_BIRTH>
-            <INDIVIDUAL_PLACE_OF_BIRTH>
-                <CITY>Hussein Dey</CITY>
-                <STATE_PROVINCE>Algiers</STATE_PROVINCE>
-                <COUNTRY>Algeria</COUNTRY>
-            </INDIVIDUAL_PLACE_OF_BIRTH>
-            <INDIVIDUAL_DOCUMENT/>
             <SORT_KEY/>
             <SORT_KEY_LAST_MOD/>
         </INDIVIDUAL>
@@ -15792,81 +15387,6 @@ Ba'asyir (QDi.217). Review pursuant to Security Council resolution 2368 (2017) w
                 <CITY>Chak number 36/DNB, Rajkan, Madina Colony</CITY>
                 <STATE_PROVINCE>Bahawalpur District, Punjab Province</STATE_PROVINCE>
                 <COUNTRY>Pakistan</COUNTRY>
-            </INDIVIDUAL_PLACE_OF_BIRTH>
-            <INDIVIDUAL_DOCUMENT/>
-            <SORT_KEY/>
-            <SORT_KEY_LAST_MOD/>
-        </INDIVIDUAL>
-        <INDIVIDUAL>
-            <DATAID>2974555</DATAID>
-            <VERSIONNUM>1</VERSIONNUM>
-            <FIRST_NAME>ABD AL-RAHMAN</FIRST_NAME>
-            <SECOND_NAME>OULD MUHAMMAD AL-HUSAYN</SECOND_NAME>
-            <THIRD_NAME>OULD MUHAMMAD SALIM</THIRD_NAME>
-            <UN_LIST_TYPE>Al-Qaida</UN_LIST_TYPE>
-            <REFERENCE_NUMBER>QDi.298</REFERENCE_NUMBER>
-            <LISTED_ON>2011-09-15</LISTED_ON>
-            <NAME_ORIGINAL_SCRIPT>عبد الرحمن ولد محمد الحسين ولد محمد سليم</NAME_ORIGINAL_SCRIPT>
-            <COMMENTS1>Pakistan-based senior Al-Qaida (QDe.004) leader also associated with The
-Organization of Al-Qaida in the Islamic Maghreb (QDe.014). Wanted by Mauritanian
-authorities. Review pursuant to Security Council resolution 2368 (2017) was concluded on 24 November 2020. INTERPOL-UN Security Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals</COMMENTS1>
-            <NATIONALITY>
-                <VALUE>Mauritania</VALUE>
-            </NATIONALITY>
-            <LIST_TYPE>
-                <VALUE>UN List</VALUE>
-            </LIST_TYPE>
-            <LAST_DAY_UPDATED>
-                <VALUE>2020-11-24</VALUE>
-            </LAST_DAY_UPDATED>
-            <INDIVIDUAL_ALIAS>
-                <QUALITY>Good</QUALITY>
-                <ALIAS_NAME>Abdarrahmane ould Mohamed el Houcein ould Mohamed
-Salem</ALIAS_NAME>
-            </INDIVIDUAL_ALIAS>
-            <INDIVIDUAL_ALIAS>
-                <QUALITY>Good</QUALITY>
-                <ALIAS_NAME>شيخ يونس الموريتاني</ALIAS_NAME>
-                <NOTE>Yunis al-Mauritani; Younis al-Mauritani; Sheikh Yunis al-Mauritani; Shaykh
-Yunis the Mauritanian</NOTE>
-            </INDIVIDUAL_ALIAS>
-            <INDIVIDUAL_ALIAS>
-                <QUALITY>Low</QUALITY>
-                <ALIAS_NAME>Salih the Mauritanian</ALIAS_NAME>
-            </INDIVIDUAL_ALIAS>
-            <INDIVIDUAL_ALIAS>
-                <QUALITY>Low</QUALITY>
-                <ALIAS_NAME>Mohamed Salem</ALIAS_NAME>
-            </INDIVIDUAL_ALIAS>
-            <INDIVIDUAL_ALIAS>
-                <QUALITY>Low</QUALITY>
-                <ALIAS_NAME>Youssef Ould Abdel Jelil</ALIAS_NAME>
-            </INDIVIDUAL_ALIAS>
-            <INDIVIDUAL_ALIAS>
-                <QUALITY>Low</QUALITY>
-                <ALIAS_NAME>El Hadj Ould Abdel Ghader</ALIAS_NAME>
-            </INDIVIDUAL_ALIAS>
-            <INDIVIDUAL_ALIAS>
-                <QUALITY>Low</QUALITY>
-                <ALIAS_NAME>Abdel Khader</ALIAS_NAME>
-            </INDIVIDUAL_ALIAS>
-            <INDIVIDUAL_ALIAS>
-                <QUALITY>Low</QUALITY>
-                <ALIAS_NAME>Abou Souleimane</ALIAS_NAME>
-            </INDIVIDUAL_ALIAS>
-            <INDIVIDUAL_ALIAS>
-                <QUALITY>Low</QUALITY>
-                <ALIAS_NAME>Chingheity</ALIAS_NAME>
-            </INDIVIDUAL_ALIAS>
-            <INDIVIDUAL_ADDRESS>
-                <COUNTRY/>
-            </INDIVIDUAL_ADDRESS>
-            <INDIVIDUAL_DATE_OF_BIRTH>
-                <TYPE_OF_DATE>APPROXIMATELY</TYPE_OF_DATE>
-                <YEAR>1981</YEAR>
-            </INDIVIDUAL_DATE_OF_BIRTH>
-            <INDIVIDUAL_PLACE_OF_BIRTH>
-                <COUNTRY>Saudi Arabia</COUNTRY>
             </INDIVIDUAL_PLACE_OF_BIRTH>
             <INDIVIDUAL_DOCUMENT/>
             <SORT_KEY/>
@@ -26393,80 +25913,6 @@ Hajji Meyawar Khan (deceased). INTERPOL-UN Security Council Special Notice web l
             <SORT_KEY_LAST_MOD/>
         </INDIVIDUAL>
         <INDIVIDUAL>
-            <DATAID>6908407</DATAID>
-            <VERSIONNUM>1</VERSIONNUM>
-            <FIRST_NAME>AHMED</FIRST_NAME>
-            <SECOND_NAME>ABDULLAH</SECOND_NAME>
-            <THIRD_NAME>SALEH AL-KHAZMARI</THIRD_NAME>
-            <FOURTH_NAME>AL-ZAHRANI</FOURTH_NAME>
-            <UN_LIST_TYPE>Al-Qaida</UN_LIST_TYPE>
-            <REFERENCE_NUMBER>QDi.329</REFERENCE_NUMBER>
-            <LISTED_ON>2014-09-23</LISTED_ON>
-            <GENDER>Male</GENDER>
-            <COMMENTS1>Senior member of Al-Qaida (QDe.004). Wanted by the Saudi Arabian
-Government for terrorism. Father's name is Abdullah Saleh al Zahrani. Physical
-description: eye colour: dark; hair colour: dark; complexion: olive. Speaks Arabic.
-Photo available for inclusion in the INTERPOL-UN Security Council Special
-Notice.  Review pursuant to Security Council resolution 2368 (2017) was concluded on 4 Dec. 2019. INTERPOL-UN Security Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals</COMMENTS1>
-            <NATIONALITY>
-                <VALUE>Saudi Arabia</VALUE>
-            </NATIONALITY>
-            <LIST_TYPE>
-                <VALUE>UN List</VALUE>
-            </LIST_TYPE>
-            <LAST_DAY_UPDATED>
-                <VALUE>2019-12-06</VALUE>
-            </LAST_DAY_UPDATED>
-            <INDIVIDUAL_ALIAS>
-                <QUALITY>Good</QUALITY>
-                <ALIAS_NAME>Abu Maryam al-Zahrani</ALIAS_NAME>
-            </INDIVIDUAL_ALIAS>
-            <INDIVIDUAL_ALIAS>
-                <QUALITY>Good</QUALITY>
-                <ALIAS_NAME>Abu Maryam al-Saudi</ALIAS_NAME>
-            </INDIVIDUAL_ALIAS>
-            <INDIVIDUAL_ALIAS>
-                <QUALITY>Good</QUALITY>
-                <ALIAS_NAME>Ahmed Abdullah S al-Zahrani</ALIAS_NAME>
-            </INDIVIDUAL_ALIAS>
-            <INDIVIDUAL_ALIAS>
-                <QUALITY>Good</QUALITY>
-                <ALIAS_NAME>Ahmad Abdullah Salih al-Zahrani</ALIAS_NAME>
-            </INDIVIDUAL_ALIAS>
-            <INDIVIDUAL_ALIAS>
-                <QUALITY>Good</QUALITY>
-                <ALIAS_NAME>Abu Maryam al-Azadi</ALIAS_NAME>
-            </INDIVIDUAL_ALIAS>
-            <INDIVIDUAL_ALIAS>
-                <QUALITY>Good</QUALITY>
-                <ALIAS_NAME>Ahmed bin Abdullah Saleh bin al-Zahrani</ALIAS_NAME>
-            </INDIVIDUAL_ALIAS>
-            <INDIVIDUAL_ALIAS>
-                <QUALITY>Good</QUALITY>
-                <ALIAS_NAME>Ahmed Abdullah Saleh al-Zahrani al-Khozmri</ALIAS_NAME>
-            </INDIVIDUAL_ALIAS>
-            <INDIVIDUAL_ADDRESS>
-                <NOTE>Located in Syria</NOTE>
-            </INDIVIDUAL_ADDRESS>
-            <INDIVIDUAL_DATE_OF_BIRTH>
-                <TYPE_OF_DATE>EXACT</TYPE_OF_DATE>
-                <DATE>1978-09-15</DATE>
-            </INDIVIDUAL_DATE_OF_BIRTH>
-            <INDIVIDUAL_PLACE_OF_BIRTH>
-                <CITY>Dammam</CITY>
-                <COUNTRY>Saudi Arabia</COUNTRY>
-            </INDIVIDUAL_PLACE_OF_BIRTH>
-            <INDIVIDUAL_DOCUMENT>
-                <TYPE_OF_DOCUMENT>Passport</TYPE_OF_DOCUMENT>
-                <NUMBER>E126785</NUMBER>
-                <ISSUING_COUNTRY>Saudi Arabia</ISSUING_COUNTRY>
-                <DATE_OF_ISSUE>2002-05-27</DATE_OF_ISSUE>
-                <NOTE>expired on 3 Apr. 2007</NOTE>
-            </INDIVIDUAL_DOCUMENT>
-            <SORT_KEY/>
-            <SORT_KEY_LAST_MOD/>
-        </INDIVIDUAL>
-        <INDIVIDUAL>
             <DATAID>6908408</DATAID>
             <VERSIONNUM>1</VERSIONNUM>
             <FIRST_NAME>AZZAM</FIRST_NAME>
@@ -26917,97 +26363,6 @@ of early 2014. Review pursuant to Security Council resolution 2368 (2017) was co
             <SORT_KEY_LAST_MOD/>
         </INDIVIDUAL>
         <INDIVIDUAL>
-            <DATAID>6908419</DATAID>
-            <VERSIONNUM>1</VERSIONNUM>
-            <FIRST_NAME>‘ABD AL-RAHMAN</FIRST_NAME>
-            <SECOND_NAME>MUHAMMAD</SECOND_NAME>
-            <THIRD_NAME>MUSTAFA</THIRD_NAME>
-            <FOURTH_NAME>AL-QADULI</FOURTH_NAME>
-            <UN_LIST_TYPE>Al-Qaida</UN_LIST_TYPE>
-            <REFERENCE_NUMBER>QDi.339</REFERENCE_NUMBER>
-            <LISTED_ON>2014-09-23</LISTED_ON>
-            <COMMENTS1>Senior Islamic State in Iraq and the Levant (ISIL), listed as Al-Qaida in
-Iraq (AQI) (QDe.115), official. Previously served as a representative of AQI to Al-Qaida
-(QDe.004) senior leadership in Pakistan. Review pursuant to Security Council resolution 2368 (2017) was concluded on 4 Dec. 2019 INTERPOL-UN Security Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals</COMMENTS1>
-            <NATIONALITY>
-                <VALUE>Iraq</VALUE>
-            </NATIONALITY>
-            <LIST_TYPE>
-                <VALUE>UN List</VALUE>
-            </LIST_TYPE>
-            <LAST_DAY_UPDATED>
-                <VALUE>2019-12-06</VALUE>
-            </LAST_DAY_UPDATED>
-            <INDIVIDUAL_ALIAS>
-                <QUALITY/>
-                <ALIAS_NAME/>
-                <DATE_OF_BIRTH>1957</DATE_OF_BIRTH>
-            </INDIVIDUAL_ALIAS>
-            <INDIVIDUAL_ALIAS>
-                <QUALITY>Good</QUALITY>
-                <ALIAS_NAME>‘Abd al-Rahman Muhammad Mustafa Shaykhlari</ALIAS_NAME>
-            </INDIVIDUAL_ALIAS>
-            <INDIVIDUAL_ALIAS>
-                <QUALITY>Good</QUALITY>
-                <ALIAS_NAME>Umar Muhammad Khalil Mustafa</ALIAS_NAME>
-            </INDIVIDUAL_ALIAS>
-            <INDIVIDUAL_ALIAS>
-                <QUALITY>Good</QUALITY>
-                <ALIAS_NAME>Abdul Rahman Muhammad al-Bayati</ALIAS_NAME>
-            </INDIVIDUAL_ALIAS>
-            <INDIVIDUAL_ALIAS>
-                <QUALITY>Good</QUALITY>
-                <ALIAS_NAME>Tahir Muhammad Khalil Mustafa al-Bayati</ALIAS_NAME>
-            </INDIVIDUAL_ALIAS>
-            <INDIVIDUAL_ALIAS>
-                <QUALITY>Good</QUALITY>
-                <ALIAS_NAME>Aliazra Ra’ad Ahmad</ALIAS_NAME>
-            </INDIVIDUAL_ALIAS>
-            <INDIVIDUAL_ALIAS>
-                <QUALITY>Low</QUALITY>
-                <ALIAS_NAME>Abu-Shuayb</ALIAS_NAME>
-            </INDIVIDUAL_ALIAS>
-            <INDIVIDUAL_ALIAS>
-                <QUALITY>Low</QUALITY>
-                <ALIAS_NAME>Hajji Iman</ALIAS_NAME>
-            </INDIVIDUAL_ALIAS>
-            <INDIVIDUAL_ALIAS>
-                <QUALITY>Low</QUALITY>
-                <ALIAS_NAME>Abu Iman</ALIAS_NAME>
-            </INDIVIDUAL_ALIAS>
-            <INDIVIDUAL_ALIAS>
-                <QUALITY>Low</QUALITY>
-                <ALIAS_NAME>Abu Ala</ALIAS_NAME>
-            </INDIVIDUAL_ALIAS>
-            <INDIVIDUAL_ALIAS>
-                <QUALITY>Low</QUALITY>
-                <ALIAS_NAME>Abu Hasan</ALIAS_NAME>
-            </INDIVIDUAL_ALIAS>
-            <INDIVIDUAL_ALIAS>
-                <QUALITY>Low</QUALITY>
-                <ALIAS_NAME>Abu Muhammad</ALIAS_NAME>
-            </INDIVIDUAL_ALIAS>
-            <INDIVIDUAL_ALIAS>
-                <QUALITY>Low</QUALITY>
-                <ALIAS_NAME>Abu Zayna</ALIAS_NAME>
-            </INDIVIDUAL_ALIAS>
-            <INDIVIDUAL_ADDRESS>
-                <COUNTRY/>
-            </INDIVIDUAL_ADDRESS>
-            <INDIVIDUAL_DATE_OF_BIRTH>
-                <TYPE_OF_DATE>EXACT</TYPE_OF_DATE>
-                <YEAR>1959</YEAR>
-            </INDIVIDUAL_DATE_OF_BIRTH>
-            <INDIVIDUAL_PLACE_OF_BIRTH>
-                <CITY>Mosul</CITY>
-                <STATE_PROVINCE>Ninawa Province</STATE_PROVINCE>
-                <COUNTRY>Iraq</COUNTRY>
-            </INDIVIDUAL_PLACE_OF_BIRTH>
-            <INDIVIDUAL_DOCUMENT/>
-            <SORT_KEY/>
-            <SORT_KEY_LAST_MOD/>
-        </INDIVIDUAL>
-        <INDIVIDUAL>
             <DATAID>6908420</DATAID>
             <VERSIONNUM>1</VERSIONNUM>
             <FIRST_NAME>EMILIE</FIRST_NAME>
@@ -27178,71 +26533,6 @@ network. Active in terrorist propaganda through the Internet. Review pursuant to
             <INDIVIDUAL_PLACE_OF_BIRTH>
                 <CITY>Dakar</CITY>
                 <COUNTRY>Senegal</COUNTRY>
-            </INDIVIDUAL_PLACE_OF_BIRTH>
-            <INDIVIDUAL_DOCUMENT/>
-            <SORT_KEY/>
-            <SORT_KEY_LAST_MOD/>
-        </INDIVIDUAL>
-        <INDIVIDUAL>
-            <DATAID>6908423</DATAID>
-            <VERSIONNUM>1</VERSIONNUM>
-            <FIRST_NAME>SAID</FIRST_NAME>
-            <SECOND_NAME>ARIF</SECOND_NAME>
-            <UN_LIST_TYPE>Al-Qaida</UN_LIST_TYPE>
-            <REFERENCE_NUMBER>QDi.323</REFERENCE_NUMBER>
-            <LISTED_ON>2014-08-15</LISTED_ON>
-            <COMMENTS1>A veteran member of the ‘Chechen Network’ (not listed) and other
-terrorist groups. He was convicted of his role and membership in the ‘Chechen Network’
-in France in 2006. Joined Jabhat al-Nusrah, listed as Al-Nusrah Front for the People of
-the Levant (QDe.137) in October 2013. Review pursuant to Security Council resolution 2368 (2017) was concluded on 4 Dec. 2019 INTERPOL-UN Security Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals</COMMENTS1>
-            <NATIONALITY>
-                <VALUE>Algeria</VALUE>
-            </NATIONALITY>
-            <LIST_TYPE>
-                <VALUE>UN List</VALUE>
-            </LIST_TYPE>
-            <LAST_DAY_UPDATED>
-                <VALUE>2019-12-06</VALUE>
-            </LAST_DAY_UPDATED>
-            <INDIVIDUAL_ALIAS>
-                <QUALITY/>
-                <ALIAS_NAME/>
-                <DATE_OF_BIRTH>1965-12-05</DATE_OF_BIRTH>
-            </INDIVIDUAL_ALIAS>
-            <INDIVIDUAL_ALIAS>
-                <QUALITY>Good</QUALITY>
-                <ALIAS_NAME>Said Mohamed Arif</ALIAS_NAME>
-            </INDIVIDUAL_ALIAS>
-            <INDIVIDUAL_ALIAS>
-                <QUALITY>Good</QUALITY>
-                <ALIAS_NAME>Omar Gharib</ALIAS_NAME>
-            </INDIVIDUAL_ALIAS>
-            <INDIVIDUAL_ALIAS>
-                <QUALITY>Good</QUALITY>
-                <ALIAS_NAME>Abderahmane</ALIAS_NAME>
-            </INDIVIDUAL_ALIAS>
-            <INDIVIDUAL_ALIAS>
-                <QUALITY>Good</QUALITY>
-                <ALIAS_NAME>Abdallah al-Jazairi</ALIAS_NAME>
-            </INDIVIDUAL_ALIAS>
-            <INDIVIDUAL_ALIAS>
-                <QUALITY>Good</QUALITY>
-                <ALIAS_NAME>Slimane Chabani</ALIAS_NAME>
-            </INDIVIDUAL_ALIAS>
-            <INDIVIDUAL_ALIAS>
-                <QUALITY>Good</QUALITY>
-                <ALIAS_NAME>Souleiman</ALIAS_NAME>
-            </INDIVIDUAL_ALIAS>
-            <INDIVIDUAL_ADDRESS>
-                <COUNTRY/>
-            </INDIVIDUAL_ADDRESS>
-            <INDIVIDUAL_DATE_OF_BIRTH>
-                <TYPE_OF_DATE>EXACT</TYPE_OF_DATE>
-                <DATE>1964-06-25</DATE>
-            </INDIVIDUAL_DATE_OF_BIRTH>
-            <INDIVIDUAL_PLACE_OF_BIRTH>
-                <CITY>Oran</CITY>
-                <COUNTRY>Algeria</COUNTRY>
             </INDIVIDUAL_PLACE_OF_BIRTH>
             <INDIVIDUAL_DOCUMENT/>
             <SORT_KEY/>
@@ -36229,110 +35519,6 @@ Bachir</ALIAS_NAME>
             <SORT_KEY_LAST_MOD/>
         </INDIVIDUAL>
         <INDIVIDUAL>
-            <DATAID>6908720</DATAID>
-            <VERSIONNUM>1</VERSIONNUM>
-            <FIRST_NAME>MOHAMAD</FIRST_NAME>
-            <SECOND_NAME>RAFI</SECOND_NAME>
-            <THIRD_NAME>BIN UDIN</THIRD_NAME>
-            <UN_LIST_TYPE>Al-Qaida</UN_LIST_TYPE>
-            <REFERENCE_NUMBER>QDi.417</REFERENCE_NUMBER>
-            <LISTED_ON>2018-08-23</LISTED_ON>
-            <COMMENTS1>Senior member of Islamic State in Iraq and the Levant (ISIL), listed as Al-Qaida in Iraq (QDe.115). Recruited for ISIL and instructed individuals to perpetrate terrorist acts via online video. Physical description: eye colour: brown; hair colour: brown; complexion: dark. Speaks Malay, English, limited Arabic. INTERPOL-UN Security Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals</COMMENTS1>
-            <NATIONALITY>
-                <VALUE>Malaysia</VALUE>
-                <VALUE>Indonesia</VALUE>
-            </NATIONALITY>
-            <LIST_TYPE>
-                <VALUE>UN List</VALUE>
-            </LIST_TYPE>
-            <LAST_DAY_UPDATED>
-                <VALUE/>
-            </LAST_DAY_UPDATED>
-            <INDIVIDUAL_ALIAS>
-                <QUALITY>Low</QUALITY>
-                <ALIAS_NAME>Mohd Radi Bin Udin</ALIAS_NAME>
-            </INDIVIDUAL_ALIAS>
-            <INDIVIDUAL_ALIAS>
-                <QUALITY>Low</QUALITY>
-                <ALIAS_NAME>Abu Awn al Malizi</ALIAS_NAME>
-            </INDIVIDUAL_ALIAS>
-            <INDIVIDUAL_ALIAS>
-                <QUALITY>Low</QUALITY>
-                <ALIAS_NAME>Muhammad Ratin</ALIAS_NAME>
-            </INDIVIDUAL_ALIAS>
-            <INDIVIDUAL_ALIAS>
-                <QUALITY>Low</QUALITY>
-                <ALIAS_NAME>Muhammad Rafiuddin</ALIAS_NAME>
-            </INDIVIDUAL_ALIAS>
-            <INDIVIDUAL_ALIAS>
-                <QUALITY>Low</QUALITY>
-                <ALIAS_NAME>Abu Una al Malayzie</ALIAS_NAME>
-            </INDIVIDUAL_ALIAS>
-            <INDIVIDUAL_ALIAS>
-                <QUALITY>Low</QUALITY>
-                <ALIAS_NAME>Mhammad Rahim Bin Udin</ALIAS_NAME>
-            </INDIVIDUAL_ALIAS>
-            <INDIVIDUAL_ALIAS>
-                <QUALITY>Low</QUALITY>
-                <ALIAS_NAME>Abu Ayn Tok Cit</ALIAS_NAME>
-            </INDIVIDUAL_ALIAS>
-            <INDIVIDUAL_ALIAS>
-                <QUALITY>Low</QUALITY>
-                <ALIAS_NAME>Muhammad Ratin Bin Nurdin</ALIAS_NAME>
-            </INDIVIDUAL_ALIAS>
-            <INDIVIDUAL_ADDRESS>
-                <STREET> B-3B-19 Glenview Villa, Jalan 49 Off Jalan Kuari, Taman Pinggiran Cheras, 56000</STREET>
-                <CITY>Kuala Lumpur</CITY>
-                <STATE_PROVINCE>Wilayah Persekutuan Kuala Lumpur</STATE_PROVINCE>
-                <COUNTRY>Malaysia</COUNTRY>
-                <NOTE>as at 30 Jan. 2014</NOTE>
-            </INDIVIDUAL_ADDRESS>
-            <INDIVIDUAL_ADDRESS>
-                <STREET>90-00-04 Flat Sri Kota, Bandar Tun Razak, 56100</STREET>
-                <CITY>Kuala Lumpur</CITY>
-                <STATE_PROVINCE>Wilayah Persekutuan Kuala Lumpur</STATE_PROVINCE>
-                <COUNTRY>Malaysia</COUNTRY>
-                <NOTE>as at 23 Apr. 2010</NOTE>
-            </INDIVIDUAL_ADDRESS>
-            <INDIVIDUAL_ADDRESS>
-                <STREET>96-06-06 Flat Sri Kota, Bandar Tun Razak, 56100</STREET>
-                <CITY>Kuala Lumpur</CITY>
-                <STATE_PROVINCE>Wilayah Persekutuan Kuala Lumpur</STATE_PROVINCE>
-                <COUNTRY>Malaysia</COUNTRY>
-                <NOTE>as at 6 Apr. 2007</NOTE>
-            </INDIVIDUAL_ADDRESS>
-            <INDIVIDUAL_ADDRESS>
-                <COUNTRY>Syrian Arab Republic</COUNTRY>
-                <NOTE>location since 2014</NOTE>
-            </INDIVIDUAL_ADDRESS>
-            <INDIVIDUAL_DATE_OF_BIRTH>
-                <TYPE_OF_DATE>EXACT</TYPE_OF_DATE>
-                <DATE>1966-06-03</DATE>
-            </INDIVIDUAL_DATE_OF_BIRTH>
-            <INDIVIDUAL_PLACE_OF_BIRTH>
-                <CITY>Negri Sembilan</CITY>
-                <COUNTRY>Malaysia</COUNTRY>
-            </INDIVIDUAL_PLACE_OF_BIRTH>
-            <INDIVIDUAL_DOCUMENT>
-                <TYPE_OF_DOCUMENT>Passport</TYPE_OF_DOCUMENT>
-                <NUMBER>A31142734</NUMBER>
-                <ISSUING_COUNTRY>Malaysia</ISSUING_COUNTRY>
-                <DATE_OF_ISSUE>2013-11-06</DATE_OF_ISSUE>
-                <NOTE>issued by the Immigration Department of Malaysia, expiration date 6 Nov.
-2015</NOTE>
-            </INDIVIDUAL_DOCUMENT>
-            <INDIVIDUAL_DOCUMENT>
-                <TYPE_OF_DOCUMENT>National Identification Number</TYPE_OF_DOCUMENT>
-                <TYPE_OF_DOCUMENT2>National Identification Card</TYPE_OF_DOCUMENT2>
-                <NUMBER>660603-05-5267</NUMBER>
-                <ISSUING_COUNTRY>Malaysia</ISSUING_COUNTRY>
-                <NOTE>issued by National Registration Department of Malaysia; issued to Mohd Rafi
-bin Udin</NOTE>
-            </INDIVIDUAL_DOCUMENT>
-            <SORT_KEY/>
-            <SORT_KEY_LAST_MOD/>
-        </INDIVIDUAL>
-        <INDIVIDUAL>
             <DATAID>6908721</DATAID>
             <VERSIONNUM>1</VERSIONNUM>
             <FIRST_NAME>MUHAMMED</FIRST_NAME>
@@ -39942,6 +39128,847 @@ Ban). INTERPOL-UN Security Council Special Notice web link:https://www.interpol.
             <SORT_KEY_LAST_MOD/>
         </INDIVIDUAL>
         <INDIVIDUAL>
+            <DATAID>112028</DATAID>
+            <VERSIONNUM>1</VERSIONNUM>
+            <FIRST_NAME>SAIFI</FIRST_NAME>
+            <SECOND_NAME>AMMARI</SECOND_NAME>
+            <UN_LIST_TYPE>Al-Qaida</UN_LIST_TYPE>
+            <REFERENCE_NUMBER>QDi.152</REFERENCE_NUMBER>
+            <LISTED_ON>2003-12-04</LISTED_ON>
+            <NAME_ORIGINAL_SCRIPT>سيفي عماري</NAME_ORIGINAL_SCRIPT>
+            <COMMENTS1>In detention in Algeria since Oct. 2004. Incarcerated in Algeria since 7 March 2011. Former member of the GSPC listed as The Organization of Al-Qaida in the Islamic Maghreb (QDe.014). Father’s name: Abdellah. Mother’s name: Draham Belanchi. Photograph and fingerprints available for inclusion in INTERPOL-UNSC Special Notice. Review pursuant to Security Council resolution 1822 (2008) was concluded on 27 Jul. 2010. Review pursuant to Security Council resolution 2368 (2017) was concluded on 4 Dec. 2019.  INTERPOL-UN Security Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals</COMMENTS1>
+            <NATIONALITY>
+                <VALUE>Algeria</VALUE>
+            </NATIONALITY>
+            <LIST_TYPE>
+                <VALUE>UN List</VALUE>
+            </LIST_TYPE>
+            <LAST_DAY_UPDATED>
+                <VALUE>2023-12-14</VALUE>
+                <VALUE>2008-04-07</VALUE>
+                <VALUE>2011-05-16</VALUE>
+                <VALUE>2019-12-06</VALUE>
+            </LAST_DAY_UPDATED>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY>Good</QUALITY>
+                <ALIAS_NAME>El Para (combat name)</ALIAS_NAME>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY>Good</QUALITY>
+                <ALIAS_NAME>Abderrezak Le Para</ALIAS_NAME>
+                <NOTE>combat name</NOTE>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY>Good</QUALITY>
+                <ALIAS_NAME>Abou Haidara</ALIAS_NAME>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY>Good</QUALITY>
+                <ALIAS_NAME>El Ourassi</ALIAS_NAME>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY>Good</QUALITY>
+                <ALIAS_NAME>Abderrezak Zaimeche</ALIAS_NAME>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY>Good</QUALITY>
+                <ALIAS_NAME>Abdul Rasak ammane Abu Haidra</ALIAS_NAME>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY>Good</QUALITY>
+                <ALIAS_NAME>Abdalarak</ALIAS_NAME>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ADDRESS>
+                <CITY>Commune of Bouhechana, Daïra de Lakhezara, Guelma</CITY>
+                <COUNTRY>Algeria</COUNTRY>
+            </INDIVIDUAL_ADDRESS>
+            <INDIVIDUAL_DATE_OF_BIRTH>
+                <TYPE_OF_DATE>EXACT</TYPE_OF_DATE>
+                <DATE>1968-01-01</DATE>
+            </INDIVIDUAL_DATE_OF_BIRTH>
+            <INDIVIDUAL_DATE_OF_BIRTH>
+                <TYPE_OF_DATE>EXACT</TYPE_OF_DATE>
+                <DATE>1968-04-23</DATE>
+            </INDIVIDUAL_DATE_OF_BIRTH>
+            <INDIVIDUAL_PLACE_OF_BIRTH>
+                <CITY>Kef Rih</CITY>
+                <COUNTRY>Algeria</COUNTRY>
+            </INDIVIDUAL_PLACE_OF_BIRTH>
+            <INDIVIDUAL_DOCUMENT/>
+            <SORT_KEY/>
+            <SORT_KEY_LAST_MOD/>
+        </INDIVIDUAL>
+        <INDIVIDUAL>
+            <DATAID>112037</DATAID>
+            <VERSIONNUM>1</VERSIONNUM>
+            <FIRST_NAME>KAMEL</FIRST_NAME>
+            <SECOND_NAME>DJERMANE</SECOND_NAME>
+            <UN_LIST_TYPE>Al-Qaida</UN_LIST_TYPE>
+            <REFERENCE_NUMBER>QDi.167</REFERENCE_NUMBER>
+            <LISTED_ON>2004-05-03</LISTED_ON>
+            <NAME_ORIGINAL_SCRIPT>كمال جرمان</NAME_ORIGINAL_SCRIPT>
+            <COMMENTS1>In detention in Algeria as  of November 2023. Sentenced to 18 years imprisonment for conducting terrorist activities by the Algiers Criminal Court on 25 January 2023. Arrest warrant issued by the German authorities on 9 Oct. 2003 and 18 July 2018 respectively for involvement in kidnapping, robbery and extortion. Former member of the Katibat Tarek Ibn Ziad of The Organization of Al Qaida in the Islamic Maghreb (QDe.014). Father’s name: Sliman. Mother’s name Oum Hani Djermane.  Review pursuant to Security Council resolution 1822 (2008) was concluded on 27 Jul. 2010. Review pursuant to Security Council resolution 2368 (2017) was concluded on 4 Dec. 2019. INTERPOL-UN Security Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals</COMMENTS1>
+            <NATIONALITY>
+                <VALUE>Algeria</VALUE>
+            </NATIONALITY>
+            <LIST_TYPE>
+                <VALUE>UN List</VALUE>
+            </LIST_TYPE>
+            <LAST_DAY_UPDATED>
+                <VALUE>2023-12-14</VALUE>
+                <VALUE>2008-04-07</VALUE>
+                <VALUE>2011-12-13</VALUE>
+                <VALUE>2019-12-06</VALUE>
+            </LAST_DAY_UPDATED>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY>Good</QUALITY>
+                <ALIAS_NAME>Bilal</ALIAS_NAME>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY>Good</QUALITY>
+                <ALIAS_NAME>Adel</ALIAS_NAME>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY>Good</QUALITY>
+                <ALIAS_NAME>Fodhil</ALIAS_NAME>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY>Good</QUALITY>
+                <ALIAS_NAME>Abou Abdeljalil</ALIAS_NAME>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ADDRESS>
+                <CITY>Sidi Argis village, Oum El-Bouaghi</CITY>
+                <COUNTRY>Algeria</COUNTRY>
+            </INDIVIDUAL_ADDRESS>
+            <INDIVIDUAL_DATE_OF_BIRTH>
+                <TYPE_OF_DATE>EXACT</TYPE_OF_DATE>
+                <DATE>1965-10-12</DATE>
+            </INDIVIDUAL_DATE_OF_BIRTH>
+            <INDIVIDUAL_PLACE_OF_BIRTH>
+                <CITY>Oum el Bouaghi</CITY>
+                <COUNTRY>Algeria</COUNTRY>
+            </INDIVIDUAL_PLACE_OF_BIRTH>
+            <INDIVIDUAL_DOCUMENT/>
+            <SORT_KEY/>
+            <SORT_KEY_LAST_MOD/>
+        </INDIVIDUAL>
+        <INDIVIDUAL>
+            <DATAID>2816345</DATAID>
+            <VERSIONNUM>1</VERSIONNUM>
+            <FIRST_NAME>SALAH EDDINE</FIRST_NAME>
+            <SECOND_NAME>GASMI</SECOND_NAME>
+            <UN_LIST_TYPE>Al-Qaida</UN_LIST_TYPE>
+            <REFERENCE_NUMBER>QDi.251</REFERENCE_NUMBER>
+            <LISTED_ON>2008-07-03</LISTED_ON>
+            <NAME_ORIGINAL_SCRIPT>صالح قاسمي</NAME_ORIGINAL_SCRIPT>
+            <COMMENTS1>Belongs to the leadership and is in charge of information committee of the Organization of Al-Qaida in the Islamic Maghreb (QDe.014). Mother’s name is Yamina Soltane. Father’s name is Abdelaziz. Associated with Abdelmalek Droukdel (QDi.232, reported deceased in June 2020). Arrested in Algeria on 16 Dec. 2012. Incarcerated at the El-Harrach prison in Algiers, as of August 2015. Incarcerated in the Blida penitentiary, Algeria as of November 2023. Photograph and fingerprints available for inclusion in INTERPOL-UNSC Special Notice. Review pursuant to Security Council resolution 2368 (2017) was concluded on 24 November 2020.  INTERPOL-UN Security Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals</COMMENTS1>
+            <NATIONALITY>
+                <VALUE>Algeria</VALUE>
+            </NATIONALITY>
+            <LIST_TYPE>
+                <VALUE>UN List</VALUE>
+            </LIST_TYPE>
+            <LAST_DAY_UPDATED>
+                <VALUE>2023-12-14</VALUE>
+                <VALUE>2009-03-24</VALUE>
+                <VALUE>2012-11-15</VALUE>
+                <VALUE>2013-03-14</VALUE>
+                <VALUE>2016-02-11</VALUE>
+                <VALUE>2020-11-24</VALUE>
+            </LAST_DAY_UPDATED>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY>Good</QUALITY>
+                <ALIAS_NAME>Abou Mohamed Salah</ALIAS_NAME>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY>Low</QUALITY>
+                <ALIAS_NAME>Bounouadher</ALIAS_NAME>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY>Good</QUALITY>
+                <ALIAS_NAME>ABOU MALEK</ALIAS_NAME>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY>Low</QUALITY>
+                <ALIAS_NAME>BOUNOUADER</ALIAS_NAME>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ADDRESS>
+                <CITY>No. 7250 Zeribat El Oued, Biskra</CITY>
+                <COUNTRY>Algeria</COUNTRY>
+            </INDIVIDUAL_ADDRESS>
+            <INDIVIDUAL_DATE_OF_BIRTH>
+                <TYPE_OF_DATE>EXACT</TYPE_OF_DATE>
+                <DATE>1971-04-13</DATE>
+            </INDIVIDUAL_DATE_OF_BIRTH>
+            <INDIVIDUAL_PLACE_OF_BIRTH>
+                <CITY>Zeribet El Oued</CITY>
+                <STATE_PROVINCE>Wilaya (province) of Biskra</STATE_PROVINCE>
+                <COUNTRY>Algeria</COUNTRY>
+            </INDIVIDUAL_PLACE_OF_BIRTH>
+            <INDIVIDUAL_DOCUMENT/>
+            <SORT_KEY/>
+            <SORT_KEY_LAST_MOD/>
+        </INDIVIDUAL>
+        <INDIVIDUAL>
+            <DATAID>2902221</DATAID>
+            <VERSIONNUM>1</VERSIONNUM>
+            <FIRST_NAME>MOHAMED</FIRST_NAME>
+            <SECOND_NAME>BELKALEM</SECOND_NAME>
+            <UN_LIST_TYPE>Al-Qaida</UN_LIST_TYPE>
+            <REFERENCE_NUMBER>QDi.279</REFERENCE_NUMBER>
+            <LISTED_ON>2010-04-22</LISTED_ON>
+            <NAME_ORIGINAL_SCRIPT>محمد بلكلام</NAME_ORIGINAL_SCRIPT>
+            <COMMENTS1>Reportedly a member of Jama'a Nusrat ul-Islam wa al-Muslimin (JNIM, QDe.159) as of November 2023. Convicted in absentia by Algerian tribunal on 28 Mar. 1996. Algerian international arrest warrant number 03/09 of 6 Jun. 2009 issued by the Tribunal of Sidi Mhamed, Algiers, Algeria. Algerian extradition request number 2307/09 of 3 Sep. 2009, presented to Malian authorities. Father’s name is Ali Belkalem. Mother’s name is Fatma Saadoudi. Member of The Organization of Al-Qaida in the Islamic Maghreb (QDe.014). Review pursuant to Security Council resolution 2368 (2017) was concluded on 4 Dec. 2019. Photograph and fingerprints available for inclusion in INTERPOL-UNSC Special Notice.  INTERPOL-UN Security Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals</COMMENTS1>
+            <NATIONALITY>
+                <VALUE>Algeria</VALUE>
+            </NATIONALITY>
+            <LIST_TYPE>
+                <VALUE>UN List</VALUE>
+            </LIST_TYPE>
+            <LAST_DAY_UPDATED>
+                <VALUE>2023-12-14</VALUE>
+                <VALUE>2014-04-15</VALUE>
+                <VALUE>2019-12-06</VALUE>
+            </LAST_DAY_UPDATED>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY>Low</QUALITY>
+                <ALIAS_NAME>Abdelali Abou Dher (عبد العالي ابو ذر)</ALIAS_NAME>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY>Low</QUALITY>
+                <ALIAS_NAME>El Harrachi (الحراشي)</ALIAS_NAME>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ADDRESS>
+                <COUNTRY>Mali</COUNTRY>
+            </INDIVIDUAL_ADDRESS>
+            <INDIVIDUAL_ADDRESS>
+                <CITY>Cité Djenane Mabrouk, Algiers</CITY>
+                <COUNTRY>Algeria</COUNTRY>
+            </INDIVIDUAL_ADDRESS>
+            <INDIVIDUAL_DATE_OF_BIRTH>
+                <TYPE_OF_DATE>EXACT</TYPE_OF_DATE>
+                <DATE>1969-12-19</DATE>
+            </INDIVIDUAL_DATE_OF_BIRTH>
+            <INDIVIDUAL_PLACE_OF_BIRTH>
+                <CITY>Hussein Dey</CITY>
+                <STATE_PROVINCE>Algiers</STATE_PROVINCE>
+                <COUNTRY>Algeria</COUNTRY>
+            </INDIVIDUAL_PLACE_OF_BIRTH>
+            <INDIVIDUAL_DOCUMENT/>
+            <SORT_KEY/>
+            <SORT_KEY_LAST_MOD/>
+        </INDIVIDUAL>
+        <INDIVIDUAL>
+            <DATAID>2901762</DATAID>
+            <VERSIONNUM>1</VERSIONNUM>
+            <FIRST_NAME>TAYEB</FIRST_NAME>
+            <SECOND_NAME>NAIL</SECOND_NAME>
+            <UN_LIST_TYPE>Al-Qaida</UN_LIST_TYPE>
+            <REFERENCE_NUMBER>QDi.280</REFERENCE_NUMBER>
+            <LISTED_ON>2010-04-22</LISTED_ON>
+            <NAME_ORIGINAL_SCRIPT>الطيب نايل</NAME_ORIGINAL_SCRIPT>
+            <COMMENTS1>Reportedly a member of Jama'a Nusrat ul-Islam wa al-Muslimin (JNIM, QDe.159) as of November 2023. Convicted in absentia by Algerian tribunal on 28 Mar. 1996. Algerian international arrest warrant number 04/09 of 6 Jun. 2009 issued by the Tribunal of Sidi Mhamed, Algiers, Algeria. Algerian extradition request number 2307/09 of 3 Sep. 2009, presented to Malian authorities. Father’s name was Benazouz Nail. Mother’s name is Belkheiri Oum El Kheir. Member of The Organization of Al-Qaida in the Islamic Maghreb (QDe.014). Photograph and fingerprints available for inclusion in INTERPOL-UNSC Special Notice. Review pursuant to Security Council resolution 2368 (2017) was concluded on 4 Dec. 2019. INTERPOL-UN Security Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals</COMMENTS1>
+            <NATIONALITY>
+                <VALUE>Algeria</VALUE>
+            </NATIONALITY>
+            <LIST_TYPE>
+                <VALUE>UN List</VALUE>
+            </LIST_TYPE>
+            <LAST_DAY_UPDATED>
+                <VALUE>2023-12-14</VALUE>
+                <VALUE>2014-04-15</VALUE>
+                <VALUE>2019-12-06</VALUE>
+            </LAST_DAY_UPDATED>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY>Good</QUALITY>
+                <ALIAS_NAME>Djaafar Abou Mohamed (جعفر ابو محمد)</ALIAS_NAME>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY>Good</QUALITY>
+                <ALIAS_NAME>Abou Mouhadjir (ابو مهاجر)</ALIAS_NAME>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY>Good</QUALITY>
+                <ALIAS_NAME>Mohamed Ould Ahmed Ould Ali</ALIAS_NAME>
+                <NOTE>born in 1976</NOTE>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ADDRESS>
+                <COUNTRY>Mali</COUNTRY>
+            </INDIVIDUAL_ADDRESS>
+            <INDIVIDUAL_ADDRESS>
+                <STREET>Cité Feradj Lakhdar, Merine, Sidi Bel Abbes</STREET>
+                <COUNTRY>Algeria</COUNTRY>
+            </INDIVIDUAL_ADDRESS>
+            <INDIVIDUAL_DATE_OF_BIRTH>
+                <TYPE_OF_DATE>APPROXIMATELY</TYPE_OF_DATE>
+                <YEAR>1972</YEAR>
+            </INDIVIDUAL_DATE_OF_BIRTH>
+            <INDIVIDUAL_PLACE_OF_BIRTH>
+                <CITY>Faidh El Batma</CITY>
+                <STATE_PROVINCE>Djelfa</STATE_PROVINCE>
+                <COUNTRY>Algeria</COUNTRY>
+            </INDIVIDUAL_PLACE_OF_BIRTH>
+            <INDIVIDUAL_DOCUMENT/>
+            <SORT_KEY/>
+            <SORT_KEY_LAST_MOD/>
+        </INDIVIDUAL>
+        <INDIVIDUAL>
+            <DATAID>2974555</DATAID>
+            <VERSIONNUM>1</VERSIONNUM>
+            <FIRST_NAME>ABD AL-RAHMAN</FIRST_NAME>
+            <SECOND_NAME>OULD MUHAMMAD AL-HUSAYN</SECOND_NAME>
+            <THIRD_NAME>OULD MUHAMMAD SALIM</THIRD_NAME>
+            <UN_LIST_TYPE>Al-Qaida</UN_LIST_TYPE>
+            <REFERENCE_NUMBER>QDi.298</REFERENCE_NUMBER>
+            <LISTED_ON>2011-09-15</LISTED_ON>
+            <NAME_ORIGINAL_SCRIPT>عبد الرحمن ولد محمد الحسين ولد محمد سليم</NAME_ORIGINAL_SCRIPT>
+            <COMMENTS1>Senior Al-Qaida (QDe.004) leader, also associated with The Organization of Al-Qaida in the Islamic Maghreb (QDe.014). Wanted by Mauritanian authorities. He is in Mauritania since his extradition from Pakistan in 2014. Review pursuant to Security Council resolution 2368 (2017) was concluded on 24 November 2020.  INTERPOL-UN Security Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals</COMMENTS1>
+            <NATIONALITY>
+                <VALUE>Mauritania</VALUE>
+            </NATIONALITY>
+            <LIST_TYPE>
+                <VALUE>UN List</VALUE>
+            </LIST_TYPE>
+            <LAST_DAY_UPDATED>
+                <VALUE>2023-12-14</VALUE>
+                <VALUE>2020-11-24</VALUE>
+            </LAST_DAY_UPDATED>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY>Good</QUALITY>
+                <ALIAS_NAME>Abdarrahmane ould Mohamed el Houcein ould Mohamed
+Salem</ALIAS_NAME>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY>Good</QUALITY>
+                <ALIAS_NAME>شيخ يونس الموريتاني</ALIAS_NAME>
+                <NOTE>Yunis al-Mauritani; Younis al-Mauritani; Sheikh Yunis al-Mauritani; Shaykh
+Yunis the Mauritanian</NOTE>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY>Low</QUALITY>
+                <ALIAS_NAME>Salih the Mauritanian</ALIAS_NAME>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY>Low</QUALITY>
+                <ALIAS_NAME>Mohamed Salem</ALIAS_NAME>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY>Low</QUALITY>
+                <ALIAS_NAME>Youssef Ould Abdel Jelil</ALIAS_NAME>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY>Low</QUALITY>
+                <ALIAS_NAME>El Hadj Ould Abdel Ghader</ALIAS_NAME>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY>Low</QUALITY>
+                <ALIAS_NAME>Abdel Khader</ALIAS_NAME>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY>Low</QUALITY>
+                <ALIAS_NAME>Abou Souleimane</ALIAS_NAME>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY>Low</QUALITY>
+                <ALIAS_NAME>Chingheity</ALIAS_NAME>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ADDRESS>
+                <COUNTRY>Mauritania</COUNTRY>
+            </INDIVIDUAL_ADDRESS>
+            <INDIVIDUAL_DATE_OF_BIRTH>
+                <TYPE_OF_DATE>APPROXIMATELY</TYPE_OF_DATE>
+                <YEAR>1981</YEAR>
+            </INDIVIDUAL_DATE_OF_BIRTH>
+            <INDIVIDUAL_PLACE_OF_BIRTH>
+                <COUNTRY>Saudi Arabia</COUNTRY>
+            </INDIVIDUAL_PLACE_OF_BIRTH>
+            <INDIVIDUAL_DOCUMENT/>
+            <SORT_KEY/>
+            <SORT_KEY_LAST_MOD/>
+        </INDIVIDUAL>
+        <INDIVIDUAL>
+            <DATAID>6908423</DATAID>
+            <VERSIONNUM>1</VERSIONNUM>
+            <FIRST_NAME>SAID</FIRST_NAME>
+            <SECOND_NAME>ARIF</SECOND_NAME>
+            <UN_LIST_TYPE>Al-Qaida</UN_LIST_TYPE>
+            <REFERENCE_NUMBER>QDi.323</REFERENCE_NUMBER>
+            <LISTED_ON>2014-08-15</LISTED_ON>
+            <COMMENTS1>Reportedly killed in an air strike in Syria on 25 May 2015. A veteran member of the ‘Chechen Network’ (not listed) and other terrorist groups. He was convicted of his role and membership in the ‘Chechen Network’ in France in 2006. Joined Jabhat al-Nusrah, listed as Al-Nusrah Front for the People of the Levant (QDe.137) in October 2013. Father’s name: Mohamed. Mother’s name: Saliha Boukhari. Photograph and fingerprints available for inclusion in INTERPOL-UNSC Special Notice. Review pursuant to Security Council resolution 2368 (2017) was concluded on 4 Dec. 2019. INTERPOL-UN Security Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals</COMMENTS1>
+            <NATIONALITY>
+                <VALUE>Algeria</VALUE>
+            </NATIONALITY>
+            <LIST_TYPE>
+                <VALUE>UN List</VALUE>
+            </LIST_TYPE>
+            <LAST_DAY_UPDATED>
+                <VALUE>2023-12-14</VALUE>
+                <VALUE>2019-12-06</VALUE>
+            </LAST_DAY_UPDATED>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY>Good</QUALITY>
+                <ALIAS_NAME>Said Mohamed Arif</ALIAS_NAME>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY>Good</QUALITY>
+                <ALIAS_NAME>Omar Gharib</ALIAS_NAME>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY>Good</QUALITY>
+                <ALIAS_NAME>Abderahmane</ALIAS_NAME>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY>Good</QUALITY>
+                <ALIAS_NAME>Abdallah al-Jazairi</ALIAS_NAME>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY>Good</QUALITY>
+                <ALIAS_NAME>Slimane Chabani</ALIAS_NAME>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY>Good</QUALITY>
+                <ALIAS_NAME>Souleiman</ALIAS_NAME>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY>Good</QUALITY>
+                <ALIAS_NAME>ABOU SOULEIMAN</ALIAS_NAME>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY>Low</QUALITY>
+                <ALIAS_NAME>ABDULLAH</ALIAS_NAME>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY>Low</QUALITY>
+                <ALIAS_NAME>ABDALLAH</ALIAS_NAME>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY>Low</QUALITY>
+                <ALIAS_NAME>ABU ABDULLAH</ALIAS_NAME>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ADDRESS>
+                <STREET> 78 Boulevard Bezghoud Mustapha, Oran</STREET>
+                <COUNTRY>Algeria</COUNTRY>
+            </INDIVIDUAL_ADDRESS>
+            <INDIVIDUAL_ADDRESS>
+                <STREET>No. 12 Rue Lyonnais, Ain Turk, Oran</STREET>
+                <COUNTRY>Algeria</COUNTRY>
+            </INDIVIDUAL_ADDRESS>
+            <INDIVIDUAL_DATE_OF_BIRTH>
+                <TYPE_OF_DATE>EXACT</TYPE_OF_DATE>
+                <DATE>1964-06-25</DATE>
+            </INDIVIDUAL_DATE_OF_BIRTH>
+            <INDIVIDUAL_DATE_OF_BIRTH>
+                <TYPE_OF_DATE>EXACT</TYPE_OF_DATE>
+                <DATE>1969-12-05</DATE>
+            </INDIVIDUAL_DATE_OF_BIRTH>
+            <INDIVIDUAL_DATE_OF_BIRTH>
+                <TYPE_OF_DATE>EXACT</TYPE_OF_DATE>
+                <DATE>1965-05-12</DATE>
+            </INDIVIDUAL_DATE_OF_BIRTH>
+            <INDIVIDUAL_PLACE_OF_BIRTH>
+                <CITY>Oran</CITY>
+                <COUNTRY>Algeria</COUNTRY>
+            </INDIVIDUAL_PLACE_OF_BIRTH>
+            <INDIVIDUAL_DOCUMENT/>
+            <SORT_KEY/>
+            <SORT_KEY_LAST_MOD/>
+        </INDIVIDUAL>
+        <INDIVIDUAL>
+            <DATAID>111763</DATAID>
+            <VERSIONNUM>1</VERSIONNUM>
+            <FIRST_NAME>KHALID</FIRST_NAME>
+            <SECOND_NAME>ABD AL-RAHMAN</SECOND_NAME>
+            <THIRD_NAME>HAMD</THIRD_NAME>
+            <FOURTH_NAME>AL-FAWAZ</FOURTH_NAME>
+            <UN_LIST_TYPE>Al-Qaida</UN_LIST_TYPE>
+            <REFERENCE_NUMBER>QDi.059</REFERENCE_NUMBER>
+            <LISTED_ON>2002-04-24</LISTED_ON>
+            <NAME_ORIGINAL_SCRIPT>خالد عبد الرحمن حمد الفواز</NAME_ORIGINAL_SCRIPT>
+            <COMMENTS1>Extradited from the United Kingdom to the United States of America on 5
+Oct. 2012. Review pursuant to Security Council resolution 1822 (2008) was concluded on
+22 Apr. 2010. Review pursuant to Security Council resolution 2368 (2017) was concluded on 4 Dec. 2019. INTERPOL-UN Security Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals</COMMENTS1>
+            <NATIONALITY>
+                <VALUE>Saudi Arabia</VALUE>
+            </NATIONALITY>
+            <LIST_TYPE>
+                <VALUE>UN List</VALUE>
+            </LIST_TYPE>
+            <LAST_DAY_UPDATED>
+                <VALUE>2023-12-14</VALUE>
+                <VALUE>2004-11-26</VALUE>
+                <VALUE>2007-04-23</VALUE>
+                <VALUE>2010-10-21</VALUE>
+                <VALUE>2014-08-04</VALUE>
+                <VALUE>2019-12-06</VALUE>
+            </LAST_DAY_UPDATED>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY>Good</QUALITY>
+                <ALIAS_NAME>Khaled Al-Fauwaz</ALIAS_NAME>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY>Good</QUALITY>
+                <ALIAS_NAME>Khaled A. Al-Fauwaz</ALIAS_NAME>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY>Good</QUALITY>
+                <ALIAS_NAME>Khalid Al-Fawwaz</ALIAS_NAME>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY>Good</QUALITY>
+                <ALIAS_NAME>Khalik Al Fawwaz</ALIAS_NAME>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY>Good</QUALITY>
+                <ALIAS_NAME>Khaled Al-Fawwaz</ALIAS_NAME>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY>Good</QUALITY>
+                <ALIAS_NAME>Khaled Al Fawwaz</ALIAS_NAME>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY>Good</QUALITY>
+                <ALIAS_NAME>Khalid Abdulrahman H. Al Fawaz</ALIAS_NAME>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY>Good</QUALITY>
+                <ALIAS_NAME>ABU-KHALIL</ALIAS_NAME>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ADDRESS>
+                <COUNTRY>United States of America</COUNTRY>
+            </INDIVIDUAL_ADDRESS>
+            <INDIVIDUAL_DATE_OF_BIRTH>
+                <TYPE_OF_DATE>EXACT</TYPE_OF_DATE>
+                <DATE>1962-08-24</DATE>
+            </INDIVIDUAL_DATE_OF_BIRTH>
+            <INDIVIDUAL_PLACE_OF_BIRTH>
+                <COUNTRY>Kuwait</COUNTRY>
+            </INDIVIDUAL_PLACE_OF_BIRTH>
+            <INDIVIDUAL_DOCUMENT>
+                <TYPE_OF_DOCUMENT>Passport</TYPE_OF_DOCUMENT>
+                <NUMBER>456682</NUMBER>
+                <DATE_OF_ISSUE>1990-11-06</DATE_OF_ISSUE>
+                <NOTE>expired on 13 Sep. 1995</NOTE>
+            </INDIVIDUAL_DOCUMENT>
+            <SORT_KEY/>
+            <SORT_KEY_LAST_MOD/>
+        </INDIVIDUAL>
+        <INDIVIDUAL>
+            <DATAID>2830354</DATAID>
+            <VERSIONNUM>1</VERSIONNUM>
+            <FIRST_NAME>ADEM</FIRST_NAME>
+            <SECOND_NAME>YILMAZ</SECOND_NAME>
+            <UN_LIST_TYPE>Al-Qaida</UN_LIST_TYPE>
+            <REFERENCE_NUMBER>QDi.261</REFERENCE_NUMBER>
+            <LISTED_ON>2008-10-27</LISTED_ON>
+            <COMMENTS1>Associated with the Islamic Jihad Union (IJU), also known as the Islamic Jihad Group (QDe.119). Deported from Germany to Türkiye in February 2019. Ongoing judicial process as of November 2023. Review pursuant to Security Council resolution 2368 (2017) was concluded on 4 Dec. 2019.  INTERPOL-UN Security Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals</COMMENTS1>
+            <NATIONALITY>
+                <VALUE>Türkiye</VALUE>
+            </NATIONALITY>
+            <LIST_TYPE>
+                <VALUE>UN List</VALUE>
+            </LIST_TYPE>
+            <LAST_DAY_UPDATED>
+                <VALUE>2023-12-14</VALUE>
+                <VALUE>2011-12-13</VALUE>
+                <VALUE>2019-12-06</VALUE>
+            </LAST_DAY_UPDATED>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY>Low</QUALITY>
+                <ALIAS_NAME>Talha</ALIAS_NAME>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ADDRESS>
+                <STREET>Südliche Ringstrasse 133 </STREET>
+                <STATE_PROVINCE>Langen</STATE_PROVINCE>
+                <ZIP_CODE>63225</ZIP_CODE>
+                <COUNTRY>Germany</COUNTRY>
+                <NOTE>previous address</NOTE>
+            </INDIVIDUAL_ADDRESS>
+            <INDIVIDUAL_ADDRESS>
+                <COUNTRY>Türkiye</COUNTRY>
+            </INDIVIDUAL_ADDRESS>
+            <INDIVIDUAL_DATE_OF_BIRTH>
+                <TYPE_OF_DATE>EXACT</TYPE_OF_DATE>
+                <DATE>1978-11-04</DATE>
+            </INDIVIDUAL_DATE_OF_BIRTH>
+            <INDIVIDUAL_PLACE_OF_BIRTH>
+                <CITY>Bayburt</CITY>
+                <COUNTRY>Türkiye</COUNTRY>
+            </INDIVIDUAL_PLACE_OF_BIRTH>
+            <INDIVIDUAL_DOCUMENT>
+                <TYPE_OF_DOCUMENT>Passport</TYPE_OF_DOCUMENT>
+                <NUMBER>TR-P 614 166</NUMBER>
+                <ISSUING_COUNTRY>Türkiye</ISSUING_COUNTRY>
+                <NOTE>issued by the Turkish Consulate General in Frankfurt/M. on 22 Mar. 2006,
+expired on 15 Sep. 2009.</NOTE>
+            </INDIVIDUAL_DOCUMENT>
+            <SORT_KEY/>
+            <SORT_KEY_LAST_MOD/>
+        </INDIVIDUAL>
+        <INDIVIDUAL>
+            <DATAID>6908407</DATAID>
+            <VERSIONNUM>1</VERSIONNUM>
+            <FIRST_NAME>AHMED</FIRST_NAME>
+            <SECOND_NAME>ABDULLAH</SECOND_NAME>
+            <THIRD_NAME>SALEH AL-KHAZMARI</THIRD_NAME>
+            <FOURTH_NAME>AL-ZAHRANI</FOURTH_NAME>
+            <UN_LIST_TYPE>Al-Qaida</UN_LIST_TYPE>
+            <REFERENCE_NUMBER>QDi.329</REFERENCE_NUMBER>
+            <LISTED_ON>2014-09-23</LISTED_ON>
+            <COMMENTS1>Senior member of Al-Qaida (QDe.004). Reportedly killed in January 2020 in Yemen. Wanted by the Saudi Arabian Government for terrorism. Father's name is Abdullah Saleh al Zahrani. Physical description: eye colour: dark; hair colour: dark; complexion: olive. Speaks Arabic. Photo available for inclusion in the INTERPOL-UN Security Council Special Notice. Review pursuant to Security Council resolution 2368 (2017) was concluded on 4 Dec. INTERPOL-UN Security Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals</COMMENTS1>
+            <NATIONALITY>
+                <VALUE>Saudi Arabia</VALUE>
+            </NATIONALITY>
+            <LIST_TYPE>
+                <VALUE>UN List</VALUE>
+            </LIST_TYPE>
+            <LAST_DAY_UPDATED>
+                <VALUE>2023-12-14</VALUE>
+                <VALUE>2019-12-06</VALUE>
+            </LAST_DAY_UPDATED>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY>Good</QUALITY>
+                <ALIAS_NAME>Abu Maryam al-Zahrani</ALIAS_NAME>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY>Good</QUALITY>
+                <ALIAS_NAME>Abu Maryam al-Saudi</ALIAS_NAME>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY>Good</QUALITY>
+                <ALIAS_NAME>Ahmed Abdullah S al-Zahrani</ALIAS_NAME>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY>Good</QUALITY>
+                <ALIAS_NAME>Ahmad Abdullah Salih al-Zahrani</ALIAS_NAME>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY>Good</QUALITY>
+                <ALIAS_NAME>Abu Maryam al-Azadi</ALIAS_NAME>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY>Good</QUALITY>
+                <ALIAS_NAME>Ahmed bin Abdullah Saleh bin al-Zahrani</ALIAS_NAME>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY>Good</QUALITY>
+                <ALIAS_NAME>Ahmed Abdullah Saleh al-Zahrani al-Khozmri</ALIAS_NAME>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ADDRESS>
+                <NOTE>Located in Syria</NOTE>
+            </INDIVIDUAL_ADDRESS>
+            <INDIVIDUAL_DATE_OF_BIRTH>
+                <TYPE_OF_DATE>EXACT</TYPE_OF_DATE>
+                <DATE>1978-09-15</DATE>
+            </INDIVIDUAL_DATE_OF_BIRTH>
+            <INDIVIDUAL_PLACE_OF_BIRTH>
+                <CITY>Dammam</CITY>
+                <COUNTRY>Saudi Arabia</COUNTRY>
+            </INDIVIDUAL_PLACE_OF_BIRTH>
+            <INDIVIDUAL_DOCUMENT>
+                <TYPE_OF_DOCUMENT>Passport</TYPE_OF_DOCUMENT>
+                <NUMBER>E126785</NUMBER>
+                <ISSUING_COUNTRY>Saudi Arabia</ISSUING_COUNTRY>
+                <DATE_OF_ISSUE>2002-05-27</DATE_OF_ISSUE>
+                <NOTE>expired on 3 Apr. 2007</NOTE>
+            </INDIVIDUAL_DOCUMENT>
+            <SORT_KEY/>
+            <SORT_KEY_LAST_MOD/>
+        </INDIVIDUAL>
+        <INDIVIDUAL>
+            <DATAID>6908419</DATAID>
+            <VERSIONNUM>1</VERSIONNUM>
+            <FIRST_NAME>‘ABD AL-RAHMAN</FIRST_NAME>
+            <SECOND_NAME>MUHAMMAD</SECOND_NAME>
+            <THIRD_NAME>MUSTAFA</THIRD_NAME>
+            <FOURTH_NAME>AL-QADULI</FOURTH_NAME>
+            <UN_LIST_TYPE>Al-Qaida</UN_LIST_TYPE>
+            <REFERENCE_NUMBER>QDi.339</REFERENCE_NUMBER>
+            <LISTED_ON>2014-09-23</LISTED_ON>
+            <COMMENTS1>Senior Islamic State in Iraq and the Levant (ISIL), listed as Al-Qaida in Iraq (AQI) (QDe.115), official. Reportedly killed in Syria in 2016. Previously served as a representative of AQI to Al-Qaida (QDe.004) senior leadership in Pakistan. Review pursuant to Security Council resolution 2368 (2017) was concluded on 4 Dec. 2019. INTERPOL-UN Security Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals</COMMENTS1>
+            <NATIONALITY>
+                <VALUE>Iraq</VALUE>
+            </NATIONALITY>
+            <LIST_TYPE>
+                <VALUE>UN List</VALUE>
+            </LIST_TYPE>
+            <LAST_DAY_UPDATED>
+                <VALUE>2023-12-14</VALUE>
+                <VALUE>2019-12-06</VALUE>
+            </LAST_DAY_UPDATED>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY/>
+                <ALIAS_NAME/>
+                <DATE_OF_BIRTH>1957</DATE_OF_BIRTH>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY>Good</QUALITY>
+                <ALIAS_NAME>‘Abd al-Rahman Muhammad Mustafa Shaykhlari</ALIAS_NAME>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY>Good</QUALITY>
+                <ALIAS_NAME>Umar Muhammad Khalil Mustafa</ALIAS_NAME>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY>Good</QUALITY>
+                <ALIAS_NAME>Abdul Rahman Muhammad al-Bayati</ALIAS_NAME>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY>Good</QUALITY>
+                <ALIAS_NAME>Tahir Muhammad Khalil Mustafa al-Bayati</ALIAS_NAME>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY>Good</QUALITY>
+                <ALIAS_NAME>Aliazra Ra’ad Ahmad</ALIAS_NAME>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY>Low</QUALITY>
+                <ALIAS_NAME>Abu-Shuayb</ALIAS_NAME>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY>Low</QUALITY>
+                <ALIAS_NAME>Hajji Iman</ALIAS_NAME>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY>Low</QUALITY>
+                <ALIAS_NAME>Abu Iman</ALIAS_NAME>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY>Low</QUALITY>
+                <ALIAS_NAME>Abu Ala</ALIAS_NAME>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY>Low</QUALITY>
+                <ALIAS_NAME>Abu Hasan</ALIAS_NAME>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY>Low</QUALITY>
+                <ALIAS_NAME>Abu Muhammad</ALIAS_NAME>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY>Low</QUALITY>
+                <ALIAS_NAME>Abu Zayna</ALIAS_NAME>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ADDRESS>
+                <COUNTRY/>
+            </INDIVIDUAL_ADDRESS>
+            <INDIVIDUAL_DATE_OF_BIRTH>
+                <TYPE_OF_DATE>EXACT</TYPE_OF_DATE>
+                <YEAR>1959</YEAR>
+            </INDIVIDUAL_DATE_OF_BIRTH>
+            <INDIVIDUAL_PLACE_OF_BIRTH>
+                <CITY>Mosul</CITY>
+                <STATE_PROVINCE>Ninawa Province</STATE_PROVINCE>
+                <COUNTRY>Iraq</COUNTRY>
+            </INDIVIDUAL_PLACE_OF_BIRTH>
+            <INDIVIDUAL_DOCUMENT/>
+            <SORT_KEY/>
+            <SORT_KEY_LAST_MOD/>
+        </INDIVIDUAL>
+        <INDIVIDUAL>
+            <DATAID>6908720</DATAID>
+            <VERSIONNUM>1</VERSIONNUM>
+            <FIRST_NAME>MOHAMAD</FIRST_NAME>
+            <SECOND_NAME>RAFI</SECOND_NAME>
+            <THIRD_NAME>BIN UDIN</THIRD_NAME>
+            <UN_LIST_TYPE>Al-Qaida</UN_LIST_TYPE>
+            <REFERENCE_NUMBER>QDi.417</REFERENCE_NUMBER>
+            <LISTED_ON>2018-08-23</LISTED_ON>
+            <COMMENTS1>Senior member of Islamic State in Iraq and the Levant (ISIL), listed as Al-Qaida in Iraq (QDe.115). Recruited for ISIL and instructed individuals to perpetrate terrorist acts via online video. Reportedly deceased. Physical description: eye colour: brown; hair colour: brown; complexion: dark. Speaks Malay, English, limited Arabic. INTERPOL-UN Security Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals</COMMENTS1>
+            <NATIONALITY>
+                <VALUE>Malaysia</VALUE>
+                <VALUE>Indonesia</VALUE>
+            </NATIONALITY>
+            <LIST_TYPE>
+                <VALUE>UN List</VALUE>
+            </LIST_TYPE>
+            <LAST_DAY_UPDATED>
+                <VALUE>2023-12-14</VALUE>
+            </LAST_DAY_UPDATED>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY>Low</QUALITY>
+                <ALIAS_NAME>Mohd Radi Bin Udin</ALIAS_NAME>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY>Low</QUALITY>
+                <ALIAS_NAME>Abu Awn al Malizi</ALIAS_NAME>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY>Low</QUALITY>
+                <ALIAS_NAME>Muhammad Ratin</ALIAS_NAME>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY>Low</QUALITY>
+                <ALIAS_NAME>Muhammad Rafiuddin</ALIAS_NAME>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY>Low</QUALITY>
+                <ALIAS_NAME>Abu Una al Malayzie</ALIAS_NAME>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY>Low</QUALITY>
+                <ALIAS_NAME>Mhammad Rahim Bin Udin</ALIAS_NAME>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY>Low</QUALITY>
+                <ALIAS_NAME>Abu Ayn Tok Cit</ALIAS_NAME>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY>Low</QUALITY>
+                <ALIAS_NAME>Muhammad Ratin Bin Nurdin</ALIAS_NAME>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ADDRESS>
+                <STREET> B-3B-19 Glenview Villa, Jalan 49 Off Jalan Kuari, Taman Pinggiran Cheras, 56000</STREET>
+                <CITY>Kuala Lumpur</CITY>
+                <STATE_PROVINCE>Wilayah Persekutuan Kuala Lumpur</STATE_PROVINCE>
+                <COUNTRY>Malaysia</COUNTRY>
+                <NOTE>as at 30 Jan. 2014</NOTE>
+            </INDIVIDUAL_ADDRESS>
+            <INDIVIDUAL_ADDRESS>
+                <STREET>90-00-04 Flat Sri Kota, Bandar Tun Razak, 56100</STREET>
+                <CITY>Kuala Lumpur</CITY>
+                <STATE_PROVINCE>Wilayah Persekutuan Kuala Lumpur</STATE_PROVINCE>
+                <COUNTRY>Malaysia</COUNTRY>
+                <NOTE>as at 23 Apr. 2010</NOTE>
+            </INDIVIDUAL_ADDRESS>
+            <INDIVIDUAL_ADDRESS>
+                <STREET>96-06-06 Flat Sri Kota, Bandar Tun Razak, 56100</STREET>
+                <CITY>Kuala Lumpur</CITY>
+                <STATE_PROVINCE>Wilayah Persekutuan Kuala Lumpur</STATE_PROVINCE>
+                <COUNTRY>Malaysia</COUNTRY>
+                <NOTE>as at 6 Apr. 2007</NOTE>
+            </INDIVIDUAL_ADDRESS>
+            <INDIVIDUAL_ADDRESS>
+                <COUNTRY>Syrian Arab Republic</COUNTRY>
+                <NOTE>location since 2014</NOTE>
+            </INDIVIDUAL_ADDRESS>
+            <INDIVIDUAL_DATE_OF_BIRTH>
+                <TYPE_OF_DATE>EXACT</TYPE_OF_DATE>
+                <DATE>1966-06-03</DATE>
+            </INDIVIDUAL_DATE_OF_BIRTH>
+            <INDIVIDUAL_PLACE_OF_BIRTH>
+                <CITY>Negri Sembilan</CITY>
+                <COUNTRY>Malaysia</COUNTRY>
+            </INDIVIDUAL_PLACE_OF_BIRTH>
+            <INDIVIDUAL_DOCUMENT>
+                <TYPE_OF_DOCUMENT>Passport</TYPE_OF_DOCUMENT>
+                <NUMBER>A31142734</NUMBER>
+                <ISSUING_COUNTRY>Malaysia</ISSUING_COUNTRY>
+                <DATE_OF_ISSUE>2013-11-06</DATE_OF_ISSUE>
+                <NOTE>issued by the Immigration Department of Malaysia, expiration date 6 Nov.
+2015</NOTE>
+            </INDIVIDUAL_DOCUMENT>
+            <INDIVIDUAL_DOCUMENT>
+                <TYPE_OF_DOCUMENT>National Identification Number</TYPE_OF_DOCUMENT>
+                <TYPE_OF_DOCUMENT2>National Identification Card</TYPE_OF_DOCUMENT2>
+                <NUMBER>660603-05-5267</NUMBER>
+                <ISSUING_COUNTRY>Malaysia</ISSUING_COUNTRY>
+                <NOTE>issued by National Registration Department of Malaysia; issued to Mohd Rafi
+bin Udin</NOTE>
+            </INDIVIDUAL_DOCUMENT>
+            <SORT_KEY/>
+            <SORT_KEY_LAST_MOD/>
+        </INDIVIDUAL>
+        <INDIVIDUAL>
             <DATAID>111785</DATAID>
             <VERSIONNUM>1</VERSIONNUM>
             <FIRST_NAME>HABIB</FIRST_NAME>
@@ -40353,106 +40380,6 @@ ul-Mujahidin/ HUM (QDe.008), Lashkar I Jhanghvi (LJ) (QDe.096) and Lashkar-e-Tay
                 <STREET>Gulistan-e-Jauhar, Block 12</STREET>
                 <CITY>Karachi</CITY>
                 <COUNTRY>Pakistan</COUNTRY>
-            </ENTITY_ADDRESS>
-            <SORT_KEY/>
-            <SORT_KEY_LAST_MOD/>
-        </ENTITY>
-        <ENTITY>
-            <DATAID>113231</DATAID>
-            <VERSIONNUM>1</VERSIONNUM>
-            <FIRST_NAME>AL FURQAN</FIRST_NAME>
-            <UN_LIST_TYPE>Al-Qaida</UN_LIST_TYPE>
-            <REFERENCE_NUMBER>QDe.107</REFERENCE_NUMBER>
-            <LISTED_ON>2004-05-11</LISTED_ON>
-            <COMMENTS1>Registered in Bosnia and Herzegovina as a citizens’ association under the name
-                of “Citizens’ Association for Support and Prevention of lies – Furqan” on 26 Sep.
-                1997. Al Furqan ceased its work by decision of the Ministry of Justice of the Bosnia
-                and Herzegovina Federation (decision number 03-054-286/97 dated 8 Nov. 2002). Al
-                Furqan was no longer in existence as at Dec. 2008. Review pursuant to Security
-                Council resolution 1822 (2008) was concluded on 15 Jun. 2010. Review pursuant to
-                Security Council resolution 2253 (2015) was concluded on 21 Feb. 2019. Review pursuant to Security Council resolution 2368 (2017) was concluded on 15 November 2021. INTERPOL-UN Security Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals</COMMENTS1>
-            <LIST_TYPE>
-                <VALUE>UN List</VALUE>
-            </LIST_TYPE>
-            <LAST_DAY_UPDATED>
-                <VALUE>2004-11-26</VALUE>
-                <VALUE>2009-03-24</VALUE>
-                <VALUE>2019-05-01</VALUE>
-                <VALUE>2021-11-15</VALUE>
-            </LAST_DAY_UPDATED>
-            <ENTITY_ALIAS>
-                <QUALITY>a.k.a.</QUALITY>
-                <ALIAS_NAME>Dzemilijati Furkan</ALIAS_NAME>
-            </ENTITY_ALIAS>
-            <ENTITY_ALIAS>
-                <QUALITY>a.k.a.</QUALITY>
-                <ALIAS_NAME>Dzem'ijjetul Furqan</ALIAS_NAME>
-            </ENTITY_ALIAS>
-            <ENTITY_ALIAS>
-                <QUALITY>a.k.a.</QUALITY>
-                <ALIAS_NAME>Association for Citizens Rights and Resistance to
-                        Lies</ALIAS_NAME>
-            </ENTITY_ALIAS>
-            <ENTITY_ALIAS>
-                <QUALITY>a.k.a.</QUALITY>
-                <ALIAS_NAME>Dzemijetul Furkan</ALIAS_NAME>
-            </ENTITY_ALIAS>
-            <ENTITY_ALIAS>
-                <QUALITY>a.k.a.</QUALITY>
-                <ALIAS_NAME>Association of Citizens for the Support of Truth and
-                        Supression of Lies</ALIAS_NAME>
-            </ENTITY_ALIAS>
-            <ENTITY_ALIAS>
-                <QUALITY>a.k.a.</QUALITY>
-                <ALIAS_NAME>Sirat</ALIAS_NAME>
-            </ENTITY_ALIAS>
-            <ENTITY_ALIAS>
-                <QUALITY>a.k.a.</QUALITY>
-                <ALIAS_NAME>Association for Education, Culture and Building
-                        Society-Sirat</ALIAS_NAME>
-            </ENTITY_ALIAS>
-            <ENTITY_ALIAS>
-                <QUALITY>a.k.a.</QUALITY>
-                <ALIAS_NAME>Association for Education, Cultural, and to Create Society
-                        -Sirat</ALIAS_NAME>
-            </ENTITY_ALIAS>
-            <ENTITY_ALIAS>
-                <QUALITY>a.k.a.</QUALITY>
-                <ALIAS_NAME>Istikamet</ALIAS_NAME>
-            </ENTITY_ALIAS>
-            <ENTITY_ALIAS>
-                <QUALITY>a.k.a.</QUALITY>
-                <ALIAS_NAME>In Siratel</ALIAS_NAME>
-            </ENTITY_ALIAS>
-            <ENTITY_ALIAS>
-                <QUALITY>a.k.a.</QUALITY>
-                <ALIAS_NAME>Citizens’ Association for Support and Prevention of lies –
-                        Furqan</ALIAS_NAME>
-            </ENTITY_ALIAS>
-            <ENTITY_ADDRESS>
-                <STREET>30a Put Mladih Muslimana (ex Pavla Lukaca Street)</STREET>
-                <CITY>71 000 Sarajevo</CITY>
-                <COUNTRY>Bosnia and Herzegovina</COUNTRY>
-            </ENTITY_ADDRESS>
-            <ENTITY_ADDRESS>
-                <STREET>72 ul. Strossmajerova</STREET>
-                <CITY>Zenica</CITY>
-                <COUNTRY>Bosnia and Herzegovina</COUNTRY>
-            </ENTITY_ADDRESS>
-            <ENTITY_ADDRESS>
-                <STREET>42 Muhameda Hadzijahica</STREET>
-                <CITY>Sarajevo</CITY>
-                <COUNTRY>Bosnia and Herzegovina</COUNTRY>
-            </ENTITY_ADDRESS>
-            <ENTITY_ADDRESS>
-                <STREET>70 and 53 Strosmajerova Street</STREET>
-                <CITY>Zenica</CITY>
-                <COUNTRY>Bosnia and Herzegovina</COUNTRY>
-            </ENTITY_ADDRESS>
-            <ENTITY_ADDRESS>
-                <STREET>Zlatnih Ljiljana Street</STREET>
-                <CITY>Zavidovici</CITY>
-                <COUNTRY>Bosnia and Herzegovina</COUNTRY>
             </ENTITY_ADDRESS>
             <SORT_KEY/>
             <SORT_KEY_LAST_MOD/>
@@ -41200,86 +41127,6 @@ Review pursuant to Security Council resolution 1822 (2008) was concluded on 21 J
             <ENTITY_ADDRESS>
                 <CITY>Ein el-Hilweh camp</CITY>
                 <COUNTRY>Lebanon</COUNTRY>
-            </ENTITY_ADDRESS>
-            <SORT_KEY/>
-            <SORT_KEY_LAST_MOD/>
-        </ENTITY>
-        <ENTITY>
-            <DATAID>113474</DATAID>
-            <VERSIONNUM>1</VERSIONNUM>
-            <FIRST_NAME>BENEVOLENCE INTERNATIONAL FOUNDATION</FIRST_NAME>
-            <UN_LIST_TYPE>Al-Qaida</UN_LIST_TYPE>
-            <REFERENCE_NUMBER>QDe.093</REFERENCE_NUMBER>
-            <LISTED_ON>2002-11-21</LISTED_ON>
-            <COMMENTS1>Employer Identification Number (United States of America): 36-3823186.
-Review pursuant to Security Council resolution 1822 (2008) was concluded on 22 Jun. 
-2010. Review pursuant to Security Council resolution 2368 (2017) was concluded on 4 Dec. 2019. INTERPOL-UN Security Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals</COMMENTS1>
-            <LIST_TYPE>
-                <VALUE>UN List</VALUE>
-            </LIST_TYPE>
-            <LAST_DAY_UPDATED>
-                <VALUE>2003-01-24</VALUE>
-                <VALUE>2011-04-28</VALUE>
-                <VALUE>2012-05-18</VALUE>
-                <VALUE>2019-12-06</VALUE>
-            </LAST_DAY_UPDATED>
-            <ENTITY_ALIAS>
-                <QUALITY>a.k.a.</QUALITY>
-                <ALIAS_NAME>Al Bir Al Dawalia</ALIAS_NAME>
-            </ENTITY_ALIAS>
-            <ENTITY_ALIAS>
-                <QUALITY>a.k.a.</QUALITY>
-                <ALIAS_NAME>BIF</ALIAS_NAME>
-            </ENTITY_ALIAS>
-            <ENTITY_ALIAS>
-                <QUALITY>a.k.a.</QUALITY>
-                <ALIAS_NAME>BIF-USA</ALIAS_NAME>
-            </ENTITY_ALIAS>
-            <ENTITY_ALIAS>
-                <QUALITY>a.k.a.</QUALITY>
-                <ALIAS_NAME>Mezhdunarodnyj Blagotvoritel'nyl Fond</ALIAS_NAME>
-            </ENTITY_ALIAS>
-            <ENTITY_ADDRESS>
-                <STREET>8820 Mobile Avenue, IA</STREET>
-                <CITY>Oak Lawn</CITY>
-                <STATE_PROVINCE>Illinois</STATE_PROVINCE>
-                <ZIP_CODE>60453</ZIP_CODE>
-                <COUNTRY>United States of America</COUNTRY>
-            </ENTITY_ADDRESS>
-            <ENTITY_ADDRESS>
-                <STREET>P.O. Box 548</STREET>
-                <CITY>Worth</CITY>
-                <STATE_PROVINCE>Illinois</STATE_PROVINCE>
-                <ZIP_CODE>60482</ZIP_CODE>
-                <COUNTRY>United States of America</COUNTRY>
-            </ENTITY_ADDRESS>
-            <ENTITY_ADDRESS>
-                <STREET>(Formerly located at) 9838 S. Roberts Road, Suite 1W</STREET>
-                <CITY>Palos Hills</CITY>
-                <STATE_PROVINCE>Illinois</STATE_PROVINCE>
-                <ZIP_CODE>60465</ZIP_CODE>
-                <COUNTRY>United States of America</COUNTRY>
-            </ENTITY_ADDRESS>
-            <ENTITY_ADDRESS>
-                <STREET>(Formerly located at) 20-24 Branford Place, Suite 705</STREET>
-                <CITY>Newark</CITY>
-                <STATE_PROVINCE>New Jersey</STATE_PROVINCE>
-                <ZIP_CODE>07102</ZIP_CODE>
-                <COUNTRY>United States of America</COUNTRY>
-            </ENTITY_ADDRESS>
-            <ENTITY_ADDRESS>
-                <STREET>P.O. Box 1937</STREET>
-                <CITY>Khartoum</CITY>
-                <COUNTRY>Sudan</COUNTRY>
-            </ENTITY_ADDRESS>
-            <ENTITY_ADDRESS>
-                <COUNTRY>Bangladesh</COUNTRY>
-            </ENTITY_ADDRESS>
-            <ENTITY_ADDRESS>
-                <NOTE>Gaza Strip</NOTE>
-            </ENTITY_ADDRESS>
-            <ENTITY_ADDRESS>
-                <COUNTRY>Yemen</COUNTRY>
             </ENTITY_ADDRESS>
             <SORT_KEY/>
             <SORT_KEY_LAST_MOD/>
@@ -47459,6 +47306,180 @@ resolution 1822 (2008) was concluded on 21 Jun. 2010. Review pursuant to Securit
             </ENTITY_ALIAS>
             <ENTITY_ADDRESS>
                 <COUNTRY/>
+            </ENTITY_ADDRESS>
+            <SORT_KEY/>
+            <SORT_KEY_LAST_MOD/>
+        </ENTITY>
+        <ENTITY>
+            <DATAID>113474</DATAID>
+            <VERSIONNUM>1</VERSIONNUM>
+            <FIRST_NAME>BENEVOLENCE INTERNATIONAL FOUNDATION</FIRST_NAME>
+            <UN_LIST_TYPE>Al-Qaida</UN_LIST_TYPE>
+            <REFERENCE_NUMBER>QDe.093</REFERENCE_NUMBER>
+            <LISTED_ON>2002-11-21</LISTED_ON>
+            <COMMENTS1>Reportedly defunct. No longer operates in Bosnia and Herzegovina. Employer Identification Number (United States of America): 36-3823186.  Review pursuant to Security Council resolution 1822 (2008) was concluded on 22 Jun. 2010. Review pursuant to Security Council resolution 2368 (2017) was concluded on 4 Dec. 2019. INTERPOL-UN Security Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals</COMMENTS1>
+            <LIST_TYPE>
+                <VALUE>UN List</VALUE>
+            </LIST_TYPE>
+            <LAST_DAY_UPDATED>
+                <VALUE>2023-12-14</VALUE>
+                <VALUE>2003-01-24</VALUE>
+                <VALUE>2011-04-28</VALUE>
+                <VALUE>2012-05-18</VALUE>
+                <VALUE>2019-12-06</VALUE>
+            </LAST_DAY_UPDATED>
+            <ENTITY_ALIAS>
+                <QUALITY>a.k.a.</QUALITY>
+                <ALIAS_NAME>Al Bir Al Dawalia</ALIAS_NAME>
+            </ENTITY_ALIAS>
+            <ENTITY_ALIAS>
+                <QUALITY>a.k.a.</QUALITY>
+                <ALIAS_NAME>BIF</ALIAS_NAME>
+            </ENTITY_ALIAS>
+            <ENTITY_ALIAS>
+                <QUALITY>a.k.a.</QUALITY>
+                <ALIAS_NAME>BIF-USA</ALIAS_NAME>
+            </ENTITY_ALIAS>
+            <ENTITY_ALIAS>
+                <QUALITY>a.k.a.</QUALITY>
+                <ALIAS_NAME>Mezhdunarodnyj Blagotvoritel'nyl Fond</ALIAS_NAME>
+            </ENTITY_ALIAS>
+            <ENTITY_ADDRESS>
+                <STREET>8820 Mobile Avenue, IA</STREET>
+                <CITY>Oak Lawn</CITY>
+                <STATE_PROVINCE>Illinois</STATE_PROVINCE>
+                <ZIP_CODE>60453</ZIP_CODE>
+                <COUNTRY>United States of America</COUNTRY>
+            </ENTITY_ADDRESS>
+            <ENTITY_ADDRESS>
+                <STREET>P.O. Box 548</STREET>
+                <CITY>Worth</CITY>
+                <STATE_PROVINCE>Illinois</STATE_PROVINCE>
+                <ZIP_CODE>60482</ZIP_CODE>
+                <COUNTRY>United States of America</COUNTRY>
+            </ENTITY_ADDRESS>
+            <ENTITY_ADDRESS>
+                <STREET>(Formerly located at) 9838 S. Roberts Road, Suite 1W</STREET>
+                <CITY>Palos Hills</CITY>
+                <STATE_PROVINCE>Illinois</STATE_PROVINCE>
+                <ZIP_CODE>60465</ZIP_CODE>
+                <COUNTRY>United States of America</COUNTRY>
+            </ENTITY_ADDRESS>
+            <ENTITY_ADDRESS>
+                <STREET>(Formerly located at) 20-24 Branford Place, Suite 705</STREET>
+                <CITY>Newark</CITY>
+                <STATE_PROVINCE>New Jersey</STATE_PROVINCE>
+                <ZIP_CODE>07102</ZIP_CODE>
+                <COUNTRY>United States of America</COUNTRY>
+            </ENTITY_ADDRESS>
+            <ENTITY_ADDRESS>
+                <STREET>P.O. Box 1937</STREET>
+                <CITY>Khartoum</CITY>
+                <COUNTRY>Sudan</COUNTRY>
+            </ENTITY_ADDRESS>
+            <ENTITY_ADDRESS>
+                <COUNTRY>Bangladesh</COUNTRY>
+            </ENTITY_ADDRESS>
+            <ENTITY_ADDRESS>
+                <NOTE>Gaza Strip</NOTE>
+            </ENTITY_ADDRESS>
+            <ENTITY_ADDRESS>
+                <COUNTRY>Yemen</COUNTRY>
+            </ENTITY_ADDRESS>
+            <SORT_KEY/>
+            <SORT_KEY_LAST_MOD/>
+        </ENTITY>
+        <ENTITY>
+            <DATAID>113231</DATAID>
+            <VERSIONNUM>1</VERSIONNUM>
+            <FIRST_NAME>AL FURQAN</FIRST_NAME>
+            <UN_LIST_TYPE>Al-Qaida</UN_LIST_TYPE>
+            <REFERENCE_NUMBER>QDe.107</REFERENCE_NUMBER>
+            <LISTED_ON>2004-05-11</LISTED_ON>
+            <COMMENTS1>Reportedly defunct. Registered in Bosnia and Herzegovina as a citizens’ association under the name of “Citizens’ Association for Support and Prevention of lies – Furqan” on 26 Sep. 1997. Al Furqan ceased its work by decision of the Ministry of Justice of the Bosnia and Herzegovina Federation (decision number 03-054-286/97 dated 8 Nov. 2002). Al Furqan was no longer in existence as of Dec. 2008. Review pursuant to Security Council resolution 1822 (2008) was concluded on 15 Jun. 2010. Review pursuant to Security Council resolution 2253 (2015) was concluded on 21 Feb. 2019. Review pursuant to Security Council resolution 2368 (2017) was concluded on 15 November 2021. INTERPOL-UN Security Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals</COMMENTS1>
+            <LIST_TYPE>
+                <VALUE>UN List</VALUE>
+            </LIST_TYPE>
+            <LAST_DAY_UPDATED>
+                <VALUE>2023-12-14</VALUE>
+                <VALUE>2004-11-26</VALUE>
+                <VALUE>2009-03-24</VALUE>
+                <VALUE>2019-05-01</VALUE>
+                <VALUE>2021-11-15</VALUE>
+            </LAST_DAY_UPDATED>
+            <ENTITY_ALIAS>
+                <QUALITY>a.k.a.</QUALITY>
+                <ALIAS_NAME>Dzemilijati Furkan</ALIAS_NAME>
+            </ENTITY_ALIAS>
+            <ENTITY_ALIAS>
+                <QUALITY>a.k.a.</QUALITY>
+                <ALIAS_NAME>Dzem'ijjetul Furqan</ALIAS_NAME>
+            </ENTITY_ALIAS>
+            <ENTITY_ALIAS>
+                <QUALITY>a.k.a.</QUALITY>
+                <ALIAS_NAME>Association for Citizens Rights and Resistance to
+                        Lies</ALIAS_NAME>
+            </ENTITY_ALIAS>
+            <ENTITY_ALIAS>
+                <QUALITY>a.k.a.</QUALITY>
+                <ALIAS_NAME>Dzemijetul Furkan</ALIAS_NAME>
+            </ENTITY_ALIAS>
+            <ENTITY_ALIAS>
+                <QUALITY>a.k.a.</QUALITY>
+                <ALIAS_NAME>Association of Citizens for the Support of Truth and
+                        Supression of Lies</ALIAS_NAME>
+            </ENTITY_ALIAS>
+            <ENTITY_ALIAS>
+                <QUALITY>a.k.a.</QUALITY>
+                <ALIAS_NAME>Sirat</ALIAS_NAME>
+            </ENTITY_ALIAS>
+            <ENTITY_ALIAS>
+                <QUALITY>a.k.a.</QUALITY>
+                <ALIAS_NAME>Association for Education, Culture and Building
+                        Society-Sirat</ALIAS_NAME>
+            </ENTITY_ALIAS>
+            <ENTITY_ALIAS>
+                <QUALITY>a.k.a.</QUALITY>
+                <ALIAS_NAME>Association for Education, Cultural, and to Create Society
+                        -Sirat</ALIAS_NAME>
+            </ENTITY_ALIAS>
+            <ENTITY_ALIAS>
+                <QUALITY>a.k.a.</QUALITY>
+                <ALIAS_NAME>Istikamet</ALIAS_NAME>
+            </ENTITY_ALIAS>
+            <ENTITY_ALIAS>
+                <QUALITY>a.k.a.</QUALITY>
+                <ALIAS_NAME>In Siratel</ALIAS_NAME>
+            </ENTITY_ALIAS>
+            <ENTITY_ALIAS>
+                <QUALITY>a.k.a.</QUALITY>
+                <ALIAS_NAME>Citizens’ Association for Support and Prevention of lies –
+                        Furqan</ALIAS_NAME>
+            </ENTITY_ALIAS>
+            <ENTITY_ADDRESS>
+                <STREET>30a Put Mladih Muslimana (ex Pavla Lukaca Street)</STREET>
+                <CITY>71 000 Sarajevo</CITY>
+                <COUNTRY>Bosnia and Herzegovina</COUNTRY>
+            </ENTITY_ADDRESS>
+            <ENTITY_ADDRESS>
+                <STREET>72 ul. Strossmajerova</STREET>
+                <CITY>Zenica</CITY>
+                <COUNTRY>Bosnia and Herzegovina</COUNTRY>
+            </ENTITY_ADDRESS>
+            <ENTITY_ADDRESS>
+                <STREET>42 Muhameda Hadzijahica</STREET>
+                <CITY>Sarajevo</CITY>
+                <COUNTRY>Bosnia and Herzegovina</COUNTRY>
+            </ENTITY_ADDRESS>
+            <ENTITY_ADDRESS>
+                <STREET>70 and 53 Strosmajerova Street</STREET>
+                <CITY>Zenica</CITY>
+                <COUNTRY>Bosnia and Herzegovina</COUNTRY>
+            </ENTITY_ADDRESS>
+            <ENTITY_ADDRESS>
+                <STREET>Zlatnih Ljiljana Street</STREET>
+                <CITY>Zavidovici</CITY>
+                <COUNTRY>Bosnia and Herzegovina</COUNTRY>
             </ENTITY_ADDRESS>
             <SORT_KEY/>
             <SORT_KEY_LAST_MOD/>
