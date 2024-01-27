@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<CONSOLIDATED_LIST xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:noNamespaceSchemaLocation='https://www.un.org/sc/resources/sc-sanctions.xsd' dateGenerated='2024-01-26T00:00:02.796Z'>
+<CONSOLIDATED_LIST xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:noNamespaceSchemaLocation='https://www.un.org/sc/resources/sc-sanctions.xsd' dateGenerated='2024-01-27T00:00:06.135Z'>
     <INDIVIDUALS>
         <INDIVIDUAL>
             <DATAID>110447</DATAID>
@@ -106,6 +106,10 @@ pursuant to Security Council resolution 1822 (2008) was concluded on 27 Jul.
                 <QUALITY>Good</QUALITY>
                 <ALIAS_NAME>Wali Mohammad</ALIAS_NAME>
             </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY/>
+                <ALIAS_NAME/>
+            </INDIVIDUAL_ALIAS>
             <INDIVIDUAL_ADDRESS>
                 <COUNTRY/>
             </INDIVIDUAL_ADDRESS>
@@ -161,6 +165,11 @@ Council resolution 1822 (2008) was concluded on 21 Jul. 2010. INTERPOL-UN Securi
             <INDIVIDUAL_ALIAS>
                 <QUALITY/>
                 <ALIAS_NAME/>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY/>
+                <ALIAS_NAME/>
+                <DATE_OF_BIRTH>1945 - 1950</DATE_OF_BIRTH>
             </INDIVIDUAL_ALIAS>
             <INDIVIDUAL_ADDRESS>
                 <COUNTRY/>
@@ -270,6 +279,20 @@ regime</VALUE>
                 <VALUE>2013-12-31</VALUE>
                 <VALUE>2016-09-07</VALUE>
             </LAST_DAY_UPDATED>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY/>
+                <ALIAS_NAME/>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY/>
+                <ALIAS_NAME/>
+                <DATE_OF_BIRTH>1960</DATE_OF_BIRTH>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY/>
+                <ALIAS_NAME/>
+                <DATE_OF_BIRTH>1953</DATE_OF_BIRTH>
+            </INDIVIDUAL_ALIAS>
             <INDIVIDUAL_ALIAS>
                 <QUALITY/>
                 <ALIAS_NAME/>
@@ -521,6 +544,22 @@ regime</VALUE>
                 <QUALITY>Good</QUALITY>
                 <ALIAS_NAME>Mawlawi Gul Mohammad</ALIAS_NAME>
             </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY/>
+                <ALIAS_NAME/>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY/>
+                <ALIAS_NAME/>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY/>
+                <ALIAS_NAME/>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY/>
+                <ALIAS_NAME/>
+            </INDIVIDUAL_ALIAS>
             <INDIVIDUAL_ADDRESS>
                 <COUNTRY/>
             </INDIVIDUAL_ADDRESS>
@@ -675,6 +714,10 @@ regime</VALUE>
                 <VALUE>2011-11-29</VALUE>
                 <VALUE>2013-12-31</VALUE>
             </LAST_DAY_UPDATED>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY/>
+                <ALIAS_NAME/>
+            </INDIVIDUAL_ALIAS>
             <INDIVIDUAL_ALIAS>
                 <QUALITY/>
                 <ALIAS_NAME/>
@@ -837,6 +880,10 @@ regime</VALUE>
                 <ALIAS_NAME>Abdul Baqi</ALIAS_NAME>
                 <NOTE>previously listed as</NOTE>
             </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY/>
+                <ALIAS_NAME/>
+            </INDIVIDUAL_ALIAS>
             <INDIVIDUAL_ADDRESS>
                 <COUNTRY/>
             </INDIVIDUAL_ADDRESS>
@@ -905,6 +952,15 @@ concluded on 27 Jul. 2010. Reportedly deceased as of September 2018. INTERPOL-UN
             <INDIVIDUAL_ALIAS>
                 <QUALITY>Good</QUALITY>
                 <ALIAS_NAME>Jallalouddine Haqani</ALIAS_NAME>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY/>
+                <ALIAS_NAME/>
+                <DATE_OF_BIRTH>1948</DATE_OF_BIRTH>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY/>
+                <ALIAS_NAME/>
             </INDIVIDUAL_ALIAS>
             <INDIVIDUAL_ADDRESS>
                 <COUNTRY/>
@@ -1248,6 +1304,11 @@ regime</VALUE>
                 <QUALITY>Good</QUALITY>
                 <ALIAS_NAME>Abdul Haq Wasiq</ALIAS_NAME>
             </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY/>
+                <ALIAS_NAME/>
+                <DATE_OF_BIRTH>1975</DATE_OF_BIRTH>
+            </INDIVIDUAL_ALIAS>
             <INDIVIDUAL_ADDRESS>
                 <COUNTRY>Qatar</COUNTRY>
             </INDIVIDUAL_ADDRESS>
@@ -1350,6 +1411,11 @@ regime</VALUE>
                 <QUALITY>Good</QUALITY>
                 <ALIAS_NAME>Norullah Noori</ALIAS_NAME>
             </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY/>
+                <ALIAS_NAME/>
+                <DATE_OF_BIRTH>1967-01-01</DATE_OF_BIRTH>
+            </INDIVIDUAL_ALIAS>
             <INDIVIDUAL_ADDRESS>
                 <COUNTRY>Qatar</COUNTRY>
             </INDIVIDUAL_ADDRESS>
@@ -1394,6 +1460,10 @@ Council resolution 1822 (2008) was concluded on 23 Jul. 2010. INTERPOL-UN Securi
                 <VALUE>2007-09-21</VALUE>
                 <VALUE>2011-11-29</VALUE>
             </LAST_DAY_UPDATED>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY/>
+                <ALIAS_NAME/>
+            </INDIVIDUAL_ALIAS>
             <INDIVIDUAL_ALIAS>
                 <QUALITY/>
                 <ALIAS_NAME/>
@@ -1445,6 +1515,14 @@ Council resolution 1822 (2008) was concluded on 23 Jul. 2010. INTERPOL-UN Securi
             <INDIVIDUAL_ALIAS>
                 <QUALITY>Good</QUALITY>
                 <ALIAS_NAME>Gud Mullah Mohammad Hassan</ALIAS_NAME>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY/>
+                <ALIAS_NAME/>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY/>
+                <ALIAS_NAME/>
             </INDIVIDUAL_ALIAS>
             <INDIVIDUAL_ADDRESS>
                 <COUNTRY/>
@@ -1513,6 +1591,10 @@ suicide bombers to Afghanistan. Review pursuant to Security Council resolution 1
             <INDIVIDUAL_ALIAS>
                 <QUALITY>Low</QUALITY>
                 <ALIAS_NAME>Baryalai</ALIAS_NAME>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY/>
+                <ALIAS_NAME/>
             </INDIVIDUAL_ALIAS>
             <INDIVIDUAL_ADDRESS>
                 <COUNTRY/>
@@ -1637,6 +1719,10 @@ Review pursuant to Security Council resolution 1822 (2008) was concluded on 23 J
                 <QUALITY>Good</QUALITY>
                 <ALIAS_NAME>Diya’ al-Rahman Madani</ALIAS_NAME>
             </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY/>
+                <ALIAS_NAME/>
+            </INDIVIDUAL_ALIAS>
             <INDIVIDUAL_ADDRESS>
                 <COUNTRY/>
             </INDIVIDUAL_ADDRESS>
@@ -1686,6 +1772,14 @@ resolution 1822 (2008) was concluded on 1 Jun. 2010. INTERPOL-UN Security Counci
                 <VALUE>2011-11-29</VALUE>
                 <VALUE>2012-08-13</VALUE>
             </LAST_DAY_UPDATED>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY/>
+                <ALIAS_NAME/>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY/>
+                <ALIAS_NAME/>
+            </INDIVIDUAL_ALIAS>
             <INDIVIDUAL_ALIAS>
                 <QUALITY/>
                 <ALIAS_NAME/>
@@ -1952,6 +2046,10 @@ regime</VALUE>
                 <QUALITY>Good</QUALITY>
                 <ALIAS_NAME>Allah Dad Tabeeb</ALIAS_NAME>
             </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY/>
+                <ALIAS_NAME/>
+            </INDIVIDUAL_ALIAS>
             <INDIVIDUAL_ADDRESS>
                 <COUNTRY/>
             </INDIVIDUAL_ADDRESS>
@@ -2068,6 +2166,11 @@ regime</VALUE>
                 <QUALITY>Low</QUALITY>
                 <ALIAS_NAME>Akhund</ALIAS_NAME>
             </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY/>
+                <ALIAS_NAME/>
+                <DATE_OF_BIRTH>1960</DATE_OF_BIRTH>
+            </INDIVIDUAL_ALIAS>
             <INDIVIDUAL_ADDRESS>
                 <COUNTRY/>
             </INDIVIDUAL_ADDRESS>
@@ -2129,6 +2232,19 @@ concluded on 21 Jul. 2010. INTERPOL-UN Security Council Special Notice web link:
             <INDIVIDUAL_ALIAS>
                 <QUALITY>Good</QUALITY>
                 <ALIAS_NAME>Obaid Ullah Akhund</ALIAS_NAME>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY/>
+                <ALIAS_NAME/>
+                <DATE_OF_BIRTH>1969</DATE_OF_BIRTH>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY/>
+                <ALIAS_NAME/>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY/>
+                <ALIAS_NAME/>
             </INDIVIDUAL_ALIAS>
             <INDIVIDUAL_ADDRESS>
                 <COUNTRY/>
@@ -2237,6 +2353,15 @@ resolution 1822 (2008) was concluded on 1 Jun. 2010. INTERPOL-UN Security Counci
                 <QUALITY>Good</QUALITY>
                 <ALIAS_NAME>Mullah Abdul Rauf Aliza</ALIAS_NAME>
             </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY/>
+                <ALIAS_NAME/>
+                <DATE_OF_BIRTH>1970</DATE_OF_BIRTH>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY/>
+                <ALIAS_NAME/>
+            </INDIVIDUAL_ALIAS>
             <INDIVIDUAL_ADDRESS>
                 <COUNTRY/>
             </INDIVIDUAL_ADDRESS>
@@ -2285,6 +2410,10 @@ regime</VALUE>
                 <VALUE>2007-09-21</VALUE>
                 <VALUE>2011-11-29</VALUE>
             </LAST_DAY_UPDATED>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY/>
+                <ALIAS_NAME/>
+            </INDIVIDUAL_ALIAS>
             <INDIVIDUAL_ALIAS>
                 <QUALITY>Good</QUALITY>
                 <ALIAS_NAME>Amir Khan Muttaqi</ALIAS_NAME>
@@ -2342,6 +2471,10 @@ area. Review pursuant to Security Council resolution 1822 (2008) was concluded o
                 <VALUE>2011-11-29</VALUE>
             </LAST_DAY_UPDATED>
             <INDIVIDUAL_ALIAS>
+                <QUALITY/>
+                <ALIAS_NAME/>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
                 <QUALITY>Good</QUALITY>
                 <ALIAS_NAME>Abdussalam Hanifi</ALIAS_NAME>
             </INDIVIDUAL_ALIAS>
@@ -2393,6 +2526,10 @@ regime</VALUE>
                 <VALUE>2011-11-29</VALUE>
                 <VALUE>2012-05-18</VALUE>
             </LAST_DAY_UPDATED>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY/>
+                <ALIAS_NAME/>
+            </INDIVIDUAL_ALIAS>
             <INDIVIDUAL_ALIAS>
                 <QUALITY/>
                 <ALIAS_NAME/>
@@ -2552,6 +2689,10 @@ regime</VALUE>
                 <QUALITY/>
                 <ALIAS_NAME/>
             </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY/>
+                <ALIAS_NAME/>
+            </INDIVIDUAL_ALIAS>
             <INDIVIDUAL_ADDRESS>
                 <COUNTRY/>
             </INDIVIDUAL_ADDRESS>
@@ -2610,6 +2751,11 @@ Interior under the Taliban regime</VALUE>
             <INDIVIDUAL_ALIAS>
                 <QUALITY>Good</QUALITY>
                 <ALIAS_NAME>Agha Saheb</ALIAS_NAME>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY/>
+                <ALIAS_NAME/>
+                <DATE_OF_BIRTH>1969</DATE_OF_BIRTH>
             </INDIVIDUAL_ALIAS>
             <INDIVIDUAL_ADDRESS>
                 <COUNTRY/>
@@ -2825,6 +2971,10 @@ regime</VALUE>
                 <VALUE>2013-12-31</VALUE>
             </LAST_DAY_UPDATED>
             <INDIVIDUAL_ALIAS>
+                <QUALITY/>
+                <ALIAS_NAME/>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
                 <QUALITY>Good</QUALITY>
                 <ALIAS_NAME>Atiqullah</ALIAS_NAME>
                 <NOTE>previously listed as</NOTE>
@@ -2987,6 +3137,10 @@ the Taliban regime</VALUE>
                 <VALUE>2013-12-31</VALUE>
             </LAST_DAY_UPDATED>
             <INDIVIDUAL_ALIAS>
+                <QUALITY/>
+                <ALIAS_NAME/>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
                 <QUALITY>Good</QUALITY>
                 <ALIAS_NAME>Mohammad Wali</ALIAS_NAME>
                 <NOTE>previously listed as</NOTE>
@@ -3090,6 +3244,10 @@ regime</VALUE>
                 <VALUE>2011-11-29</VALUE>
             </LAST_DAY_UPDATED>
             <INDIVIDUAL_ALIAS>
+                <QUALITY/>
+                <ALIAS_NAME/>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
                 <QUALITY>Good</QUALITY>
                 <ALIAS_NAME>Haji Ahmad Jan</ALIAS_NAME>
             </INDIVIDUAL_ALIAS>
@@ -3149,6 +3307,10 @@ regime</VALUE>
                 <VALUE>2011-11-29</VALUE>
                 <VALUE>2013-12-31</VALUE>
             </LAST_DAY_UPDATED>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY/>
+                <ALIAS_NAME/>
+            </INDIVIDUAL_ALIAS>
             <INDIVIDUAL_ALIAS>
                 <QUALITY>Good</QUALITY>
                 <ALIAS_NAME>Sadudin Sayed</ALIAS_NAME>
@@ -3229,6 +3391,11 @@ regime</VALUE>
             <INDIVIDUAL_ALIAS>
                 <QUALITY>Low</QUALITY>
                 <ALIAS_NAME>Naib Imam</ALIAS_NAME>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY/>
+                <ALIAS_NAME/>
+                <DATE_OF_BIRTH>1966</DATE_OF_BIRTH>
             </INDIVIDUAL_ALIAS>
             <INDIVIDUAL_ADDRESS>
                 <COUNTRY/>
@@ -3448,6 +3615,10 @@ regime</VALUE>
                 <VALUE>2014-05-16</VALUE>
             </LAST_DAY_UPDATED>
             <INDIVIDUAL_ALIAS>
+                <QUALITY/>
+                <ALIAS_NAME/>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
                 <QUALITY>Good</QUALITY>
                 <ALIAS_NAME>Abdul Jalil Akhund</ALIAS_NAME>
             </INDIVIDUAL_ALIAS>
@@ -3646,6 +3817,10 @@ Province under the Taliban regime</VALUE>
                 <VALUE>2014-05-16</VALUE>
             </LAST_DAY_UPDATED>
             <INDIVIDUAL_ALIAS>
+                <QUALITY/>
+                <ALIAS_NAME/>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
                 <QUALITY>Good</QUALITY>
                 <ALIAS_NAME>Abdul Haq son of M. Anwar Khan (عبد الحق ولد محمد انور
 خان)</ALIAS_NAME>
@@ -3713,6 +3888,24 @@ Council resolution 1822 (2008) was concluded on 21 Jul. 2010. INTERPOL-UN Securi
             <INDIVIDUAL_ALIAS>
                 <QUALITY>Low</QUALITY>
                 <ALIAS_NAME>Haji Karim</ALIAS_NAME>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY/>
+                <ALIAS_NAME/>
+                <DATE_OF_BIRTH>1956</DATE_OF_BIRTH>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY/>
+                <ALIAS_NAME/>
+                <DATE_OF_BIRTH>1955</DATE_OF_BIRTH>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY/>
+                <ALIAS_NAME/>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY/>
+                <ALIAS_NAME/>
             </INDIVIDUAL_ALIAS>
             <INDIVIDUAL_ADDRESS>
                 <COUNTRY/>
@@ -4052,6 +4245,10 @@ Council resolution 1822 (2008) was concluded on 27 Jul. 2010. INTERPOL-UN Securi
                 <VALUE>2013-12-31</VALUE>
             </LAST_DAY_UPDATED>
             <INDIVIDUAL_ALIAS>
+                <QUALITY/>
+                <ALIAS_NAME/>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
                 <QUALITY>Good</QUALITY>
                 <ALIAS_NAME>Doost Mohammad</ALIAS_NAME>
             </INDIVIDUAL_ALIAS>
@@ -4319,6 +4516,10 @@ regime</VALUE>
                 <VALUE>2012-06-01</VALUE>
             </LAST_DAY_UPDATED>
             <INDIVIDUAL_ALIAS>
+                <QUALITY/>
+                <ALIAS_NAME/>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
                 <QUALITY>Good</QUALITY>
                 <ALIAS_NAME>Ahmad Jan Akhunzada</ALIAS_NAME>
             </INDIVIDUAL_ALIAS>
@@ -4425,6 +4626,10 @@ Taliban regime</VALUE>
                 <VALUE>2011-11-29</VALUE>
                 <VALUE>2012-08-13</VALUE>
             </LAST_DAY_UPDATED>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY/>
+                <ALIAS_NAME/>
+            </INDIVIDUAL_ALIAS>
             <INDIVIDUAL_ALIAS>
                 <QUALITY>Good</QUALITY>
                 <ALIAS_NAME>Janat Gul</ALIAS_NAME>
@@ -4746,6 +4951,14 @@ Pakistan</VALUE>
                 <QUALITY/>
                 <ALIAS_NAME/>
             </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY/>
+                <ALIAS_NAME/>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY/>
+                <ALIAS_NAME/>
+            </INDIVIDUAL_ALIAS>
             <INDIVIDUAL_ADDRESS>
                 <COUNTRY/>
             </INDIVIDUAL_ADDRESS>
@@ -4849,6 +5062,11 @@ to Security Council resolution 1822 (2008) was concluded on 23 Jul. 2010. INTERP
                 <QUALITY>Good</QUALITY>
                 <ALIAS_NAME>Abdullah Jan Agha</ALIAS_NAME>
             </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY/>
+                <ALIAS_NAME/>
+                <DATE_OF_BIRTH>1953</DATE_OF_BIRTH>
+            </INDIVIDUAL_ALIAS>
             <INDIVIDUAL_ADDRESS>
                 <COUNTRY/>
             </INDIVIDUAL_ADDRESS>
@@ -4897,6 +5115,10 @@ resolution 1822 (2008) was concluded on 1 Jun. 2010. INTERPOL-UN Security Counci
                 <VALUE>2007-09-21</VALUE>
                 <VALUE>2012-02-13</VALUE>
             </LAST_DAY_UPDATED>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY/>
+                <ALIAS_NAME/>
+            </INDIVIDUAL_ALIAS>
             <INDIVIDUAL_ALIAS>
                 <QUALITY>Good</QUALITY>
                 <ALIAS_NAME>Haji Mullah Sahib</ALIAS_NAME>
@@ -5056,6 +5278,10 @@ the Taliban regime</VALUE>
                 <VALUE>2016-09-07</VALUE>
             </LAST_DAY_UPDATED>
             <INDIVIDUAL_ALIAS>
+                <QUALITY/>
+                <ALIAS_NAME/>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
                 <QUALITY>Good</QUALITY>
                 <ALIAS_NAME>Mohammad Shafiq Ahmadi</ALIAS_NAME>
                 <NOTE>previously listed as</NOTE>
@@ -5162,6 +5388,10 @@ Committee. Belongs to Ahmadzai tribe. Review pursuant to Security Council resolu
                 <QUALITY/>
                 <ALIAS_NAME/>
             </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY/>
+                <ALIAS_NAME/>
+            </INDIVIDUAL_ALIAS>
             <INDIVIDUAL_ADDRESS>
                 <COUNTRY/>
             </INDIVIDUAL_ADDRESS>
@@ -5211,6 +5441,11 @@ Committee. Belongs to Ahmadzai tribe. Review pursuant to Security Council resolu
             <INDIVIDUAL_ALIAS>
                 <QUALITY/>
                 <ALIAS_NAME/>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY/>
+                <ALIAS_NAME/>
+                <DATE_OF_BIRTH>1953</DATE_OF_BIRTH>
             </INDIVIDUAL_ALIAS>
             <INDIVIDUAL_ADDRESS>
                 <COUNTRY/>
@@ -5656,6 +5891,10 @@ Jul. 2010. INTERPOL-UN Security Council Special Notice web link:https://www.inte
                 <VALUE>2012-08-13</VALUE>
             </LAST_DAY_UPDATED>
             <INDIVIDUAL_ALIAS>
+                <QUALITY/>
+                <ALIAS_NAME/>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
                 <QUALITY>Good</QUALITY>
                 <ALIAS_NAME>Abdul Qadir</ALIAS_NAME>
             </INDIVIDUAL_ALIAS>
@@ -5723,6 +5962,10 @@ Jul. 2010. INTERPOL-UN Security Council Special Notice web link:https://www.inte
                 <VALUE>2011-11-29</VALUE>
                 <VALUE>2012-08-13</VALUE>
             </LAST_DAY_UPDATED>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY/>
+                <ALIAS_NAME/>
+            </INDIVIDUAL_ALIAS>
             <INDIVIDUAL_ALIAS>
                 <QUALITY/>
                 <ALIAS_NAME/>
@@ -5907,6 +6150,11 @@ on 1 Jun. 2010.  Review pursuant to Security Council resolution 2253 (2015) was 
                 <QUALITY>Good</QUALITY>
                 <ALIAS_NAME>Majid, Abdul</ALIAS_NAME>
             </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY/>
+                <ALIAS_NAME/>
+                <DATE_OF_BIRTH>1938</DATE_OF_BIRTH>
+            </INDIVIDUAL_ALIAS>
             <INDIVIDUAL_ADDRESS>
                 <COUNTRY/>
             </INDIVIDUAL_ADDRESS>
@@ -5966,6 +6214,14 @@ on 1 Jun. 2010.  Review pursuant to Security Council resolution 2253 (2015) was 
             <INDIVIDUAL_ALIAS>
                 <QUALITY>Good</QUALITY>
                 <ALIAS_NAME>Abdul Rahman, Mohamad Iqbal</ALIAS_NAME>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY/>
+                <ALIAS_NAME/>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY/>
+                <ALIAS_NAME/>
             </INDIVIDUAL_ALIAS>
             <INDIVIDUAL_ADDRESS>
                 <STREET>Jalan Nakula, Komplek Witana Harja III Blok C 106-107</STREET>
@@ -6366,6 +6622,10 @@ concluded on 15 Jun. 2010. Review pursuant to Security Council resolution 2253 (
                 <VALUE>2019-05-01</VALUE>
                 <VALUE>2021-11-15</VALUE>
             </LAST_DAY_UPDATED>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY/>
+                <ALIAS_NAME/>
+            </INDIVIDUAL_ALIAS>
             <INDIVIDUAL_ALIAS>
                 <QUALITY>Good</QUALITY>
                 <ALIAS_NAME>Rif'at Salim</ALIAS_NAME>
@@ -7702,6 +7962,10 @@ pursuant to Security Council resolution 1822 (2008) was concluded on 8 Jul.
                 <VALUE>2019-12-06</VALUE>
             </LAST_DAY_UPDATED>
             <INDIVIDUAL_ALIAS>
+                <QUALITY/>
+                <ALIAS_NAME/>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
                 <QUALITY>Good</QUALITY>
                 <ALIAS_NAME>Saqr Al-Jaddawi (الكنية صقر الجداوي)</ALIAS_NAME>
             </INDIVIDUAL_ALIAS>
@@ -8171,6 +8435,15 @@ States of America, as of May 2010. Review pursuant to Security Council resolutio
             <INDIVIDUAL_ALIAS>
                 <QUALITY>Low</QUALITY>
                 <ALIAS_NAME>Ramzi Omar</ALIAS_NAME>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY/>
+                <ALIAS_NAME/>
+                <DATE_OF_BIRTH>1973-09-16</DATE_OF_BIRTH>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY/>
+                <ALIAS_NAME/>
             </INDIVIDUAL_ALIAS>
             <INDIVIDUAL_ADDRESS>
                 <COUNTRY/>
@@ -8719,6 +8992,11 @@ Council resolution 1822 (2008) was concluded on 29 Jul. 2010. Review pursuant to
                 <QUALITY>Good</QUALITY>
                 <ALIAS_NAME>Hany Elsayed Youssef</ALIAS_NAME>
             </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY/>
+                <ALIAS_NAME/>
+                <DATE_OF_BIRTH>1960-06-16</DATE_OF_BIRTH>
+            </INDIVIDUAL_ALIAS>
             <INDIVIDUAL_ADDRESS>
                 <CITY>London</CITY>
                 <COUNTRY>United Kingdom of Great Britain and Northern Ireland</COUNTRY>
@@ -8894,6 +9172,46 @@ on 1 Jun. 2010.  Review pursuant to Security Council resolution 2253 (2015) was 
             <INDIVIDUAL_ALIAS>
                 <QUALITY>Good</QUALITY>
                 <ALIAS_NAME>Mekmud, Sultan Baishiruddin</ALIAS_NAME>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY/>
+                <ALIAS_NAME/>
+                <DATE_OF_BIRTH>1938</DATE_OF_BIRTH>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY/>
+                <ALIAS_NAME/>
+                <DATE_OF_BIRTH>1939</DATE_OF_BIRTH>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY/>
+                <ALIAS_NAME/>
+                <DATE_OF_BIRTH>1940</DATE_OF_BIRTH>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY/>
+                <ALIAS_NAME/>
+                <DATE_OF_BIRTH>1941</DATE_OF_BIRTH>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY/>
+                <ALIAS_NAME/>
+                <DATE_OF_BIRTH>1942</DATE_OF_BIRTH>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY/>
+                <ALIAS_NAME/>
+                <DATE_OF_BIRTH>1943</DATE_OF_BIRTH>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY/>
+                <ALIAS_NAME/>
+                <DATE_OF_BIRTH>1944</DATE_OF_BIRTH>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY/>
+                <ALIAS_NAME/>
+                <DATE_OF_BIRTH>1945</DATE_OF_BIRTH>
             </INDIVIDUAL_ALIAS>
             <INDIVIDUAL_ADDRESS>
                 <STREET>Street 13, Wazir Akbar Khan</STREET>
@@ -9473,6 +9791,21 @@ was concluded on 21 Jun. 2010. Review pursuant to Security Council resolution 23
                 <QUALITY>Low</QUALITY>
                 <ALIAS_NAME>Khabar, Abu</ALIAS_NAME>
             </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY/>
+                <ALIAS_NAME/>
+                <DATE_OF_BIRTH>1974-04-13</DATE_OF_BIRTH>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY/>
+                <ALIAS_NAME/>
+                <DATE_OF_BIRTH>1974-04-14</DATE_OF_BIRTH>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY/>
+                <ALIAS_NAME/>
+                <DATE_OF_BIRTH>1970-08-01</DATE_OF_BIRTH>
+            </INDIVIDUAL_ALIAS>
             <INDIVIDUAL_ADDRESS>
                 <COUNTRY>United States of America</COUNTRY>
             </INDIVIDUAL_ADDRESS>
@@ -9529,6 +9862,11 @@ was concluded on 21 Jun. 2010. Review pursuant to Security Council resolution 23
             <INDIVIDUAL_ALIAS>
                 <QUALITY>Good</QUALITY>
                 <ALIAS_NAME>Tuan Isnilon</ALIAS_NAME>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY/>
+                <ALIAS_NAME/>
+                <DATE_OF_BIRTH>1967-03-10</DATE_OF_BIRTH>
             </INDIVIDUAL_ALIAS>
             <INDIVIDUAL_ADDRESS>
                 <STATE_PROVINCE>Basilan</STATE_PROVINCE>
@@ -10059,6 +10397,11 @@ to Security Council resolution 1822 (2008) was concluded on 19 Oct. 2009. Review
                 <QUALITY>Low</QUALITY>
                 <ALIAS_NAME>Abu Ismail</ALIAS_NAME>
             </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY/>
+                <ALIAS_NAME/>
+                <DATE_OF_BIRTH>1960-12-13</DATE_OF_BIRTH>
+            </INDIVIDUAL_ALIAS>
             <INDIVIDUAL_ADDRESS>
                 <COUNTRY>Jordan</COUNTRY>
                 <NOTE>since July 2013</NOTE>
@@ -10547,6 +10890,11 @@ Arabic: سيف العدل </NOTE>
                 <QUALITY>Low</QUALITY>
                 <ALIAS_NAME>Seif al Adel</ALIAS_NAME>
             </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY/>
+                <ALIAS_NAME/>
+                <DATE_OF_BIRTH>1960-04-11</DATE_OF_BIRTH>
+            </INDIVIDUAL_ALIAS>
             <INDIVIDUAL_ADDRESS>
                 <COUNTRY/>
             </INDIVIDUAL_ADDRESS>
@@ -10589,6 +10937,11 @@ on 25 May 2010. Review pursuant to Security Council resolution 2368 (2017) was c
             <INDIVIDUAL_ALIAS>
                 <QUALITY>Good</QUALITY>
                 <ALIAS_NAME>Siregar, Saleh Parlindungan</ALIAS_NAME>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY/>
+                <ALIAS_NAME/>
+                <DATE_OF_BIRTH>1967-04-25</DATE_OF_BIRTH>
             </INDIVIDUAL_ALIAS>
             <INDIVIDUAL_ADDRESS>
                 <COUNTRY/>
@@ -10712,6 +11065,11 @@ Security Council resolution 1822 (2008) was concluded on 21 Jun. 2010. Review pu
                 <DATE_OF_BIRTH>1974-03-21</DATE_OF_BIRTH>
                 <CITY_OF_BIRTH>Baghdad</CITY_OF_BIRTH>
                 <COUNTRY_OF_BIRTH>Iraq</COUNTRY_OF_BIRTH>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY/>
+                <ALIAS_NAME/>
+                <DATE_OF_BIRTH>1974-03-21</DATE_OF_BIRTH>
             </INDIVIDUAL_ALIAS>
             <INDIVIDUAL_ADDRESS>
                 <COUNTRY/>
@@ -11560,6 +11918,16 @@ Council resolution 1822 (2008) was concluded on 21 Jul. 2010. INTERPOL-UN Securi
                 <ALIAS_NAME>Merai Zoghbai</ALIAS_NAME>
                 <NOTE>previously listed as, in Arabic: مرعي زغبي</NOTE>
             </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY/>
+                <ALIAS_NAME/>
+                <DATE_OF_BIRTH>1960-04-04</DATE_OF_BIRTH>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY/>
+                <ALIAS_NAME/>
+                <DATE_OF_BIRTH>1960-06-04</DATE_OF_BIRTH>
+            </INDIVIDUAL_ALIAS>
             <INDIVIDUAL_ADDRESS>
                 <COUNTRY/>
             </INDIVIDUAL_ADDRESS>
@@ -11709,6 +12077,11 @@ Review pursuant to Security Council resolution 2368 (2017) was concluded on 24 N
                 <QUALITY>Good</QUALITY>
                 <ALIAS_NAME>Faraj Ahmad Najmuddin</ALIAS_NAME>
             </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY/>
+                <ALIAS_NAME/>
+                <DATE_OF_BIRTH>1963-06-17</DATE_OF_BIRTH>
+            </INDIVIDUAL_ALIAS>
             <INDIVIDUAL_ADDRESS>
                 <STREET>Heimdalsgate 36-V</STREET>
                 <CITY>Oslo</CITY>
@@ -11804,6 +12177,18 @@ pursuant to Security Council resolution 1822 (2008) was concluded on 27 Jul.
             <LAST_DAY_UPDATED>
                 <VALUE>2013-04-22</VALUE>
             </LAST_DAY_UPDATED>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY/>
+                <ALIAS_NAME/>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY/>
+                <ALIAS_NAME/>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY/>
+                <ALIAS_NAME/>
+            </INDIVIDUAL_ALIAS>
             <INDIVIDUAL_ALIAS>
                 <QUALITY>Good</QUALITY>
                 <ALIAS_NAME>Siraj Haqqani</ALIAS_NAME>
@@ -13181,6 +13566,11 @@ Noor Muhammad. Review pursuant to Security Council resolution 2253 (2015) was co
                 <QUALITY>Good</QUALITY>
                 <ALIAS_NAME>Muhammad Ashraf Munsha</ALIAS_NAME>
             </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY/>
+                <ALIAS_NAME/>
+                <DATE_OF_BIRTH>1955</DATE_OF_BIRTH>
+            </INDIVIDUAL_ALIAS>
             <INDIVIDUAL_ADDRESS>
                 <COUNTRY/>
             </INDIVIDUAL_ADDRESS>
@@ -13254,6 +13644,16 @@ Noor Muhammad. Review pursuant to Security Council resolution 2253 (2015) was co
             <INDIVIDUAL_ALIAS>
                 <QUALITY>Good</QUALITY>
                 <ALIAS_NAME>Shaykh Sahib</ALIAS_NAME>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY/>
+                <ALIAS_NAME/>
+                <DATE_OF_BIRTH>1943</DATE_OF_BIRTH>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY/>
+                <ALIAS_NAME/>
+                <DATE_OF_BIRTH>1944</DATE_OF_BIRTH>
             </INDIVIDUAL_ALIAS>
             <INDIVIDUAL_ADDRESS>
                 <COUNTRY>Saudi Arabia</COUNTRY>
@@ -13495,6 +13895,16 @@ the Ganj Gate, Phandu Road, Peshawar, Pakistan. Review pursuant to Security Coun
                 <QUALITY>Good</QUALITY>
                 <ALIAS_NAME>Shaykh Aminullah Al-Peshawari</ALIAS_NAME>
             </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY/>
+                <ALIAS_NAME/>
+                <DATE_OF_BIRTH>1961</DATE_OF_BIRTH>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY/>
+                <ALIAS_NAME/>
+                <DATE_OF_BIRTH>1973</DATE_OF_BIRTH>
+            </INDIVIDUAL_ALIAS>
             <INDIVIDUAL_ADDRESS>
                 <CITY>Ganj District</CITY>
                 <STATE_PROVINCE>Peshawar</STATE_PROVINCE>
@@ -13592,6 +14002,11 @@ Review pursuant to Security Council resolution 2610 (2021) was concluded on 8 No
                 <QUALITY>Low</QUALITY>
                 <ALIAS_NAME>Abu Akram</ALIAS_NAME>
             </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY/>
+                <ALIAS_NAME/>
+                <DATE_OF_BIRTH>1975</DATE_OF_BIRTH>
+            </INDIVIDUAL_ALIAS>
             <INDIVIDUAL_ADDRESS>
                 <CITY>Deir ez-Zor Governorate</CITY>
                 <COUNTRY>Syrian Arab Republic</COUNTRY>
@@ -13645,6 +14060,11 @@ Review pursuant to Security Council resolution 2610 (2021) was concluded on 8 No
             <INDIVIDUAL_ALIAS>
                 <QUALITY>Low</QUALITY>
                 <ALIAS_NAME>Abu Ghazzy</ALIAS_NAME>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY/>
+                <ALIAS_NAME/>
+                <DATE_OF_BIRTH>1975</DATE_OF_BIRTH>
             </INDIVIDUAL_ALIAS>
             <INDIVIDUAL_ADDRESS>
                 <COUNTRY>Syrian Arab Republic</COUNTRY>
@@ -14014,6 +14434,11 @@ area. INTERPOL-UN Security Council Special Notice web link:https://www.interpol.
                 <QUALITY>Good</QUALITY>
                 <ALIAS_NAME>Anwar Nasser Abdulla Aulaqi</ALIAS_NAME>
             </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY/>
+                <ALIAS_NAME/>
+                <DATE_OF_BIRTH>1971-04-22</DATE_OF_BIRTH>
+            </INDIVIDUAL_ALIAS>
             <INDIVIDUAL_ADDRESS>
                 <COUNTRY/>
             </INDIVIDUAL_ADDRESS>
@@ -14130,6 +14555,15 @@ February 2014. Linked by marriage to Mullah Ubaidullah Akhund Yar Mohammad Akhun
                 <QUALITY>Good</QUALITY>
                 <ALIAS_NAME>Saleh Mohammad</ALIAS_NAME>
             </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY/>
+                <ALIAS_NAME/>
+                <DATE_OF_BIRTH>1961</DATE_OF_BIRTH>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY/>
+                <ALIAS_NAME/>
+            </INDIVIDUAL_ALIAS>
             <INDIVIDUAL_ADDRESS>
                 <CITY>Daman District</CITY>
                 <STATE_PROVINCE>Kandahar Province</STATE_PROVINCE>
@@ -14204,6 +14638,25 @@ Has regularly traveled to Pakistan. INTERPOL-UN Security Council Special Notice 
                 <ALIAS_NAME>Agha Jan Alizai اغا جان عالیزی</ALIAS_NAME>
                 <NOTE>formerly listed as</NOTE>
             </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY/>
+                <ALIAS_NAME/>
+                <DATE_OF_BIRTH>1973-02-14</DATE_OF_BIRTH>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY/>
+                <ALIAS_NAME/>
+                <DATE_OF_BIRTH>1967</DATE_OF_BIRTH>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY/>
+                <ALIAS_NAME/>
+                <DATE_OF_BIRTH>1957</DATE_OF_BIRTH>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY/>
+                <ALIAS_NAME/>
+            </INDIVIDUAL_ALIAS>
             <INDIVIDUAL_ADDRESS>
                 <COUNTRY/>
             </INDIVIDUAL_ADDRESS>
@@ -14257,6 +14710,11 @@ Haqqani (TAi.040) and uncle of Sirajuddin Jallaloudine Haqqani (TAi.144). INTERP
             <INDIVIDUAL_ALIAS>
                 <QUALITY>Good</QUALITY>
                 <ALIAS_NAME>Khaleel Haqqani</ALIAS_NAME>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY/>
+                <ALIAS_NAME/>
+                <DATE_OF_BIRTH>1958 - 1964</DATE_OF_BIRTH>
             </INDIVIDUAL_ALIAS>
             <INDIVIDUAL_ADDRESS>
                 <CITY>Peshawar</CITY>
@@ -14330,6 +14788,21 @@ INTERPOL Special Notice contains biometric information. Reportedly deceased as o
                 <QUALITY>Good</QUALITY>
                 <ALIAS_NAME>Dokka Umarov</ALIAS_NAME>
                 <DATE_OF_BIRTH>1965-04-13</DATE_OF_BIRTH>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY/>
+                <ALIAS_NAME/>
+                <DATE_OF_BIRTH>1965-04-13</DATE_OF_BIRTH>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY/>
+                <ALIAS_NAME/>
+                <DATE_OF_BIRTH>1964-05-12</DATE_OF_BIRTH>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY/>
+                <ALIAS_NAME/>
+                <DATE_OF_BIRTH>1955</DATE_OF_BIRTH>
             </INDIVIDUAL_ALIAS>
             <INDIVIDUAL_ADDRESS>
                 <COUNTRY/>
@@ -14426,6 +14899,16 @@ INTERPOL Special Notice contains biometric information. Reportedly deceased as o
             <INDIVIDUAL_ALIAS>
                 <QUALITY>Low</QUALITY>
                 <ALIAS_NAME>Abu-Salaah</ALIAS_NAME>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY/>
+                <ALIAS_NAME/>
+                <DATE_OF_BIRTH>1982-04-18</DATE_OF_BIRTH>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY/>
+                <ALIAS_NAME/>
+                <DATE_OF_BIRTH>null</DATE_OF_BIRTH>
             </INDIVIDUAL_ALIAS>
             <INDIVIDUAL_ADDRESS>
                 <COUNTRY>Yemen</COUNTRY>
@@ -14622,6 +15105,15 @@ Ba'asyir (QDi.217). Review pursuant to Security Council resolution 2368 (2017) w
                 <QUALITY>Good</QUALITY>
                 <ALIAS_NAME>Abdurrahman Bashir</ALIAS_NAME>
             </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY/>
+                <ALIAS_NAME/>
+                <DATE_OF_BIRTH>1974-11-16</DATE_OF_BIRTH>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY/>
+                <ALIAS_NAME/>
+            </INDIVIDUAL_ALIAS>
             <INDIVIDUAL_ADDRESS>
                 <COUNTRY>Indonesia</COUNTRY>
             </INDIVIDUAL_ADDRESS>
@@ -14769,6 +15261,16 @@ Ba'asyir (QDi.217). Review pursuant to Security Council resolution 2368 (2017) w
             <INDIVIDUAL_ALIAS>
                 <QUALITY>Low</QUALITY>
                 <ALIAS_NAME>Heris Syah</ALIAS_NAME>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY/>
+                <ALIAS_NAME/>
+                <DATE_OF_BIRTH>1979-12-03</DATE_OF_BIRTH>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY/>
+                <ALIAS_NAME/>
+                <DATE_OF_BIRTH>1979-03-03</DATE_OF_BIRTH>
             </INDIVIDUAL_ALIAS>
             <INDIVIDUAL_ADDRESS>
                 <STREET>Jalan M. Saidi RT 010 RW 001 Pesanggrahan, South Petukangan</STREET>
@@ -14948,6 +15450,29 @@ Faizullah Khan; Haji Fiazullah</NOTE>
                 <QUALITY>Good</QUALITY>
                 <ALIAS_NAME>Haji Faizullah Noori</ALIAS_NAME>
             </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY/>
+                <ALIAS_NAME/>
+                <DATE_OF_BIRTH>1961</DATE_OF_BIRTH>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY/>
+                <ALIAS_NAME/>
+                <DATE_OF_BIRTH>1968 - 1970</DATE_OF_BIRTH>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY/>
+                <ALIAS_NAME/>
+                <DATE_OF_BIRTH>1962</DATE_OF_BIRTH>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY/>
+                <ALIAS_NAME/>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY/>
+                <ALIAS_NAME/>
+            </INDIVIDUAL_ALIAS>
             <INDIVIDUAL_ADDRESS>
                 <STREET>Boghra Road</STREET>
                 <CITY>Miralzei Village, Chaman</CITY>
@@ -15086,6 +15611,20 @@ Haji Malek Noorzai)</ALIAS_NAME>
                 <QUALITY>Good</QUALITY>
                 <ALIAS_NAME>Allah Muhammad</ALIAS_NAME>
             </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY/>
+                <ALIAS_NAME/>
+                <DATE_OF_BIRTH>1960</DATE_OF_BIRTH>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY/>
+                <ALIAS_NAME/>
+                <DATE_OF_BIRTH>1963-01-01</DATE_OF_BIRTH>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY/>
+                <ALIAS_NAME/>
+            </INDIVIDUAL_ALIAS>
             <INDIVIDUAL_ADDRESS>
                 <STREET>Boghra Road, Miralzei Village</STREET>
                 <CITY>Chaman</CITY>
@@ -15198,6 +15737,23 @@ the Taliban. Believed to be in Afghanistan/Pakistan border area. INTERPOL-UN Sec
             <INDIVIDUAL_ALIAS>
                 <QUALITY>Good</QUALITY>
                 <ALIAS_NAME>Faisal Rabbi</ALIAS_NAME>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY/>
+                <ALIAS_NAME/>
+                <DATE_OF_BIRTH>1975</DATE_OF_BIRTH>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY/>
+                <ALIAS_NAME/>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY/>
+                <ALIAS_NAME/>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY/>
+                <ALIAS_NAME/>
             </INDIVIDUAL_ALIAS>
             <INDIVIDUAL_ADDRESS>
                 <COUNTRY/>
@@ -15713,6 +16269,15 @@ facilitated activities for senior Pakistan-based Al-Qaida operatives. Review pur
                 <QUALITY>Low</QUALITY>
                 <ALIAS_NAME>أبو شيماء (Abu-Shaima; Abu- Shayma)</ALIAS_NAME>
             </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY/>
+                <ALIAS_NAME/>
+                <DATE_OF_BIRTH>1976</DATE_OF_BIRTH>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY/>
+                <ALIAS_NAME/>
+            </INDIVIDUAL_ALIAS>
             <INDIVIDUAL_ADDRESS>
                 <COUNTRY/>
             </INDIVIDUAL_ADDRESS>
@@ -15756,6 +16321,21 @@ As of late 2010, in custody of Pakistan authorities. Father’s name is Fazal Ah
             <INDIVIDUAL_ALIAS>
                 <QUALITY>Good</QUALITY>
                 <ALIAS_NAME>Fazil Rahman</ALIAS_NAME>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY/>
+                <ALIAS_NAME/>
+                <DATE_OF_BIRTH>1977</DATE_OF_BIRTH>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY/>
+                <ALIAS_NAME/>
+                <DATE_OF_BIRTH>1975</DATE_OF_BIRTH>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY/>
+                <ALIAS_NAME/>
+                <DATE_OF_BIRTH>1973-01-24</DATE_OF_BIRTH>
             </INDIVIDUAL_ALIAS>
             <INDIVIDUAL_ADDRESS>
                 <NOTE>Afghanistan/Pakistan border region (previous address)</NOTE>
@@ -15827,6 +16407,11 @@ As of late 2010, in custody of Pakistan authorities. Father’s name is Fazal Ah
             <INDIVIDUAL_ALIAS>
                 <QUALITY>Good</QUALITY>
                 <ALIAS_NAME>Mochtar Akwan</ALIAS_NAME>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY/>
+                <ALIAS_NAME/>
+                <DATE_OF_BIRTH>1946-05-04</DATE_OF_BIRTH>
             </INDIVIDUAL_ALIAS>
             <INDIVIDUAL_ADDRESS>
                 <STREET>Jalan Ir. H. Juanda 8/10, RT/RW 002/001, Jodipan</STREET>
@@ -16004,6 +16589,14 @@ name is Hajji ‘Abd-al-Manaf. INTERPOL-UN Security Council Special Notice web l
                 <VALUE/>
             </LAST_DAY_UPDATED>
             <INDIVIDUAL_ALIAS>
+                <QUALITY/>
+                <ALIAS_NAME/>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY/>
+                <ALIAS_NAME/>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
                 <QUALITY>Good</QUALITY>
                 <ALIAS_NAME>Haji Abdul Sattar Barakzai</ALIAS_NAME>
             </INDIVIDUAL_ALIAS>
@@ -16093,6 +16686,14 @@ Mohammad. INTERPOL-UN Security Council Special Notice web link:https://www.inter
             <LAST_DAY_UPDATED>
                 <VALUE>2014-02-11</VALUE>
             </LAST_DAY_UPDATED>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY/>
+                <ALIAS_NAME/>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY/>
+                <ALIAS_NAME/>
+            </INDIVIDUAL_ALIAS>
             <INDIVIDUAL_ALIAS>
                 <QUALITY>Good</QUALITY>
                 <ALIAS_NAME>Haji Khairullah</ALIAS_NAME>
@@ -16184,6 +16785,21 @@ Mohammad. INTERPOL-UN Security Council Special Notice web link:https://www.inter
             <INDIVIDUAL_ALIAS>
                 <QUALITY>Good</QUALITY>
                 <ALIAS_NAME>Qari Muhammad Ayub</ALIAS_NAME>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY/>
+                <ALIAS_NAME/>
+                <DATE_OF_BIRTH>1964</DATE_OF_BIRTH>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY/>
+                <ALIAS_NAME/>
+                <DATE_OF_BIRTH>1969</DATE_OF_BIRTH>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY/>
+                <ALIAS_NAME/>
+                <DATE_OF_BIRTH>1971</DATE_OF_BIRTH>
             </INDIVIDUAL_ALIAS>
             <INDIVIDUAL_ADDRESS>
                 <STREET>Mir Ali</STREET>
@@ -16288,6 +16904,10 @@ Mohammad. INTERPOL-UN Security Council Special Notice web link:https://www.inter
             <LAST_DAY_UPDATED>
                 <VALUE>2013-04-22</VALUE>
             </LAST_DAY_UPDATED>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY/>
+                <ALIAS_NAME/>
+            </INDIVIDUAL_ALIAS>
             <INDIVIDUAL_ALIAS>
                 <QUALITY>Good</QUALITY>
                 <ALIAS_NAME>Muhammad Qasim</ALIAS_NAME>
@@ -16598,6 +17218,11 @@ Alternative title is Maulavi. INTERPOL-UN Security Council Special Notice web li
                 <QUALITY>Good</QUALITY>
                 <ALIAS_NAME>Mullah Mohammed Shah</ALIAS_NAME>
             </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY/>
+                <ALIAS_NAME/>
+                <DATE_OF_BIRTH>1981</DATE_OF_BIRTH>
+            </INDIVIDUAL_ALIAS>
             <INDIVIDUAL_ADDRESS>
                 <CITY>Quetta</CITY>
                 <COUNTRY>Pakistan</COUNTRY>
@@ -16660,6 +17285,31 @@ suicide attacks in neighboring provinces. Associated with Abdul Samad Achekzai
             <INDIVIDUAL_ALIAS>
                 <QUALITY>Good</QUALITY>
                 <ALIAS_NAME>Maulavi Adam</ALIAS_NAME>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY/>
+                <ALIAS_NAME/>
+                <DATE_OF_BIRTH>1972</DATE_OF_BIRTH>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY/>
+                <ALIAS_NAME/>
+                <DATE_OF_BIRTH>1971</DATE_OF_BIRTH>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY/>
+                <ALIAS_NAME/>
+                <DATE_OF_BIRTH>1973</DATE_OF_BIRTH>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY/>
+                <ALIAS_NAME/>
+                <DATE_OF_BIRTH>1974</DATE_OF_BIRTH>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY/>
+                <ALIAS_NAME/>
+                <DATE_OF_BIRTH>1975</DATE_OF_BIRTH>
             </INDIVIDUAL_ALIAS>
             <INDIVIDUAL_ADDRESS>
                 <CITY>Chaman</CITY>
@@ -16823,6 +17473,11 @@ l’Ouest (MUJAO) (QDe.134). Reportedly deceased as of 14 February 2018 . Review
                 <ALIAS_NAME>Riyadh</ALIAS_NAME>
                 <NOTE>nom de guerre</NOTE>
             </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY/>
+                <ALIAS_NAME/>
+                <DATE_OF_BIRTH>1964-02-01</DATE_OF_BIRTH>
+            </INDIVIDUAL_ALIAS>
             <INDIVIDUAL_ADDRESS>
                 <COUNTRY>Egypt</COUNTRY>
             </INDIVIDUAL_ADDRESS>
@@ -16876,6 +17531,10 @@ producing improvised explosive device components. Review pursuant to Security Co
                 <VALUE>2019-05-01</VALUE>
                 <VALUE>2022-11-08</VALUE>
             </LAST_DAY_UPDATED>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY/>
+                <ALIAS_NAME/>
+            </INDIVIDUAL_ALIAS>
             <INDIVIDUAL_ALIAS>
                 <QUALITY>Good</QUALITY>
                 <ALIAS_NAME>Abd-al-Hamid Muhammad Abd-al-Hamid Al-Masli</ALIAS_NAME>
@@ -17042,6 +17701,11 @@ Pakistan</VALUE>
                 <QUALITY>Good</QUALITY>
                 <ALIAS_NAME>Abdul Ghaffar Qureshi</ALIAS_NAME>
             </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY/>
+                <ALIAS_NAME/>
+                <DATE_OF_BIRTH>1967</DATE_OF_BIRTH>
+            </INDIVIDUAL_ALIAS>
             <INDIVIDUAL_ADDRESS>
                 <STREET>Khairkhana Section Number 3</STREET>
                 <CITY>Kabul</CITY>
@@ -17103,6 +17767,15 @@ Pakistan</VALUE>
             <INDIVIDUAL_ALIAS>
                 <QUALITY>Good</QUALITY>
                 <ALIAS_NAME>Bozize Yangouvonda</ALIAS_NAME>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY/>
+                <ALIAS_NAME/>
+                <DATE_OF_BIRTH>1948-12-16</DATE_OF_BIRTH>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY/>
+                <ALIAS_NAME/>
             </INDIVIDUAL_ALIAS>
             <INDIVIDUAL_ALIAS>
                 <QUALITY>Good</QUALITY>
@@ -17182,6 +17855,30 @@ Democratic Achievements</VALUE>
             <INDIVIDUAL_ALIAS>
                 <QUALITY>Good</QUALITY>
                 <ALIAS_NAME>Mahamat Nouradine Adam</ALIAS_NAME>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY/>
+                <ALIAS_NAME/>
+                <DATE_OF_BIRTH>1969</DATE_OF_BIRTH>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY/>
+                <ALIAS_NAME/>
+                <DATE_OF_BIRTH>1971</DATE_OF_BIRTH>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY/>
+                <ALIAS_NAME/>
+                <DATE_OF_BIRTH>1970-01-01</DATE_OF_BIRTH>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY/>
+                <ALIAS_NAME/>
+                <DATE_OF_BIRTH>1971-01-01</DATE_OF_BIRTH>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY/>
+                <ALIAS_NAME/>
             </INDIVIDUAL_ALIAS>
             <INDIVIDUAL_ALIAS>
                 <QUALITY>Good</QUALITY>
@@ -17637,6 +18334,16 @@ place.</VALUE>
             <INDIVIDUAL_ALIAS>
                 <QUALITY>Good</QUALITY>
                 <ALIAS_NAME>Jang Myong-Jin</ALIAS_NAME>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY/>
+                <ALIAS_NAME/>
+                <DATE_OF_BIRTH>1965</DATE_OF_BIRTH>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY/>
+                <ALIAS_NAME/>
+                <DATE_OF_BIRTH>1966</DATE_OF_BIRTH>
             </INDIVIDUAL_ALIAS>
             <INDIVIDUAL_ADDRESS>
                 <COUNTRY/>
@@ -18254,6 +18961,11 @@ Forces</VALUE>
                 <VALUE>2016-04-01</VALUE>
             </LAST_DAY_UPDATED>
             <INDIVIDUAL_ALIAS>
+                <QUALITY/>
+                <ALIAS_NAME/>
+                <DATE_OF_BIRTH>1974-02-05</DATE_OF_BIRTH>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
                 <QUALITY>Good</QUALITY>
                 <ALIAS_NAME>Almuatesem Bellah Muammer Qadhafi</ALIAS_NAME>
             </INDIVIDUAL_ALIAS>
@@ -18626,6 +19338,11 @@ Sudanese Armed Forces (SAF)</VALUE>
             <INDIVIDUAL_ALIAS>
                 <QUALITY>Low</QUALITY>
                 <ALIAS_NAME>Al Nasseem</ALIAS_NAME>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY/>
+                <ALIAS_NAME/>
+                <DATE_OF_BIRTH>1959</DATE_OF_BIRTH>
             </INDIVIDUAL_ALIAS>
             <INDIVIDUAL_ADDRESS>
                 <CITY>Kabkabiya</CITY>
@@ -19340,6 +20057,10 @@ allegedly blocking the DDR process. He left the DRC and lived in Kenya for some 
                 <VALUE>2016-10-13</VALUE>
             </LAST_DAY_UPDATED>
             <INDIVIDUAL_ALIAS>
+                <QUALITY/>
+                <ALIAS_NAME/>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
                 <QUALITY>Low</QUALITY>
                 <ALIAS_NAME>Rumuli</ALIAS_NAME>
             </INDIVIDUAL_ALIAS>
@@ -19684,6 +20405,19 @@ Business Company (GLBC) crashed. INTERPOL-UN Security Council Special Notice web
                 <QUALITY>Low</QUALITY>
                 <ALIAS_NAME>Mpano</ALIAS_NAME>
             </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY/>
+                <ALIAS_NAME/>
+                <DATE_OF_BIRTH>1965-12-29</DATE_OF_BIRTH>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY/>
+                <ALIAS_NAME/>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY/>
+                <ALIAS_NAME/>
+            </INDIVIDUAL_ALIAS>
             <INDIVIDUAL_ADDRESS>
                 <CITY>Gisenyi</CITY>
                 <COUNTRY>Rwanda</COUNTRY>
@@ -19789,6 +20523,15 @@ Business Company (GLBC) crashed. INTERPOL-UN Security Council Special Notice web
                 <QUALITY>Good</QUALITY>
                 <ALIAS_NAME>Leo Manzi</ALIAS_NAME>
             </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY/>
+                <ALIAS_NAME/>
+                <DATE_OF_BIRTH>1953</DATE_OF_BIRTH>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY/>
+                <ALIAS_NAME/>
+            </INDIVIDUAL_ALIAS>
             <INDIVIDUAL_ADDRESS>
                 <CITY>FDLR HQ at Kikoma forest, Bogoyi, Walikale</CITY>
                 <STATE_PROVINCE>North Kivu</STATE_PROVINCE>
@@ -19878,6 +20621,11 @@ Business Company (GLBC) crashed. INTERPOL-UN Security Council Special Notice web
                 <QUALITY>Low</QUALITY>
                 <ALIAS_NAME>Talengelanimiro</ALIAS_NAME>
             </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY/>
+                <ALIAS_NAME/>
+                <DATE_OF_BIRTH>1964-01-01</DATE_OF_BIRTH>
+            </INDIVIDUAL_ALIAS>
             <INDIVIDUAL_ADDRESS>
                 <STREET>Reportedly in prison in Uganda </STREET>
                 <NOTE>as of September 2016</NOTE>
@@ -19930,6 +20678,11 @@ Business Company (GLBC) crashed. INTERPOL-UN Security Council Special Notice web
                 <QUALITY>Low</QUALITY>
                 <ALIAS_NAME>Frere Petrus Ibrahim</ALIAS_NAME>
             </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY/>
+                <ALIAS_NAME/>
+                <DATE_OF_BIRTH>1966</DATE_OF_BIRTH>
+            </INDIVIDUAL_ALIAS>
             <INDIVIDUAL_ADDRESS>
                 <STATE_PROVINCE>Kinshasa</STATE_PROVINCE>
                 <COUNTRY>Democratic Republic of the Congo</COUNTRY>
@@ -19973,6 +20726,10 @@ Business Company (GLBC) crashed. INTERPOL-UN Security Council Special Notice web
                 <VALUE>2016-10-13</VALUE>
                 <VALUE>2020-02-25</VALUE>
             </LAST_DAY_UPDATED>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY/>
+                <ALIAS_NAME/>
+            </INDIVIDUAL_ALIAS>
             <INDIVIDUAL_ALIAS>
                 <QUALITY>Low</QUALITY>
                 <ALIAS_NAME>Dr. Ignace</ALIAS_NAME>
@@ -20018,6 +20775,11 @@ Business Company (GLBC) crashed. INTERPOL-UN Security Council Special Notice web
             <INDIVIDUAL_ALIAS>
                 <QUALITY>Good</QUALITY>
                 <ALIAS_NAME>IO Musoni</ALIAS_NAME>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY/>
+                <ALIAS_NAME/>
+                <DATE_OF_BIRTH>1961-06-04</DATE_OF_BIRTH>
             </INDIVIDUAL_ALIAS>
             <INDIVIDUAL_ADDRESS>
                 <COUNTRY/>
@@ -20110,6 +20872,15 @@ in Ngoma camp, Rwanda. INTERPOL-UN Security Council Special Notice web link:http
             <INDIVIDUAL_ALIAS>
                 <QUALITY>Good</QUALITY>
                 <ALIAS_NAME>Colonel Baudoin NGARUYE</ALIAS_NAME>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY/>
+                <ALIAS_NAME/>
+                <DATE_OF_BIRTH>1978</DATE_OF_BIRTH>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY/>
+                <ALIAS_NAME/>
             </INDIVIDUAL_ALIAS>
             <INDIVIDUAL_ADDRESS>
                 <CITY>Rubavu / Mudende</CITY>
@@ -20281,6 +21052,11 @@ with the Rwandan Military Court. INTERPOL-UN Security Council Special Notice web
                 <QUALITY>Low</QUALITY>
                 <ALIAS_NAME>Papa Six</ALIAS_NAME>
             </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY/>
+                <ALIAS_NAME/>
+                <DATE_OF_BIRTH>1967-02-02</DATE_OF_BIRTH>
+            </INDIVIDUAL_ALIAS>
             <INDIVIDUAL_ADDRESS>
                 <COUNTRY/>
             </INDIVIDUAL_ADDRESS>
@@ -20323,6 +21099,14 @@ with the Rwandan Military Court. INTERPOL-UN Security Council Special Notice web
             <INDIVIDUAL_ALIAS>
                 <QUALITY>Good</QUALITY>
                 <ALIAS_NAME>Fred Irakeza</ALIAS_NAME>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY/>
+                <ALIAS_NAME/>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY/>
+                <ALIAS_NAME/>
             </INDIVIDUAL_ALIAS>
             <INDIVIDUAL_ADDRESS>
                 <STATE_PROVINCE>South Kivu Province</STATE_PROVINCE>
@@ -20379,6 +21163,11 @@ with the Rwandan Military Court. INTERPOL-UN Security Council Special Notice web
             <INDIVIDUAL_ALIAS>
                 <QUALITY>Good</QUALITY>
                 <ALIAS_NAME>Pacifique Ntawungula</ALIAS_NAME>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY/>
+                <ALIAS_NAME/>
+                <DATE_OF_BIRTH>1964</DATE_OF_BIRTH>
             </INDIVIDUAL_ALIAS>
             <INDIVIDUAL_ADDRESS>
                 <CITY>Rutshuru Territory</CITY>
@@ -20478,6 +21267,16 @@ June 2016. INTERPOL-UN Security Council Special Notice web link:https://www.inte
                 <QUALITY>Good</QUALITY>
                 <ALIAS_NAME>Jules Mateso Mlamba</ALIAS_NAME>
             </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY/>
+                <ALIAS_NAME/>
+                <DATE_OF_BIRTH>1966-08-28</DATE_OF_BIRTH>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY/>
+                <ALIAS_NAME/>
+                <DATE_OF_BIRTH>1967</DATE_OF_BIRTH>
+            </INDIVIDUAL_ALIAS>
             <INDIVIDUAL_ADDRESS>
                 <COUNTRY/>
             </INDIVIDUAL_ADDRESS>
@@ -20561,6 +21360,11 @@ Aru territory, Dieudonné Ozia Mazio is believed to have died in Ariwara on 23 S
             <LAST_DAY_UPDATED>
                 <VALUE>2016-10-13</VALUE>
             </LAST_DAY_UPDATED>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY/>
+                <ALIAS_NAME/>
+                <DATE_OF_BIRTH>1966-09-09</DATE_OF_BIRTH>
+            </INDIVIDUAL_ALIAS>
             <INDIVIDUAL_ALIAS>
                 <QUALITY>Good</QUALITY>
                 <ALIAS_NAME>Jean-Marie Rugerero</ALIAS_NAME>
@@ -20731,6 +21535,20 @@ Ngoma camp, Rwanda. INTERPOL-UN Security Council Special Notice web link:https:/
             <LAST_DAY_UPDATED>
                 <VALUE/>
             </LAST_DAY_UPDATED>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY/>
+                <ALIAS_NAME/>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY/>
+                <ALIAS_NAME/>
+                <DATE_OF_BIRTH>1975</DATE_OF_BIRTH>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY/>
+                <ALIAS_NAME/>
+                <DATE_OF_BIRTH>1972-03-16</DATE_OF_BIRTH>
+            </INDIVIDUAL_ALIAS>
             <INDIVIDUAL_ALIAS>
                 <QUALITY>Low</QUALITY>
                 <ALIAS_NAME>Zimulinda</ALIAS_NAME>
@@ -21200,6 +22018,21 @@ March 2012 and sentenced to 14 years in prison.  On 1 December 2014, ICC appeals
                 <VALUE/>
             </LAST_DAY_UPDATED>
             <INDIVIDUAL_ALIAS>
+                <QUALITY/>
+                <ALIAS_NAME/>
+                <DATE_OF_BIRTH>1980</DATE_OF_BIRTH>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY/>
+                <ALIAS_NAME/>
+                <DATE_OF_BIRTH>1981</DATE_OF_BIRTH>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY/>
+                <ALIAS_NAME/>
+                <DATE_OF_BIRTH>1982</DATE_OF_BIRTH>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
                 <QUALITY>Good</QUALITY>
                 <ALIAS_NAME>Bashir Mohamed Mahmoud</ALIAS_NAME>
             </INDIVIDUAL_ALIAS>
@@ -21453,6 +22286,21 @@ March 2012 and sentenced to 14 years in prison.  On 1 December 2014, ICC appeals
                 <VALUE/>
             </LAST_DAY_UPDATED>
             <INDIVIDUAL_ALIAS>
+                <QUALITY/>
+                <ALIAS_NAME/>
+                <DATE_OF_BIRTH>1967-11-11</DATE_OF_BIRTH>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY/>
+                <ALIAS_NAME/>
+                <DATE_OF_BIRTH>1969-11-11</DATE_OF_BIRTH>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY/>
+                <ALIAS_NAME/>
+                <DATE_OF_BIRTH>1969-01-01</DATE_OF_BIRTH>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
                 <QUALITY>Good</QUALITY>
                 <ALIAS_NAME>Aboud Mohammad Rogo</ALIAS_NAME>
             </INDIVIDUAL_ALIAS>
@@ -21507,6 +22355,11 @@ March 2012 and sentenced to 14 years in prison.  On 1 December 2014, ICC appeals
             <LAST_DAY_UPDATED>
                 <VALUE/>
             </LAST_DAY_UPDATED>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY/>
+                <ALIAS_NAME/>
+                <DATE_OF_BIRTH>1967</DATE_OF_BIRTH>
+            </INDIVIDUAL_ALIAS>
             <INDIVIDUAL_ALIAS>
                 <QUALITY>Good</QUALITY>
                 <ALIAS_NAME>Makaburi</ALIAS_NAME>
@@ -21652,6 +22505,11 @@ Nuclear Research Center and Namchongang Trading Corporation.</COMMENTS1>
             <INDIVIDUAL_ALIAS>
                 <QUALITY/>
                 <ALIAS_NAME/>
+                <DATE_OF_BIRTH>1966</DATE_OF_BIRTH>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY/>
+                <ALIAS_NAME/>
             </INDIVIDUAL_ALIAS>
             <INDIVIDUAL_ADDRESS>
                 <COUNTRY/>
@@ -21689,6 +22547,11 @@ Nuclear Research Center and Namchongang Trading Corporation.</COMMENTS1>
             <LAST_DAY_UPDATED>
                 <VALUE/>
             </LAST_DAY_UPDATED>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY/>
+                <ALIAS_NAME/>
+                <DATE_OF_BIRTH>1967</DATE_OF_BIRTH>
+            </INDIVIDUAL_ALIAS>
             <INDIVIDUAL_ALIAS>
                 <QUALITY/>
                 <ALIAS_NAME/>
@@ -21983,6 +22846,16 @@ Nuclear Research Center and Namchongang Trading Corporation.</COMMENTS1>
             <INDIVIDUAL_ALIAS>
                 <QUALITY/>
                 <ALIAS_NAME/>
+                <DATE_OF_BIRTH>1960</DATE_OF_BIRTH>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY/>
+                <ALIAS_NAME/>
+                <DATE_OF_BIRTH>1949</DATE_OF_BIRTH>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY/>
+                <ALIAS_NAME/>
             </INDIVIDUAL_ALIAS>
             <INDIVIDUAL_ADDRESS>
                 <COUNTRY/>
@@ -22223,6 +23096,11 @@ Nuclear Research Center and Namchongang Trading Corporation.</COMMENTS1>
             <LAST_DAY_UPDATED>
                 <VALUE/>
             </LAST_DAY_UPDATED>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY/>
+                <ALIAS_NAME/>
+                <DATE_OF_BIRTH>1942-03-14</DATE_OF_BIRTH>
+            </INDIVIDUAL_ALIAS>
             <INDIVIDUAL_ALIAS>
                 <QUALITY/>
                 <ALIAS_NAME/>
@@ -23371,6 +24249,11 @@ Nuclear Research Center and Namchongang Trading Corporation.</COMMENTS1>
                 <VALUE/>
             </LAST_DAY_UPDATED>
             <INDIVIDUAL_ALIAS>
+                <QUALITY/>
+                <ALIAS_NAME/>
+                <DATE_OF_BIRTH>1983</DATE_OF_BIRTH>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
                 <QUALITY>Low</QUALITY>
                 <ALIAS_NAME>Hassan</ALIAS_NAME>
             </INDIVIDUAL_ALIAS>
@@ -23609,6 +24492,11 @@ Nuclear Research Center and Namchongang Trading Corporation.</COMMENTS1>
             <LAST_DAY_UPDATED>
                 <VALUE/>
             </LAST_DAY_UPDATED>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY/>
+                <ALIAS_NAME/>
+                <DATE_OF_BIRTH>1980-01-19</DATE_OF_BIRTH>
+            </INDIVIDUAL_ALIAS>
             <INDIVIDUAL_ALIAS>
                 <QUALITY/>
                 <ALIAS_NAME/>
@@ -24117,6 +25005,10 @@ Nuclear Research Center and Namchongang Trading Corporation.</COMMENTS1>
             <LAST_DAY_UPDATED>
                 <VALUE/>
             </LAST_DAY_UPDATED>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY/>
+                <ALIAS_NAME/>
+            </INDIVIDUAL_ALIAS>
             <INDIVIDUAL_ALIAS>
                 <QUALITY>Good</QUALITY>
                 <ALIAS_NAME>Aiman Sabawi Ibrahim Hasan Al-Tikriti</ALIAS_NAME>
@@ -24854,6 +25746,11 @@ Hajji Meyawar Khan (deceased). INTERPOL-UN Security Council Special Notice web l
                 <VALUE/>
             </LAST_DAY_UPDATED>
             <INDIVIDUAL_ALIAS>
+                <QUALITY/>
+                <ALIAS_NAME/>
+                <DATE_OF_BIRTH>1978</DATE_OF_BIRTH>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
                 <QUALITY>Good</QUALITY>
                 <ALIAS_NAME>Yaya</ALIAS_NAME>
             </INDIVIDUAL_ALIAS>
@@ -24972,6 +25869,11 @@ Hajji Meyawar Khan (deceased). INTERPOL-UN Security Council Special Notice web l
             <LAST_DAY_UPDATED>
                 <VALUE>2016-07-21</VALUE>
             </LAST_DAY_UPDATED>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY/>
+                <ALIAS_NAME/>
+                <DATE_OF_BIRTH>1982</DATE_OF_BIRTH>
+            </INDIVIDUAL_ALIAS>
             <INDIVIDUAL_ALIAS>
                 <QUALITY>Good</QUALITY>
                 <ALIAS_NAME>Qari Rahmat</ALIAS_NAME>
@@ -25440,6 +26342,10 @@ of early 2014. Review pursuant to Security Council resolution 2368 (2017) was co
                 <QUALITY>Low</QUALITY>
                 <ALIAS_NAME>Abu Maria al-Qatani</ALIAS_NAME>
             </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY/>
+                <ALIAS_NAME/>
+            </INDIVIDUAL_ALIAS>
             <INDIVIDUAL_ADDRESS>
                 <COUNTRY/>
             </INDIVIDUAL_ADDRESS>
@@ -25654,6 +26560,11 @@ that group. Review pursuant to Security Council resolution 2368 (2017) was concl
             <LAST_DAY_UPDATED>
                 <VALUE>2019-12-06</VALUE>
             </LAST_DAY_UPDATED>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY/>
+                <ALIAS_NAME/>
+                <DATE_OF_BIRTH>1977</DATE_OF_BIRTH>
+            </INDIVIDUAL_ALIAS>
             <INDIVIDUAL_ALIAS>
                 <QUALITY>Good</QUALITY>
                 <ALIAS_NAME>Abd Al-Rahman Muhammad Zafir Al-Dubaysi Al-Juhni</ALIAS_NAME>
@@ -26022,6 +26933,15 @@ that group. Review pursuant to Security Council resolution 2368 (2017) was concl
                 <QUALITY>Good</QUALITY>
                 <ALIAS_NAME>Abdallah al-Mu’ayyad</ALIAS_NAME>
             </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY/>
+                <ALIAS_NAME/>
+                <DATE_OF_BIRTH>1984 - 1986</DATE_OF_BIRTH>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY/>
+                <ALIAS_NAME/>
+            </INDIVIDUAL_ALIAS>
             <INDIVIDUAL_ADDRESS>
                 <CITY>Dahyan</CITY>
                 <STATE_PROVINCE>Sa’dah Governorate</STATE_PROVINCE>
@@ -26068,6 +26988,29 @@ that group. Review pursuant to Security Council resolution 2368 (2017) was concl
             <INDIVIDUAL_ALIAS>
                 <QUALITY>Good</QUALITY>
                 <ALIAS_NAME>Ali Abdallah Salih</ALIAS_NAME>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY/>
+                <ALIAS_NAME/>
+                <DATE_OF_BIRTH>1946-03-21</DATE_OF_BIRTH>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY/>
+                <ALIAS_NAME/>
+                <DATE_OF_BIRTH>1942-03-21</DATE_OF_BIRTH>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY/>
+                <ALIAS_NAME/>
+                <DATE_OF_BIRTH>1947-03-21</DATE_OF_BIRTH>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY/>
+                <ALIAS_NAME/>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY/>
+                <ALIAS_NAME/>
             </INDIVIDUAL_ALIAS>
             <INDIVIDUAL_ADDRESS>
                 <COUNTRY/>
@@ -26263,6 +27206,11 @@ Review pursuant to Security Council resolution 2368 (2017) was concluded on 24 N
             <LAST_DAY_UPDATED>
                 <VALUE>2020-11-24</VALUE>
             </LAST_DAY_UPDATED>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY/>
+                <ALIAS_NAME/>
+                <DATE_OF_BIRTH>1982</DATE_OF_BIRTH>
+            </INDIVIDUAL_ALIAS>
             <INDIVIDUAL_ALIAS>
                 <QUALITY>Good</QUALITY>
                 <ALIAS_NAME>Tarkhan Tayumurazovich Batyrashvili</ALIAS_NAME>
@@ -26532,6 +27480,16 @@ financial services to Taliban in the region. INTERPOL-UN Security Council Specia
             <LAST_DAY_UPDATED>
                 <VALUE/>
             </LAST_DAY_UPDATED>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY/>
+                <ALIAS_NAME/>
+                <DATE_OF_BIRTH>1960</DATE_OF_BIRTH>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY/>
+                <ALIAS_NAME/>
+                <DATE_OF_BIRTH>1963</DATE_OF_BIRTH>
+            </INDIVIDUAL_ALIAS>
             <INDIVIDUAL_ALIAS>
                 <QUALITY>Good</QUALITY>
                 <ALIAS_NAME>Haji Abdul Basir</ALIAS_NAME>
@@ -26944,6 +27902,10 @@ State through attacks on the civilian population. Photograph available for inclu
                 <QUALITY>Low</QUALITY>
                 <ALIAS_NAME>Dhual</ALIAS_NAME>
             </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY/>
+                <ALIAS_NAME/>
+            </INDIVIDUAL_ALIAS>
             <INDIVIDUAL_ADDRESS>
                 <STATE_PROVINCE>Jonglei State</STATE_PROVINCE>
                 <COUNTRY>Sudan</COUNTRY>
@@ -27184,6 +28146,10 @@ ethnicity. INTERPOL-UN Security Council Special Notice web link:https://www.inte
             <INDIVIDUAL_ALIAS>
                 <QUALITY>Good</QUALITY>
                 <ALIAS_NAME>Peter Gatdeet Yaka</ALIAS_NAME>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY/>
+                <ALIAS_NAME/>
             </INDIVIDUAL_ALIAS>
             <INDIVIDUAL_ADDRESS>
                 <COUNTRY/>
@@ -28546,6 +29512,20 @@ Review pursuant to Security Council resolution 2368 (2017) was concluded on 24 N
                 <QUALITY>Low</QUALITY>
                 <ALIAS_NAME>Toriq Agha Sayed</ALIAS_NAME>
             </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY/>
+                <ALIAS_NAME/>
+                <DATE_OF_BIRTH>1962</DATE_OF_BIRTH>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY/>
+                <ALIAS_NAME/>
+                <DATE_OF_BIRTH>1965</DATE_OF_BIRTH>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY/>
+                <ALIAS_NAME/>
+            </INDIVIDUAL_ALIAS>
             <INDIVIDUAL_ADDRESS>
                 <CITY>Pashtunabad, Quetta</CITY>
                 <STATE_PROVINCE>Baluchistan Province</STATE_PROVINCE>
@@ -28746,6 +29726,11 @@ Renaissance de Centrafrique (FPRC)</VALUE>
                 <QUALITY>Good</QUALITY>
                 <ALIAS_NAME>Aroun Geye</ALIAS_NAME>
             </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY/>
+                <ALIAS_NAME/>
+                <DATE_OF_BIRTH>1969-01-30</DATE_OF_BIRTH>
+            </INDIVIDUAL_ALIAS>
             <INDIVIDUAL_ADDRESS>
                 <CITY>Bangui</CITY>
                 <COUNTRY>Central African Republic</COUNTRY>
@@ -28871,6 +29856,11 @@ number 911-10-77</NUMBER>
                 <ALIAS_NAME>Kim Hyok-Chol</ALIAS_NAME>
             </INDIVIDUAL_ALIAS>
             <INDIVIDUAL_ALIAS>
+                <QUALITY/>
+                <ALIAS_NAME/>
+                <DATE_OF_BIRTH>1962-08-28</DATE_OF_BIRTH>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
                 <QUALITY>Good</QUALITY>
                 <ALIAS_NAME>Kim Tong-Myo’ng</ALIAS_NAME>
             </INDIVIDUAL_ALIAS>
@@ -28924,6 +29914,14 @@ number 911-10-77</NUMBER>
             <INDIVIDUAL_ALIAS>
                 <QUALITY>Good</QUALITY>
                 <ALIAS_NAME>Kim Chung Chong</ALIAS_NAME>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY/>
+                <ALIAS_NAME/>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY/>
+                <ALIAS_NAME/>
             </INDIVIDUAL_ALIAS>
             <INDIVIDUAL_ADDRESS>
                 <COUNTRY/>
@@ -29521,6 +30519,11 @@ Review pursuant to Security Council resolution 2368 (2017) was concluded on 24 N
             <INDIVIDUAL_ALIAS>
                 <QUALITY/>
                 <ALIAS_NAME/>
+                <DATE_OF_BIRTH>1975</DATE_OF_BIRTH>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY/>
+                <ALIAS_NAME/>
             </INDIVIDUAL_ALIAS>
             <INDIVIDUAL_ADDRESS>
                 <COUNTRY>Syrian Arab Republic</COUNTRY>
@@ -29558,6 +30561,11 @@ Review pursuant to Security Council resolution 2368 (2017) was concluded on 24 N
                 <VALUE>2019-05-01</VALUE>
                 <VALUE>2022-11-08</VALUE>
             </LAST_DAY_UPDATED>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY/>
+                <ALIAS_NAME/>
+                <DATE_OF_BIRTH>1977-09-26</DATE_OF_BIRTH>
+            </INDIVIDUAL_ALIAS>
             <INDIVIDUAL_ALIAS>
                 <QUALITY>Good</QUALITY>
                 <ALIAS_NAME>Nusret Sulejman Imamovic</ALIAS_NAME>
@@ -29862,6 +30870,10 @@ Review pursuant to Security Council resolution 2368 (2017) was concluded on 24 N
                 <QUALITY>Low</QUALITY>
                 <ALIAS_NAME>Abu Maryam al-Tunisi</ALIAS_NAME>
             </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY/>
+                <ALIAS_NAME/>
+            </INDIVIDUAL_ALIAS>
             <INDIVIDUAL_ADDRESS>
                 <CITY>Amria Ben Guerdane, Medenine</CITY>
                 <COUNTRY>Tunisia</COUNTRY>
@@ -29903,6 +30915,11 @@ Review pursuant to Security Council resolution 2368 (2017) was concluded on 24 N
             <LAST_DAY_UPDATED>
                 <VALUE>2021-11-15</VALUE>
             </LAST_DAY_UPDATED>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY/>
+                <ALIAS_NAME/>
+                <DATE_OF_BIRTH>1989-09-22</DATE_OF_BIRTH>
+            </INDIVIDUAL_ALIAS>
             <INDIVIDUAL_ALIAS>
                 <QUALITY>Good</QUALITY>
                 <ALIAS_NAME>Muhammad Hameida Saleh</ALIAS_NAME>
@@ -30068,6 +31085,59 @@ Review pursuant to Security Council resolution 2368 (2017) was concluded on 24 N
             <LAST_DAY_UPDATED>
                 <VALUE/>
             </LAST_DAY_UPDATED>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY/>
+                <ALIAS_NAME/>
+                <DATE_OF_BIRTH>1960</DATE_OF_BIRTH>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY/>
+                <ALIAS_NAME/>
+                <DATE_OF_BIRTH>1961</DATE_OF_BIRTH>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY/>
+                <ALIAS_NAME/>
+                <DATE_OF_BIRTH>1963</DATE_OF_BIRTH>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY/>
+                <ALIAS_NAME/>
+                <DATE_OF_BIRTH>1964-09-18</DATE_OF_BIRTH>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY/>
+                <ALIAS_NAME/>
+                <DATE_OF_BIRTH>1965</DATE_OF_BIRTH>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY/>
+                <ALIAS_NAME/>
+                <DATE_OF_BIRTH>null</DATE_OF_BIRTH>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY/>
+                <ALIAS_NAME/>
+                <DATE_OF_BIRTH>null</DATE_OF_BIRTH>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY/>
+                <ALIAS_NAME/>
+                <DATE_OF_BIRTH>1961-01-01</DATE_OF_BIRTH>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY/>
+                <ALIAS_NAME/>
+                <DATE_OF_BIRTH>null</DATE_OF_BIRTH>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY/>
+                <ALIAS_NAME/>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY/>
+                <ALIAS_NAME/>
+            </INDIVIDUAL_ALIAS>
             <INDIVIDUAL_ALIAS>
                 <QUALITY>Good</QUALITY>
                 <ALIAS_NAME>Kony</ALIAS_NAME>
@@ -30438,6 +31508,21 @@ Review pursuant to Security Council resolution 2368 (2017) was concluded on 24 N
                 <VALUE/>
             </LAST_DAY_UPDATED>
             <INDIVIDUAL_ALIAS>
+                <QUALITY/>
+                <ALIAS_NAME/>
+                <DATE_OF_BIRTH>1993</DATE_OF_BIRTH>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY/>
+                <ALIAS_NAME/>
+                <DATE_OF_BIRTH>1995</DATE_OF_BIRTH>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY/>
+                <ALIAS_NAME/>
+                <DATE_OF_BIRTH>1992</DATE_OF_BIRTH>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
                 <QUALITY>Good</QUALITY>
                 <ALIAS_NAME>Ali Lalobo</ALIAS_NAME>
             </INDIVIDUAL_ALIAS>
@@ -30526,6 +31611,16 @@ Review pursuant to Security Council resolution 2368 (2017) was concluded on 24 N
             <LAST_DAY_UPDATED>
                 <VALUE/>
             </LAST_DAY_UPDATED>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY/>
+                <ALIAS_NAME/>
+                <DATE_OF_BIRTH>1991</DATE_OF_BIRTH>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY/>
+                <ALIAS_NAME/>
+                <DATE_OF_BIRTH>1993</DATE_OF_BIRTH>
+            </INDIVIDUAL_ALIAS>
             <INDIVIDUAL_ALIAS>
                 <QUALITY>Good</QUALITY>
                 <ALIAS_NAME>Salim Saleh Kony</ALIAS_NAME>
@@ -30674,6 +31769,11 @@ Review pursuant to Security Council resolution 2368 (2017) was concluded on 24 N
             <INDIVIDUAL_ALIAS>
                 <QUALITY>Good</QUALITY>
                 <ALIAS_NAME>Kim Hak Song</ALIAS_NAME>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY/>
+                <ALIAS_NAME/>
+                <DATE_OF_BIRTH>1970-10-15</DATE_OF_BIRTH>
             </INDIVIDUAL_ALIAS>
             <INDIVIDUAL_ADDRESS>
                 <COUNTRY/>
@@ -31055,6 +32155,23 @@ Atomic Energy (GBAE) </VALUE>
                 <VALUE>2022-11-08</VALUE>
             </LAST_DAY_UPDATED>
             <INDIVIDUAL_ALIAS>
+                <QUALITY/>
+                <ALIAS_NAME/>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY/>
+                <ALIAS_NAME/>
+                <DATE_OF_BIRTH>1971</DATE_OF_BIRTH>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY/>
+                <ALIAS_NAME/>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY/>
+                <ALIAS_NAME/>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
                 <QUALITY>Good</QUALITY>
                 <ALIAS_NAME>Bassam Ahmad Husari</ALIAS_NAME>
             </INDIVIDUAL_ALIAS>
@@ -31176,6 +32293,11 @@ Atomic Energy (GBAE) </VALUE>
                 <VALUE>2019-12-06</VALUE>
             </LAST_DAY_UPDATED>
             <INDIVIDUAL_ALIAS>
+                <QUALITY/>
+                <ALIAS_NAME/>
+                <DATE_OF_BIRTH>1970</DATE_OF_BIRTH>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
                 <QUALITY>Good</QUALITY>
                 <ALIAS_NAME>Ghalib Abdallah al-Zaydi</ALIAS_NAME>
             </INDIVIDUAL_ALIAS>
@@ -31254,6 +32376,15 @@ Atomic Energy (GBAE) </VALUE>
             <INDIVIDUAL_ALIAS>
                 <QUALITY>Good</QUALITY>
                 <ALIAS_NAME>Issene Abdoulaye</ALIAS_NAME>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY/>
+                <ALIAS_NAME/>
+                <DATE_OF_BIRTH>1967-01-01</DATE_OF_BIRTH>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY/>
+                <ALIAS_NAME/>
             </INDIVIDUAL_ALIAS>
             <INDIVIDUAL_ADDRESS>
                 <CITY>KM5, Bangui</CITY>
@@ -31421,6 +32552,7 @@ the public </VALUE>
             <INDIVIDUAL_ALIAS>
                 <QUALITY/>
                 <ALIAS_NAME/>
+                <DATE_OF_BIRTH>1955</DATE_OF_BIRTH>
             </INDIVIDUAL_ALIAS>
             <INDIVIDUAL_ADDRESS>
                 <COUNTRY>Democratic People's Republic of Korea</COUNTRY>
@@ -31506,6 +32638,11 @@ military</VALUE>
             <INDIVIDUAL_ALIAS>
                 <QUALITY>Good</QUALITY>
                 <ALIAS_NAME>Kim Kyong Ok</ALIAS_NAME>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY/>
+                <ALIAS_NAME/>
+                <DATE_OF_BIRTH>1938</DATE_OF_BIRTH>
             </INDIVIDUAL_ALIAS>
             <INDIVIDUAL_ADDRESS>
                 <CITY>Pyongyang</CITY>
@@ -33157,6 +34294,15 @@ Dec. 2014</NOTE>
                 <VALUE/>
             </LAST_DAY_UPDATED>
             <INDIVIDUAL_ALIAS>
+                <QUALITY/>
+                <ALIAS_NAME/>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY/>
+                <ALIAS_NAME/>
+                <DATE_OF_BIRTH>1959</DATE_OF_BIRTH>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
                 <QUALITY>Good</QUALITY>
                 <ALIAS_NAME>Salim Mustafa Muhammad Mansur Al-Ifri</ALIAS_NAME>
             </INDIVIDUAL_ALIAS>
@@ -33244,6 +34390,11 @@ Dec. 2014</NOTE>
             <LAST_DAY_UPDATED>
                 <VALUE/>
             </LAST_DAY_UPDATED>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY/>
+                <ALIAS_NAME/>
+                <DATE_OF_BIRTH>1967-01-01</DATE_OF_BIRTH>
+            </INDIVIDUAL_ALIAS>
             <INDIVIDUAL_ALIAS>
                 <QUALITY>Good</QUALITY>
                 <ALIAS_NAME>Umar Mahmud Rahim al-Kubaysi</ALIAS_NAME>
@@ -33543,6 +34694,11 @@ Dec. 2014</NOTE>
                 <VALUE/>
             </LAST_DAY_UPDATED>
             <INDIVIDUAL_ALIAS>
+                <QUALITY/>
+                <ALIAS_NAME/>
+                <DATE_OF_BIRTH>1974</DATE_OF_BIRTH>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
                 <QUALITY>Good</QUALITY>
                 <ALIAS_NAME>Sheikh Ahmed Iman Ali</ALIAS_NAME>
             </INDIVIDUAL_ALIAS>
@@ -33703,6 +34859,16 @@ Dec. 2014</NOTE>
             <LAST_DAY_UPDATED>
                 <VALUE/>
             </LAST_DAY_UPDATED>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY/>
+                <ALIAS_NAME/>
+                <DATE_OF_BIRTH>1965-01-01</DATE_OF_BIRTH>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY/>
+                <ALIAS_NAME/>
+                <DATE_OF_BIRTH>1965-01-11</DATE_OF_BIRTH>
+            </INDIVIDUAL_ALIAS>
             <INDIVIDUAL_ALIAS>
                 <QUALITY>Good</QUALITY>
                 <ALIAS_NAME>Abdulpatta Abubakar Escalon</ALIAS_NAME>
@@ -34087,6 +35253,25 @@ Dec. 2014</NOTE>
             <INDIVIDUAL_ALIAS>
                 <QUALITY>Good</QUALITY>
                 <ALIAS_NAME>Bol Malong</ALIAS_NAME>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY/>
+                <ALIAS_NAME/>
+                <DATE_OF_BIRTH>1960-12-04</DATE_OF_BIRTH>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY/>
+                <ALIAS_NAME/>
+                <DATE_OF_BIRTH>1960-04-12</DATE_OF_BIRTH>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY/>
+                <ALIAS_NAME/>
+                <DATE_OF_BIRTH>1962-01-01</DATE_OF_BIRTH>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY/>
+                <ALIAS_NAME/>
             </INDIVIDUAL_ALIAS>
             <INDIVIDUAL_ADDRESS>
                 <COUNTRY/>
@@ -34611,6 +35796,11 @@ Feb. 2020</NOTE>
                 <VALUE/>
             </LAST_DAY_UPDATED>
             <INDIVIDUAL_ALIAS>
+                <QUALITY/>
+                <ALIAS_NAME/>
+                <DATE_OF_BIRTH>1968-06-10</DATE_OF_BIRTH>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
                 <QUALITY>Low</QUALITY>
                 <ALIAS_NAME>Masud Azhar</ALIAS_NAME>
             </INDIVIDUAL_ALIAS>
@@ -34720,6 +35910,16 @@ Feb. 2020</NOTE>
             <INDIVIDUAL_ALIAS>
                 <QUALITY>Good</QUALITY>
                 <ALIAS_NAME>Ammi Salim</ALIAS_NAME>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY/>
+                <ALIAS_NAME/>
+                <DATE_OF_BIRTH>1952-12-31</DATE_OF_BIRTH>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY/>
+                <ALIAS_NAME/>
+                <DATE_OF_BIRTH>1956-10-28</DATE_OF_BIRTH>
             </INDIVIDUAL_ALIAS>
             <INDIVIDUAL_ADDRESS>
                 <COUNTRY/>
@@ -34834,6 +36034,19 @@ Feb. 2020</NOTE>
             <INDIVIDUAL_ALIAS>
                 <QUALITY>Low</QUALITY>
                 <ALIAS_NAME>Abu-Malik al-Talli</ALIAS_NAME>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY/>
+                <ALIAS_NAME/>
+                <DATE_OF_BIRTH>1972-01-01</DATE_OF_BIRTH>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY/>
+                <ALIAS_NAME/>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY/>
+                <ALIAS_NAME/>
             </INDIVIDUAL_ALIAS>
             <INDIVIDUAL_ADDRESS>
                 <COUNTRY>Syrian Arab Republic</COUNTRY>
@@ -34960,6 +36173,19 @@ for inclusion in the INTERPOL-UN Security Council Special Notice.</COMMENTS1>
                 <VALUE>2020-07-28</VALUE>
             </LAST_DAY_UPDATED>
             <INDIVIDUAL_ALIAS>
+                <QUALITY/>
+                <ALIAS_NAME/>
+                <DATE_OF_BIRTH>1965-03-03</DATE_OF_BIRTH>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY/>
+                <ALIAS_NAME/>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY/>
+                <ALIAS_NAME/>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
                 <QUALITY>Good</QUALITY>
                 <ALIAS_NAME>Abdoulaye Miskine</ALIAS_NAME>
             </INDIVIDUAL_ALIAS>
@@ -35048,6 +36274,15 @@ for inclusion in the INTERPOL-UN Security Council Special Notice.</COMMENTS1>
                 <VALUE>2022-05-27</VALUE>
             </LAST_DAY_UPDATED>
             <INDIVIDUAL_ALIAS>
+                <QUALITY/>
+                <ALIAS_NAME/>
+                <DATE_OF_BIRTH>1976-10-01</DATE_OF_BIRTH>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY/>
+                <ALIAS_NAME/>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
                 <QUALITY>Good</QUALITY>
                 <ALIAS_NAME>Abu Ibrahim al-Hashimi
                                                   al-Qurashi</ALIAS_NAME>
@@ -35109,6 +36344,11 @@ for inclusion in the INTERPOL-UN Security Council Special Notice.</COMMENTS1>
                 <ALIAS_NAME>Amir Muhammad Sa’id
                                                   Abdal-Rahman al-Mawla</ALIAS_NAME>
                 <NOTE>previously listed as</NOTE>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY/>
+                <ALIAS_NAME/>
+                <DATE_OF_BIRTH>1976-01-06</DATE_OF_BIRTH>
             </INDIVIDUAL_ALIAS>
             <INDIVIDUAL_ADDRESS>
                 <STREET>House 110, Street 704, District 704</STREET>
@@ -35227,6 +36467,16 @@ for inclusion in the INTERPOL-UN Security Council Special Notice.</COMMENTS1>
                 <VALUE/>
             </LAST_DAY_UPDATED>
             <INDIVIDUAL_ALIAS>
+                <QUALITY/>
+                <ALIAS_NAME/>
+                <DATE_OF_BIRTH>1971</DATE_OF_BIRTH>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY/>
+                <ALIAS_NAME/>
+                <DATE_OF_BIRTH>1973</DATE_OF_BIRTH>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
                 <QUALITY>Good</QUALITY>
                 <ALIAS_NAME>Abukar Ali Aden</ALIAS_NAME>
             </INDIVIDUAL_ALIAS>
@@ -35271,6 +36521,11 @@ for inclusion in the INTERPOL-UN Security Council Special Notice.</COMMENTS1>
             <LAST_DAY_UPDATED>
                 <VALUE/>
             </LAST_DAY_UPDATED>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY/>
+                <ALIAS_NAME/>
+                <DATE_OF_BIRTH>1983</DATE_OF_BIRTH>
+            </INDIVIDUAL_ALIAS>
             <INDIVIDUAL_ALIAS>
                 <QUALITY>Good</QUALITY>
                 <ALIAS_NAME>Ma’alim Ayman</ALIAS_NAME>
@@ -35434,6 +36689,16 @@ for inclusion in the INTERPOL-UN Security Council Special Notice.</COMMENTS1>
             <LAST_DAY_UPDATED>
                 <VALUE/>
             </LAST_DAY_UPDATED>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY/>
+                <ALIAS_NAME/>
+                <DATE_OF_BIRTH>1983-03-15</DATE_OF_BIRTH>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY/>
+                <ALIAS_NAME/>
+                <DATE_OF_BIRTH>1980-01-01</DATE_OF_BIRTH>
+            </INDIVIDUAL_ALIAS>
             <INDIVIDUAL_ALIAS>
                 <QUALITY>Good</QUALITY>
                 <ALIAS_NAME>Mohamad Abdulkarim</ALIAS_NAME>
@@ -37242,6 +38507,11 @@ Jan. 2012. Review pursuant to Security Council resolution 1822 (2008) was conclu
                 <QUALITY>Low</QUALITY>
                 <ALIAS_NAME>Nangiali</ALIAS_NAME>
             </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY/>
+                <ALIAS_NAME/>
+                <DATE_OF_BIRTH>1971-12-31</DATE_OF_BIRTH>
+            </INDIVIDUAL_ALIAS>
             <INDIVIDUAL_ADDRESS>
                 <COUNTRY/>
             </INDIVIDUAL_ADDRESS>
@@ -37585,7 +38855,7 @@ on 17 March 2011 pursuant to paragraph 17 of resolution 1970 (Asset Freeze). INT
             <VERSIONNUM>1</VERSIONNUM>
             <FIRST_NAME>Abd</FIRST_NAME>
             <SECOND_NAME>Al-Rahman</SECOND_NAME>
-            <THIRD_NAME>SALIM</THIRD_NAME>
+            <THIRD_NAME>SALIM </THIRD_NAME>
             <FOURTH_NAME>IBRAHIM AL-MILAD</FOURTH_NAME>
             <UN_LIST_TYPE>Libya</UN_LIST_TYPE>
             <REFERENCE_NUMBER>LYi.026</REFERENCE_NUMBER>
@@ -37694,7 +38964,7 @@ Ban). INTERPOL-UN Security Council Special Notice web link:https://www.interpol.
         <INDIVIDUAL>
             <DATAID>6909003</DATAID>
             <VERSIONNUM>1</VERSIONNUM>
-            <FIRST_NAME>JOHNSON</FIRST_NAME>
+            <FIRST_NAME>JOHNSON </FIRST_NAME>
             <SECOND_NAME>ANDRE</SECOND_NAME>
             <UN_LIST_TYPE>Haiti</UN_LIST_TYPE>
             <REFERENCE_NUMBER>HTi.002</REFERENCE_NUMBER>
@@ -37773,8 +39043,8 @@ Ban). INTERPOL-UN Security Council Special Notice web link:https://www.interpol.
         <INDIVIDUAL>
             <DATAID>6909005</DATAID>
             <VERSIONNUM>1</VERSIONNUM>
-            <FIRST_NAME>WILSON</FIRST_NAME>
-            <SECOND_NAME>JOSEPH</SECOND_NAME>
+            <FIRST_NAME>WILSON </FIRST_NAME>
+            <SECOND_NAME>JOSEPH </SECOND_NAME>
             <UN_LIST_TYPE>Haiti</UN_LIST_TYPE>
             <REFERENCE_NUMBER>HTi.004</REFERENCE_NUMBER>
             <LISTED_ON>2023-12-08</LISTED_ON>
@@ -37813,7 +39083,7 @@ Ban). INTERPOL-UN Security Council Special Notice web link:https://www.interpol.
             <DATAID>6909006</DATAID>
             <VERSIONNUM>1</VERSIONNUM>
             <FIRST_NAME>VITELHOMME</FIRST_NAME>
-            <SECOND_NAME>INNOCENT</SECOND_NAME>
+            <SECOND_NAME>INNOCENT </SECOND_NAME>
             <UN_LIST_TYPE>Haiti</UN_LIST_TYPE>
             <REFERENCE_NUMBER>HTi.005</REFERENCE_NUMBER>
             <LISTED_ON>2023-12-08</LISTED_ON>
@@ -38363,6 +39633,11 @@ Oct. 2012. Review pursuant to Security Council resolution 1822 (2008) was conclu
                 <VALUE>2023-12-14</VALUE>
             </LAST_DAY_UPDATED>
             <INDIVIDUAL_ALIAS>
+                <QUALITY/>
+                <ALIAS_NAME/>
+                <DATE_OF_BIRTH>1957</DATE_OF_BIRTH>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
                 <QUALITY>Good</QUALITY>
                 <ALIAS_NAME>‘Abd al-Rahman Muhammad Mustafa Shaykhlari</ALIAS_NAME>
             </INDIVIDUAL_ALIAS>
@@ -38724,7 +39999,7 @@ bin Udin</NOTE>
             <DATAID>6908843</DATAID>
             <VERSIONNUM>1</VERSIONNUM>
             <FIRST_NAME>NOOR</FIRST_NAME>
-            <SECOND_NAME>WALI</SECOND_NAME>
+            <SECOND_NAME>WALI </SECOND_NAME>
             <THIRD_NAME>MEHSUD</THIRD_NAME>
             <UN_LIST_TYPE>Al-Qaida</UN_LIST_TYPE>
             <REFERENCE_NUMBER>QDi.427</REFERENCE_NUMBER>
