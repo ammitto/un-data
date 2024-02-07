@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<CONSOLIDATED_LIST xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:noNamespaceSchemaLocation='https://www.un.org/sc/resources/sc-sanctions.xsd' dateGenerated='2024-02-06T00:00:02.895Z'>
+<CONSOLIDATED_LIST xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:noNamespaceSchemaLocation='https://www.un.org/sc/resources/sc-sanctions.xsd' dateGenerated='2024-02-07T00:00:04.514Z'>
     <INDIVIDUALS>
         <INDIVIDUAL>
             <DATAID>110447</DATAID>
@@ -17675,188 +17675,6 @@ Pakistan</VALUE>
             <SORT_KEY_LAST_MOD/>
         </INDIVIDUAL>
         <INDIVIDUAL>
-            <DATAID>690727</DATAID>
-            <VERSIONNUM>1</VERSIONNUM>
-            <FIRST_NAME>FRANÇOIS</FIRST_NAME>
-            <SECOND_NAME>YANGOUVONDA</SECOND_NAME>
-            <THIRD_NAME>BOZIZÉ</THIRD_NAME>
-            <UN_LIST_TYPE>CAR</UN_LIST_TYPE>
-            <REFERENCE_NUMBER>CFi.001</REFERENCE_NUMBER>
-            <LISTED_ON>2014-05-09</LISTED_ON>
-            <COMMENTS1>Mother’s name is Martine Kofio. Photo available for inclusion in the INTERPOL-UN Security Council Special Notice.  INTERPOL-UN Security Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals</COMMENTS1>
-            <TITLE>
-                <VALUE>Former Head of State Central African Republic </VALUE>
-                <VALUE>Professor</VALUE>
-            </TITLE>
-            <NATIONALITY>
-                <VALUE>Central African Republic</VALUE>
-                <VALUE>South Sudan</VALUE>
-            </NATIONALITY>
-            <LIST_TYPE>
-                <VALUE>UN List</VALUE>
-            </LIST_TYPE>
-            <LAST_DAY_UPDATED>
-                <VALUE>2014-11-04</VALUE>
-                <VALUE>2018-02-16</VALUE>
-                <VALUE>2019-03-01</VALUE>
-                <VALUE>2020-07-28</VALUE>
-            </LAST_DAY_UPDATED>
-            <INDIVIDUAL_ALIAS>
-                <QUALITY>Good</QUALITY>
-                <ALIAS_NAME>Bozize Yangouvonda</ALIAS_NAME>
-            </INDIVIDUAL_ALIAS>
-            <INDIVIDUAL_ALIAS>
-                <QUALITY/>
-                <ALIAS_NAME/>
-                <DATE_OF_BIRTH>1948-12-16</DATE_OF_BIRTH>
-            </INDIVIDUAL_ALIAS>
-            <INDIVIDUAL_ALIAS>
-                <QUALITY/>
-                <ALIAS_NAME/>
-            </INDIVIDUAL_ALIAS>
-            <INDIVIDUAL_ALIAS>
-                <QUALITY>Good</QUALITY>
-                <ALIAS_NAME>Samuel Peter Mudde</ALIAS_NAME>
-                <NOTE>born 16 Dec. 1948, in Izo South Sudan</NOTE>
-            </INDIVIDUAL_ALIAS>
-            <INDIVIDUAL_ADDRESS>
-                <COUNTRY>Uganda</COUNTRY>
-            </INDIVIDUAL_ADDRESS>
-            <INDIVIDUAL_ADDRESS>
-                <CITY>Bangui</CITY>
-                <COUNTRY>Central African Republic</COUNTRY>
-                <NOTE>since his return from Uganda in December 2019</NOTE>
-            </INDIVIDUAL_ADDRESS>
-            <INDIVIDUAL_DATE_OF_BIRTH>
-                <TYPE_OF_DATE>EXACT</TYPE_OF_DATE>
-                <DATE>1946-10-14</DATE>
-            </INDIVIDUAL_DATE_OF_BIRTH>
-            <INDIVIDUAL_PLACE_OF_BIRTH>
-                <CITY>Mouila</CITY>
-                <COUNTRY>Gabon</COUNTRY>
-            </INDIVIDUAL_PLACE_OF_BIRTH>
-            <INDIVIDUAL_DOCUMENT>
-                <TYPE_OF_DOCUMENT>Passport</TYPE_OF_DOCUMENT>
-                <NUMBER>D00002264</NUMBER>
-                <DATE_OF_ISSUE>2013-06-11</DATE_OF_ISSUE>
-                <NOTE>issued by the Minister of Foreign Affairs, in Juba, South Sudan. Expires on 11
-Jun. 2017. Diplomatic passport issued under name Samuel Peter Mudde</NOTE>
-            </INDIVIDUAL_DOCUMENT>
-            <INDIVIDUAL_DOCUMENT>
-                <TYPE_OF_DOCUMENT>National Identification Number</TYPE_OF_DOCUMENT>
-                <NUMBER>M4800002143743</NUMBER>
-                <NOTE>Personal number on passport</NOTE>
-            </INDIVIDUAL_DOCUMENT>
-            <SORT_KEY/>
-            <SORT_KEY_LAST_MOD/>
-        </INDIVIDUAL>
-        <INDIVIDUAL>
-            <DATAID>690728</DATAID>
-            <VERSIONNUM>1</VERSIONNUM>
-            <FIRST_NAME>NOURREDINE</FIRST_NAME>
-            <SECOND_NAME>ADAM</SECOND_NAME>
-            <UN_LIST_TYPE>CAR</UN_LIST_TYPE>
-            <REFERENCE_NUMBER>CFi.002</REFERENCE_NUMBER>
-            <LISTED_ON>2014-05-09</LISTED_ON>
-            <COMMENTS1>Photo available for inclusion in the INTERPOL-UN Security Council Special Notice.  INTERPOL-UN Security Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals</COMMENTS1>
-            <DESIGNATION>
-                <VALUE>General</VALUE>
-                <VALUE>Minister for Security</VALUE>
-                <VALUE>Director General of the "Extraordinary Committee for the Defence of
-Democratic Achievements</VALUE>
-            </DESIGNATION>
-            <NATIONALITY>
-                <VALUE>Central African Republic</VALUE>
-                <VALUE>Sudan</VALUE>
-            </NATIONALITY>
-            <LIST_TYPE>
-                <VALUE>UN List</VALUE>
-            </LIST_TYPE>
-            <LAST_DAY_UPDATED>
-                <VALUE>2014-11-04</VALUE>
-                <VALUE>2019-03-01</VALUE>
-                <VALUE>2019-09-06</VALUE>
-            </LAST_DAY_UPDATED>
-            <INDIVIDUAL_ALIAS>
-                <QUALITY>Good</QUALITY>
-                <ALIAS_NAME>Nureldine Adam</ALIAS_NAME>
-            </INDIVIDUAL_ALIAS>
-            <INDIVIDUAL_ALIAS>
-                <QUALITY>Good</QUALITY>
-                <ALIAS_NAME>Nourreldine Adam</ALIAS_NAME>
-            </INDIVIDUAL_ALIAS>
-            <INDIVIDUAL_ALIAS>
-                <QUALITY>Good</QUALITY>
-                <ALIAS_NAME>Nourreddine Adam</ALIAS_NAME>
-            </INDIVIDUAL_ALIAS>
-            <INDIVIDUAL_ALIAS>
-                <QUALITY>Good</QUALITY>
-                <ALIAS_NAME>Mahamat Nouradine Adam</ALIAS_NAME>
-            </INDIVIDUAL_ALIAS>
-            <INDIVIDUAL_ALIAS>
-                <QUALITY/>
-                <ALIAS_NAME/>
-                <DATE_OF_BIRTH>1969</DATE_OF_BIRTH>
-            </INDIVIDUAL_ALIAS>
-            <INDIVIDUAL_ALIAS>
-                <QUALITY/>
-                <ALIAS_NAME/>
-                <DATE_OF_BIRTH>1971</DATE_OF_BIRTH>
-            </INDIVIDUAL_ALIAS>
-            <INDIVIDUAL_ALIAS>
-                <QUALITY/>
-                <ALIAS_NAME/>
-                <DATE_OF_BIRTH>1970-01-01</DATE_OF_BIRTH>
-            </INDIVIDUAL_ALIAS>
-            <INDIVIDUAL_ALIAS>
-                <QUALITY/>
-                <ALIAS_NAME/>
-                <DATE_OF_BIRTH>1971-01-01</DATE_OF_BIRTH>
-            </INDIVIDUAL_ALIAS>
-            <INDIVIDUAL_ALIAS>
-                <QUALITY/>
-                <ALIAS_NAME/>
-            </INDIVIDUAL_ALIAS>
-            <INDIVIDUAL_ALIAS>
-                <QUALITY>Good</QUALITY>
-                <ALIAS_NAME>Mohamed Adam Brema Abdallah</ALIAS_NAME>
-            </INDIVIDUAL_ALIAS>
-            <INDIVIDUAL_ADDRESS>
-                <CITY>Birao</CITY>
-                <COUNTRY>Central African Republic</COUNTRY>
-            </INDIVIDUAL_ADDRESS>
-            <INDIVIDUAL_ADDRESS>
-                <COUNTRY>Sudan</COUNTRY>
-            </INDIVIDUAL_ADDRESS>
-            <INDIVIDUAL_DATE_OF_BIRTH>
-                <TYPE_OF_DATE>EXACT</TYPE_OF_DATE>
-                <YEAR>1970</YEAR>
-            </INDIVIDUAL_DATE_OF_BIRTH>
-            <INDIVIDUAL_PLACE_OF_BIRTH>
-                <CITY>Ndele</CITY>
-                <COUNTRY>Central African Republic</COUNTRY>
-            </INDIVIDUAL_PLACE_OF_BIRTH>
-            <INDIVIDUAL_DOCUMENT>
-                <TYPE_OF_DOCUMENT>Passport</TYPE_OF_DOCUMENT>
-                <NUMBER>D00001184</NUMBER>
-                <ISSUING_COUNTRY>Central African Republic</ISSUING_COUNTRY>
-            </INDIVIDUAL_DOCUMENT>
-            <INDIVIDUAL_DOCUMENT>
-                <TYPE_OF_DOCUMENT>Passport</TYPE_OF_DOCUMENT>
-                <NUMBER>P04838205</NUMBER>
-                <DATE_OF_ISSUE>2018-06-10</DATE_OF_ISSUE>
-                <NOTE>Issued in Bahri, Sudan. Expires on 9 June 2023. Passport issued under the name
-                    of Mohamed Adam Brema Abdallah</NOTE>
-            </INDIVIDUAL_DOCUMENT>
-            <INDIVIDUAL_DOCUMENT>
-                <TYPE_OF_DOCUMENT>National Identification Number</TYPE_OF_DOCUMENT>
-                <NUMBER>20227088368 </NUMBER>
-                <ISSUING_COUNTRY>Sudan</ISSUING_COUNTRY>
-            </INDIVIDUAL_DOCUMENT>
-            <SORT_KEY/>
-            <SORT_KEY_LAST_MOD/>
-        </INDIVIDUAL>
-        <INDIVIDUAL>
             <DATAID>690730</DATAID>
             <VERSIONNUM>1</VERSIONNUM>
             <FIRST_NAME>ABDULQADER</FIRST_NAME>
@@ -20814,69 +20632,6 @@ with the Rwandan Military Court. INTERPOL-UN Security Council Special Notice web
             <SORT_KEY_LAST_MOD/>
         </INDIVIDUAL>
         <INDIVIDUAL>
-            <DATAID>6908015</DATAID>
-            <VERSIONNUM>1</VERSIONNUM>
-            <FIRST_NAME>PACIFIQUE</FIRST_NAME>
-            <SECOND_NAME>NTAWUNGUKA</SECOND_NAME>
-            <UN_LIST_TYPE>DRC</UN_LIST_TYPE>
-            <REFERENCE_NUMBER>CDi.024</REFERENCE_NUMBER>
-            <LISTED_ON>2009-03-03</LISTED_ON>
-            <GENDER>Male</GENDER>
-            <COMMENTS1>Received military training in Egypt.  INTERPOL-UN Security Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals</COMMENTS1>
-            <DESIGNATION>
-                <VALUE>FDLR-FOCA “SONOKI” Sector Commander </VALUE>
-                <VALUE>FDLR-FOCA Brigadier General</VALUE>
-            </DESIGNATION>
-            <NATIONALITY>
-                <VALUE>Rwanda</VALUE>
-            </NATIONALITY>
-            <LIST_TYPE>
-                <VALUE>UN List</VALUE>
-            </LIST_TYPE>
-            <LAST_DAY_UPDATED>
-                <VALUE>2016-10-13</VALUE>
-            </LAST_DAY_UPDATED>
-            <INDIVIDUAL_ALIAS>
-                <QUALITY>Low</QUALITY>
-                <ALIAS_NAME>Colonel Omega</ALIAS_NAME>
-            </INDIVIDUAL_ALIAS>
-            <INDIVIDUAL_ALIAS>
-                <QUALITY>Low</QUALITY>
-                <ALIAS_NAME>Nzeri</ALIAS_NAME>
-            </INDIVIDUAL_ALIAS>
-            <INDIVIDUAL_ALIAS>
-                <QUALITY>Low</QUALITY>
-                <ALIAS_NAME>Israel</ALIAS_NAME>
-            </INDIVIDUAL_ALIAS>
-            <INDIVIDUAL_ALIAS>
-                <QUALITY>Good</QUALITY>
-                <ALIAS_NAME>Pacifique Ntawungula</ALIAS_NAME>
-            </INDIVIDUAL_ALIAS>
-            <INDIVIDUAL_ALIAS>
-                <QUALITY/>
-                <ALIAS_NAME/>
-                <DATE_OF_BIRTH>1964</DATE_OF_BIRTH>
-            </INDIVIDUAL_ALIAS>
-            <INDIVIDUAL_ADDRESS>
-                <CITY>Rutshuru Territory</CITY>
-                <STATE_PROVINCE>North Kivu</STATE_PROVINCE>
-                <COUNTRY>Democratic Republic of the Congo</COUNTRY>
-                <NOTE>As of June 2016</NOTE>
-            </INDIVIDUAL_ADDRESS>
-            <INDIVIDUAL_DATE_OF_BIRTH>
-                <TYPE_OF_DATE>EXACT</TYPE_OF_DATE>
-                <DATE>1964-01-01</DATE>
-            </INDIVIDUAL_DATE_OF_BIRTH>
-            <INDIVIDUAL_PLACE_OF_BIRTH>
-                <CITY>Gaseke</CITY>
-                <STATE_PROVINCE>Gisenyi Province</STATE_PROVINCE>
-                <COUNTRY>Rwanda</COUNTRY>
-            </INDIVIDUAL_PLACE_OF_BIRTH>
-            <INDIVIDUAL_DOCUMENT/>
-            <SORT_KEY/>
-            <SORT_KEY_LAST_MOD/>
-        </INDIVIDUAL>
-        <INDIVIDUAL>
             <DATAID>6908016</DATAID>
             <VERSIONNUM>1</VERSIONNUM>
             <FIRST_NAME>JAMES</FIRST_NAME>
@@ -20907,75 +20662,6 @@ with the Rwandan Military Court. INTERPOL-UN Security Council Special Notice web
             </INDIVIDUAL_DATE_OF_BIRTH>
             <INDIVIDUAL_PLACE_OF_BIRTH>
                 <COUNTRY/>
-            </INDIVIDUAL_PLACE_OF_BIRTH>
-            <INDIVIDUAL_DOCUMENT/>
-            <SORT_KEY/>
-            <SORT_KEY_LAST_MOD/>
-        </INDIVIDUAL>
-        <INDIVIDUAL>
-            <DATAID>6908017</DATAID>
-            <VERSIONNUM>1</VERSIONNUM>
-            <FIRST_NAME>STANISLAS</FIRST_NAME>
-            <SECOND_NAME>NZEYIMANA</SECOND_NAME>
-            <UN_LIST_TYPE>DRC</UN_LIST_TYPE>
-            <REFERENCE_NUMBER>CDi.026</REFERENCE_NUMBER>
-            <LISTED_ON>2009-03-03</LISTED_ON>
-            <GENDER>Male</GENDER>
-            <COMMENTS1>Disappeared while in Tanzania in early 2013. Whereabouts unknown as of
-June 2016. INTERPOL-UN Security Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals</COMMENTS1>
-            <DESIGNATION>
-                <VALUE>Former FDLR-FOCA Deputy Commander</VALUE>
-            </DESIGNATION>
-            <NATIONALITY>
-                <VALUE>Rwanda</VALUE>
-            </NATIONALITY>
-            <LIST_TYPE>
-                <VALUE>UN List</VALUE>
-            </LIST_TYPE>
-            <LAST_DAY_UPDATED>
-                <VALUE>2016-10-13</VALUE>
-            </LAST_DAY_UPDATED>
-            <INDIVIDUAL_ALIAS>
-                <QUALITY>Good</QUALITY>
-                <ALIAS_NAME>Deogratias Bigaruka Izabayo</ALIAS_NAME>
-            </INDIVIDUAL_ALIAS>
-            <INDIVIDUAL_ALIAS>
-                <QUALITY>Low</QUALITY>
-                <ALIAS_NAME>Bigaruka</ALIAS_NAME>
-            </INDIVIDUAL_ALIAS>
-            <INDIVIDUAL_ALIAS>
-                <QUALITY>Low</QUALITY>
-                <ALIAS_NAME>Bigurura</ALIAS_NAME>
-            </INDIVIDUAL_ALIAS>
-            <INDIVIDUAL_ALIAS>
-                <QUALITY>Good</QUALITY>
-                <ALIAS_NAME>Izabayo Deo</ALIAS_NAME>
-            </INDIVIDUAL_ALIAS>
-            <INDIVIDUAL_ALIAS>
-                <QUALITY>Good</QUALITY>
-                <ALIAS_NAME>Jules Mateso Mlamba</ALIAS_NAME>
-            </INDIVIDUAL_ALIAS>
-            <INDIVIDUAL_ALIAS>
-                <QUALITY/>
-                <ALIAS_NAME/>
-                <DATE_OF_BIRTH>1966-08-28</DATE_OF_BIRTH>
-            </INDIVIDUAL_ALIAS>
-            <INDIVIDUAL_ALIAS>
-                <QUALITY/>
-                <ALIAS_NAME/>
-                <DATE_OF_BIRTH>1967</DATE_OF_BIRTH>
-            </INDIVIDUAL_ALIAS>
-            <INDIVIDUAL_ADDRESS>
-                <COUNTRY/>
-            </INDIVIDUAL_ADDRESS>
-            <INDIVIDUAL_DATE_OF_BIRTH>
-                <TYPE_OF_DATE>EXACT</TYPE_OF_DATE>
-                <DATE>1966-01-01</DATE>
-            </INDIVIDUAL_DATE_OF_BIRTH>
-            <INDIVIDUAL_PLACE_OF_BIRTH>
-                <CITY>Mugusa</CITY>
-                <STATE_PROVINCE>Butare</STATE_PROVINCE>
-                <COUNTRY>Rwanda</COUNTRY>
             </INDIVIDUAL_PLACE_OF_BIRTH>
             <INDIVIDUAL_DOCUMENT/>
             <SORT_KEY/>
@@ -21023,50 +20709,6 @@ Aru territory, Dieudonné Ozia Mazio is believed to have died in Ariwara on 23 S
             </INDIVIDUAL_DATE_OF_BIRTH>
             <INDIVIDUAL_PLACE_OF_BIRTH>
                 <CITY>Ariwara</CITY>
-                <COUNTRY>Democratic Republic of the Congo</COUNTRY>
-            </INDIVIDUAL_PLACE_OF_BIRTH>
-            <INDIVIDUAL_DOCUMENT/>
-            <SORT_KEY/>
-            <SORT_KEY_LAST_MOD/>
-        </INDIVIDUAL>
-        <INDIVIDUAL>
-            <DATAID>6908019</DATAID>
-            <VERSIONNUM>1</VERSIONNUM>
-            <FIRST_NAME>JEAN-MARIE LUGERERO</FIRST_NAME>
-            <SECOND_NAME>RUNIGA</SECOND_NAME>
-            <UN_LIST_TYPE>DRC</UN_LIST_TYPE>
-            <REFERENCE_NUMBER>CDi.028</REFERENCE_NUMBER>
-            <LISTED_ON>2012-12-31</LISTED_ON>
-            <GENDER>Male</GENDER>
-            <COMMENTS1>Entered the Republic of Rwanda on 16 March 2013. As of 2016, residing in Rwanda. Participated in the creation of a new Congolese political party in June 2016, the Alliance pour le Salut du Peuple (ASP). INTERPOL-UN Security Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals</COMMENTS1>
-            <DESIGNATION>
-                <VALUE>M23, President</VALUE>
-            </DESIGNATION>
-            <LIST_TYPE>
-                <VALUE>UN List</VALUE>
-            </LIST_TYPE>
-            <LAST_DAY_UPDATED>
-                <VALUE>2016-10-13</VALUE>
-            </LAST_DAY_UPDATED>
-            <INDIVIDUAL_ALIAS>
-                <QUALITY/>
-                <ALIAS_NAME/>
-                <DATE_OF_BIRTH>1966-09-09</DATE_OF_BIRTH>
-            </INDIVIDUAL_ALIAS>
-            <INDIVIDUAL_ALIAS>
-                <QUALITY>Good</QUALITY>
-                <ALIAS_NAME>Jean-Marie Rugerero</ALIAS_NAME>
-            </INDIVIDUAL_ALIAS>
-            <INDIVIDUAL_ADDRESS>
-                <CITY>Rubavu / Mudende</CITY>
-                <COUNTRY>Rwanda</COUNTRY>
-            </INDIVIDUAL_ADDRESS>
-            <INDIVIDUAL_DATE_OF_BIRTH>
-                <TYPE_OF_DATE>APPROXIMATELY</TYPE_OF_DATE>
-                <YEAR>1960</YEAR>
-            </INDIVIDUAL_DATE_OF_BIRTH>
-            <INDIVIDUAL_PLACE_OF_BIRTH>
-                <CITY>Bukavu</CITY>
                 <COUNTRY>Democratic Republic of the Congo</COUNTRY>
             </INDIVIDUAL_PLACE_OF_BIRTH>
             <INDIVIDUAL_DOCUMENT/>
@@ -29379,61 +29021,6 @@ Review pursuant to Security Council resolution 2368 (2017) was concluded on 24 N
                 <ISSUING_COUNTRY>Russian Federation</ISSUING_COUNTRY>
                 <DATE_OF_ISSUE>2000-12-15</DATE_OF_ISSUE>
                 <NOTE>issued by Russian Federation</NOTE>
-            </INDIVIDUAL_DOCUMENT>
-            <SORT_KEY/>
-            <SORT_KEY_LAST_MOD/>
-        </INDIVIDUAL>
-        <INDIVIDUAL>
-            <DATAID>6908495</DATAID>
-            <VERSIONNUM>1</VERSIONNUM>
-            <FIRST_NAME>HAROUN</FIRST_NAME>
-            <SECOND_NAME>GAYE</SECOND_NAME>
-            <UN_LIST_TYPE>CAR</UN_LIST_TYPE>
-            <REFERENCE_NUMBER>CFi.007</REFERENCE_NUMBER>
-            <LISTED_ON>2015-12-17</LISTED_ON>
-            <COMMENTS1>Gaye is a leader of the Front Populaire pour la Renaissance de Centrafrique (FPRC) (not listed) a marginalized ex-Seleka armed group in Bangui. He is also a leader of the so-called “Defense Committee” of Bangui’s PK5 (known as PK5 Resistance’ or ‘Texas’) (not listed), which extorts money from residents and threatens and employs physical violence. Gaye was appointed on 2 November 2014 by Nourredine Adam (CFi.002) as rapporteur of the political coordination of the FPRC. On 9 May 2014, the Security Council Committee established by resolution 2127 (2013) on CAR included Adam on its sanctions list. Photo available for inclusion in the INTERPOL-UN Security Council Special Notice. INTERPOL-UN Security Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals</COMMENTS1>
-            <DESIGNATION>
-                <VALUE>Rapporteur of the political coordination of the Front Populaire pour la
-Renaissance de Centrafrique (FPRC)</VALUE>
-            </DESIGNATION>
-            <LIST_TYPE>
-                <VALUE>UN List</VALUE>
-            </LIST_TYPE>
-            <LAST_DAY_UPDATED>
-                <VALUE>2020-07-28</VALUE>
-            </LAST_DAY_UPDATED>
-            <INDIVIDUAL_ALIAS>
-                <QUALITY>Good</QUALITY>
-                <ALIAS_NAME>Haroun Geye</ALIAS_NAME>
-            </INDIVIDUAL_ALIAS>
-            <INDIVIDUAL_ALIAS>
-                <QUALITY>Good</QUALITY>
-                <ALIAS_NAME>Aroun Gaye</ALIAS_NAME>
-            </INDIVIDUAL_ALIAS>
-            <INDIVIDUAL_ALIAS>
-                <QUALITY>Good</QUALITY>
-                <ALIAS_NAME>Aroun Geye</ALIAS_NAME>
-            </INDIVIDUAL_ALIAS>
-            <INDIVIDUAL_ALIAS>
-                <QUALITY/>
-                <ALIAS_NAME/>
-                <DATE_OF_BIRTH>1969-01-30</DATE_OF_BIRTH>
-            </INDIVIDUAL_ALIAS>
-            <INDIVIDUAL_ADDRESS>
-                <CITY>Bangui</CITY>
-                <COUNTRY>Central African Republic</COUNTRY>
-            </INDIVIDUAL_ADDRESS>
-            <INDIVIDUAL_DATE_OF_BIRTH>
-                <TYPE_OF_DATE>EXACT</TYPE_OF_DATE>
-                <DATE>1968-01-30</DATE>
-            </INDIVIDUAL_DATE_OF_BIRTH>
-            <INDIVIDUAL_PLACE_OF_BIRTH>
-                <COUNTRY/>
-            </INDIVIDUAL_PLACE_OF_BIRTH>
-            <INDIVIDUAL_DOCUMENT>
-                <TYPE_OF_DOCUMENT>Passport</TYPE_OF_DOCUMENT>
-                <NUMBER>Central African Republic number O00065772</NUMBER>
-                <NOTE>letter O followed by 3 zeros), expires 30 Dec. 2019</NOTE>
             </INDIVIDUAL_DOCUMENT>
             <SORT_KEY/>
             <SORT_KEY_LAST_MOD/>
@@ -40266,6 +39853,409 @@ Council resolution 1822 (2008) was concluded on 21 Jul. 2010. INTERPOL-UN Securi
                 <COUNTRY>Rwanda</COUNTRY>
             </INDIVIDUAL_PLACE_OF_BIRTH>
             <INDIVIDUAL_DOCUMENT/>
+            <SORT_KEY/>
+            <SORT_KEY_LAST_MOD/>
+        </INDIVIDUAL>
+        <INDIVIDUAL>
+            <DATAID>6908015</DATAID>
+            <VERSIONNUM>1</VERSIONNUM>
+            <FIRST_NAME>PACIFIQUE</FIRST_NAME>
+            <SECOND_NAME>NTAWUNGUKA</SECOND_NAME>
+            <UN_LIST_TYPE>DRC</UN_LIST_TYPE>
+            <REFERENCE_NUMBER>CDi.024</REFERENCE_NUMBER>
+            <LISTED_ON>2009-03-03</LISTED_ON>
+            <GENDER>Male</GENDER>
+            <COMMENTS1>Received military training in Egypt.  INTERPOL-UN Security Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals</COMMENTS1>
+            <DESIGNATION>
+                <VALUE>FDLR-FOCA “SONOKI” Sector Commander </VALUE>
+                <VALUE>FDLR-FOCA Brigadier General</VALUE>
+            </DESIGNATION>
+            <NATIONALITY>
+                <VALUE>Rwanda</VALUE>
+            </NATIONALITY>
+            <LIST_TYPE>
+                <VALUE>UN List</VALUE>
+            </LIST_TYPE>
+            <LAST_DAY_UPDATED>
+                <VALUE>2016-10-13</VALUE>
+            </LAST_DAY_UPDATED>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY>Low</QUALITY>
+                <ALIAS_NAME>Colonel Omega</ALIAS_NAME>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY>Low</QUALITY>
+                <ALIAS_NAME>Nzeri</ALIAS_NAME>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY>Low</QUALITY>
+                <ALIAS_NAME>Israel</ALIAS_NAME>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY>Good</QUALITY>
+                <ALIAS_NAME>Pacifique Ntawungula</ALIAS_NAME>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ADDRESS>
+                <CITY>Rutshuru Territory</CITY>
+                <STATE_PROVINCE>North Kivu</STATE_PROVINCE>
+                <COUNTRY>Democratic Republic of the Congo</COUNTRY>
+                <NOTE>As of June 2016</NOTE>
+            </INDIVIDUAL_ADDRESS>
+            <INDIVIDUAL_DATE_OF_BIRTH>
+                <TYPE_OF_DATE>EXACT</TYPE_OF_DATE>
+                <DATE>1964-01-01</DATE>
+            </INDIVIDUAL_DATE_OF_BIRTH>
+            <INDIVIDUAL_DATE_OF_BIRTH>
+                <TYPE_OF_DATE>APPROXIMATELY</TYPE_OF_DATE>
+                <YEAR>1964</YEAR>
+            </INDIVIDUAL_DATE_OF_BIRTH>
+            <INDIVIDUAL_PLACE_OF_BIRTH>
+                <CITY>Gaseke</CITY>
+                <STATE_PROVINCE>Gisenyi Province</STATE_PROVINCE>
+                <COUNTRY>Rwanda</COUNTRY>
+            </INDIVIDUAL_PLACE_OF_BIRTH>
+            <INDIVIDUAL_DOCUMENT/>
+            <SORT_KEY/>
+            <SORT_KEY_LAST_MOD/>
+        </INDIVIDUAL>
+        <INDIVIDUAL>
+            <DATAID>6908017</DATAID>
+            <VERSIONNUM>1</VERSIONNUM>
+            <FIRST_NAME>STANISLAS</FIRST_NAME>
+            <SECOND_NAME>NZEYIMANA</SECOND_NAME>
+            <UN_LIST_TYPE>DRC</UN_LIST_TYPE>
+            <REFERENCE_NUMBER>CDi.026</REFERENCE_NUMBER>
+            <LISTED_ON>2009-03-03</LISTED_ON>
+            <GENDER>Male</GENDER>
+            <COMMENTS1>Disappeared while in Tanzania in early 2013. Whereabouts unknown as of
+June 2016. INTERPOL-UN Security Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals</COMMENTS1>
+            <DESIGNATION>
+                <VALUE>Former FDLR-FOCA Deputy Commander</VALUE>
+            </DESIGNATION>
+            <NATIONALITY>
+                <VALUE>Rwanda</VALUE>
+            </NATIONALITY>
+            <LIST_TYPE>
+                <VALUE>UN List</VALUE>
+            </LIST_TYPE>
+            <LAST_DAY_UPDATED>
+                <VALUE>2016-10-13</VALUE>
+            </LAST_DAY_UPDATED>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY>Good</QUALITY>
+                <ALIAS_NAME>Deogratias Bigaruka Izabayo</ALIAS_NAME>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY>Low</QUALITY>
+                <ALIAS_NAME>Bigaruka</ALIAS_NAME>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY>Low</QUALITY>
+                <ALIAS_NAME>Bigurura</ALIAS_NAME>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY>Good</QUALITY>
+                <ALIAS_NAME>Izabayo Deo</ALIAS_NAME>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY>Good</QUALITY>
+                <ALIAS_NAME>Jules Mateso Mlamba</ALIAS_NAME>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ADDRESS>
+                <COUNTRY/>
+            </INDIVIDUAL_ADDRESS>
+            <INDIVIDUAL_DATE_OF_BIRTH>
+                <TYPE_OF_DATE>EXACT</TYPE_OF_DATE>
+                <DATE>1966-01-01</DATE>
+            </INDIVIDUAL_DATE_OF_BIRTH>
+            <INDIVIDUAL_DATE_OF_BIRTH>
+                <TYPE_OF_DATE>EXACT</TYPE_OF_DATE>
+                <DATE>1966-08-28</DATE>
+            </INDIVIDUAL_DATE_OF_BIRTH>
+            <INDIVIDUAL_DATE_OF_BIRTH>
+                <TYPE_OF_DATE>APPROXIMATELY</TYPE_OF_DATE>
+                <YEAR>1967</YEAR>
+            </INDIVIDUAL_DATE_OF_BIRTH>
+            <INDIVIDUAL_PLACE_OF_BIRTH>
+                <CITY>Mugusa</CITY>
+                <STATE_PROVINCE>Butare</STATE_PROVINCE>
+                <COUNTRY>Rwanda</COUNTRY>
+            </INDIVIDUAL_PLACE_OF_BIRTH>
+            <INDIVIDUAL_DOCUMENT/>
+            <SORT_KEY/>
+            <SORT_KEY_LAST_MOD/>
+        </INDIVIDUAL>
+        <INDIVIDUAL>
+            <DATAID>6908019</DATAID>
+            <VERSIONNUM>1</VERSIONNUM>
+            <FIRST_NAME>JEAN-MARIE LUGERERO</FIRST_NAME>
+            <SECOND_NAME>RUNIGA</SECOND_NAME>
+            <UN_LIST_TYPE>DRC</UN_LIST_TYPE>
+            <REFERENCE_NUMBER>CDi.028</REFERENCE_NUMBER>
+            <LISTED_ON>2012-12-31</LISTED_ON>
+            <GENDER>Male</GENDER>
+            <COMMENTS1>Entered the Republic of Rwanda on 16 March 2013. As of 2016, residing in Rwanda. Participated in the creation of a new Congolese political party in June 2016, the Alliance pour le Salut du Peuple (ASP). INTERPOL-UN Security Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals</COMMENTS1>
+            <DESIGNATION>
+                <VALUE>M23, President</VALUE>
+            </DESIGNATION>
+            <LIST_TYPE>
+                <VALUE>UN List</VALUE>
+            </LIST_TYPE>
+            <LAST_DAY_UPDATED>
+                <VALUE>2016-10-13</VALUE>
+            </LAST_DAY_UPDATED>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY>Good</QUALITY>
+                <ALIAS_NAME>Jean-Marie Rugerero</ALIAS_NAME>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ADDRESS>
+                <CITY>Rubavu / Mudende</CITY>
+                <COUNTRY>Rwanda</COUNTRY>
+            </INDIVIDUAL_ADDRESS>
+            <INDIVIDUAL_DATE_OF_BIRTH>
+                <TYPE_OF_DATE>APPROXIMATELY</TYPE_OF_DATE>
+                <YEAR>1960</YEAR>
+            </INDIVIDUAL_DATE_OF_BIRTH>
+            <INDIVIDUAL_DATE_OF_BIRTH>
+                <TYPE_OF_DATE>EXACT</TYPE_OF_DATE>
+                <DATE>1966-09-09</DATE>
+            </INDIVIDUAL_DATE_OF_BIRTH>
+            <INDIVIDUAL_PLACE_OF_BIRTH>
+                <CITY>Bukavu</CITY>
+                <COUNTRY>Democratic Republic of the Congo</COUNTRY>
+            </INDIVIDUAL_PLACE_OF_BIRTH>
+            <INDIVIDUAL_DOCUMENT/>
+            <SORT_KEY/>
+            <SORT_KEY_LAST_MOD/>
+        </INDIVIDUAL>
+        <INDIVIDUAL>
+            <DATAID>690727</DATAID>
+            <VERSIONNUM>1</VERSIONNUM>
+            <FIRST_NAME>FRANÇOIS</FIRST_NAME>
+            <SECOND_NAME>YANGOUVONDA</SECOND_NAME>
+            <THIRD_NAME>BOZIZÉ</THIRD_NAME>
+            <UN_LIST_TYPE>CAR</UN_LIST_TYPE>
+            <REFERENCE_NUMBER>CFi.001</REFERENCE_NUMBER>
+            <LISTED_ON>2014-05-09</LISTED_ON>
+            <COMMENTS1>Mother’s name is Martine Kofio. Photo available for inclusion in the INTERPOL-UN Security Council Special Notice.  INTERPOL-UN Security Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals</COMMENTS1>
+            <TITLE>
+                <VALUE>Former Head of State Central African Republic </VALUE>
+                <VALUE>Professor</VALUE>
+            </TITLE>
+            <NATIONALITY>
+                <VALUE>Central African Republic</VALUE>
+                <VALUE>South Sudan</VALUE>
+            </NATIONALITY>
+            <LIST_TYPE>
+                <VALUE>UN List</VALUE>
+            </LIST_TYPE>
+            <LAST_DAY_UPDATED>
+                <VALUE>2014-11-04</VALUE>
+                <VALUE>2018-02-16</VALUE>
+                <VALUE>2019-03-01</VALUE>
+                <VALUE>2020-07-28</VALUE>
+            </LAST_DAY_UPDATED>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY>Good</QUALITY>
+                <ALIAS_NAME>Bozize Yangouvonda</ALIAS_NAME>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY>Good</QUALITY>
+                <ALIAS_NAME>Samuel Peter Mudde</ALIAS_NAME>
+                <NOTE>born 16 Dec. 1948, in Izo South Sudan</NOTE>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ADDRESS>
+                <COUNTRY>Uganda</COUNTRY>
+            </INDIVIDUAL_ADDRESS>
+            <INDIVIDUAL_ADDRESS>
+                <CITY>Bangui</CITY>
+                <COUNTRY>Central African Republic</COUNTRY>
+                <NOTE>since his return from Uganda in December 2019</NOTE>
+            </INDIVIDUAL_ADDRESS>
+            <INDIVIDUAL_DATE_OF_BIRTH>
+                <TYPE_OF_DATE>EXACT</TYPE_OF_DATE>
+                <DATE>1946-10-14</DATE>
+            </INDIVIDUAL_DATE_OF_BIRTH>
+            <INDIVIDUAL_DATE_OF_BIRTH>
+                <TYPE_OF_DATE>EXACT</TYPE_OF_DATE>
+                <DATE>1948-12-16</DATE>
+            </INDIVIDUAL_DATE_OF_BIRTH>
+            <INDIVIDUAL_PLACE_OF_BIRTH>
+                <CITY>Mouila</CITY>
+                <COUNTRY>Gabon</COUNTRY>
+            </INDIVIDUAL_PLACE_OF_BIRTH>
+            <INDIVIDUAL_PLACE_OF_BIRTH>
+                <CITY>Izo</CITY>
+                <COUNTRY>South Sudan</COUNTRY>
+            </INDIVIDUAL_PLACE_OF_BIRTH>
+            <INDIVIDUAL_DOCUMENT>
+                <TYPE_OF_DOCUMENT>Passport</TYPE_OF_DOCUMENT>
+                <NUMBER>D00002264</NUMBER>
+                <DATE_OF_ISSUE>2013-06-11</DATE_OF_ISSUE>
+                <NOTE>issued by the Minister of Foreign Affairs, in Juba, South Sudan. Expires on 11
+Jun. 2017. Diplomatic passport issued under name Samuel Peter Mudde</NOTE>
+            </INDIVIDUAL_DOCUMENT>
+            <INDIVIDUAL_DOCUMENT>
+                <TYPE_OF_DOCUMENT>National Identification Number</TYPE_OF_DOCUMENT>
+                <NUMBER>M4800002143743</NUMBER>
+                <NOTE>Personal number on passport</NOTE>
+            </INDIVIDUAL_DOCUMENT>
+            <SORT_KEY/>
+            <SORT_KEY_LAST_MOD/>
+        </INDIVIDUAL>
+        <INDIVIDUAL>
+            <DATAID>690728</DATAID>
+            <VERSIONNUM>1</VERSIONNUM>
+            <FIRST_NAME>NOURREDINE</FIRST_NAME>
+            <SECOND_NAME>ADAM</SECOND_NAME>
+            <UN_LIST_TYPE>CAR</UN_LIST_TYPE>
+            <REFERENCE_NUMBER>CFi.002</REFERENCE_NUMBER>
+            <LISTED_ON>2014-05-09</LISTED_ON>
+            <COMMENTS1>Photo available for inclusion in the INTERPOL-UN Security Council Special Notice.  INTERPOL-UN Security Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals</COMMENTS1>
+            <DESIGNATION>
+                <VALUE>General</VALUE>
+                <VALUE>Minister for Security</VALUE>
+                <VALUE>Director General of the "Extraordinary Committee for the Defence of
+Democratic Achievements</VALUE>
+            </DESIGNATION>
+            <NATIONALITY>
+                <VALUE>Central African Republic</VALUE>
+                <VALUE>Sudan</VALUE>
+            </NATIONALITY>
+            <LIST_TYPE>
+                <VALUE>UN List</VALUE>
+            </LIST_TYPE>
+            <LAST_DAY_UPDATED>
+                <VALUE>2014-11-04</VALUE>
+                <VALUE>2019-03-01</VALUE>
+                <VALUE>2019-09-06</VALUE>
+            </LAST_DAY_UPDATED>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY>Good</QUALITY>
+                <ALIAS_NAME>Nureldine Adam</ALIAS_NAME>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY>Good</QUALITY>
+                <ALIAS_NAME>Nourreldine Adam</ALIAS_NAME>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY>Good</QUALITY>
+                <ALIAS_NAME>Nourreddine Adam</ALIAS_NAME>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY>Good</QUALITY>
+                <ALIAS_NAME>Mahamat Nouradine Adam</ALIAS_NAME>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY>Good</QUALITY>
+                <ALIAS_NAME>Mohamed Adam Brema Abdallah</ALIAS_NAME>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ADDRESS>
+                <CITY>Birao</CITY>
+                <COUNTRY>Central African Republic</COUNTRY>
+            </INDIVIDUAL_ADDRESS>
+            <INDIVIDUAL_ADDRESS>
+                <COUNTRY>Sudan</COUNTRY>
+            </INDIVIDUAL_ADDRESS>
+            <INDIVIDUAL_DATE_OF_BIRTH>
+                <TYPE_OF_DATE>EXACT</TYPE_OF_DATE>
+                <YEAR>1970</YEAR>
+            </INDIVIDUAL_DATE_OF_BIRTH>
+            <INDIVIDUAL_DATE_OF_BIRTH>
+                <TYPE_OF_DATE>EXACT</TYPE_OF_DATE>
+                <YEAR>1969</YEAR>
+            </INDIVIDUAL_DATE_OF_BIRTH>
+            <INDIVIDUAL_DATE_OF_BIRTH>
+                <TYPE_OF_DATE>EXACT</TYPE_OF_DATE>
+                <YEAR>1971</YEAR>
+            </INDIVIDUAL_DATE_OF_BIRTH>
+            <INDIVIDUAL_DATE_OF_BIRTH>
+                <TYPE_OF_DATE>EXACT</TYPE_OF_DATE>
+                <DATE>1970-01-01</DATE>
+            </INDIVIDUAL_DATE_OF_BIRTH>
+            <INDIVIDUAL_DATE_OF_BIRTH>
+                <TYPE_OF_DATE>EXACT</TYPE_OF_DATE>
+                <DATE>1971-01-01</DATE>
+            </INDIVIDUAL_DATE_OF_BIRTH>
+            <INDIVIDUAL_PLACE_OF_BIRTH>
+                <CITY>Ndele</CITY>
+                <COUNTRY>Central African Republic</COUNTRY>
+            </INDIVIDUAL_PLACE_OF_BIRTH>
+            <INDIVIDUAL_PLACE_OF_BIRTH>
+                <CITY>Algenana</CITY>
+                <COUNTRY>Sudan</COUNTRY>
+            </INDIVIDUAL_PLACE_OF_BIRTH>
+            <INDIVIDUAL_DOCUMENT>
+                <TYPE_OF_DOCUMENT>Passport</TYPE_OF_DOCUMENT>
+                <NUMBER>D00001184</NUMBER>
+                <ISSUING_COUNTRY>Central African Republic</ISSUING_COUNTRY>
+            </INDIVIDUAL_DOCUMENT>
+            <INDIVIDUAL_DOCUMENT>
+                <TYPE_OF_DOCUMENT>Passport</TYPE_OF_DOCUMENT>
+                <NUMBER>P04838205</NUMBER>
+                <DATE_OF_ISSUE>2018-06-10</DATE_OF_ISSUE>
+                <NOTE>Issued in Bahri, Sudan. Expires on 9 June 2023. Passport issued under the name
+                    of Mohamed Adam Brema Abdallah</NOTE>
+            </INDIVIDUAL_DOCUMENT>
+            <INDIVIDUAL_DOCUMENT>
+                <TYPE_OF_DOCUMENT>National Identification Number</TYPE_OF_DOCUMENT>
+                <NUMBER>20227088368 </NUMBER>
+                <ISSUING_COUNTRY>Sudan</ISSUING_COUNTRY>
+            </INDIVIDUAL_DOCUMENT>
+            <SORT_KEY/>
+            <SORT_KEY_LAST_MOD/>
+        </INDIVIDUAL>
+        <INDIVIDUAL>
+            <DATAID>6908495</DATAID>
+            <VERSIONNUM>1</VERSIONNUM>
+            <FIRST_NAME>HAROUN</FIRST_NAME>
+            <SECOND_NAME>GAYE</SECOND_NAME>
+            <UN_LIST_TYPE>CAR</UN_LIST_TYPE>
+            <REFERENCE_NUMBER>CFi.007</REFERENCE_NUMBER>
+            <LISTED_ON>2015-12-17</LISTED_ON>
+            <COMMENTS1>Gaye is a leader of the Front Populaire pour la Renaissance de Centrafrique (FPRC) (not listed) a marginalized ex-Seleka armed group in Bangui. He is also a leader of the so-called “Defense Committee” of Bangui’s PK5 (known as PK5 Resistance’ or ‘Texas’) (not listed), which extorts money from residents and threatens and employs physical violence. Gaye was appointed on 2 November 2014 by Nourredine Adam (CFi.002) as rapporteur of the political coordination of the FPRC. On 9 May 2014, the Security Council Committee established by resolution 2127 (2013) on CAR included Adam on its sanctions list. Photo available for inclusion in the INTERPOL-UN Security Council Special Notice. INTERPOL-UN Security Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals</COMMENTS1>
+            <DESIGNATION>
+                <VALUE>Rapporteur of the political coordination of the Front Populaire pour la
+Renaissance de Centrafrique (FPRC)</VALUE>
+            </DESIGNATION>
+            <LIST_TYPE>
+                <VALUE>UN List</VALUE>
+            </LIST_TYPE>
+            <LAST_DAY_UPDATED>
+                <VALUE>2020-07-28</VALUE>
+            </LAST_DAY_UPDATED>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY>Good</QUALITY>
+                <ALIAS_NAME>Haroun Geye</ALIAS_NAME>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY>Good</QUALITY>
+                <ALIAS_NAME>Aroun Gaye</ALIAS_NAME>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY>Good</QUALITY>
+                <ALIAS_NAME>Aroun Geye</ALIAS_NAME>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ADDRESS>
+                <CITY>Bangui</CITY>
+                <COUNTRY>Central African Republic</COUNTRY>
+            </INDIVIDUAL_ADDRESS>
+            <INDIVIDUAL_DATE_OF_BIRTH>
+                <TYPE_OF_DATE>EXACT</TYPE_OF_DATE>
+                <DATE>1968-01-30</DATE>
+            </INDIVIDUAL_DATE_OF_BIRTH>
+            <INDIVIDUAL_DATE_OF_BIRTH>
+                <TYPE_OF_DATE>EXACT</TYPE_OF_DATE>
+                <DATE>1969-01-30</DATE>
+            </INDIVIDUAL_DATE_OF_BIRTH>
+            <INDIVIDUAL_PLACE_OF_BIRTH>
+                <COUNTRY/>
+            </INDIVIDUAL_PLACE_OF_BIRTH>
+            <INDIVIDUAL_DOCUMENT>
+                <TYPE_OF_DOCUMENT>Passport</TYPE_OF_DOCUMENT>
+                <NUMBER>Central African Republic number O00065772</NUMBER>
+                <NOTE>letter O followed by 3 zeros), expires 30 Dec. 2019</NOTE>
+            </INDIVIDUAL_DOCUMENT>
             <SORT_KEY/>
             <SORT_KEY_LAST_MOD/>
         </INDIVIDUAL>
