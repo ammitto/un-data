@@ -1,0 +1,35 @@
+---
+entity_type: person
+names:
+- ADEM YILMAZ
+- Talha
+designation: 
+source: un-data
+ref_number: QDi.261
+ref_type: Al-Qaida
+country: Türkiye
+birthdate: '1978-11-04'
+remark: Associated with the Islamic Jihad Union (IJU), also known as the Islamic Jihad
+  Group (QDe.119). Deported from Germany to Türkiye in February 2019. Ongoing judicial
+  process as of November 2023. Review pursuant to Security Council resolution 2368
+  (2017) was concluded on 4 Dec. 2019. Review pursuant to Security Council resolution
+  2610 (2021) was concluded on 30 October 2023.  INTERPOL-UN Security Council Special
+  Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals
+address:
+- street: 'Südliche Ringstrasse 133 '
+  city: 
+  state: Langen
+  country: Germany
+  zip: '63225'
+- street: 
+  city: 
+  state: 
+  country: Türkiye
+  zip: 
+documents:
+- type: Passport
+  number: TR-P 614 166
+  country: Türkiye
+  note: |-
+    issued by the Turkish Consulate General in Frankfurt/M. on 22 Mar. 2006,
+    expired on 15 Sep. 2009.
