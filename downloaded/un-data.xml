@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<CONSOLIDATED_LIST xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:noNamespaceSchemaLocation='https://www.un.org/sc/resources/sc-sanctions.xsd' dateGenerated='2024-02-20T00:00:05.816Z'>
+<CONSOLIDATED_LIST xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:noNamespaceSchemaLocation='https://www.un.org/sc/resources/sc-sanctions.xsd' dateGenerated='2024-02-21T00:00:02.772Z'>
     <INDIVIDUALS>
         <INDIVIDUAL>
             <DATAID>110447</DATAID>
@@ -34331,6 +34331,374 @@ on 17 March 2011 pursuant to paragraph 17 of resolution 1970 (Asset Freeze). INT
             <INDIVIDUAL_PLACE_OF_BIRTH>
                 <CITY>Tripoli</CITY>
                 <COUNTRY>Libya</COUNTRY>
+            </INDIVIDUAL_PLACE_OF_BIRTH>
+            <INDIVIDUAL_DOCUMENT/>
+            <SORT_KEY/>
+            <SORT_KEY_LAST_MOD/>
+        </INDIVIDUAL>
+        <INDIVIDUAL>
+            <DATAID>6908993</DATAID>
+            <VERSIONNUM>1</VERSIONNUM>
+            <FIRST_NAME>APOLLINAIRE</FIRST_NAME>
+            <SECOND_NAME>HAKIZIMANA</SECOND_NAME>
+            <UN_LIST_TYPE>DRC</UN_LIST_TYPE>
+            <REFERENCE_NUMBER>CDi.039</REFERENCE_NUMBER>
+            <LISTED_ON>2024-02-20</LISTED_ON>
+            <COMMENTS1>Listed pursuant to paragraphs 7 (b), 7 (e) and 7 (h) of resolution 2293 (2016) as “being political and military leaders of foreign armed groups operating in the DRC who impede the disarmament and the voluntary repatriation or resettlement of combatants belonging to those groups”; “planning, directing, or committing acts in the DRC that constitute human rights violations or abuses or violations of international humanitarian law, as applicable, including those acts involving the targeting of civilians, including killing and maiming, rape and other sexual violence, abduction, forced displacement, and attacks on schools and hospitals”; and “acting on behalf of or at the direction of a designated individual or entity, or acting on behalf of or at the direction of an entity owned or controlled by a designated individual or entity,” as extended by resolution 2688 (2023). As a military leader of FDLR, APOLLINAIRE HAKIZIMANA is involved in promulgating and supporting the group’s activities.</COMMENTS1>
+            <DESIGNATION>
+                <VALUE>Lieutenant General</VALUE>
+                <VALUE>Commissioner for Defense for the Forces Démocratiques de Libération du Rwanda - Forces Combattantes Abacunguzi (FDLR-FOCA)</VALUE>
+            </DESIGNATION>
+            <NATIONALITY>
+                <VALUE>Rwanda</VALUE>
+            </NATIONALITY>
+            <LIST_TYPE>
+                <VALUE>UN List</VALUE>
+            </LIST_TYPE>
+            <LAST_DAY_UPDATED>
+                <VALUE/>
+            </LAST_DAY_UPDATED>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY>Good</QUALITY>
+                <ALIAS_NAME>AMIKWE LEPIC</ALIAS_NAME>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY>Low</QUALITY>
+                <ALIAS_NAME>LE POÈTE</ALIAS_NAME>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY>Low</QUALITY>
+                <ALIAS_NAME>ADONIA</ALIAS_NAME>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ADDRESS>
+                <COUNTRY/>
+            </INDIVIDUAL_ADDRESS>
+            <INDIVIDUAL_DATE_OF_BIRTH>
+                <TYPE_OF_DATE>EXACT</TYPE_OF_DATE>
+                <YEAR>1964</YEAR>
+            </INDIVIDUAL_DATE_OF_BIRTH>
+            <INDIVIDUAL_PLACE_OF_BIRTH>
+                <COUNTRY/>
+            </INDIVIDUAL_PLACE_OF_BIRTH>
+            <INDIVIDUAL_DOCUMENT/>
+            <SORT_KEY/>
+            <SORT_KEY_LAST_MOD/>
+        </INDIVIDUAL>
+        <INDIVIDUAL>
+            <DATAID>6908994</DATAID>
+            <VERSIONNUM>1</VERSIONNUM>
+            <FIRST_NAME>AHMAD</FIRST_NAME>
+            <SECOND_NAME>MAHMOOD</SECOND_NAME>
+            <THIRD_NAME>HASSAN</THIRD_NAME>
+            <UN_LIST_TYPE>DRC</UN_LIST_TYPE>
+            <REFERENCE_NUMBER>CDi.040</REFERENCE_NUMBER>
+            <LISTED_ON>2024-02-20</LISTED_ON>
+            <COMMENTS1>Listed pursuant to paragraphs 7 (b), 7 (e), and 7 (h) of resolution 2293 (2016) and paragraph 3 of resolution 2641 (2022): “being political and military leaders of foreign armed groups operating in the DRC who impede the disarmament and the voluntary repatriation or resettlement of combatants belonging to those groups”, “planning, directing, or committing acts in the DRC that constitute human rights violations or abuses or violations of international humanitarian law, as applicable, including those acts involving the targeting of civilians, including killing and maiming, rape and other sexual violence, abduction, forced displacement, and attacks on schools and hospitals”, “acting on behalf of or at the direction of a designated individual or entity, or acting on behalf of or at the direction of an entity owned or controlled by a designated individual or entity”, and “involve[d] in the production, manufacture or use in the DRC of improvised explosive devices, or in the commission, planning, ordering, aiding, abetting or otherwise assistance of attacks in the DRC with improvised explosive devices”.</COMMENTS1>
+            <DESIGNATION>
+                <VALUE>Lieutenant general</VALUE>
+                <VALUE>Senior leader of the Allied Democratic Forces (ADF) (CDe.001)</VALUE>
+            </DESIGNATION>
+            <NATIONALITY>
+                <VALUE>United Republic of Tanzania</VALUE>
+            </NATIONALITY>
+            <LIST_TYPE>
+                <VALUE>UN List</VALUE>
+            </LIST_TYPE>
+            <LAST_DAY_UPDATED>
+                <VALUE/>
+            </LAST_DAY_UPDATED>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY>Good</QUALITY>
+                <ALIAS_NAME>AHMED MAHAMUD HASSAN ALIYANI</ALIAS_NAME>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY>Good</QUALITY>
+                <ALIAS_NAME>AHMAD MAHMOUD HASSAN</ALIAS_NAME>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY>Good</QUALITY>
+                <ALIAS_NAME>AHMAD MAHAMOOD HASSAN</ALIAS_NAME>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY>Good</QUALITY>
+                <ALIAS_NAME>AHMED MAHMOUD HASSAN</ALIAS_NAME>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY>Low</QUALITY>
+                <ALIAS_NAME>ABU WAQAS</ALIAS_NAME>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY>Low</QUALITY>
+                <ALIAS_NAME>SAINT JOYAGE</ALIAS_NAME>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY>Low</QUALITY>
+                <ALIAS_NAME>JUNDI</ALIAS_NAME>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY>Low</QUALITY>
+                <ALIAS_NAME>ABWAKASI</ALIAS_NAME>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY>Low</QUALITY>
+                <ALIAS_NAME>ABUWAKAS</ALIAS_NAME>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY>Low</QUALITY>
+                <ALIAS_NAME>MURABU</ALIAS_NAME>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY>Low</QUALITY>
+                <ALIAS_NAME>MARABOU</ALIAS_NAME>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY>Low</QUALITY>
+                <ALIAS_NAME>MWARABU</ALIAS_NAME>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY>Low</QUALITY>
+                <ALIAS_NAME>LEBLANC</ALIAS_NAME>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ADDRESS>
+                <COUNTRY>Democratic Republic of the Congo</COUNTRY>
+            </INDIVIDUAL_ADDRESS>
+            <INDIVIDUAL_DATE_OF_BIRTH>
+                <TYPE_OF_DATE>EXACT</TYPE_OF_DATE>
+                <DATE>1997-07-21</DATE>
+            </INDIVIDUAL_DATE_OF_BIRTH>
+            <INDIVIDUAL_DATE_OF_BIRTH>
+                <TYPE_OF_DATE>EXACT</TYPE_OF_DATE>
+                <YEAR>1993</YEAR>
+            </INDIVIDUAL_DATE_OF_BIRTH>
+            <INDIVIDUAL_PLACE_OF_BIRTH>
+                <COUNTRY/>
+            </INDIVIDUAL_PLACE_OF_BIRTH>
+            <INDIVIDUAL_DOCUMENT>
+                <TYPE_OF_DOCUMENT>Passport</TYPE_OF_DOCUMENT>
+                <NUMBER>AB850901</NUMBER>
+                <ISSUING_COUNTRY>United Republic of Tanzania</ISSUING_COUNTRY>
+                <NOTE>Expiration date: 2026-12-11. </NOTE>
+            </INDIVIDUAL_DOCUMENT>
+            <INDIVIDUAL_DOCUMENT>
+                <TYPE_OF_DOCUMENT>Passport</TYPE_OF_DOCUMENT>
+                <NUMBER>AB187304 </NUMBER>
+                <ISSUING_COUNTRY>United Republic of Tanzania</ISSUING_COUNTRY>
+                <NOTE>Expired 28 Nov. 2016</NOTE>
+            </INDIVIDUAL_DOCUMENT>
+            <SORT_KEY/>
+            <SORT_KEY_LAST_MOD/>
+        </INDIVIDUAL>
+        <INDIVIDUAL>
+            <DATAID>6908995</DATAID>
+            <VERSIONNUM>1</VERSIONNUM>
+            <FIRST_NAME>MICHEL</FIRST_NAME>
+            <SECOND_NAME>RUKUNDA</SECOND_NAME>
+            <UN_LIST_TYPE>DRC</UN_LIST_TYPE>
+            <REFERENCE_NUMBER>CDi.041</REFERENCE_NUMBER>
+            <LISTED_ON>2024-02-20</LISTED_ON>
+            <COMMENTS1>Listed pursuant to paragraph 7 (c), 7 (d), and 7 (e) of resolution 2293 (2016) as “being political and military leaders of Congolese militias, including those receiving support from outside the DRC, who impede the participation of their combatants in disarmament, demobilization and reintegration processes”; “recruiting or using children in armed conflict in the DRC in violation of applicable international law”; “planning, directing, or committing acts in the DRC that constitute human rights violations or abuses or violations of international humanitarian law, as applicable, including those acts involving the targeting of civilians, including killing and maiming, rape and other sexual violence, abduction, forced displacement, and attacks on schools and hospitals” and “acting on behalf of or at the direction of a designated individual or entity, or acting on behalf of or at the direction of an entity owned or controlled by a designated individual or entity”, as extended by resolution 2688 (2023). As a military leader of an armed Congolese militia, MICHEL RUKUNDA is involved in promulgating and supporting the group’s activities.</COMMENTS1>
+            <DESIGNATION>
+                <VALUE>Commander and military leader of the armed group Twirwaneho</VALUE>
+            </DESIGNATION>
+            <NATIONALITY>
+                <VALUE>Democratic Republic of the Congo</VALUE>
+            </NATIONALITY>
+            <LIST_TYPE>
+                <VALUE>UN List</VALUE>
+            </LIST_TYPE>
+            <LAST_DAY_UPDATED>
+                <VALUE/>
+            </LAST_DAY_UPDATED>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY>Low</QUALITY>
+                <ALIAS_NAME>MAKANIKA</ALIAS_NAME>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ADDRESS>
+                <COUNTRY>Democratic Republic of the Congo</COUNTRY>
+            </INDIVIDUAL_ADDRESS>
+            <INDIVIDUAL_DATE_OF_BIRTH>
+                <TYPE_OF_DATE>EXACT</TYPE_OF_DATE>
+                <DATE>1974-09-12</DATE>
+            </INDIVIDUAL_DATE_OF_BIRTH>
+            <INDIVIDUAL_PLACE_OF_BIRTH>
+                <STATE_PROVINCE>Minembwe, South Kivu</STATE_PROVINCE>
+                <COUNTRY>Democratic Republic of the Congo</COUNTRY>
+            </INDIVIDUAL_PLACE_OF_BIRTH>
+            <INDIVIDUAL_DOCUMENT/>
+            <SORT_KEY/>
+            <SORT_KEY_LAST_MOD/>
+        </INDIVIDUAL>
+        <INDIVIDUAL>
+            <DATAID>6908996</DATAID>
+            <VERSIONNUM>1</VERSIONNUM>
+            <FIRST_NAME>MOHAMED</FIRST_NAME>
+            <SECOND_NAME>ALI</SECOND_NAME>
+            <THIRD_NAME>NKALUBO</THIRD_NAME>
+            <UN_LIST_TYPE>DRC</UN_LIST_TYPE>
+            <REFERENCE_NUMBER>CDi.042</REFERENCE_NUMBER>
+            <LISTED_ON>2024-02-20</LISTED_ON>
+            <COMMENTS1>Listed pursuant to paragraphs 7 (b), 7 (d), 7 (e), and 7 (h) of resolution 2293 (2016) as “being political and military leaders of foreign armed groups operating in the DRC who impede the disarmament and the voluntary repatriation or resettlement of combatants belonging to those groups; “recruiting or using children in armed conflict in the DRC in violation of applicable international law; “planning, directing, committing acts in the DRC that constitute human rights violations or abuses or violations of international humanitarian law, as applicable, including those acts involving the targeting of civilians, including killing and maiming, rape and other sexual violence, abduction, forced displacement, and attacks on schools and hospitals”; and “acting on behalf of or at the direction of a designated individual or entity, or acting on behalf of or at the direction of an entity owned or controlled by a designated individual or entity”, as reaffirmed by paragraph 2 of resolution 2688 (2023). As a leader of ADF (CDe.001), MOHAMED ALI NKALUBO is involved in planning, promulgating and supporting the armed group’s activities. He has effective command and control over the group’s combatants.</COMMENTS1>
+            <DESIGNATION>
+                <VALUE>Allied Democratic Forces (ADF) senior leader for operations/organization/support, and also communication and propaganda </VALUE>
+            </DESIGNATION>
+            <NATIONALITY>
+                <VALUE>Uganda</VALUE>
+            </NATIONALITY>
+            <LIST_TYPE>
+                <VALUE>UN List</VALUE>
+            </LIST_TYPE>
+            <LAST_DAY_UPDATED>
+                <VALUE/>
+            </LAST_DAY_UPDATED>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY>Good</QUALITY>
+                <ALIAS_NAME>MEDDIE NKALUBO</ALIAS_NAME>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY>Good</QUALITY>
+                <ALIAS_NAME>MEDDIE LEE</ALIAS_NAME>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY>Low</QUALITY>
+                <ALIAS_NAME>KASIBANTE</ALIAS_NAME>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY>Low</QUALITY>
+                <ALIAS_NAME>ABOU SHAUKAN</ALIAS_NAME>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY>Low</QUALITY>
+                <ALIAS_NAME>DEFENDER</ALIAS_NAME>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY>Low</QUALITY>
+                <ALIAS_NAME>PUNNY BOY</ALIAS_NAME>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY>Low</QUALITY>
+                <ALIAS_NAME>ABUL JIHAD</ALIAS_NAME>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY>Low</QUALITY>
+                <ALIAS_NAME>ABU SHAUKAN</ALIAS_NAME>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY>Low</QUALITY>
+                <ALIAS_NAME>PUNISHER</ALIAS_NAME>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ADDRESS>
+                <COUNTRY>Democratic Republic of the Congo</COUNTRY>
+            </INDIVIDUAL_ADDRESS>
+            <INDIVIDUAL_DATE_OF_BIRTH>
+                <TYPE_OF_DATE>EXACT</TYPE_OF_DATE>
+                <YEAR>1987</YEAR>
+            </INDIVIDUAL_DATE_OF_BIRTH>
+            <INDIVIDUAL_DATE_OF_BIRTH>
+                <TYPE_OF_DATE>EXACT</TYPE_OF_DATE>
+                <YEAR>1988</YEAR>
+            </INDIVIDUAL_DATE_OF_BIRTH>
+            <INDIVIDUAL_DATE_OF_BIRTH>
+                <TYPE_OF_DATE>EXACT</TYPE_OF_DATE>
+                <YEAR>1991</YEAR>
+            </INDIVIDUAL_DATE_OF_BIRTH>
+            <INDIVIDUAL_DATE_OF_BIRTH>
+                <TYPE_OF_DATE>EXACT</TYPE_OF_DATE>
+                <YEAR>1992</YEAR>
+            </INDIVIDUAL_DATE_OF_BIRTH>
+            <INDIVIDUAL_DATE_OF_BIRTH>
+                <TYPE_OF_DATE>EXACT</TYPE_OF_DATE>
+                <YEAR>1993</YEAR>
+            </INDIVIDUAL_DATE_OF_BIRTH>
+            <INDIVIDUAL_PLACE_OF_BIRTH>
+                <CITY>Kampala</CITY>
+                <COUNTRY>Uganda</COUNTRY>
+            </INDIVIDUAL_PLACE_OF_BIRTH>
+            <INDIVIDUAL_DOCUMENT/>
+            <SORT_KEY/>
+            <SORT_KEY_LAST_MOD/>
+        </INDIVIDUAL>
+        <INDIVIDUAL>
+            <DATAID>6908997</DATAID>
+            <VERSIONNUM>1</VERSIONNUM>
+            <FIRST_NAME>WILLIAM</FIRST_NAME>
+            <SECOND_NAME>AMURI</SECOND_NAME>
+            <THIRD_NAME>YAKUTUMBA</THIRD_NAME>
+            <UN_LIST_TYPE>DRC</UN_LIST_TYPE>
+            <REFERENCE_NUMBER>CDi.043</REFERENCE_NUMBER>
+            <LISTED_ON>2024-02-20</LISTED_ON>
+            <COMMENTS1>Listed pursuant to paragraphs 7 (c), 7 (d), 7 (e) and 7 (g) of resolution 2293 (2016) as “being political and military leaders of Congolese militias, including those receiving support from outside the DRC, who impede the participation of their combatants in disarmament, demobilization and reintegration processes;” “recruiting or using children in armed conflict in the DRC in violation of applicable international law;” “planning, directing, committing acts in the DRC that constitute human rights violations or abuses or violations of international humanitarian law, as applicable, including those acts involving the targeting of civilians, including killing and maiming, rape and other sexual violence, abduction, forced displacement, and attacks on schools and hospitals;” and “supporting individuals or entities, including armed groups or criminal networks, involved in destabilizing activities in the DRC through the illicit exploitation or trade of natural resources, including gold or wildlife as well as wildlife products”, as reaffirmed by paragraph 2 of resolution 2688 (2023). As the leader of the MAI MAI YAKUTUMBA, one of the largest CNPSC militia, WILLIAM AMURI YAKUTUMBA is involved in planning, promulgating and supporting the militia’s activities. He has effective command and control over the militia’s combatants.</COMMENTS1>
+            <DESIGNATION>
+                <VALUE>Secretary General and leader for the Coalition nationale du people pour la souveraineté du Congo (CNPSC) (until February 2023)</VALUE>
+                <VALUE>founder and leader for MAI-MAI YAKUTUMBA</VALUE>
+            </DESIGNATION>
+            <NATIONALITY>
+                <VALUE>Democratic Republic of the Congo</VALUE>
+            </NATIONALITY>
+            <LIST_TYPE>
+                <VALUE>UN List</VALUE>
+            </LIST_TYPE>
+            <LAST_DAY_UPDATED>
+                <VALUE/>
+            </LAST_DAY_UPDATED>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY>Good</QUALITY>
+                <ALIAS_NAME>YAKUTUMBA</ALIAS_NAME>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ADDRESS>
+                <COUNTRY/>
+            </INDIVIDUAL_ADDRESS>
+            <INDIVIDUAL_DATE_OF_BIRTH>
+                <TYPE_OF_DATE>EXACT</TYPE_OF_DATE>
+                <YEAR>1970</YEAR>
+            </INDIVIDUAL_DATE_OF_BIRTH>
+            <INDIVIDUAL_DATE_OF_BIRTH>
+                <TYPE_OF_DATE>EXACT</TYPE_OF_DATE>
+                <YEAR>1972</YEAR>
+            </INDIVIDUAL_DATE_OF_BIRTH>
+            <INDIVIDUAL_PLACE_OF_BIRTH>
+                <CITY>Lunbondja, Fizi Territory, South Kivu</CITY>
+                <COUNTRY>Democratic Republic of the Congo</COUNTRY>
+            </INDIVIDUAL_PLACE_OF_BIRTH>
+            <INDIVIDUAL_DOCUMENT/>
+            <SORT_KEY/>
+            <SORT_KEY_LAST_MOD/>
+        </INDIVIDUAL>
+        <INDIVIDUAL>
+            <DATAID>6908998</DATAID>
+            <VERSIONNUM>1</VERSIONNUM>
+            <FIRST_NAME>WILLY</FIRST_NAME>
+            <SECOND_NAME>NGOMA</SECOND_NAME>
+            <UN_LIST_TYPE>DRC</UN_LIST_TYPE>
+            <REFERENCE_NUMBER>CDi.044</REFERENCE_NUMBER>
+            <LISTED_ON>2024-02-20</LISTED_ON>
+            <COMMENTS1>Listed pursuant to paragraphs 7 (c), 7 (e) and 7 (h) of resolution 2293 (2016) as “being political and military leaders of Congolese militias, including those receiving support from outside the DRC, who impede the participation of their combatants in disarmament, demobilization and reintegration processes;” “planning, directing, committing acts in the DRC that constitute human rights violations or abuses or violations of international humanitarian law, as applicable, including those acts involving the targeting of civilians, including killing and maiming, rape and other sexual violence, abduction, forced displacement, and attacks on schools and hospitals;” and “acting on behalf of or at the direction of an entity owned or controlled by a designated individual or entity”, as reaffirmed by paragraph 2 of resolution 2688 (2023). As a leader of M23 (CDe.006), WILLY NGOMA is involved in planning, promulgating and supporting the armed group’s activities.</COMMENTS1>
+            <DESIGNATION>
+                <VALUE>Major</VALUE>
+                <VALUE>Military spokesperson for M23</VALUE>
+            </DESIGNATION>
+            <NATIONALITY>
+                <VALUE>Democratic Republic of the Congo</VALUE>
+            </NATIONALITY>
+            <LIST_TYPE>
+                <VALUE>UN List</VALUE>
+            </LIST_TYPE>
+            <LAST_DAY_UPDATED>
+                <VALUE/>
+            </LAST_DAY_UPDATED>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY/>
+                <ALIAS_NAME/>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ADDRESS>
+                <COUNTRY>Democratic Republic of the Congo</COUNTRY>
+            </INDIVIDUAL_ADDRESS>
+            <INDIVIDUAL_DATE_OF_BIRTH>
+                <TYPE_OF_DATE>EXACT</TYPE_OF_DATE>
+                <YEAR>1974</YEAR>
+            </INDIVIDUAL_DATE_OF_BIRTH>
+            <INDIVIDUAL_PLACE_OF_BIRTH>
+                <CITY>Camp Kokolo, Kinshasa</CITY>
+                <COUNTRY>Democratic Republic of the Congo</COUNTRY>
             </INDIVIDUAL_PLACE_OF_BIRTH>
             <INDIVIDUAL_DOCUMENT/>
             <SORT_KEY/>
