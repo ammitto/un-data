@@ -1,6 +1,10 @@
 ---
 entity_type: organization
 names:
+- MINISTRY OF NATIONAL DEFENCE
+- MINISTRY OF NATIONAL DEFENSE
+- MINISTRY OF DEFENCE
+- MINISTRY OF DEFENSE
 - MINISTRY OF THE PEOPLE’S ARMED FORCES (MPAF)
 designation: 
 source: un-data
@@ -8,8 +12,8 @@ ref_number: KPe.054
 ref_type: DPRK
 country: 
 birthdate: 
-remark: The Ministry of the People’s Armed Forces manages the general administrative
-  and logistical needs of the Korean People’s Army.
+remark: The Ministry of National Defence manages the general administrative and logistical
+  needs of the Korean People’s Army.
 address:
 - street: 
   city: Pyongyang
