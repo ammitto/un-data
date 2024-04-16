@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<CONSOLIDATED_LIST xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:noNamespaceSchemaLocation='https://www.un.org/sc/resources/sc-sanctions.xsd' dateGenerated='2024-04-13T00:00:08.870Z'>
+<CONSOLIDATED_LIST xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:noNamespaceSchemaLocation='https://www.un.org/sc/resources/sc-sanctions.xsd' dateGenerated='2024-04-16T00:00:01.188Z'>
     <INDIVIDUALS>
         <INDIVIDUAL>
             <DATAID>110447</DATAID>
@@ -44986,27 +44986,6 @@ Review pursuant to Security Council resolution 2368 (2017) was concluded on 15 N
             <SORT_KEY_LAST_MOD/>
         </ENTITY>
         <ENTITY>
-            <DATAID>6908523</DATAID>
-            <VERSIONNUM>1</VERSIONNUM>
-            <FIRST_NAME>NATIONAL AEROSPACE DEVELOPMENT ADMINISTRATION</FIRST_NAME>
-            <UN_LIST_TYPE>DPRK</UN_LIST_TYPE>
-            <REFERENCE_NUMBER>KPe.029</REFERENCE_NUMBER>
-            <LISTED_ON>2016-03-02</LISTED_ON>
-            <COMMENTS1>NADA is involved in the DPRK's development of space science and technology, including satellite launches and carrier rockets.</COMMENTS1>
-            <LIST_TYPE>
-                <VALUE>UN List</VALUE>
-            </LIST_TYPE>
-            <ENTITY_ALIAS>
-                <QUALITY>a.k.a.</QUALITY>
-                <ALIAS_NAME>NADA</ALIAS_NAME>
-            </ENTITY_ALIAS>
-            <ENTITY_ADDRESS>
-                <COUNTRY>Democratic People's Republic of Korea</COUNTRY>
-            </ENTITY_ADDRESS>
-            <SORT_KEY/>
-            <SORT_KEY_LAST_MOD/>
-        </ENTITY>
-        <ENTITY>
             <DATAID>6908524</DATAID>
             <VERSIONNUM>1</VERSIONNUM>
             <FIRST_NAME>OFFICE 39</FIRST_NAME>
@@ -48106,6 +48085,38 @@ Review pursuant to Security Council resolution 2610 (2021) was concluded on 30 O
             </ENTITY_ALIAS>
             <ENTITY_ADDRESS>
                 <CITY>Pyongyang</CITY>
+                <COUNTRY>Democratic People's Republic of Korea</COUNTRY>
+            </ENTITY_ADDRESS>
+            <SORT_KEY/>
+            <SORT_KEY_LAST_MOD/>
+        </ENTITY>
+        <ENTITY>
+            <DATAID>6908523</DATAID>
+            <VERSIONNUM>1</VERSIONNUM>
+            <FIRST_NAME>NATIONAL AEROSPACE TECHNOLOGY ADMINISTRATION</FIRST_NAME>
+            <UN_LIST_TYPE>DPRK</UN_LIST_TYPE>
+            <REFERENCE_NUMBER>KPe.029</REFERENCE_NUMBER>
+            <LISTED_ON>2016-03-02</LISTED_ON>
+            <COMMENTS1>NATA is involved in the DPRK's development of space science and technology, including satellite launches and carrier rockets.</COMMENTS1>
+            <LIST_TYPE>
+                <VALUE>UN List</VALUE>
+            </LIST_TYPE>
+            <LAST_DAY_UPDATED>
+                <VALUE>2024-04-15</VALUE>
+            </LAST_DAY_UPDATED>
+            <ENTITY_ALIAS>
+                <QUALITY>a.k.a.</QUALITY>
+                <ALIAS_NAME>NATA</ALIAS_NAME>
+            </ENTITY_ALIAS>
+            <ENTITY_ALIAS>
+                <QUALITY>f.k.a.</QUALITY>
+                <ALIAS_NAME>NATIONAL AEROSPACE DEVELOPMENT ADMINISTRATION</ALIAS_NAME>
+            </ENTITY_ALIAS>
+            <ENTITY_ALIAS>
+                <QUALITY>f.k.a.</QUALITY>
+                <ALIAS_NAME>NADA</ALIAS_NAME>
+            </ENTITY_ALIAS>
+            <ENTITY_ADDRESS>
                 <COUNTRY>Democratic People's Republic of Korea</COUNTRY>
             </ENTITY_ADDRESS>
             <SORT_KEY/>

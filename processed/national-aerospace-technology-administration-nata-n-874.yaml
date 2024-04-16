@@ -1,6 +1,8 @@
 ---
 entity_type: organization
 names:
+- NATIONAL AEROSPACE TECHNOLOGY ADMINISTRATION
+- NATA
 - NATIONAL AEROSPACE DEVELOPMENT ADMINISTRATION
 - NADA
 designation: 
@@ -9,7 +11,7 @@ ref_number: KPe.029
 ref_type: DPRK
 country: 
 birthdate: 
-remark: NADA is involved in the DPRK's development of space science and technology,
+remark: NATA is involved in the DPRK's development of space science and technology,
   including satellite launches and carrier rockets.
 address:
 - street: 
