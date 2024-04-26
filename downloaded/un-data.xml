@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<CONSOLIDATED_LIST xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:noNamespaceSchemaLocation='https://www.un.org/sc/resources/sc-sanctions.xsd' dateGenerated='2024-04-25T00:00:08.765Z'>
+<CONSOLIDATED_LIST xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:noNamespaceSchemaLocation='https://www.un.org/sc/resources/sc-sanctions.xsd' dateGenerated='2024-04-26T00:00:04.008Z'>
     <INDIVIDUALS>
         <INDIVIDUAL>
             <DATAID>110447</DATAID>
@@ -32553,83 +32553,6 @@ for inclusion in the INTERPOL-UN Security Council Special Notice.</COMMENTS1>
             <SORT_KEY_LAST_MOD/>
         </INDIVIDUAL>
         <INDIVIDUAL>
-            <DATAID>6908866</DATAID>
-            <VERSIONNUM>1</VERSIONNUM>
-            <FIRST_NAME>SANAULLAH</FIRST_NAME>
-            <SECOND_NAME>GHAFARI</SECOND_NAME>
-            <UN_LIST_TYPE>Al-Qaida</UN_LIST_TYPE>
-            <REFERENCE_NUMBER>QDi.431</REFERENCE_NUMBER>
-            <LISTED_ON>2021-12-21</LISTED_ON>
-            <GENDER>Male</GENDER>
-            <NAME_ORIGINAL_SCRIPT>ثناء اللہ غفاری</NAME_ORIGINAL_SCRIPT>
-            <COMMENTS1>Leader of the Islamic State of Iraq and the Levant - Khorasan (ISIL - K)
-                (QDe.161). Information Technology Expert. Photo is available for inclusion in the
-                INTERPOL-UN Security Council Special Notice.  INTERPOL-UN Security Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals</COMMENTS1>
-            <TITLE>
-                <VALUE>Dr.</VALUE>
-            </TITLE>
-            <NATIONALITY>
-                <VALUE>Afghanistan</VALUE>
-            </NATIONALITY>
-            <LIST_TYPE>
-                <VALUE>UN List</VALUE>
-            </LIST_TYPE>
-            <LAST_DAY_UPDATED>
-                <VALUE/>
-            </LAST_DAY_UPDATED>
-            <INDIVIDUAL_ALIAS>
-                <QUALITY>Good</QUALITY>
-                <ALIAS_NAME>Dr. Shahab al Muhajir</ALIAS_NAME>
-            </INDIVIDUAL_ALIAS>
-            <INDIVIDUAL_ALIAS>
-                <QUALITY>Good</QUALITY>
-                <ALIAS_NAME>Shahab Muhajer</ALIAS_NAME>
-            </INDIVIDUAL_ALIAS>
-            <INDIVIDUAL_ALIAS>
-                <QUALITY>Good</QUALITY>
-                <ALIAS_NAME>Shahab Mohajir</ALIAS_NAME>
-            </INDIVIDUAL_ALIAS>
-            <INDIVIDUAL_ALIAS>
-                <QUALITY>Good</QUALITY>
-                <ALIAS_NAME>Shahab Mahajar</ALIAS_NAME>
-            </INDIVIDUAL_ALIAS>
-            <INDIVIDUAL_ALIAS>
-                <QUALITY>Good</QUALITY>
-                <ALIAS_NAME>Shihab al Muhajir</ALIAS_NAME>
-            </INDIVIDUAL_ALIAS>
-            <INDIVIDUAL_ALIAS>
-                <QUALITY>Good</QUALITY>
-                <ALIAS_NAME>Shihab Muhajer</ALIAS_NAME>
-            </INDIVIDUAL_ALIAS>
-            <INDIVIDUAL_ALIAS>
-                <QUALITY>Good</QUALITY>
-                <ALIAS_NAME>Shihab Mohajir</ALIAS_NAME>
-            </INDIVIDUAL_ALIAS>
-            <INDIVIDUAL_ALIAS>
-                <QUALITY>Good</QUALITY>
-                <ALIAS_NAME>Shihab Mahajar</ALIAS_NAME>
-            </INDIVIDUAL_ALIAS>
-            <INDIVIDUAL_ADDRESS>
-                <COUNTRY>Afghanistan</COUNTRY>
-                <NOTE>2021</NOTE>
-            </INDIVIDUAL_ADDRESS>
-            <INDIVIDUAL_ADDRESS>
-                <STATE_PROVINCE>Kunduz</STATE_PROVINCE>
-                <COUNTRY>Afghanistan</COUNTRY>
-                <NOTE>previous</NOTE>
-            </INDIVIDUAL_ADDRESS>
-            <INDIVIDUAL_DATE_OF_BIRTH>
-                <TYPE_OF_DATE>EXACT</TYPE_OF_DATE>
-                <DATE>1994-10-28</DATE>
-            </INDIVIDUAL_DATE_OF_BIRTH>
-            <INDIVIDUAL_PLACE_OF_BIRTH>
-                <COUNTRY>Afghanistan</COUNTRY>
-            </INDIVIDUAL_PLACE_OF_BIRTH>
-            <INDIVIDUAL_DOCUMENT/>
-            <SORT_KEY/>
-            <SORT_KEY_LAST_MOD/>
-        </INDIVIDUAL>
-        <INDIVIDUAL>
             <DATAID>6908867</DATAID>
             <VERSIONNUM>1</VERSIONNUM>
             <FIRST_NAME>ALI</FIRST_NAME>
@@ -40663,6 +40586,94 @@ resolution 1822 (2008) was concluded on 21 Jun. 2010. Review pursuant to Securit
             <INDIVIDUAL_DOCUMENT>
                 <TYPE_OF_DOCUMENT>National Identification Number</TYPE_OF_DOCUMENT>
                 <NOTE>SSN 156-92-9858 (United States of America)</NOTE>
+            </INDIVIDUAL_DOCUMENT>
+            <SORT_KEY/>
+            <SORT_KEY_LAST_MOD/>
+        </INDIVIDUAL>
+        <INDIVIDUAL>
+            <DATAID>6908866</DATAID>
+            <VERSIONNUM>1</VERSIONNUM>
+            <FIRST_NAME>SANAULLAH</FIRST_NAME>
+            <SECOND_NAME>GHAFARI</SECOND_NAME>
+            <UN_LIST_TYPE>Al-Qaida</UN_LIST_TYPE>
+            <REFERENCE_NUMBER>QDi.431</REFERENCE_NUMBER>
+            <LISTED_ON>2021-12-21</LISTED_ON>
+            <NAME_ORIGINAL_SCRIPT>ثناء اللہ غفاری</NAME_ORIGINAL_SCRIPT>
+            <COMMENTS1>Leader of the Islamic State of Iraq and the Levant - Khorasan (ISIL - K) (QDe.161). Information Technology Expert. Father’s name: Abdul Jabbar. Grandfather’s name: Abdul Ghaffar. Photo is available for inclusion in the INTERPOL-UN Security Council Special Notice.  INTERPOL-UN Security Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals</COMMENTS1>
+            <TITLE>
+                <VALUE>Dr.</VALUE>
+            </TITLE>
+            <NATIONALITY>
+                <VALUE>Afghanistan</VALUE>
+            </NATIONALITY>
+            <LIST_TYPE>
+                <VALUE>UN List</VALUE>
+            </LIST_TYPE>
+            <LAST_DAY_UPDATED>
+                <VALUE>2024-04-25</VALUE>
+            </LAST_DAY_UPDATED>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY>Good</QUALITY>
+                <ALIAS_NAME>Dr. Shahab al Muhajir</ALIAS_NAME>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY>Good</QUALITY>
+                <ALIAS_NAME>Shahab Muhajer</ALIAS_NAME>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY>Good</QUALITY>
+                <ALIAS_NAME>Shahab Mohajir</ALIAS_NAME>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY>Good</QUALITY>
+                <ALIAS_NAME>Shahab Mahajar</ALIAS_NAME>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY>Good</QUALITY>
+                <ALIAS_NAME>Shihab al Muhajir</ALIAS_NAME>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY>Good</QUALITY>
+                <ALIAS_NAME>Shihab Muhajer</ALIAS_NAME>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY>Good</QUALITY>
+                <ALIAS_NAME>Shihab Mohajir</ALIAS_NAME>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY>Good</QUALITY>
+                <ALIAS_NAME>Shihab Mahajar</ALIAS_NAME>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ADDRESS>
+                <COUNTRY>Afghanistan</COUNTRY>
+                <NOTE>2021</NOTE>
+            </INDIVIDUAL_ADDRESS>
+            <INDIVIDUAL_ADDRESS>
+                <STATE_PROVINCE>Kunduz</STATE_PROVINCE>
+                <COUNTRY>Afghanistan</COUNTRY>
+                <NOTE>previous</NOTE>
+            </INDIVIDUAL_ADDRESS>
+            <INDIVIDUAL_DATE_OF_BIRTH>
+                <TYPE_OF_DATE>EXACT</TYPE_OF_DATE>
+                <DATE>1994-10-28</DATE>
+            </INDIVIDUAL_DATE_OF_BIRTH>
+            <INDIVIDUAL_DATE_OF_BIRTH>
+                <TYPE_OF_DATE>EXACT</TYPE_OF_DATE>
+                <DATE>1990-05-24</DATE>
+            </INDIVIDUAL_DATE_OF_BIRTH>
+            <INDIVIDUAL_PLACE_OF_BIRTH>
+                <CITY>Mir Bacha, Kot District</CITY>
+                <STATE_PROVINCE>Kabul Province</STATE_PROVINCE>
+                <COUNTRY>Afghanistan</COUNTRY>
+            </INDIVIDUAL_PLACE_OF_BIRTH>
+            <INDIVIDUAL_DOCUMENT>
+                <TYPE_OF_DOCUMENT>Passport</TYPE_OF_DOCUMENT>
+                <TYPE_OF_DOCUMENT2>number: </TYPE_OF_DOCUMENT2>
+                <NUMBER>O1503093</NUMBER>
+                <ISSUING_COUNTRY>Afghanistan</ISSUING_COUNTRY>
+                <DATE_OF_ISSUE>2016-08-25</DATE_OF_ISSUE>
+                <CITY_OF_ISSUE>Kabul, Afghanistan</CITY_OF_ISSUE>
+                <NOTE>expired on 25 Aug. 2021</NOTE>
             </INDIVIDUAL_DOCUMENT>
             <SORT_KEY/>
             <SORT_KEY_LAST_MOD/>
