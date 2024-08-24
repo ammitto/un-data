@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<CONSOLIDATED_LIST xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:noNamespaceSchemaLocation='https://www.un.org/sc/resources/sc-sanctions.xsd' dateGenerated='2024-08-23T00:00:00.703Z'>
+<CONSOLIDATED_LIST xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:noNamespaceSchemaLocation='https://www.un.org/sc/resources/sc-sanctions.xsd' dateGenerated='2024-08-24T00:00:06.785Z'>
     <INDIVIDUALS>
         <INDIVIDUAL>
             <DATAID>110447</DATAID>
@@ -6889,59 +6889,6 @@ on 20 Jul. 2009. Review pursuant to Security Council resolution 2253 (2015) was 
                 <COUNTRY>Tunisia</COUNTRY>
             </INDIVIDUAL_PLACE_OF_BIRTH>
             <INDIVIDUAL_DOCUMENT/>
-            <SORT_KEY/>
-            <SORT_KEY_LAST_MOD/>
-        </INDIVIDUAL>
-        <INDIVIDUAL>
-            <DATAID>111800</DATAID>
-            <VERSIONNUM>1</VERSIONNUM>
-            <FIRST_NAME>YASSINE</FIRST_NAME>
-            <SECOND_NAME>CHEKKOURI</SECOND_NAME>
-            <UN_LIST_TYPE>Al-Qaida</UN_LIST_TYPE>
-            <REFERENCE_NUMBER>QDi.070</REFERENCE_NUMBER>
-            <LISTED_ON>2002-09-03</LISTED_ON>
-            <NAME_ORIGINAL_SCRIPT>ياسين شكوري</NAME_ORIGINAL_SCRIPT>
-            <COMMENTS1>Mother’s name is Feue Hlima Bent Barka and father’s name is Abderrahmane
-Mohammed Ben Azzouz. Deported from Italy to Morocco on 26 Feb. 2004. Review pursuant to
-Security Council resolution 1822 (2008) was concluded on 21 Jun. 2010. Review pursuant to Security Council resolution 2368 (2017) was concluded on 4 Dec. 2019 INTERPOL-UN Security Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals</COMMENTS1>
-            <NATIONALITY>
-                <VALUE>Morocco</VALUE>
-            </NATIONALITY>
-            <LIST_TYPE>
-                <VALUE>UN List</VALUE>
-            </LIST_TYPE>
-            <LAST_DAY_UPDATED>
-                <VALUE>2007-06-07</VALUE>
-                <VALUE>2010-12-23</VALUE>
-                <VALUE>2019-12-06</VALUE>
-            </LAST_DAY_UPDATED>
-            <INDIVIDUAL_ALIAS>
-                <QUALITY/>
-                <ALIAS_NAME/>
-            </INDIVIDUAL_ALIAS>
-            <INDIVIDUAL_ADDRESS>
-                <STREET>7th Street, Number 7</STREET>
-                <CITY>Hay Anas Safi</CITY>
-                <COUNTRY>Morocco</COUNTRY>
-            </INDIVIDUAL_ADDRESS>
-            <INDIVIDUAL_DATE_OF_BIRTH>
-                <TYPE_OF_DATE>EXACT</TYPE_OF_DATE>
-                <DATE>1966-10-06</DATE>
-            </INDIVIDUAL_DATE_OF_BIRTH>
-            <INDIVIDUAL_PLACE_OF_BIRTH>
-                <CITY>Safi</CITY>
-                <COUNTRY>Morocco</COUNTRY>
-            </INDIVIDUAL_PLACE_OF_BIRTH>
-            <INDIVIDUAL_DOCUMENT>
-                <TYPE_OF_DOCUMENT>Passport</TYPE_OF_DOCUMENT>
-                <NUMBER>F46947</NUMBER>
-                <ISSUING_COUNTRY>Morocco</ISSUING_COUNTRY>
-            </INDIVIDUAL_DOCUMENT>
-            <INDIVIDUAL_DOCUMENT>
-                <TYPE_OF_DOCUMENT>National Identification Number</TYPE_OF_DOCUMENT>
-                <NUMBER>H-135467</NUMBER>
-                <ISSUING_COUNTRY>Morocco</ISSUING_COUNTRY>
-            </INDIVIDUAL_DOCUMENT>
             <SORT_KEY/>
             <SORT_KEY_LAST_MOD/>
         </INDIVIDUAL>
