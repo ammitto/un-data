@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<CONSOLIDATED_LIST xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:noNamespaceSchemaLocation='https://www.un.org/sc/resources/sc-sanctions.xsd' dateGenerated='2024-09-27T00:00:02.698Z'>
+<CONSOLIDATED_LIST xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:noNamespaceSchemaLocation='https://www.un.org/sc/resources/sc-sanctions.xsd' dateGenerated='2024-09-28T00:00:02.652Z'>
     <INDIVIDUALS>
         <INDIVIDUAL>
             <DATAID>110447</DATAID>
@@ -40654,6 +40654,83 @@ splinter group or derivative thereof.</COMMENTS1>
             <INDIVIDUAL_DATE_OF_BIRTH>
                 <TYPE_OF_DATE>EXACT</TYPE_OF_DATE>
                 <YEAR>1948</YEAR>
+            </INDIVIDUAL_DATE_OF_BIRTH>
+            <INDIVIDUAL_PLACE_OF_BIRTH>
+                <COUNTRY/>
+            </INDIVIDUAL_PLACE_OF_BIRTH>
+            <INDIVIDUAL_DOCUMENT/>
+            <SORT_KEY/>
+            <SORT_KEY_LAST_MOD/>
+        </INDIVIDUAL>
+        <INDIVIDUAL>
+            <DATAID>6909274</DATAID>
+            <VERSIONNUM>1</VERSIONNUM>
+            <FIRST_NAME>PROPHANE </FIRST_NAME>
+            <SECOND_NAME>VICTOR </SECOND_NAME>
+            <UN_LIST_TYPE>Haiti</UN_LIST_TYPE>
+            <REFERENCE_NUMBER>HTi.006</REFERENCE_NUMBER>
+            <LISTED_ON>2024-09-27</LISTED_ON>
+            <COMMENTS1>Gender: Male.</COMMENTS1>
+            <DESIGNATION>
+                <VALUE>Former member of the Haitian Parliament, involved in weapons trafficking and using violence to secure political gain.</VALUE>
+            </DESIGNATION>
+            <NATIONALITY>
+                <VALUE>Haiti</VALUE>
+            </NATIONALITY>
+            <LIST_TYPE>
+                <VALUE>UN List</VALUE>
+            </LIST_TYPE>
+            <LAST_DAY_UPDATED>
+                <VALUE/>
+            </LAST_DAY_UPDATED>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY/>
+                <ALIAS_NAME/>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ADDRESS>
+                <COUNTRY/>
+            </INDIVIDUAL_ADDRESS>
+            <INDIVIDUAL_DATE_OF_BIRTH>
+                <TYPE_OF_DATE/>
+            </INDIVIDUAL_DATE_OF_BIRTH>
+            <INDIVIDUAL_PLACE_OF_BIRTH>
+                <COUNTRY/>
+            </INDIVIDUAL_PLACE_OF_BIRTH>
+            <INDIVIDUAL_DOCUMENT/>
+            <SORT_KEY/>
+            <SORT_KEY_LAST_MOD/>
+        </INDIVIDUAL>
+        <INDIVIDUAL>
+            <DATAID>6909275</DATAID>
+            <VERSIONNUM>1</VERSIONNUM>
+            <FIRST_NAME>LUCKSON </FIRST_NAME>
+            <SECOND_NAME>ELAN</SECOND_NAME>
+            <UN_LIST_TYPE>Haiti</UN_LIST_TYPE>
+            <REFERENCE_NUMBER>HTi.007</REFERENCE_NUMBER>
+            <LISTED_ON>2024-09-27</LISTED_ON>
+            <COMMENTS1>Gender: Male.</COMMENTS1>
+            <DESIGNATION>
+                <VALUE>Leader of Gran Grif gang.</VALUE>
+            </DESIGNATION>
+            <NATIONALITY>
+                <VALUE>Haiti</VALUE>
+            </NATIONALITY>
+            <LIST_TYPE>
+                <VALUE>UN List</VALUE>
+            </LIST_TYPE>
+            <LAST_DAY_UPDATED>
+                <VALUE/>
+            </LAST_DAY_UPDATED>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY/>
+                <ALIAS_NAME/>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ADDRESS>
+                <COUNTRY/>
+            </INDIVIDUAL_ADDRESS>
+            <INDIVIDUAL_DATE_OF_BIRTH>
+                <TYPE_OF_DATE>EXACT</TYPE_OF_DATE>
+                <DATE>1988-01-06</DATE>
             </INDIVIDUAL_DATE_OF_BIRTH>
             <INDIVIDUAL_PLACE_OF_BIRTH>
                 <COUNTRY/>
