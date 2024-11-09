@@ -1,0 +1,26 @@
+---
+entity_type: person
+names:
+- ABDEL RAHMAN JUMA BARKALLA
+designation: Rapid Support Forces (RSF) Major General and West Darfur Commander
+source: un-data
+ref_number: SDi.005
+ref_type: Sudan
+country: Sudan
+birthdate: '1969-01-01'
+remark: 'Gender: Male.'
+address:
+- street: 
+  city: 
+  state: 
+  country: ''
+  zip: 
+documents:
+- type: Passport
+  number: 'P07834700 '
+  country: Sudan
+  note: 
+- type: National Identification Number
+  number: '21052659309 '
+  country: Sudan
+  note: 
