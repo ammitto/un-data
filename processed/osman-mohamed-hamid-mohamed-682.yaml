@@ -1,0 +1,22 @@
+---
+entity_type: person
+names:
+- OSMAN MOHAMED HAMID MOHAMED
+designation: 'Rapid Support Forces (RSF) Major General and Head of RSF Operations '
+source: un-data
+ref_number: SDi.006
+ref_type: Sudan
+country: Sudan
+birthdate: '1966-01-01'
+remark: 'Gender: Male.'
+address:
+- street: 
+  city: 
+  state: 
+  country: ''
+  zip: 
+documents:
+- type: National Identification Number
+  number: '11540384888'
+  country: Sudan
+  note: 
