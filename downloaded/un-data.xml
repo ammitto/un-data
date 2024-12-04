@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<CONSOLIDATED_LIST xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:noNamespaceSchemaLocation='https://www.un.org/sc/resources/sc-sanctions.xsd' dateGenerated='2024-12-03T00:00:02.574Z'>
+<CONSOLIDATED_LIST xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:noNamespaceSchemaLocation='https://www.un.org/sc/resources/sc-sanctions.xsd' dateGenerated='2024-12-04T00:00:05.794Z'>
     <INDIVIDUALS>
         <INDIVIDUAL>
             <DATAID>110447</DATAID>
@@ -37951,117 +37951,6 @@ expired on 15 Sep. 2009.</NOTE>
             <SORT_KEY_LAST_MOD/>
         </INDIVIDUAL>
         <INDIVIDUAL>
-            <DATAID>2894441</DATAID>
-            <VERSIONNUM>1</VERSIONNUM>
-            <FIRST_NAME>MUTHANNA</FIRST_NAME>
-            <SECOND_NAME>HARITH</SECOND_NAME>
-            <THIRD_NAME>AL-DARI</THIRD_NAME>
-            <UN_LIST_TYPE>Al-Qaida</UN_LIST_TYPE>
-            <REFERENCE_NUMBER>QDi.278</REFERENCE_NUMBER>
-            <LISTED_ON>2010-03-25</LISTED_ON>
-            <NAME_ORIGINAL_SCRIPT>مثنى حارث الضاري</NAME_ORIGINAL_SCRIPT>
-            <COMMENTS1>Mother’s name: Heba Khamis Dari. Provided operational guidance financial support and other services to or in support of Islamic State in Iraq and the Levant, listed as Al-Qaida in Iraq (AQI) (QDe.115). Involved in oil smuggling. Wanted by the Iraqi security forces. Photo available for inclusion in the INTERPOL-UN Security Council Special Notice.  Review pursuant to Security Council resolution 2368 (2017) was concluded on 4 Dec. 2019. Review pursuant to Security Council resolution 2610 (2021) was concluded on 30 October 2023.  INTERPOL-UN Security Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals</COMMENTS1>
-            <TITLE>
-                <VALUE>Doctor</VALUE>
-            </TITLE>
-            <NATIONALITY>
-                <VALUE>Iraq</VALUE>
-            </NATIONALITY>
-            <LIST_TYPE>
-                <VALUE>UN List</VALUE>
-            </LIST_TYPE>
-            <LAST_DAY_UPDATED>
-                <VALUE>2015-12-10</VALUE>
-                <VALUE>2019-12-06</VALUE>
-                <VALUE>2023-10-30</VALUE>
-            </LAST_DAY_UPDATED>
-            <INDIVIDUAL_ALIAS>
-                <QUALITY>Good</QUALITY>
-                <ALIAS_NAME>Dr. Muthanna Al Dari</ALIAS_NAME>
-            </INDIVIDUAL_ALIAS>
-            <INDIVIDUAL_ALIAS>
-                <QUALITY>Good</QUALITY>
-                <ALIAS_NAME>Muthana Harith Al Dari</ALIAS_NAME>
-            </INDIVIDUAL_ALIAS>
-            <INDIVIDUAL_ALIAS>
-                <QUALITY>Good</QUALITY>
-                <ALIAS_NAME>Muthanna Harith Sulayman Al-Dari</ALIAS_NAME>
-            </INDIVIDUAL_ALIAS>
-            <INDIVIDUAL_ALIAS>
-                <QUALITY>Good</QUALITY>
-                <ALIAS_NAME>Muthanna Harith Sulayman Al-Dhari</ALIAS_NAME>
-            </INDIVIDUAL_ALIAS>
-            <INDIVIDUAL_ALIAS>
-                <QUALITY>Good</QUALITY>
-                <ALIAS_NAME>Muthanna Hareth Al-Dhari</ALIAS_NAME>
-            </INDIVIDUAL_ALIAS>
-            <INDIVIDUAL_ALIAS>
-                <QUALITY>Good</QUALITY>
-                <ALIAS_NAME>Muthana Haris Al-Dhari</ALIAS_NAME>
-            </INDIVIDUAL_ALIAS>
-            <INDIVIDUAL_ALIAS>
-                <QUALITY>Good</QUALITY>
-                <ALIAS_NAME>Doctor Muthanna Harith Sulayman Al Dari Al-Zawba'</ALIAS_NAME>
-            </INDIVIDUAL_ALIAS>
-            <INDIVIDUAL_ALIAS>
-                <QUALITY>Good</QUALITY>
-                <ALIAS_NAME>Muthanna Harith Sulayman Al-Dari Al-Zobai</ALIAS_NAME>
-            </INDIVIDUAL_ALIAS>
-            <INDIVIDUAL_ALIAS>
-                <QUALITY>Good</QUALITY>
-                <ALIAS_NAME>Muthanna Harith Sulayman Al-Dari al-Zawba'i</ALIAS_NAME>
-            </INDIVIDUAL_ALIAS>
-            <INDIVIDUAL_ALIAS>
-                <QUALITY>Good</QUALITY>
-                <ALIAS_NAME>Muthanna Hareth al-Dari</ALIAS_NAME>
-            </INDIVIDUAL_ALIAS>
-            <INDIVIDUAL_ALIAS>
-                <QUALITY>Good</QUALITY>
-                <ALIAS_NAME>Muthana Haris al-Dari</ALIAS_NAME>
-            </INDIVIDUAL_ALIAS>
-            <INDIVIDUAL_ALIAS>
-                <QUALITY>Good</QUALITY>
-                <ALIAS_NAME>Doctor Muthanna al-Dari</ALIAS_NAME>
-            </INDIVIDUAL_ALIAS>
-            <INDIVIDUAL_ALIAS>
-                <QUALITY>Good</QUALITY>
-                <ALIAS_NAME>Dr. Muthanna Harith al-Dari al-Zowbai</ALIAS_NAME>
-            </INDIVIDUAL_ALIAS>
-            <INDIVIDUAL_ADDRESS>
-                <CITY>Amman</CITY>
-                <COUNTRY>Jordan</COUNTRY>
-            </INDIVIDUAL_ADDRESS>
-            <INDIVIDUAL_ADDRESS>
-                <CITY>Khan Dari</CITY>
-                <COUNTRY>Iraq</COUNTRY>
-                <NOTE>previous</NOTE>
-            </INDIVIDUAL_ADDRESS>
-            <INDIVIDUAL_ADDRESS>
-                <CITY>Asas Village</CITY>
-                <STATE_PROVINCE>Abu Ghurayb</STATE_PROVINCE>
-                <COUNTRY>Iraq</COUNTRY>
-                <NOTE>previous</NOTE>
-            </INDIVIDUAL_ADDRESS>
-            <INDIVIDUAL_ADDRESS>
-                <COUNTRY>Egypt</COUNTRY>
-                <NOTE>previous</NOTE>
-            </INDIVIDUAL_ADDRESS>
-            <INDIVIDUAL_DATE_OF_BIRTH>
-                <TYPE_OF_DATE>EXACT</TYPE_OF_DATE>
-                <DATE>1969-06-16</DATE>
-            </INDIVIDUAL_DATE_OF_BIRTH>
-            <INDIVIDUAL_PLACE_OF_BIRTH>
-                <COUNTRY>Iraq</COUNTRY>
-            </INDIVIDUAL_PLACE_OF_BIRTH>
-            <INDIVIDUAL_DOCUMENT>
-                <TYPE_OF_DOCUMENT>National Identification Number</TYPE_OF_DOCUMENT>
-                <TYPE_OF_DOCUMENT2>Ration card number:</TYPE_OF_DOCUMENT2>
-                <NUMBER>1729765</NUMBER>
-            </INDIVIDUAL_DOCUMENT>
-            <SORT_KEY/>
-            <SORT_KEY_LAST_MOD/>
-        </INDIVIDUAL>
-        <INDIVIDUAL>
             <DATAID>2902221</DATAID>
             <VERSIONNUM>1</VERSIONNUM>
             <FIRST_NAME>MOHAMED</FIRST_NAME>
@@ -38916,79 +38805,6 @@ for inclusion in the INTERPOL-UN Security Council Special Notice.  Review pursua
             <SORT_KEY_LAST_MOD/>
         </INDIVIDUAL>
         <INDIVIDUAL>
-            <DATAID>6908417</DATAID>
-            <VERSIONNUM>1</VERSIONNUM>
-            <FIRST_NAME>MAYSAR ALI</FIRST_NAME>
-            <SECOND_NAME>MUSA</SECOND_NAME>
-            <THIRD_NAME>ABDALLAH</THIRD_NAME>
-            <FOURTH_NAME>AL-JUBURI</FOURTH_NAME>
-            <UN_LIST_TYPE>Al-Qaida</UN_LIST_TYPE>
-            <REFERENCE_NUMBER>QDi.337</REFERENCE_NUMBER>
-            <LISTED_ON>2014-09-23</LISTED_ON>
-            <COMMENTS1>Sharia amir of Al-Nusrah Front for the People of the Levant (QDe.137) as
-of early 2014. Review pursuant to Security Council resolution 2368 (2017) was concluded on 4 Dec. 2019 Review pursuant to Security Council resolution 2610 (2021) was concluded on 30 October 2023.  INTERPOL-UN Security Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals</COMMENTS1>
-            <TITLE>
-                <VALUE>Amir</VALUE>
-            </TITLE>
-            <NATIONALITY>
-                <VALUE>Iraq</VALUE>
-            </NATIONALITY>
-            <LIST_TYPE>
-                <VALUE>UN List</VALUE>
-            </LIST_TYPE>
-            <LAST_DAY_UPDATED>
-                <VALUE>2019-12-06</VALUE>
-                <VALUE>2023-10-30</VALUE>
-            </LAST_DAY_UPDATED>
-            <INDIVIDUAL_ALIAS>
-                <QUALITY>Good</QUALITY>
-                <ALIAS_NAME>Muyassir al-Jiburi</ALIAS_NAME>
-            </INDIVIDUAL_ALIAS>
-            <INDIVIDUAL_ALIAS>
-                <QUALITY>Good</QUALITY>
-                <ALIAS_NAME>Muyassir Harara</ALIAS_NAME>
-            </INDIVIDUAL_ALIAS>
-            <INDIVIDUAL_ALIAS>
-                <QUALITY>Good</QUALITY>
-                <ALIAS_NAME>Muyassir al-Shammari</ALIAS_NAME>
-            </INDIVIDUAL_ALIAS>
-            <INDIVIDUAL_ALIAS>
-                <QUALITY>Good</QUALITY>
-                <ALIAS_NAME>Muhammad Khalid Hassan</ALIAS_NAME>
-            </INDIVIDUAL_ALIAS>
-            <INDIVIDUAL_ALIAS>
-                <QUALITY>Low</QUALITY>
-                <ALIAS_NAME>Al-Shammari</ALIAS_NAME>
-            </INDIVIDUAL_ALIAS>
-            <INDIVIDUAL_ALIAS>
-                <QUALITY>Low</QUALITY>
-                <ALIAS_NAME>Mus'ab al-Qahtani</ALIAS_NAME>
-            </INDIVIDUAL_ALIAS>
-            <INDIVIDUAL_ALIAS>
-                <QUALITY>Low</QUALITY>
-                <ALIAS_NAME>Abu Maria al-Qatani</ALIAS_NAME>
-            </INDIVIDUAL_ALIAS>
-            <INDIVIDUAL_ALIAS>
-                <QUALITY/>
-                <ALIAS_NAME/>
-            </INDIVIDUAL_ALIAS>
-            <INDIVIDUAL_ADDRESS>
-                <COUNTRY/>
-            </INDIVIDUAL_ADDRESS>
-            <INDIVIDUAL_DATE_OF_BIRTH>
-                <TYPE_OF_DATE>EXACT</TYPE_OF_DATE>
-                <DATE>1976-06-01</DATE>
-            </INDIVIDUAL_DATE_OF_BIRTH>
-            <INDIVIDUAL_PLACE_OF_BIRTH>
-                <CITY>Al-Shura</CITY>
-                <STATE_PROVINCE>Mosul</STATE_PROVINCE>
-                <COUNTRY>Iraq</COUNTRY>
-            </INDIVIDUAL_PLACE_OF_BIRTH>
-            <INDIVIDUAL_DOCUMENT/>
-            <SORT_KEY/>
-            <SORT_KEY_LAST_MOD/>
-        </INDIVIDUAL>
-        <INDIVIDUAL>
             <DATAID>6908419</DATAID>
             <VERSIONNUM>1</VERSIONNUM>
             <FIRST_NAME>‘ABD AL-RAHMAN</FIRST_NAME>
@@ -39421,103 +39237,6 @@ network. Active in terrorist propaganda through the Internet. Review pursuant to
                 <COUNTRY>Yemen</COUNTRY>
             </INDIVIDUAL_PLACE_OF_BIRTH>
             <INDIVIDUAL_DOCUMENT/>
-            <SORT_KEY/>
-            <SORT_KEY_LAST_MOD/>
-        </INDIVIDUAL>
-        <INDIVIDUAL>
-            <DATAID>6908658</DATAID>
-            <VERSIONNUM>1</VERSIONNUM>
-            <FIRST_NAME>SALIM</FIRST_NAME>
-            <SECOND_NAME>MUSTAFA</SECOND_NAME>
-            <THIRD_NAME>MUHAMMAD</THIRD_NAME>
-            <FOURTH_NAME>AL-MANSUR</FOURTH_NAME>
-            <UN_LIST_TYPE>Al-Qaida</UN_LIST_TYPE>
-            <REFERENCE_NUMBER>QDi.411</REFERENCE_NUMBER>
-            <LISTED_ON>2018-03-06</LISTED_ON>
-            <NAME_ORIGINAL_SCRIPT>سالم مصطفى محمد ال منصور</NAME_ORIGINAL_SCRIPT>
-            <COMMENTS1>Finance “emir” for Islamic State in Iraq and the Levant, listed as Al-Qaida in Iraq (QDe.115). Physical description: hair colour: black; eye colour: honey; height: 170 cm. Speaks Arabic.  Review pursuant to Security Council resolution 2610 (2021) was concluded on 30 October 2023.  INTERPOL-UN Security Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals</COMMENTS1>
-            <NATIONALITY>
-                <VALUE>Iraq</VALUE>
-            </NATIONALITY>
-            <LIST_TYPE>
-                <VALUE>UN List</VALUE>
-            </LIST_TYPE>
-            <LAST_DAY_UPDATED>
-                <VALUE>2023-10-30</VALUE>
-            </LAST_DAY_UPDATED>
-            <INDIVIDUAL_ALIAS>
-                <QUALITY/>
-                <ALIAS_NAME/>
-            </INDIVIDUAL_ALIAS>
-            <INDIVIDUAL_ALIAS>
-                <QUALITY/>
-                <ALIAS_NAME/>
-                <DATE_OF_BIRTH>1959</DATE_OF_BIRTH>
-            </INDIVIDUAL_ALIAS>
-            <INDIVIDUAL_ALIAS>
-                <QUALITY>Good</QUALITY>
-                <ALIAS_NAME>Salim Mustafa Muhammad Mansur Al-Ifri</ALIAS_NAME>
-            </INDIVIDUAL_ALIAS>
-            <INDIVIDUAL_ALIAS>
-                <QUALITY>Good</QUALITY>
-                <ALIAS_NAME>Saleem Al-Ifri</ALIAS_NAME>
-            </INDIVIDUAL_ALIAS>
-            <INDIVIDUAL_ALIAS>
-                <QUALITY>Good</QUALITY>
-                <ALIAS_NAME>Salim Mansur Mustafa</ALIAS_NAME>
-            </INDIVIDUAL_ALIAS>
-            <INDIVIDUAL_ALIAS>
-                <QUALITY>Good</QUALITY>
-                <ALIAS_NAME>Salim Mansur</ALIAS_NAME>
-            </INDIVIDUAL_ALIAS>
-            <INDIVIDUAL_ALIAS>
-                <QUALITY>Good</QUALITY>
-                <ALIAS_NAME>Hajji Salim Al-Shaklar</ALIAS_NAME>
-            </INDIVIDUAL_ALIAS>
-            <INDIVIDUAL_ADDRESS>
-                <STREET>17 Tamoz</STREET>
-                <CITY>Mosul</CITY>
-                <COUNTRY>Iraq</COUNTRY>
-                <NOTE>previous address</NOTE>
-            </INDIVIDUAL_ADDRESS>
-            <INDIVIDUAL_ADDRESS>
-                <STREET>Tel Afar – Al-Saad</STREET>
-                <CITY>Mosul</CITY>
-                <COUNTRY>Iraq</COUNTRY>
-                <NOTE>previous address</NOTE>
-            </INDIVIDUAL_ADDRESS>
-            <INDIVIDUAL_DATE_OF_BIRTH>
-                <TYPE_OF_DATE>EXACT</TYPE_OF_DATE>
-                <DATE>1962-02-20</DATE>
-            </INDIVIDUAL_DATE_OF_BIRTH>
-            <INDIVIDUAL_PLACE_OF_BIRTH>
-                <CITY>Baghdad</CITY>
-                <COUNTRY>Iraq</COUNTRY>
-            </INDIVIDUAL_PLACE_OF_BIRTH>
-            <INDIVIDUAL_DOCUMENT>
-                <TYPE_OF_DOCUMENT>Passport</TYPE_OF_DOCUMENT>
-                <NUMBER>A6489694</NUMBER>
-                <ISSUING_COUNTRY>Iraq</ISSUING_COUNTRY>
-                <DATE_OF_ISSUE>2013-09-02</DATE_OF_ISSUE>
-                <NOTE>expires on 31 Aug. 2021; name in Arabic script: سالم مصطفى محمد ال
-منصور</NOTE>
-            </INDIVIDUAL_DOCUMENT>
-            <INDIVIDUAL_DOCUMENT>
-                <TYPE_OF_DOCUMENT>National Identification Number</TYPE_OF_DOCUMENT>
-                <TYPE_OF_DOCUMENT2>national identification card</TYPE_OF_DOCUMENT2>
-                <NUMBER>00813602</NUMBER>
-                <ISSUING_COUNTRY>Iraq</ISSUING_COUNTRY>
-                <DATE_OF_ISSUE>2011-09-18</DATE_OF_ISSUE>
-                <NOTE>name in Arabic script: سالم مصطفى محمد ال منصور</NOTE>
-            </INDIVIDUAL_DOCUMENT>
-            <INDIVIDUAL_DOCUMENT>
-                <TYPE_OF_DOCUMENT>National Identification Number</TYPE_OF_DOCUMENT>
-                <TYPE_OF_DOCUMENT2>Certificate of Iraqi Nationality</TYPE_OF_DOCUMENT2>
-                <NUMBER>300397</NUMBER>
-                <ISSUING_COUNTRY>Iraq</ISSUING_COUNTRY>
-                <DATE_OF_ISSUE>2013-06-25</DATE_OF_ISSUE>
-                <NOTE>name in Arabic script: سالم مصطفى محمد</NOTE>
-            </INDIVIDUAL_DOCUMENT>
             <SORT_KEY/>
             <SORT_KEY_LAST_MOD/>
         </INDIVIDUAL>
@@ -40835,6 +40554,300 @@ splinter group or derivative thereof.</COMMENTS1>
                 <COUNTRY/>
             </INDIVIDUAL_PLACE_OF_BIRTH>
             <INDIVIDUAL_DOCUMENT/>
+            <SORT_KEY/>
+            <SORT_KEY_LAST_MOD/>
+        </INDIVIDUAL>
+        <INDIVIDUAL>
+            <DATAID>2894441</DATAID>
+            <VERSIONNUM>1</VERSIONNUM>
+            <FIRST_NAME>MUTHANNA</FIRST_NAME>
+            <SECOND_NAME>HARITH</SECOND_NAME>
+            <THIRD_NAME>SALMAN </THIRD_NAME>
+            <FOURTH_NAME>AL-DARI </FOURTH_NAME>
+            <UN_LIST_TYPE>Al-Qaida</UN_LIST_TYPE>
+            <REFERENCE_NUMBER>QDi.278</REFERENCE_NUMBER>
+            <LISTED_ON>2010-03-25</LISTED_ON>
+            <NAME_ORIGINAL_SCRIPT>مثنى حارث سلمان الضاري</NAME_ORIGINAL_SCRIPT>
+            <COMMENTS1>Mother’s name: Heba Khamis Dari. Father’s name: Harith bin Salman Al-Dari bin Mahmud al-Shammari Provided operational guidance financial support and other services to or in support of Islamic State in Iraq and the Levant, listed as Al-Qaida in Iraq (AQI) (QDe.115). He is the head of the political department of the Association of Muslim Scholars in Iraq. Involved in oil smuggling. Wanted by the Iraqi security forces. Photo available for inclusion in the INTERPOL-UN Security Council Special Notice. Review pursuant to Security Council resolution 2368 (2017) was concluded on 4 Dec. 2019. Review pursuant to Security Council resolution 2610 (2021) was concluded on 30 October 2023.  INTERPOL-UN Security Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals</COMMENTS1>
+            <TITLE>
+                <VALUE>Doctor</VALUE>
+            </TITLE>
+            <NATIONALITY>
+                <VALUE>Iraq</VALUE>
+            </NATIONALITY>
+            <LIST_TYPE>
+                <VALUE>UN List</VALUE>
+            </LIST_TYPE>
+            <LAST_DAY_UPDATED>
+                <VALUE>2015-12-10</VALUE>
+                <VALUE>2019-12-06</VALUE>
+                <VALUE>2023-10-30</VALUE>
+                <VALUE>2024-12-02</VALUE>
+            </LAST_DAY_UPDATED>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY>Good</QUALITY>
+                <ALIAS_NAME>Dr. Muthanna Al Dari</ALIAS_NAME>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY>Good</QUALITY>
+                <ALIAS_NAME>Muthana Harith Al Dari</ALIAS_NAME>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY>Good</QUALITY>
+                <ALIAS_NAME>Muthanna Harith Sulayman Al-Dari</ALIAS_NAME>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY>Good</QUALITY>
+                <ALIAS_NAME>Muthanna Harith Sulayman Al-Dhari</ALIAS_NAME>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY>Good</QUALITY>
+                <ALIAS_NAME>Muthanna Hareth Al-Dhari</ALIAS_NAME>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY>Good</QUALITY>
+                <ALIAS_NAME>Muthana Haris Al-Dhari</ALIAS_NAME>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY>Good</QUALITY>
+                <ALIAS_NAME>Doctor Muthanna Harith Sulayman Al Dari Al-Zawba'</ALIAS_NAME>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY>Good</QUALITY>
+                <ALIAS_NAME>Muthanna Harith Sulayman Al-Dari Al-Zobai</ALIAS_NAME>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY>Good</QUALITY>
+                <ALIAS_NAME>Muthanna Harith Sulayman Al-Dari al-Zawba'i</ALIAS_NAME>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY>Good</QUALITY>
+                <ALIAS_NAME>Muthanna Hareth al-Dari</ALIAS_NAME>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY>Good</QUALITY>
+                <ALIAS_NAME>Muthana Haris al-Dari</ALIAS_NAME>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY>Good</QUALITY>
+                <ALIAS_NAME>Doctor Muthanna al-Dari</ALIAS_NAME>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY>Good</QUALITY>
+                <ALIAS_NAME>Dr. Muthanna Harith al-Dari al-Zowbai</ALIAS_NAME>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ADDRESS>
+                <CITY>Amman</CITY>
+                <COUNTRY>Jordan</COUNTRY>
+            </INDIVIDUAL_ADDRESS>
+            <INDIVIDUAL_ADDRESS>
+                <CITY>Khan Dari</CITY>
+                <COUNTRY>Iraq</COUNTRY>
+                <NOTE>previous</NOTE>
+            </INDIVIDUAL_ADDRESS>
+            <INDIVIDUAL_ADDRESS>
+                <CITY>Asas Village</CITY>
+                <STATE_PROVINCE>Abu Ghurayb</STATE_PROVINCE>
+                <COUNTRY>Iraq</COUNTRY>
+                <NOTE>previous</NOTE>
+            </INDIVIDUAL_ADDRESS>
+            <INDIVIDUAL_ADDRESS>
+                <COUNTRY>Egypt</COUNTRY>
+                <NOTE>previous</NOTE>
+            </INDIVIDUAL_ADDRESS>
+            <INDIVIDUAL_DATE_OF_BIRTH>
+                <TYPE_OF_DATE>EXACT</TYPE_OF_DATE>
+                <DATE>1969-06-16</DATE>
+            </INDIVIDUAL_DATE_OF_BIRTH>
+            <INDIVIDUAL_PLACE_OF_BIRTH>
+                <COUNTRY>Iraq</COUNTRY>
+            </INDIVIDUAL_PLACE_OF_BIRTH>
+            <INDIVIDUAL_DOCUMENT>
+                <TYPE_OF_DOCUMENT>National Identification Number</TYPE_OF_DOCUMENT>
+                <TYPE_OF_DOCUMENT2>Ration card number:</TYPE_OF_DOCUMENT2>
+                <NUMBER>1729765</NUMBER>
+            </INDIVIDUAL_DOCUMENT>
+            <SORT_KEY/>
+            <SORT_KEY_LAST_MOD/>
+        </INDIVIDUAL>
+        <INDIVIDUAL>
+            <DATAID>6908417</DATAID>
+            <VERSIONNUM>1</VERSIONNUM>
+            <FIRST_NAME>MAYSAR ALI</FIRST_NAME>
+            <SECOND_NAME>MUSA</SECOND_NAME>
+            <THIRD_NAME>ABDALLAH</THIRD_NAME>
+            <FOURTH_NAME>AL-JUBURI</FOURTH_NAME>
+            <UN_LIST_TYPE>Al-Qaida</UN_LIST_TYPE>
+            <REFERENCE_NUMBER>QDi.337</REFERENCE_NUMBER>
+            <LISTED_ON>2014-09-23</LISTED_ON>
+            <COMMENTS1>Sharia amir of Al-Nusrah Front for the People of the Levant (QDe.137) as
+of early 2014. Reportedly died in the Syrian Arab Republic on 2 April 2024, Mother’s name: Subhah Muhammad Sayf. Review pursuant to Security Council resolution 2368 (2017) was concluded on 4 Dec. 2019 Review pursuant to Security Council resolution 2610 (2021) was concluded on 30 October 2023.  INTERPOL-UN Security Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals</COMMENTS1>
+            <TITLE>
+                <VALUE>Amir</VALUE>
+            </TITLE>
+            <NATIONALITY>
+                <VALUE>Iraq</VALUE>
+            </NATIONALITY>
+            <LIST_TYPE>
+                <VALUE>UN List</VALUE>
+            </LIST_TYPE>
+            <LAST_DAY_UPDATED>
+                <VALUE>2019-12-06</VALUE>
+                <VALUE>2023-10-30</VALUE>
+                <VALUE>2024-12-02</VALUE>
+            </LAST_DAY_UPDATED>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY>Good</QUALITY>
+                <ALIAS_NAME>Muyassir al-Jiburi</ALIAS_NAME>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY>Good</QUALITY>
+                <ALIAS_NAME>Muyassir Harara</ALIAS_NAME>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY>Good</QUALITY>
+                <ALIAS_NAME>Muyassir al-Shammari</ALIAS_NAME>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY>Good</QUALITY>
+                <ALIAS_NAME>Muhammad Khalid Hassan</ALIAS_NAME>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY>Low</QUALITY>
+                <ALIAS_NAME>Al-Shammari</ALIAS_NAME>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY>Low</QUALITY>
+                <ALIAS_NAME>Mus'ab al-Qahtani</ALIAS_NAME>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY>Low</QUALITY>
+                <ALIAS_NAME>Abu Maria al-Qatani</ALIAS_NAME>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY>Low</QUALITY>
+                <ALIAS_NAME>ABU UMAR</ALIAS_NAME>
+                <NOTE>Responsable de la charia du Front el-Nosra pour le peuple du Levant (QDe.137) au début de 2014. Serait décédé le 2 avril 2024 en République arabe syrienne. Nom de la mère : Subhah Muhammad Sayf. L’examen de l’inscription en application de la résolution 2368 (2017) s’est achevé le 4 déc. 2019. La révision prévue par la résolution 2610 (2021) du Conseil de sécurité a été achevée le 30 octobre 2023. </NOTE>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ADDRESS>
+                <COUNTRY/>
+            </INDIVIDUAL_ADDRESS>
+            <INDIVIDUAL_DATE_OF_BIRTH>
+                <TYPE_OF_DATE>EXACT</TYPE_OF_DATE>
+                <DATE>1976-06-01</DATE>
+            </INDIVIDUAL_DATE_OF_BIRTH>
+            <INDIVIDUAL_DATE_OF_BIRTH>
+                <TYPE_OF_DATE>EXACT</TYPE_OF_DATE>
+                <YEAR>1976</YEAR>
+            </INDIVIDUAL_DATE_OF_BIRTH>
+            <INDIVIDUAL_PLACE_OF_BIRTH>
+                <CITY>Al-Shura</CITY>
+                <STATE_PROVINCE>Mosul</STATE_PROVINCE>
+                <COUNTRY>Iraq</COUNTRY>
+            </INDIVIDUAL_PLACE_OF_BIRTH>
+            <INDIVIDUAL_PLACE_OF_BIRTH>
+                <STATE_PROVINCE>Hararah, Ninawa Province</STATE_PROVINCE>
+                <COUNTRY>Iraq</COUNTRY>
+            </INDIVIDUAL_PLACE_OF_BIRTH>
+            <INDIVIDUAL_DOCUMENT/>
+            <SORT_KEY/>
+            <SORT_KEY_LAST_MOD/>
+        </INDIVIDUAL>
+        <INDIVIDUAL>
+            <DATAID>6908658</DATAID>
+            <VERSIONNUM>1</VERSIONNUM>
+            <FIRST_NAME>SALIM</FIRST_NAME>
+            <SECOND_NAME>MUSTAFA</SECOND_NAME>
+            <THIRD_NAME>MUHAMMAD</THIRD_NAME>
+            <FOURTH_NAME>AL-MANSUR</FOURTH_NAME>
+            <UN_LIST_TYPE>Al-Qaida</UN_LIST_TYPE>
+            <REFERENCE_NUMBER>QDi.411</REFERENCE_NUMBER>
+            <LISTED_ON>2018-03-06</LISTED_ON>
+            <NAME_ORIGINAL_SCRIPT>سالم مصطفى محمد ال منصور</NAME_ORIGINAL_SCRIPT>
+            <COMMENTS1>: Finance “emir” for Islamic State in Iraq and the Levant, listed as Al-Qaida in Iraq (QDe.115). Mother’s name: Khadijah Mustafa Salih , Held in detention by the Iraqi intelligence service since 2019 and has been sentenced to death, Physical description: hair colour: black; eye colour: honey; height: 170 cm. Speaks Arabic. Review pursuant to Security Council resolution 2610 (2021) was concluded on 30 October 2023.  INTERPOL-UN Security Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals</COMMENTS1>
+            <NATIONALITY>
+                <VALUE>Iraq</VALUE>
+            </NATIONALITY>
+            <LIST_TYPE>
+                <VALUE>UN List</VALUE>
+            </LIST_TYPE>
+            <LAST_DAY_UPDATED>
+                <VALUE>2023-10-30</VALUE>
+                <VALUE>2024-12-02</VALUE>
+            </LAST_DAY_UPDATED>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY>Good</QUALITY>
+                <ALIAS_NAME>Salim Mustafa Muhammad Mansur Al-Ifri</ALIAS_NAME>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY>Good</QUALITY>
+                <ALIAS_NAME>Saleem Al-Ifri</ALIAS_NAME>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY>Good</QUALITY>
+                <ALIAS_NAME>Salim Mansur Mustafa</ALIAS_NAME>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY>Good</QUALITY>
+                <ALIAS_NAME>Salim Mansur</ALIAS_NAME>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY>Good</QUALITY>
+                <ALIAS_NAME>Hajji Salim Al-Shaklar</ALIAS_NAME>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ADDRESS>
+                <STREET>17 Tamoz</STREET>
+                <CITY>Mosul</CITY>
+                <COUNTRY>Iraq</COUNTRY>
+                <NOTE>previous address</NOTE>
+            </INDIVIDUAL_ADDRESS>
+            <INDIVIDUAL_ADDRESS>
+                <STREET>Tel Afar – Al-Saad</STREET>
+                <CITY>Mosul</CITY>
+                <COUNTRY>Iraq</COUNTRY>
+                <NOTE>previous address</NOTE>
+            </INDIVIDUAL_ADDRESS>
+            <INDIVIDUAL_DATE_OF_BIRTH>
+                <TYPE_OF_DATE>EXACT</TYPE_OF_DATE>
+                <DATE>1962-02-20</DATE>
+            </INDIVIDUAL_DATE_OF_BIRTH>
+            <INDIVIDUAL_DATE_OF_BIRTH>
+                <TYPE_OF_DATE>EXACT</TYPE_OF_DATE>
+                <YEAR>1959</YEAR>
+            </INDIVIDUAL_DATE_OF_BIRTH>
+            <INDIVIDUAL_PLACE_OF_BIRTH>
+                <CITY>Baghdad</CITY>
+                <COUNTRY>Iraq</COUNTRY>
+            </INDIVIDUAL_PLACE_OF_BIRTH>
+            <INDIVIDUAL_PLACE_OF_BIRTH>
+                <CITY>Tel Afar</CITY>
+                <STATE_PROVINCE> Nineveh Province</STATE_PROVINCE>
+                <COUNTRY>Iraq</COUNTRY>
+            </INDIVIDUAL_PLACE_OF_BIRTH>
+            <INDIVIDUAL_DOCUMENT>
+                <TYPE_OF_DOCUMENT>Passport</TYPE_OF_DOCUMENT>
+                <NUMBER>A6489694</NUMBER>
+                <ISSUING_COUNTRY>Iraq</ISSUING_COUNTRY>
+                <DATE_OF_ISSUE>2013-09-02</DATE_OF_ISSUE>
+                <NOTE>expires on 31 Aug. 2021; name in Arabic script: سالم مصطفى محمد ال
+منصور</NOTE>
+            </INDIVIDUAL_DOCUMENT>
+            <INDIVIDUAL_DOCUMENT>
+                <TYPE_OF_DOCUMENT>National Identification Number</TYPE_OF_DOCUMENT>
+                <TYPE_OF_DOCUMENT2>national identification card</TYPE_OF_DOCUMENT2>
+                <NUMBER>00813602</NUMBER>
+                <ISSUING_COUNTRY>Iraq</ISSUING_COUNTRY>
+                <DATE_OF_ISSUE>2011-09-18</DATE_OF_ISSUE>
+                <NOTE>name in Arabic script: سالم مصطفى محمد ال منصور</NOTE>
+            </INDIVIDUAL_DOCUMENT>
+            <INDIVIDUAL_DOCUMENT>
+                <TYPE_OF_DOCUMENT>National Identification Number</TYPE_OF_DOCUMENT>
+                <TYPE_OF_DOCUMENT2>Certificate of Iraqi Nationality</TYPE_OF_DOCUMENT2>
+                <NUMBER>300397</NUMBER>
+                <ISSUING_COUNTRY>Iraq</ISSUING_COUNTRY>
+                <DATE_OF_ISSUE>2013-06-25</DATE_OF_ISSUE>
+                <NOTE>name in Arabic script: سالم مصطفى محمد</NOTE>
+            </INDIVIDUAL_DOCUMENT>
             <SORT_KEY/>
             <SORT_KEY_LAST_MOD/>
         </INDIVIDUAL>
