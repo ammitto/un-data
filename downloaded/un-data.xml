@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<CONSOLIDATED_LIST xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:noNamespaceSchemaLocation='https://www.un.org/sc/resources/sc-sanctions.xsd' dateGenerated='2024-12-20T00:00:04.542Z'>
+<CONSOLIDATED_LIST xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:noNamespaceSchemaLocation='https://www.un.org/sc/resources/sc-sanctions.xsd' dateGenerated='2024-12-21T00:00:02.805Z'>
     <INDIVIDUALS>
         <INDIVIDUAL>
             <DATAID>110447</DATAID>
@@ -16338,48 +16338,6 @@ Place of issue: Essouck, Mali</NOTE>
             </INDIVIDUAL_DATE_OF_BIRTH>
             <INDIVIDUAL_PLACE_OF_BIRTH>
                 <COUNTRY>Sudan</COUNTRY>
-            </INDIVIDUAL_PLACE_OF_BIRTH>
-            <INDIVIDUAL_DOCUMENT/>
-            <SORT_KEY/>
-            <SORT_KEY_LAST_MOD/>
-        </INDIVIDUAL>
-        <INDIVIDUAL>
-            <DATAID>690781</DATAID>
-            <VERSIONNUM>1</VERSIONNUM>
-            <FIRST_NAME>ABDELHAFIZ</FIRST_NAME>
-            <SECOND_NAME>ZLITNI</SECOND_NAME>
-            <UN_LIST_TYPE>Libya</UN_LIST_TYPE>
-            <REFERENCE_NUMBER>LYi.020</REFERENCE_NUMBER>
-            <LISTED_ON>2011-06-24</LISTED_ON>
-            <COMMENTS1>Listed pursuant to paragraph 15 of resolution 1970 and paragraph 19 of
-resolution 1973 (Travel Ban, Asset Freeze). INTERPOL-UN Security Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals</COMMENTS1>
-            <DESIGNATION>
-                <VALUE>Minister for Planning and Finance in Colonel Qadhafi's
-Government.</VALUE>
-                <VALUE>Secretary of the General People’s Committee for Finance and
-Planning</VALUE>
-                <VALUE>Temporary head of the Central Bank of Libya</VALUE>
-            </DESIGNATION>
-            <LIST_TYPE>
-                <VALUE>UN List</VALUE>
-            </LIST_TYPE>
-            <LAST_DAY_UPDATED>
-                <VALUE>2014-09-26</VALUE>
-                <VALUE>2016-11-11</VALUE>
-            </LAST_DAY_UPDATED>
-            <INDIVIDUAL_ALIAS>
-                <QUALITY/>
-                <ALIAS_NAME/>
-            </INDIVIDUAL_ALIAS>
-            <INDIVIDUAL_ADDRESS>
-                <COUNTRY>Libya</COUNTRY>
-            </INDIVIDUAL_ADDRESS>
-            <INDIVIDUAL_DATE_OF_BIRTH>
-                <TYPE_OF_DATE>EXACT</TYPE_OF_DATE>
-                <YEAR>1935</YEAR>
-            </INDIVIDUAL_DATE_OF_BIRTH>
-            <INDIVIDUAL_PLACE_OF_BIRTH>
-                <COUNTRY/>
             </INDIVIDUAL_PLACE_OF_BIRTH>
             <INDIVIDUAL_DOCUMENT/>
             <SORT_KEY/>
