@@ -35,7 +35,7 @@ names:
 - |-
   Amir Muhammad Sa’id
                                                     Abdal-Rahman al-Mawla
-designation: 
+designation:
 source: un-data
 ref_number: QDi.426
 ref_type: Al-Qaida
@@ -54,23 +54,23 @@ remark: |-
 address:
 - street: House 110, Street 704, District 704
   city: Tall ‘Afar
-  state: 
+  state:
   country: Iraq
-  zip: 
+  zip:
 - street: near Shahid Mazen Mosque and al-Khansa Hospital
   city: Mosul
-  state: 
+  state:
   country: Iraq
-  zip: 
-- street: 
+  zip:
+- street:
   city: Idlib
-  state: 
+  state:
   country: Syrian Arab Republic
-  zip: 
+  zip:
 documents:
 - type: |-
     National Identification
                                                       Number
   number: '00278640'
-  country: 
-  note: 
+  country:
+  note:

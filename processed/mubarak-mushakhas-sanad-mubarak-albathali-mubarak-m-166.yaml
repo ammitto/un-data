@@ -9,7 +9,7 @@ names:
 - Mubarak Mishkhas Sanad Al-Bazali
 - Mobarak Meshkhas Sanad Al-Bthaly
 - Abu Abdulrahman
-designation: 
+designation:
 source: un-data
 ref_number: QDi.238
 ref_type: Al-Qaida
@@ -21,11 +21,11 @@ remark: Sentenced to prison by Kuwait on 24 August 2018. Review pursuant to Secu
   to Security Council resolution 2610 (2021) was concluded on 8 November 2022. INTERPOL-UN
   Security Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals
 address:
-- street: 
-  city: 
+- street:
+  city:
   state: Al-Salibekhat area
   country: Kuwait
-  zip: 
+  zip:
 documents:
 - type: Passport
   number: '101856740'
@@ -34,8 +34,8 @@ documents:
 - type: Passport
   number: '002955916'
   country: Kuwait
-  note: 
+  note:
 - type: National Identification Number
   number: '261122400761'
   country: Kuwait
-  note: 
+  note:

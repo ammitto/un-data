@@ -6,19 +6,19 @@ names:
 - EXTERNAL TECHNOLOGY GENERAL CORPORATION
 - DPRKN MINING DEVELOPMENT TRADING COOPERATION
 - '"KOMID"'
-designation: 
+designation:
 source: un-data
 ref_number: KPe.001
 ref_type: DPRK
-country: 
-birthdate: 
+country:
+birthdate:
 remark: |-
   Primary arms dealer and main exporter of goods and equipment related to
   ballistic missiles and conventional weapons.
 address:
 - street: Central District
   city: Pyongyang
-  state: 
+  state:
   country: Democratic People's Republic of Korea
-  zip: 
+  zip:
 documents: []

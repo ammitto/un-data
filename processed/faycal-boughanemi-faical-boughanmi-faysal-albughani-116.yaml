@@ -4,7 +4,7 @@ names:
 - FAYCAL BOUGHANEMI
 - Faical Boughanmi
 - Faysal al-Bughanimi
-designation: 
+designation:
 source: un-data
 ref_number: QDi.188
 ref_type: Al-Qaida
@@ -18,11 +18,11 @@ remark: |-
 address:
 - street: Number 5/B viale Cambonino
   city: Cremona
-  state: 
+  state:
   country: Italy
-  zip: 
+  zip:
 documents:
-- type: 
-  number: 
-  country: 
-  note: 
+- type:
+  number:
+  country:
+  note:

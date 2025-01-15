@@ -2,12 +2,12 @@
 entity_type: organization
 names:
 - UMMAH TAMEER E-NAU (UTN)
-designation: 
+designation:
 source: un-data
 ref_number: QDe.068
 ref_type: Al-Qaida
-country: 
-birthdate: 
+country:
+birthdate:
 remark: Its directors included Mahmood Sultan Bashir-Ud-Din (QDi.055), Majeed Abdul
   Chaudhry (QDi.054) and Mohammed Tufail (QDi.056). Banned in Pakistan. Review pursuant
   to Security Council resolution 1822 (2008) was concluded on 21 Jun. 2010. Review
@@ -16,12 +16,12 @@ remark: Its directors included Mahmood Sultan Bashir-Ud-Din (QDi.055), Majeed Ab
 address:
 - street: Street 13, Wazir Akbar Khan
   city: Kabul
-  state: 
+  state:
   country: Afghanistan
-  zip: 
-- street: 
-  city: 
-  state: 
+  zip:
+- street:
+  city:
+  state:
   country: Pakistan
-  zip: 
+  zip:
 documents: []

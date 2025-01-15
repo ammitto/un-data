@@ -4,7 +4,7 @@ names:
 - KANG MUN KIL
 - Jiang Wen-ji
 - Jian Wenji
-designation: 
+designation:
 source: un-data
 ref_number: KPi.019
 ref_type: DPRK
@@ -13,13 +13,13 @@ birthdate: '1963-02-09'
 remark: Kang Mun Kil has conducted nuclear procurement activities as a representative
   of Namchongang, also known as Namhung.
 address:
-- street: 
-  city: 
-  state: 
+- street:
+  city:
+  state:
   country: Democratic People's Republic of Korea
-  zip: 
+  zip:
 documents:
 - type: Passport
   number: 'PS 472330208 '
-  country: 
+  country:
   note: Expires 4 Jul. 2017

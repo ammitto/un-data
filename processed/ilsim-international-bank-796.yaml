@@ -2,19 +2,19 @@
 entity_type: organization
 names:
 - ILSIM INTERNATIONAL BANK
-designation: 
+designation:
 source: un-data
 ref_number: KPe.034
 ref_type: DPRK
-country: 
-birthdate: 
+country:
+birthdate:
 remark: 'Ilsim International Bank is affiliated with the DPRK military and has a close
   relationship with Korea Kwangson Banking Corporation (KKBC). Ilsim International
   Bank has attempted to evade United Nations sanctions. SWIFT: ILSIKPPY'
 address:
-- street: 
+- street:
   city: Pyongyang
-  state: 
+  state:
   country: Democratic People's Republic of Korea
-  zip: 
+  zip:
 documents: []

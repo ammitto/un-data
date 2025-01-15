@@ -3,7 +3,7 @@ entity_type: person
 names:
 - MEHDI BEN MOHAMED BEN MOHAMED KAMMOUN
 - Salmane
-designation: 
+designation:
 source: un-data
 ref_number: QDi.072
 ref_type: Al-Qaida
@@ -17,9 +17,9 @@ remark: |-
 address:
 - street: Via Masina Number 7
   city: Milan
-  state: 
+  state:
   country: Italy
-  zip: 
+  zip:
 documents:
 - type: Passport
   number: M307707

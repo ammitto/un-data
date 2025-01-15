@@ -3,12 +3,12 @@ entity_type: organization
 names:
 - TOUS POUR LA PAIX ET LE DEVELOPPEMENT (NGO)
 - TPD
-designation: 
+designation:
 source: un-data
 ref_number: CDe.008
 ref_type: DRC
-country: 
-birthdate: 
+country:
+birthdate:
 remark: |-
   Goma, with provincial committees in South Kivu, Kasai Occidental, Kasai
   Oriental and Maniema Officially suspended all activities since 2008. In practice, as of
@@ -17,9 +17,9 @@ remark: |-
   is Eugene Serufuli and Vice-President is Saverina Karomba. Important members include
   North Kivu provincial deputies Robert Seninga and Bertin Kirivita. INTERPOL-UN Security Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals
 address:
-- street: 
+- street:
   city: Goma
   state: North Kivu
   country: Democratic Republic of the Congo
-  zip: 
+  zip:
 documents: []

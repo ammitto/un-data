@@ -6,19 +6,19 @@ names:
 - Tehrik-e-Taliban
 - Pakistani Taliban
 - Tehreek-e-Taliban
-designation: 
+designation:
 source: un-data
 ref_number: QDe.132
 ref_type: Al-Qaida
-country: 
-birthdate: 
+country:
+birthdate:
 remark: |-
   Tehrik-e Taliban is based in the tribal areas along the Afghanistan/Pakistan
   border. Formed in 2007, its leader is Maulana Fazlullah (QDi.352). Review pursuant to Security Council resolution 2368 (2017) was concluded on 24 November 2020. INTERPOL-UN Security Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals
 address:
-- street: 
-  city: 
-  state: 
+- street:
+  city:
+  state:
   country: ''
-  zip: 
+  zip:
 documents: []

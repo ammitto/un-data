@@ -10,13 +10,13 @@ country: Democratic People's Republic of Korea
 birthdate: '1965-08-07'
 remark: ''
 address:
-- street: 
-  city: 
-  state: 
+- street:
+  city:
+  state:
   country: ''
-  zip: 
+  zip:
 documents:
 - type: Passport
   number: '563410081'
-  country: 
-  note: 
+  country:
+  note:

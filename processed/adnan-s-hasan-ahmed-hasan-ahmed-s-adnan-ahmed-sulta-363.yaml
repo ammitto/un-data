@@ -4,21 +4,21 @@ names:
 - ADNAN S. HASAN AHMED
 - Hasan Ahmed S. Adnan
 - Ahmed Sultan
-designation: 
+designation:
 source: un-data
 ref_number: IQi.073
 ref_type: Iraq
 country: Iraq
-birthdate: 
+birthdate:
 remark: ''
 address:
-- street: 
+- street:
   city: Amman
-  state: 
+  state:
   country: Jordan
-  zip: 
+  zip:
 documents:
-- type: 
-  number: 
-  country: 
-  note: 
+- type:
+  number:
+  country:
+  note:

@@ -3,7 +3,7 @@ entity_type: person
 names:
 - REDOUANE EL HABHAB
 - Abdelrahman
-designation: 
+designation:
 source: un-data
 ref_number: QDi.262
 ref_type: Al-Qaida
@@ -15,9 +15,9 @@ remark: Released from custody in Germany in Apr. 2012. Review pursuant to Securi
 address:
 - street: lltisstrasse 58
   city: 24143 Kiel
-  state: 
+  state:
   country: Germany
-  zip: 
+  zip:
 documents:
 - type: Passport
   number: '1005552350'

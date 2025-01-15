@@ -12,13 +12,13 @@ country: Democratic People's Republic of Korea
 birthdate: '1957-10-24'
 remark: 'Gender:  male'
 address:
-- street: 
-  city: 
-  state: 
+- street:
+  city:
+  state:
   country: Democratic People's Republic of Korea
-  zip: 
+  zip:
 documents:
 - type: Passport
   number: '108210124'
-  country: 
+  country:
   note: 'Expiration date: 2023-06-04. '

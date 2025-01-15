@@ -3,7 +3,7 @@ entity_type: person
 names:
 - TARIQ AZIZ
 - Tariq Mikhail Aziz
-designation: 
+designation:
 source: un-data
 ref_number: IQi.025
 ref_type: Iraq
@@ -11,13 +11,13 @@ country: Iraq
 birthdate: '1936-07-01'
 remark: ''
 address:
-- street: 
-  city: 
-  state: 
+- street:
+  city:
+  state:
   country: ''
-  zip: 
+  zip:
 documents:
 - type: Passport
   number: No34409/129
-  country: 
+  country:
   note: "(July 1997)"

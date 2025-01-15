@@ -2,23 +2,23 @@
 entity_type: organization
 names:
 - DCB FINANCE LIMITED
-designation: 
+designation:
 source: un-data
 ref_number: KPe.040
 ref_type: DPRK
-country: 
-birthdate: 
+country:
+birthdate:
 remark: DCB Finance Limited is a front company for Daedong Credit Bank (DCB), a listed
   entity.
 address:
 - street: Akara Building
-  city: 
+  city:
   state: 24 de Castro Street, Wickhams Cay I, Road Town, Tortola
   country: British Virgin Islands
-  zip: 
-- street: 
-  city: 
+  zip:
+- street:
+  city:
   state: Dalian
   country: China
-  zip: 
+  zip:
 documents: []

@@ -5,7 +5,7 @@ names:
 - Kaua Omar Achmed
 - Kawa Hamawandi
 - Kawa Omar Ahmed
-designation: 
+designation:
 source: un-data
 ref_number: QDi.203
 ref_type: Al-Qaida
@@ -19,12 +19,12 @@ remark: 'Mother’s name: Farida Hussein Khadir. Released from custody in German
   Security Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals'
 address:
 - street: Arbil – Qushtuba – house no. SH 11, alley 5380
-  city: 
-  state: 
+  city:
+  state:
   country: Iraq
-  zip: 
+  zip:
 documents:
 - type: Passport
   number: German travel document (“Reiseausweis”) A 0139243
-  country: 
+  country:
   note: revoked as at Sep. 2012

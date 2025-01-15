@@ -3,18 +3,18 @@ entity_type: organization
 names:
 - PAEKMA SHIPPING CO
 - Care of First Oil JV Co Ltd
-designation: 
+designation:
 source: un-data
 ref_number: KPe.069
 ref_type: DPRK
-country: 
-birthdate: 
+country:
+birthdate:
 remark: Registered owner of the DPRK tanker PAEK MA, which was involved in ship-to-ship
   transfer operations for oil in mid-January 2018.
 address:
 - street: Jongbaek 1-dong, Rakrang-guyok
   city: Pyongyang
-  state: 
+  state:
   country: Democratic People's Republic of Korea
-  zip: 
+  zip:
 documents: []

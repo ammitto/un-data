@@ -3,7 +3,7 @@ entity_type: person
 names:
 - MONIR CHOUKA
 - Abu Adam
-designation: 
+designation:
 source: un-data
 ref_number: QDi.300
 ref_type: Al-Qaida
@@ -16,7 +16,7 @@ remark: |-
 address:
 - street: Ungartenstraße 6
   city: Bonn
-  state: 
+  state:
   country: Germany
   zip: '53229'
 documents:

@@ -2,12 +2,12 @@
 entity_type: person
 names:
 - SALIM AHMAD SALIM HAMDAN
-designation: 
+designation:
 source: un-data
 ref_number: QDi.003
 ref_type: Al-Qaida
 country: Yemen
-birthdate: 
+birthdate:
 remark: |-
   Driver and private bodyguard to Usama bin Laden (deceased) from 1996
   until 2001. Transferred from United States custody to Yemen in Nov. 2008. Review
@@ -16,16 +16,16 @@ remark: |-
 address:
 - street: Shari Tunis
   city: Sana'a
-  state: 
+  state:
   country: Yemen
-  zip: 
-- street: 
-  city: 
-  state: 
-  country: 
-  zip: 
+  zip:
+- street:
+  city:
+  state:
+  country:
+  zip:
 documents:
 - type: Passport
   number: '00385937'
   country: Yemen
-  note: 
+  note:

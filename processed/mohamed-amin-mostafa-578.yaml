@@ -2,7 +2,7 @@
 entity_type: person
 names:
 - MOHAMED AMIN MOSTAFA
-designation: 
+designation:
 source: un-data
 ref_number: QDi.147
 ref_type: Al-Qaida
@@ -17,11 +17,11 @@ remark: "Under administrative control measure in Italy which expired on 15\nJan.
 address:
 - street: Via della Martinella 132
   city: Parma
-  state: 
+  state:
   country: Italy
-  zip: 
+  zip:
 documents:
-- type: 
-  number: 
-  country: 
-  note: 
+- type:
+  number:
+  country:
+  note:

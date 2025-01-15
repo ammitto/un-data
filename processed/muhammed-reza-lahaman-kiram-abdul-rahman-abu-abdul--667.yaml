@@ -5,7 +5,7 @@ names:
 - Abdul Rahman
 - Abu Abdul Rahman al Filipini
 - Abtol Rahman
-designation: 
+designation:
 source: un-data
 ref_number: QDi.418
 ref_type: Al-Qaida
@@ -23,17 +23,17 @@ address:
   city: Zamboanga City
   state: Western Mindanao
   country: Philippines
-  zip: 
+  zip:
 - street: 96 IlangIlang, Sarmiento Subdivision, Panabo
   city: Davao City
   state: Eastern Mindanao
   country: Philippines
-  zip: 
-- street: 
-  city: 
-  state: 
+  zip:
+- street:
+  city:
+  state:
   country: Syrian Arab Republic
-  zip: 
+  zip:
 documents:
 - type: Passport
   number: XX3966391
@@ -44,4 +44,4 @@ documents:
 - type: Passport
   number: EC3524065
   country: Philippines
-  note: 
+  note:

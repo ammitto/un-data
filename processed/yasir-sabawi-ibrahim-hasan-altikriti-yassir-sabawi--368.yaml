@@ -7,7 +7,7 @@ names:
 - Yasir Sab’awi Ibrahim Hasan Al-Tikriti
 - Yasir Sabawi Ibrahim Hassan Al-Tikriti
 - Ali Thafir Abdallah
-designation: 
+designation:
 source: un-data
 ref_number: IQi.081
 ref_type: Iraq
@@ -15,18 +15,18 @@ country: Iraq
 birthdate: '1968-05-15'
 remark: ''
 address:
-- street: 
+- street:
   city: Mosul
-  state: 
+  state:
   country: Iraq
-  zip: 
-- street: 
+  zip:
+- street:
   city: Az Zabadani
-  state: 
+  state:
   country: Syrian Arab Republic
-  zip: 
+  zip:
 documents:
-- type: 
-  number: 
-  country: 
-  note: 
+- type:
+  number:
+  country:
+  note:

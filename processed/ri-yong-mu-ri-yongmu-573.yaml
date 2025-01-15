@@ -14,13 +14,13 @@ country: Democratic People's Republic of Korea
 birthdate: '1925-01-25'
 remark: Died on 27 January 2022.
 address:
-- street: 
-  city: 
-  state: 
+- street:
+  city:
+  state:
   country: Democratic People's Republic of Korea
-  zip: 
+  zip:
 documents:
-- type: 
-  number: 
-  country: 
-  note: 
+- type:
+  number:
+  country:
+  note:

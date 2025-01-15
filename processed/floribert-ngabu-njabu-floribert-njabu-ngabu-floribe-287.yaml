@@ -5,7 +5,7 @@ names:
 - Floribert Njabu Ngabu
 - Floribert Ndjabu
 - Floribert Ngabu Ndjabu
-designation: 
+designation:
 source: un-data
 ref_number: CDi.021
 ref_type: DRC
@@ -18,13 +18,13 @@ remark: |-
   May 2011. In October 2012, a Dutch court denied his asylum claim. In July 2014, he was
   deported from the Netherlands to DRC, where he was placed under arrest. INTERPOL-UN Security Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals
 address:
-- street: 
-  city: 
-  state: 
+- street:
+  city:
+  state:
   country: ''
-  zip: 
+  zip:
 documents:
 - type: Passport
   number: OB 0243318
   country: Democratic Republic of the Congo
-  note: 
+  note:

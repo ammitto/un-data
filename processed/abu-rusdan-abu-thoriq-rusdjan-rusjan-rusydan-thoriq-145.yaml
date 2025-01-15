@@ -10,11 +10,11 @@ names:
 - Thoriquiddin
 - Thoriquidin
 - Toriquddin
-designation: 
+designation:
 source: un-data
 ref_number: QDi.186
 ref_type: Al-Qaida
-country: 
+country:
 birthdate: '1960-08-16'
 remark: Arrested in Indonesia in 2021. Was the acting Jemaah Islamiyah (JI, QDe.092)
   emir before his arrest, and remains a senior figure of JI.  Review pursuant to Security
@@ -23,13 +23,13 @@ remark: Arrested in Indonesia in 2021. Was the acting Jemaah Islamiyah (JI, QDe.
   to Security Council resolution 2610 (2021) was concluded on 8 November 2022. INTERPOL-UN
   Security Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals
 address:
-- street: 
-  city: 
-  state: 
+- street:
+  city:
+  state:
   country: ''
-  zip: 
+  zip:
 documents:
 - type: National Identification Number
   number: '1608600001'
   country: Indonesia
-  note: 
+  note:

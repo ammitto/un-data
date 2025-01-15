@@ -7,7 +7,7 @@ names:
 - Bashir Sabawi Ibrahim Al-Hassan Al-Tikriti
 - Bashar Sabawi Ibrahim Hasan Al-Bayjat
 - Ali Zafir ‘Abdullah’
-designation: 
+designation:
 source: un-data
 ref_number: IQi.085
 ref_type: Iraq
@@ -19,14 +19,14 @@ address:
   city: " Damascus"
   state: Damascus
   country: Syrian Arab Republic
-  zip: 
-- street: 
+  zip:
+- street:
   city: Beirut
-  state: 
+  state:
   country: Lebanon
-  zip: 
+  zip:
 documents:
-- type: 
-  number: 
-  country: 
-  note: 
+- type:
+  number:
+  country:
+  note:

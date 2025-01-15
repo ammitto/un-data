@@ -6,18 +6,18 @@ names:
 - Strategic Rocket Force Command of KPA
 - Strategic Force
 - Strategic Forces
-designation: 
+designation:
 source: un-data
 ref_number: KPe.046
 ref_type: DPRK
-country: 
-birthdate: 
+country:
+birthdate:
 remark: The Strategic Rocket Force of the Korean People’s Army is in charge of all
   DPRK ballistic missile programmes and is responsible for SCUD and NODONG launches
 address:
-- street: 
+- street:
   city: Pyongyang
-  state: 
+  state:
   country: Democratic People's Republic of Korea
-  zip: 
+  zip:
 documents: []

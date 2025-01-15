@@ -14,26 +14,26 @@ names:
 - Fuad Songale
 - Fouad Shongale
 - Fuad Muhammad Khalaf Shongole
-designation: 
+designation:
 source: un-data
 ref_number: SOi.005
 ref_type: Somalia
 country: Somalia
-birthdate: 
+birthdate:
 remark: ''
 address:
-- street: 
+- street:
   city: Mogadishu
-  state: 
+  state:
   country: Somalia
-  zip: 
-- street: 
-  city: 
-  state: 
+  zip:
+- street:
+  city:
+  state:
   country: Somalia
-  zip: 
+  zip:
 documents:
-- type: 
-  number: 
-  country: 
-  note: 
+- type:
+  number:
+  country:
+  note:

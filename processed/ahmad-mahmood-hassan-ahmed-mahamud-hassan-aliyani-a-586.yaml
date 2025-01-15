@@ -36,11 +36,11 @@ remark: 'Listed pursuant to paragraphs 7 (b), 7 (e), and 7 (h) of resolution 229
   or in the commission, planning, ordering, aiding, abetting or otherwise assistance
   of attacks in the DRC with improvised explosive devices”.'
 address:
-- street: 
-  city: 
-  state: 
+- street:
+  city:
+  state:
   country: Democratic Republic of the Congo
-  zip: 
+  zip:
 documents:
 - type: Passport
   number: AB850901

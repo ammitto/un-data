@@ -10,7 +10,7 @@ names:
 - Shihab Muhajer
 - Shihab Mohajir
 - Shihab Mahajar
-designation: 
+designation:
 source: un-data
 ref_number: QDi.431
 ref_type: Al-Qaida
@@ -21,16 +21,16 @@ remark: 'Leader of the Islamic State of Iraq and the Levant - Khorasan (ISIL - K
   name: Abdul Ghaffar. Photo is available for inclusion in the INTERPOL-UN Security
   Council Special Notice.  INTERPOL-UN Security Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals'
 address:
-- street: 
-  city: 
-  state: 
+- street:
+  city:
+  state:
   country: Afghanistan
-  zip: 
-- street: 
-  city: 
+  zip:
+- street:
+  city:
   state: Kunduz
   country: Afghanistan
-  zip: 
+  zip:
 documents:
 - type: Passport
   number: O1503093

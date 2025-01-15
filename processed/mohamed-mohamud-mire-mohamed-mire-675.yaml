@@ -8,7 +8,7 @@ source: un-data
 ref_number: SOi.024
 ref_type: Somalia
 country: Somalia
-birthdate: 
+birthdate:
 remark: 'Gender: Male. Listed pursuant to paragraph 26 of resolution 2662 (2022):
   (a) having engaged in, or provided support for, acts that threatened the peace,
   security or stability of Somalia, including acts that threatened the peace and reconciliation
@@ -17,18 +17,18 @@ remark: 'Gender: Male. Listed pursuant to paragraph 26 of resolution 2662 (2022)
   or perpetrating of acts or activities by, in conjunction with, under the name of,
   on behalf of, or in support of Al-Shabaab.'
 address:
-- street: 
-  city: 
+- street:
+  city:
   state: " Jilib"
   country: Somalia
-  zip: 
-- street: 
-  city: 
+  zip:
+- street:
+  city:
   state: Qunyo Barrow
   country: Somalia
-  zip: 
+  zip:
 documents:
-- type: 
-  number: 
-  country: 
-  note: 
+- type:
+  number:
+  country:
+  note:

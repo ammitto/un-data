@@ -11,21 +11,21 @@ country: Democratic People's Republic of Korea
 birthdate: '1966-11-07'
 remark: Served as the Tanchon Commercial Bank representative in Vietnam.
 address:
-- street: 
-  city: 
-  state: 
+- street:
+  city:
+  state:
   country: ''
-  zip: 
+  zip:
 documents:
 - type: Passport
   number: '199421147'
-  country: 
+  country:
   note: Expired 29 Dec. 2014
 - type: Passport
   number: 381110042 (Expired 25 Jan. 2016)
-  country: 
-  note: 
+  country:
+  note:
 - type: Passport
   number: 563210184 (Expires 18 Jun. 2018)
-  country: 
-  note: 
+  country:
+  note:

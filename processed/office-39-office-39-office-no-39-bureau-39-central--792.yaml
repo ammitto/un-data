@@ -8,28 +8,28 @@ names:
 - Central Committee Bureau 39
 - Third Floor
 - Division 39
-designation: 
+designation:
 source: un-data
 ref_number: KPe.030
 ref_type: DPRK
-country: 
-birthdate: 
+country:
+birthdate:
 remark: DPRK government entity
 address:
 - street: Second KWP Government Building (Korean – Ch’o’ngsa, Urban Town (Korean-Dong),
     Chung Ward, Pyongyang
-  city: 
-  state: 
+  city:
+  state:
   country: Democratic People's Republic of Korea
-  zip: 
+  zip:
 - street: " Chung-Guyok (Central District), Sosong Street, Kyongrim-Dong, Pyongyang"
-  city: 
-  state: 
+  city:
+  state:
   country: Democratic People's Republic of Korea
-  zip: 
+  zip:
 - street: Changwang Street, Pyongyang
-  city: 
-  state: 
+  city:
+  state:
   country: Democratic People's Republic of Korea
-  zip: 
+  zip:
 documents: []

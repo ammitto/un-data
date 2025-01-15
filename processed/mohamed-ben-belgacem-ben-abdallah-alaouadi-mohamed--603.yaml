@@ -4,7 +4,7 @@ names:
 - MOHAMED BEN BELGACEM BEN ABDALLAH AL-AOUADI
 - Mohamed Ben Belkacem Aouadi
 - Fathi Hannachi
-designation: 
+designation:
 source: un-data
 ref_number: QDi.060
 ref_type: Al-Qaida
@@ -21,21 +21,21 @@ remark: Head of security wing of Ansar al-Shari'a in Tunisia (AAS-T) (QDe.143). 
 address:
 - street: 50th Street, Number 23, Zehrouni
   city: Tunis
-  state: 
+  state:
   country: Tunisia
-  zip: 
+  zip:
 documents:
 - type: Passport
-  number: 
-  country: 
+  number:
+  country:
   note: |-
     Tunisian passport number L 191609 issued on 28 Feb. 1996, expired on 27
     Feb. 2001
 - type: National Identification Number
-  number: 
-  country: 
+  number:
+  country:
   note: 04643632 issued on 18 Jun. 1999
 - type: National Identification Number
-  number: 
-  country: 
+  number:
+  country:
   note: 'Italian Fiscal Code: DAOMMD74T11Z352Z'

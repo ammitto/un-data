@@ -2,19 +2,19 @@
 entity_type: organization
 names:
 - KOREA PUGANG TRADING CORPORATION
-designation: 
+designation:
 source: un-data
 ref_number: KPe.038
 ref_type: DPRK
-country: 
-birthdate: 
+country:
+birthdate:
 remark: Korea Pugang Trading Corporation is owned by the Korea Ryonbong General Corporation,
   DPRK’s defense conglomerate specializing in acquisition for DPRK defense industries
   and support to Pyongyang’s military related sales.
 address:
 - street: Rakwon-dong, Pothonggang District
   city: Pyongyang
-  state: 
+  state:
   country: Democratic People's Republic of Korea
-  zip: 
+  zip:
 documents: []

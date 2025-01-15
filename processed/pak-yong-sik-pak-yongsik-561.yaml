@@ -8,20 +8,20 @@ source: un-data
 ref_number: KPi.063
 ref_type: DPRK
 country: Democratic People's Republic of Korea
-birthdate: 
+birthdate:
 remark: |-
   Pak Yong Sik is a member of the Workers’ Party of Korea Central Military
                   Commission, which is responsible for the development and implementation of the
                   Workers’ Party of Korea military policies, commands and controls the DPRK’s
                   military, and helps direct the country’s military defense industries.
 address:
-- street: 
-  city: 
-  state: 
+- street:
+  city:
+  state:
   country: Democratic People's Republic of Korea
-  zip: 
+  zip:
 documents:
-- type: 
-  number: 
-  country: 
-  note: 
+- type:
+  number:
+  country:
+  note:

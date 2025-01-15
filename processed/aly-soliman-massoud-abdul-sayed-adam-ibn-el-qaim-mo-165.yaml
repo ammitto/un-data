@@ -5,12 +5,12 @@ names:
 - Adam
 - Ibn El Qaim
 - Mohamed Osman
-designation: 
+designation:
 source: un-data
 ref_number: QDi.229
 ref_type: Al-Qaida
 country: Libya
-birthdate: 
+birthdate:
 remark: Member of Libyan Islamic Fighting Group (QDe.011). Review pursuant to Security
   Council resolution 1822 (2008) was concluded on 24 Nov. 2009. Review pursuant to
   Security Council resolution 2253 (2015) was concluded on 21 Feb. 2019. Review pursuant
@@ -19,11 +19,11 @@ remark: Member of Libyan Islamic Fighting Group (QDe.011). Review pursuant to Se
 address:
 - street: Ghout El Shamal
   city: Tripoli
-  state: 
+  state:
   country: Libya
-  zip: 
+  zip:
 documents:
 - type: Passport
   number: Libyan Passport No. 96/184442
   country: Libya
-  note: 
+  note:

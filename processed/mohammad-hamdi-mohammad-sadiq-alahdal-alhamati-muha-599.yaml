@@ -7,7 +7,7 @@ names:
 - Mohamed Mohamed Abdullah Al-Ahdal
 - Abu Asim Al-Makki
 - Ahmed
-designation: 
+designation:
 source: un-data
 ref_number: QDi.020
 ref_type: Al-Qaida
@@ -23,9 +23,9 @@ remark: |-
 address:
 - street: Jamal street, Al-Dahima alley
   city: Al-Hudaydah
-  state: 
+  state:
   country: Yemen
-  zip: 
+  zip:
 documents:
 - type: Passport
   number: '541939'
@@ -33,5 +33,5 @@ documents:
   note: in the name of Muhammad Muhammad Abdullah Al-Ahdal
 - type: National Identification Number
   number: '216040'
-  country: 
-  note: 
+  country:
+  note:

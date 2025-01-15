@@ -5,7 +5,7 @@ names:
 - Abu Ismail
 - Abou Ismail el Jendoubi
 - Abou Ismail Al Djoundoubi
-designation: 
+designation:
 source: un-data
 ref_number: QDi.074
 ref_type: Al-Qaida
@@ -18,9 +18,9 @@ remark: |-
 address:
 - street: Rue Léon Théodore Number 107/1, 1090 Jette
   city: Brussels
-  state: 
+  state:
   country: Belgium
-  zip: 
+  zip:
 documents:
 - type: Passport
   number: E590976

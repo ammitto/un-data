@@ -2,18 +2,18 @@
 entity_type: organization
 names:
 - KOREA UNITED DEVELOPMENT BANK
-designation: 
+designation:
 source: un-data
 ref_number: KPe.033
 ref_type: DPRK
-country: 
-birthdate: 
+country:
+birthdate:
 remark: 'Korea United Development Bank operates in the financial services industry
   of the DPRK economy. SWIFT/BIC: KUDBKPPY'
 address:
-- street: 
+- street:
   city: Pyongyang
-  state: 
+  state:
   country: Democratic People's Republic of Korea
-  zip: 
+  zip:
 documents: []

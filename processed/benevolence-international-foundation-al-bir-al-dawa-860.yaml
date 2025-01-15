@@ -6,12 +6,12 @@ names:
 - BIF
 - BIF-USA
 - Mezhdunarodnyj Blagotvoritel'nyl Fond
-designation: 
+designation:
 source: un-data
 ref_number: QDe.093
 ref_type: Al-Qaida
-country: 
-birthdate: 
+country:
+birthdate:
 remark: 'Reportedly defunct. No longer operates in Bosnia and Herzegovina. Employer
   Identification Number (United States of America): 36-3823186.  Review pursuant to
   Security Council resolution 1822 (2008) was concluded on 22 Jun. 2010. Review pursuant
@@ -41,22 +41,22 @@ address:
   zip: '07102'
 - street: P.O. Box 1937
   city: Khartoum
-  state: 
+  state:
   country: Sudan
-  zip: 
-- street: 
-  city: 
-  state: 
+  zip:
+- street:
+  city:
+  state:
   country: Bangladesh
-  zip: 
-- street: 
-  city: 
-  state: 
-  country: 
-  zip: 
-- street: 
-  city: 
-  state: 
+  zip:
+- street:
+  city:
+  state:
+  country:
+  zip:
+- street:
+  city:
+  state:
   country: Yemen
-  zip: 
+  zip:
 documents: []

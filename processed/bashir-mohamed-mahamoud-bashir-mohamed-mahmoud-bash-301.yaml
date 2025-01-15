@@ -11,21 +11,21 @@ names:
 - Gure Gap
 - '"Abu Muscab"'
 - '"Qorgab"'
-designation: 
+designation:
 source: un-data
 ref_number: SOi.006
 ref_type: Somalia
 country: Somalia
-birthdate: 
+birthdate:
 remark: INTERPOL-UN Security Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals
 address:
-- street: 
+- street:
   city: Mogadishu
-  state: 
+  state:
   country: Somalia
-  zip: 
+  zip:
 documents:
-- type: 
-  number: 
-  country: 
-  note: 
+- type:
+  number:
+  country:
+  note:

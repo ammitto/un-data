@@ -5,29 +5,29 @@ names:
   COMPAGNIE AERIENNE DES GRANDS LACS (CAGL) ; GREAT LAKES BUSINESS
   COMPANY (GLBC)
 - CAGL
-designation: 
+designation:
 source: un-data
 ref_number: CDe.003
 ref_type: DRC
-country: 
-birthdate: 
+country:
+birthdate:
 remark: |-
   As of December 2008, GLBC no longer had any operational aircraft,
   although several aircraft continued flying in 2008 despite UN sanctions. INTERPOL-UN Security Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals
 address:
 - street: Avenue Président Mobutu
   city: Goma
-  state: 
+  state:
   country: Democratic Republic of the Congo
-  zip: 
-- street: 
+  zip:
+- street:
   city: Gisenyi
-  state: 
+  state:
   country: Rwanda
-  zip: 
+  zip:
 - street: PO BOX 315
   city: Goma
-  state: 
+  state:
   country: Democratic Republic of the Congo
-  zip: 
+  zip:
 documents: []

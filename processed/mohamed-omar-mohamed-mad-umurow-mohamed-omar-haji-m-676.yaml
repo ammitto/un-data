@@ -11,8 +11,8 @@ designation: 'Leader (Wali) of the Al-Shabaab group in Diinsor '
 source: un-data
 ref_number: SOi.025
 ref_type: Somalia
-country: 
-birthdate: 
+country:
+birthdate:
 remark: 'Gender: Male. Listed pursuant to paragraph 26(b) of resolution 2662 (2022):
   (i) participating in the financing, planning, facilitating, preparing, or perpetrating
   of acts or activities by, in conjunction with, under the name of, on behalf of,
@@ -21,17 +21,17 @@ remark: 'Gender: Male. Listed pursuant to paragraph 26(b) of resolution 2662 (20
   thereof.'
 address:
 - street: Diinsor District, Bay Region
-  city: 
-  state: 
+  city:
+  state:
   country: Somalia
-  zip: 
+  zip:
 - street: Buur Hakaba District, Bay Region
-  city: 
-  state: 
+  city:
+  state:
   country: Somalia
-  zip: 
+  zip:
 documents:
-- type: 
-  number: 
-  country: 
-  note: 
+- type:
+  number:
+  country:
+  note:

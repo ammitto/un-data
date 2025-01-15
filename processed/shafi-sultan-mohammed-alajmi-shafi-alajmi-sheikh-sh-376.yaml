@@ -5,7 +5,7 @@ names:
 - Shafi al-Ajmi
 - Sheikh Shafi al-Ajmi
 - Shaykh Abu-Sultan
-designation: 
+designation:
 source: un-data
 ref_number: QDi.338
 ref_type: Al-Qaida
@@ -17,11 +17,11 @@ remark: |-
 address:
 - street: Area 3, Street 327, Building 41
   city: Al-Uqaylah
-  state: 
+  state:
   country: Kuwait
-  zip: 
+  zip:
 documents:
 - type: Passport
   number: '0216155930'
-  country: 
-  note: 
+  country:
+  note:

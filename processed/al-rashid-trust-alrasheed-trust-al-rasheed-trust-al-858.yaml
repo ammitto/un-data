@@ -12,12 +12,12 @@ names:
 - Al-Ameen Trust
 - Al Madina Trust
 - Al-Madina Trust
-designation: 
+designation:
 source: un-data
 ref_number: QDe.005
 ref_type: Al-Qaida
-country: 
-birthdate: 
+country:
+birthdate:
 remark: 'Reportedly defunct. Headquarters were in Pakistan. Operations in Afghanistan:
   Herat Jalalabad, Kabul, Kandahar, Mazar Sherif. Also operations in Kosovo, Chechnya.
   Involved in the financing of Al-Qaida and the Taliban. Until 21 Oct. 2008, this
@@ -34,57 +34,57 @@ remark: 'Reportedly defunct. Headquarters were in Pakistan. Operations in Afghan
 address:
 - street: Kitas Ghar, Nazimabad 4, Dahgel-Iftah
   city: Karachi
-  state: 
+  state:
   country: Pakistan
-  zip: 
+  zip:
 - street: Jamia Maajid, Sulalman Park, Melgium Pura
   city: Lahore
-  state: 
+  state:
   country: Pakistan
-  zip: 
-- street: 
-  city: 
-  state: 
-  country: 
-  zip: 
-- street: 
-  city: 
-  state: 
-  country: 
-  zip: 
-- street: 
-  city: 
-  state: 
-  country: 
-  zip: 
-- street: 
-  city: 
-  state: 
-  country: 
-  zip: 
-- street: 
-  city: 
-  state: 
-  country: 
-  zip: 
-- street: 
-  city: 
-  state: 
-  country: 
-  zip: 
-- street: 
-  city: 
-  state: 
-  country: 
-  zip: 
-- street: 
-  city: 
-  state: 
-  country: 
-  zip: 
-- street: 
-  city: 
-  state: 
-  country: 
-  zip: 
+  zip:
+- street:
+  city:
+  state:
+  country:
+  zip:
+- street:
+  city:
+  state:
+  country:
+  zip:
+- street:
+  city:
+  state:
+  country:
+  zip:
+- street:
+  city:
+  state:
+  country:
+  zip:
+- street:
+  city:
+  state:
+  country:
+  zip:
+- street:
+  city:
+  state:
+  country:
+  zip:
+- street:
+  city:
+  state:
+  country:
+  zip:
+- street:
+  city:
+  state:
+  country:
+  zip:
+- street:
+  city:
+  state:
+  country:
+  zip:
 documents: []

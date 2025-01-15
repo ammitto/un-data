@@ -13,7 +13,7 @@ source: un-data
 ref_number: CDi.036
 ref_type: DRC
 country: Uganda
-birthdate: 
+birthdate:
 remark: Longtime member of the ADF (CDe.001), Baluku used to be the second in command
   to ADF founder Jamil Mukulu (CDi.015) until he took over after FARDC military operation
   Sukola I in 2014.
@@ -22,9 +22,9 @@ address:
   city: Beni territory
   state: North Kivu
   country: Democratic Republic of the Congo
-  zip: 
+  zip:
 documents:
-- type: 
-  number: 
-  country: 
-  note: 
+- type:
+  number:
+  country:
+  note:

@@ -4,7 +4,7 @@ names:
 - SAMI BEN KHAMIS BEN SALEH ELSSEID
 - Omar El Mouhajer
 - Saber
-designation: 
+designation:
 source: un-data
 ref_number: QDi.064
 ref_type: Al-Qaida
@@ -17,9 +17,9 @@ remark: |-
 address:
 - street: Ibn Al-Haythman Street, Number 6, Manubah
   city: Tunis
-  state: 
+  state:
   country: Tunisia
-  zip: 
+  zip:
 documents:
 - type: Passport
   number: K929139
@@ -27,9 +27,9 @@ documents:
   note: expired on 13 Feb. 2000
 - type: National Identification Number
   number: '00319547'
-  country: 
-  note: 
+  country:
+  note:
 - type: National Identification Number
   number: SSDSBN68B10Z352F
-  country: 
+  country:
   note: Italian Fiscal Code

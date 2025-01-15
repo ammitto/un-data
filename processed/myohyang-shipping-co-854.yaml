@@ -2,18 +2,18 @@
 entity_type: organization
 names:
 - MYOHYANG SHIPPING CO
-designation: 
+designation:
 source: un-data
 ref_number: KPe.068
 ref_type: DPRK
-country: 
-birthdate: 
+country:
+birthdate:
 remark: 'Ship manager of DPRK oil products tanker YU SON, which is believed to have
   been involved in ship-to-ship transfer operations for oil. IMO number: 5988369.'
 address:
 - street: Kumsong 3-dong, Mangyongdae-guyok
   city: Pyongyang
-  state: 
+  state:
   country: Democratic People's Republic of Korea
-  zip: 
+  zip:
 documents: []

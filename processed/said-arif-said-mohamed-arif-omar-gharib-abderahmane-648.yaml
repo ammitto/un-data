@@ -12,7 +12,7 @@ names:
 - ABDULLAH
 - ABDALLAH
 - ABU ABDULLAH
-designation: 
+designation:
 source: un-data
 ref_number: QDi.323
 ref_type: Al-Qaida
@@ -29,17 +29,17 @@ remark: 'Reportedly killed in an air strike in Syria on 25 May 2015. A veteran m
   Security Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals'
 address:
 - street: " 78 Boulevard Bezghoud Mustapha, Oran"
-  city: 
-  state: 
+  city:
+  state:
   country: Algeria
-  zip: 
+  zip:
 - street: No. 12 Rue Lyonnais, Ain Turk, Oran
-  city: 
-  state: 
+  city:
+  state:
   country: Algeria
-  zip: 
+  zip:
 documents:
-- type: 
-  number: 
-  country: 
-  note: 
+- type:
+  number:
+  country:
+  note:

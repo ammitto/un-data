@@ -3,23 +3,23 @@ entity_type: organization
 names:
 - CHONMYONG SHIPPING CO
 - CHON MYONG SHIPPING COMPANY LIMITED
-designation: 
+designation:
 source: un-data
 ref_number: KPe.056
 ref_type: DPRK
-country: 
-birthdate: 
+country:
+birthdate:
 remark: 'Registered owner of CHON MYONG 1, a DPRK-flagged vessel that conducted ship-to-ship
   transfer of fuel in late December 2017. IMO number: 5571322.'
 address:
 - street: Kalrimgil 2-dong, Mangyongdae-guyok
-  city: 
+  city:
   state: Pyongyang
   country: Democratic People's Republic of Korea
-  zip: 
+  zip:
 - street: Saemaul 2-dong, Pyongchon-guyok
-  city: 
+  city:
   state: Pyongyang
   country: Democratic People's Republic of Korea
-  zip: 
+  zip:
 documents: []

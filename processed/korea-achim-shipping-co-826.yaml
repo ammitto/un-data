@@ -2,12 +2,12 @@
 entity_type: organization
 names:
 - KOREA ACHIM SHIPPING CO
-designation: 
+designation:
 source: un-data
 ref_number: KPe.061
 ref_type: DPRK
-country: 
-birthdate: 
+country:
+birthdate:
 remark: 'Registered owner of DPRK tanker CHON MA SAN. DPRK-flagged CHON MA SAN prepared
   for likely ship-to-ship transfer operations in late January 2018. The master of
   the DPRK-flagged motor tanker YU JONG 2 reported on 18 November 2017 to an unidentified
@@ -19,8 +19,8 @@ remark: 'Registered owner of DPRK tanker CHON MA SAN. DPRK-flagged CHON MA SAN p
   a ship-to-ship transfer operation. IMO number: 5936312.'
 address:
 - street: Sochang-dong, Chung-guyok
-  city: 
+  city:
   state: Pyongyang
   country: Democratic People's Republic of Korea
-  zip: 
+  zip:
 documents: []

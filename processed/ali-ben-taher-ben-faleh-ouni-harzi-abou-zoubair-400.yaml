@@ -3,7 +3,7 @@ entity_type: person
 names:
 - ALI BEN TAHER BEN FALEH OUNI HARZI
 - Abou Zoubair
-designation: 
+designation:
 source: un-data
 ref_number: QDi.353
 ref_type: Al-Qaida
@@ -24,24 +24,24 @@ remark: 'Physical description: eye colour: brown; height: 171cm. Photo available
 address:
 - street: 18 Mediterranean Street
   city: Ariana
-  state: 
+  state:
   country: Tunisia
-  zip: 
-- street: 
-  city: 
-  state: 
+  zip:
+- street:
+  city:
+  state:
   country: Syrian Arab Republic
-  zip: 
-- street: 
-  city: 
-  state: 
+  zip:
+- street:
+  city:
+  state:
   country: Iraq
-  zip: 
-- street: 
-  city: 
-  state: 
+  zip:
+- street:
+  city:
+  state:
   country: Libya
-  zip: 
+  zip:
 documents:
 - type: Passport
   number: W342058
@@ -50,4 +50,4 @@ documents:
 - type: National Identification Number
   number: '08705184'
   country: Tunisia
-  note: 
+  note:

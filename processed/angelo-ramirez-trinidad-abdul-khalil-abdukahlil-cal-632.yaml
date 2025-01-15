@@ -8,7 +8,7 @@ names:
 - Kalib Trinidad
 - Abu Khalil
 - Anis
-designation: 
+designation:
 source: un-data
 ref_number: QDi.241
 ref_type: Al-Qaida
@@ -23,11 +23,11 @@ remark: |-
 address:
 - street: 3111 Ma. Bautista
   city: Punta, Santa Ana, Manila
-  state: 
+  state:
   country: Philippines
-  zip: 
+  zip:
 documents:
-- type: 
-  number: 
-  country: 
-  note: 
+- type:
+  number:
+  country:
+  note:

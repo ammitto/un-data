@@ -17,7 +17,7 @@ names:
 - BEYNAH, Yasin
 - BINAH, Yassin
 - CALI, Yasiin Baynax
-designation: 
+designation:
 source: un-data
 ref_number: SOi.001
 ref_type: Somalia
@@ -25,18 +25,18 @@ country: Somalia
 birthdate: '1965-12-24'
 remark: INTERPOL-UN Security Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals
 address:
-- street: 
+- street:
   city: Rinkeby, Stockholm
-  state: 
+  state:
   country: Sweden
-  zip: 
-- street: 
+  zip:
+- street:
   city: Mogadishu
-  state: 
+  state:
   country: Somalia
-  zip: 
+  zip:
 documents:
-- type: 
-  number: 
-  country: 
-  note: 
+- type:
+  number:
+  country:
+  note:

@@ -3,23 +3,23 @@ entity_type: person
 names:
 - ABDULMALIK AL-HOUTHI
 - Abdulmalik al-Huthi
-designation: 
+designation:
 source: un-data
 ref_number: YEi.004
 ref_type: Yemen
-country: 
-birthdate: 
+country:
+birthdate:
 remark: |-
   Leader of Yemen's Houthi Movement. Has engaged in acts that threaten the
   peace, security, or stability of Yemen.
 address:
-- street: 
-  city: 
-  state: 
+- street:
+  city:
+  state:
   country: ''
-  zip: 
+  zip:
 documents:
-- type: 
-  number: 
-  country: 
-  note: 
+- type:
+  number:
+  country:
+  note:

@@ -6,46 +6,46 @@ names:
 - Muhammad Yunis Ahmed
 - Muhammad Yunis Ahmad Al-Badrani
 - Muhammad Yunis Ahmed Al-Moali
-designation: 
+designation:
 source: un-data
 ref_number: IQi.080
 ref_type: Iraq
 country: Iraq
-birthdate: 
+birthdate:
 remark: ''
 address:
 - street: Al-Dawar Street
   city: Bludan
-  state: 
+  state:
   country: Syrian Arab Republic
-  zip: 
-- street: 
+  zip:
+- street:
   city: Damascus
-  state: 
+  state:
   country: Syrian Arab Republic
-  zip: 
-- street: 
+  zip:
+- street:
   city: Mosul
-  state: 
+  state:
   country: Iraq
-  zip: 
-- street: 
+  zip:
+- street:
   city: Wadi Al-Hawi
-  state: 
+  state:
   country: Iraq
-  zip: 
-- street: 
+  zip:
+- street:
   city: Dubai
-  state: 
+  state:
   country: United Arab Emirates
-  zip: 
-- street: 
+  zip:
+- street:
   city: Al-Hasaka
-  state: 
+  state:
   country: Syrian Arab Republic
-  zip: 
+  zip:
 documents:
-- type: 
-  number: 
-  country: 
-  note: 
+- type:
+  number:
+  country:
+  note:

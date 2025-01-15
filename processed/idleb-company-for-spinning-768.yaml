@@ -2,17 +2,17 @@
 entity_type: organization
 names:
 - IDLEB COMPANY FOR SPINNING
-designation: 
+designation:
 source: un-data
 ref_number: IQe.049
 ref_type: Iraq
-country: 
-birthdate: 
+country:
+birthdate:
 remark: ''
 address:
 - street: P.O. Box 9
   city: Idleb
-  state: 
+  state:
   country: Iraq
-  zip: 
+  zip:
 documents: []

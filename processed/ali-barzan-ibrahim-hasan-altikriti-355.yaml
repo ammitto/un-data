@@ -2,7 +2,7 @@
 entity_type: person
 names:
 - ALI BARZAN IBRAHIM HASAN AL-TIKRITI
-designation: 
+designation:
 source: un-data
 ref_number: IQi.064
 ref_type: Iraq
@@ -10,13 +10,13 @@ country: Iraq
 birthdate: '1981-04-18'
 remark: ''
 address:
-- street: 
+- street:
   city: Geneva
-  state: 
+  state:
   country: Switzerland
-  zip: 
+  zip:
 documents:
-- type: 
-  number: 
-  country: 
-  note: 
+- type:
+  number:
+  country:
+  note:

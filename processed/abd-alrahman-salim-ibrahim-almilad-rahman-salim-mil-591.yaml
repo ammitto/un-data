@@ -15,11 +15,11 @@ birthdate: '1986-07-27'
 remark: Listed pursuant to paragraphs 15 and 17 of resolution 1970 (Travel Ban, Asset
   Freeze),  1) Name of mother Huriyah Al-A’ib; and 2) Military ID is 36479
 address:
-- street: 
+- street:
   city: Zawiya
-  state: 
+  state:
   country: Libya
-  zip: 
+  zip:
 documents:
 - type: Passport
   number: G52FYPRL
@@ -28,4 +28,4 @@ documents:
 - type: National Identification Number
   number: '2519910'
   country: Libya
-  note: 
+  note:

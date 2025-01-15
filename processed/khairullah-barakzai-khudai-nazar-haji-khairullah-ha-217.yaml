@@ -7,12 +7,12 @@ names:
 - Haji Kheirullah
 - Haji Karimullah
 - Haji Khair Mohammad
-designation: 
+designation:
 source: un-data
 ref_number: TAi.163
 ref_type: Taliban
-country: 
-birthdate: 
+country:
+birthdate:
 remark: |-
   Co-owner of Haji Khairullah Haji Sattar Money Exchange (TAe.010) and
   associated also with Abdul Satar Abdul Manan (TAi.162). Belongs to Barakzai tribe.
@@ -23,13 +23,13 @@ address:
   city: Quetta
   state: Baluchistan Province
   country: Pakistan
-  zip: 
+  zip:
 documents:
 - type: Passport
   number: BP4199631
-  country: 
+  country:
   note: expires on 25 Jun. 2014, officially cancelled as of 2013
 - type: National Identification Number
   number: '5440005229635'
-  country: 
+  country:
   note: officially cancelled as of 2013

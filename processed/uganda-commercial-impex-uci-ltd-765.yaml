@@ -2,12 +2,12 @@
 entity_type: organization
 names:
 - UGANDA COMMERCIAL IMPEX (UCI) LTD
-designation: 
+designation:
 source: un-data
 ref_number: CDe.009
 ref_type: DRC
-country: 
-birthdate: 
+country:
+birthdate:
 remark: |-
   Gold export company. (Directors Mr. Jamnadas V. LODHIA – known as
   “Chuni”- and his sons Mr. Kunal LODHIA and Jitendra J. LODHIA). In January 2011, Ugandan
@@ -18,12 +18,12 @@ remark: |-
 address:
 - street: Plot 22, Kanjokya Street, Kamwokya
   city: Kampala
-  state: 
+  state:
   country: Uganda
-  zip: 
+  zip:
 - street: PO BOX 22709
   city: Kampala
-  state: 
+  state:
   country: Uganda
-  zip: 
+  zip:
 documents: []

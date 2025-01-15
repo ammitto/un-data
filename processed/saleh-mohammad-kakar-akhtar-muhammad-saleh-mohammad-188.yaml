@@ -3,12 +3,12 @@ entity_type: person
 names:
 - SALEH MOHAMMAD KAKAR AKHTAR MUHAMMAD
 - Saleh Mohammad
-designation: 
+designation:
 source: un-data
 ref_number: TAi.149
 ref_type: Taliban
 country: Afghanistan
-birthdate: 
+birthdate:
 remark: |-
   Has run an organized smuggling network in Kandahar and Helmand provinces,
   Afghanistan. Previously operated heroin processing laboratories in Band-e Temur,
@@ -17,13 +17,13 @@ remark: |-
   February 2014. Linked by marriage to Mullah Ubaidullah Akhund Yar Mohammad Akhund
   (TAi.022). Belongs to Kakar tribe. INTERPOL-UN Security Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals
 address:
-- street: 
+- street:
   city: Daman District
   state: Kandahar Province
   country: Afghanistan
-  zip: 
+  zip:
 documents:
-- type: 
-  number: 
-  country: 
-  note: 
+- type:
+  number:
+  country:
+  note:

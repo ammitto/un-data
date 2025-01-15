@@ -16,13 +16,13 @@ birthdate: '1985-12-02'
 remark: Listed pursuant to paragraphs 15 and 17 of resolution 1970 (Travel Ban, Asset
   Freeze)
 address:
-- street: 
+- street:
   city: Zawiya
-  state: 
+  state:
   country: Libya
-  zip: 
+  zip:
 documents:
 - type: Passport
   number: C17HLRL3
-  country: 
-  note: 
+  country:
+  note:

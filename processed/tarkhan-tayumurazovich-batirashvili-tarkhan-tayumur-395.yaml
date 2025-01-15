@@ -14,7 +14,7 @@ names:
 - Umar the Chechen
 - Abu Umar
 - Abu Hudhayfah
-designation: 
+designation:
 source: un-data
 ref_number: QDi.345
 ref_type: Al-Qaida
@@ -27,17 +27,17 @@ remark: |-
   attacks in northern Syria.
   Review pursuant to Security Council resolution 2368 (2017) was concluded on 24 November 2020. INTERPOL-UN Security Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals
 address:
-- street: 
-  city: 
-  state: 
+- street:
+  city:
+  state:
   country: Syrian Arab Republic
-  zip: 
+  zip:
 documents:
 - type: Passport
   number: '09AL14455'
-  country: 
+  country:
   note: expires on 26 Jun. 2019
 - type: National Identification Number
   number: '08001007864'
-  country: 
-  note: 
+  country:
+  note:

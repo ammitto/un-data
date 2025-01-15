@@ -5,7 +5,7 @@ names:
 - Gamel Mohamed
 - Abd el Wanis Abd Gawwad Abd el Latif Bahaa
 - Mahmoud Hamid
-designation: 
+designation:
 source: un-data
 ref_number: QDi.143
 ref_type: Al-Qaida
@@ -19,13 +19,13 @@ remark: In prison in Italy until 6 February 2026. Review pursuant to Security Co
 address:
 - street: Corso XXII Marzo Number 39
   city: Milan
-  state: 
+  state:
   country: Italy
-  zip: 
+  zip:
 documents:
 - type: Passport
-  number: 
-  country: 
+  number:
+  country:
   note: |-
     Tunisian passport number L723315, issued on 5 May 1998, expired on 4 May
     2003

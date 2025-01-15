@@ -2,27 +2,27 @@
 entity_type: organization
 names:
 - AL WASEL AND BABEL GENERAL TRADING LLC
-designation: 
+designation:
 source: un-data
 ref_number: IQe.197
 ref_type: Iraq
-country: 
-birthdate: 
+country:
+birthdate:
 remark: ''
 address:
 - street: Ibrahim Saeed Lootah Building, Al Ramool Street, P.O. Box 10631 & 638, Rashidiya
   city: Dubai
   state: Dubai
   country: United Arab Emirates
-  zip: 
+  zip:
 - street: Lootah Building, Airport Road, near Aviation Club, Rashidya
   city: Dubai
-  state: 
+  state:
   country: United Arab Emirates
-  zip: 
+  zip:
 - street: Villa in the Harasiyah area
   city: Baghdad
-  state: 
+  state:
   country: Iraq
-  zip: 
+  zip:
 documents: []

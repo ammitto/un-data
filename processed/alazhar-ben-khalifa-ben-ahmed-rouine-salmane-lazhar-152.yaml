@@ -4,7 +4,7 @@ names:
 - AL-AZHAR BEN KHALIFA BEN AHMED ROUINE
 - Salmane
 - Lazhar
-designation: 
+designation:
 source: un-data
 ref_number: QDi.150
 ref_type: Al-Qaida
@@ -22,9 +22,9 @@ remark: |-
 address:
 - street: No.2 89th Street Zehrouni
   city: Tunis
-  state: 
+  state:
   country: Tunisia
-  zip: 
+  zip:
 documents:
 - type: Passport
   number: P182583

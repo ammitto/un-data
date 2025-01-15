@@ -10,7 +10,7 @@ names:
 - Muhammad Ricky Ardhan bin Abu Jibril
 - Muhammad Yunus
 - Heris Syah
-designation: 
+designation:
 source: un-data
 ref_number: QDi.295
 ref_type: Al-Qaida
@@ -25,20 +25,20 @@ remark: |-
 address:
 - street: Jalan M. Saidi RT 010 RW 001 Pesanggrahan, South Petukangan
   city: South Jakarta
-  state: 
+  state:
   country: Indonesia
-  zip: 
+  zip:
 - street: Jalan Nakula of Witana Harja Complex Block C
   city: Pamulang
   state: Banten
   country: Indonesia
-  zip: 
+  zip:
 documents:
 - type: National Identification Number
   number: '3219222002.2181558'
-  country: 
-  note: 
+  country:
+  note:
 - type: National Identification Number
   number: '2181558'
-  country: 
-  note: 
+  country:
+  note:

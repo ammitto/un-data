@@ -5,7 +5,7 @@ names:
 - Abdul Rosyid Ridho Bashir
 - Rashid Rida Ba’aysir
 - Rashid Rida Bashir
-designation: 
+designation:
 source: un-data
 ref_number: QDi.305
 ref_type: Al-Qaida
@@ -21,11 +21,11 @@ address:
   city: Sumber Agung Magetan
   state: East Java
   country: Indonesia
-  zip: 
+  zip:
 documents:
 - type: National Identification Number
-  number: 
-  country: 
+  number:
+  country:
   note: |-
     Indonesian National Identity Card number 1127083101740003 under name
     Abdul Rosyid Ridho Ba’asyir

@@ -9,16 +9,16 @@ source: un-data
 ref_number: KPi.051
 ref_type: DPRK
 country: Democratic People's Republic of Korea
-birthdate: 
+birthdate:
 remark: Died on 4 February 2021.
 address:
-- street: 
-  city: 
-  state: 
+- street:
+  city:
+  state:
   country: ''
-  zip: 
+  zip:
 documents:
-- type: 
-  number: 
-  country: 
-  note: 
+- type:
+  number:
+  country:
+  note:

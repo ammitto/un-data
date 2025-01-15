@@ -6,7 +6,7 @@ names:
 - Muhsin Fadil Ayid Ashur al Fadhli
 - Abu Majid Samiyah
 - Abu Samia
-designation: 
+designation:
 source: un-data
 ref_number: QDi.184
 ref_type: Al-Qaida
@@ -22,12 +22,12 @@ address:
   city: Kuwait City
   state: Al-Riqqa area
   country: Kuwait
-  zip: 
+  zip:
 documents:
 - type: Passport
   number: '106261543'
   country: Kuwait
-  note: 
+  note:
 - type: Passport
   number: '1420529'
   country: Kuwait

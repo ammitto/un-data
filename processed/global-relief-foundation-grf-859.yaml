@@ -2,12 +2,12 @@
 entity_type: organization
 names:
 - GLOBAL RELIEF FOUNDATION (GRF)
-designation: 
+designation:
 source: un-data
 ref_number: QDe.091
 ref_type: Al-Qaida
-country: 
-birthdate: 
+country:
+birthdate:
 remark: |-
   Other Foreign Locations: Afghanistan, Bangladesh, Eritrea, Ethiopia,
   India, Iraq, West Bank and Gaza, Somalia and Syria. Federal Employer Identification
@@ -16,12 +16,12 @@ remark: |-
 address:
 - street: 9935 South 76th Avenue, Unit 1, Bridgeview
   city: Illinois
-  state: 
+  state:
   country: United States of America
   zip: '60455'
 - street: P.O. Box 1406, Bridgeview
   city: Illinois
-  state: 
+  state:
   country: United States of America
   zip: '60455'
 documents: []

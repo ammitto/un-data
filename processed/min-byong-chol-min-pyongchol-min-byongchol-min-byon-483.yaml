@@ -15,13 +15,13 @@ country: Democratic People's Republic of Korea
 birthdate: '1948-08-10'
 remark: 'Gender: male'
 address:
-- street: 
-  city: 
-  state: 
+- street:
+  city:
+  state:
   country: Democratic People's Republic of Korea
-  zip: 
+  zip:
 documents:
-- type: 
-  number: 
-  country: 
-  note: 
+- type:
+  number:
+  country:
+  note:

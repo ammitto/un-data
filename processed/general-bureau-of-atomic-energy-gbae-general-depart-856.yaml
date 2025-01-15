@@ -3,12 +3,12 @@ entity_type: organization
 names:
 - GENERAL BUREAU OF ATOMIC ENERGY (GBAE)
 - General Department of Atomic Energy (GDAE)
-designation: 
+designation:
 source: un-data
 ref_number: KPe.007
 ref_type: DPRK
-country: 
-birthdate: 
+country:
+birthdate:
 remark: The GBAE is responsible for the DPRK’s nuclear program, which includes the
   Yongbyon Nuclear Research Center and its 5 MWe (25 MWt) plutonium production research
   reactor, as well as its fuel fabrication and reprocessing facilities. The GBAE has
@@ -19,7 +19,7 @@ remark: The GBAE is responsible for the DPRK’s nuclear program, which includes
 address:
 - street: Haeudong, Pyongchen District
   city: Pyongyang
-  state: 
+  state:
   country: Democratic People's Republic of Korea
-  zip: 
+  zip:
 documents: []

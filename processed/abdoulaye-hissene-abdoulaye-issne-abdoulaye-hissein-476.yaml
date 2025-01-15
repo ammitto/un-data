@@ -13,7 +13,7 @@ source: un-data
 ref_number: CFi.012
 ref_type: CAR
 country: Central African Republic
-birthdate: 
+birthdate:
 remark: Hissène was formerly the Minister of Youth and Sports as part of the Cabinet
   for the Central African Republic’s former President Michel Djotodia. Prior to that,
   he was the head of the Convention of Patriots for Justice and Peace, a political
@@ -26,34 +26,34 @@ remark: Hissène was formerly the Minister of Youth and Sports as part of the Ca
   Moussa. Photo available for inclusion in the INTERPOL-UN Security Council Special
   Notice.  INTERPOL-UN Security Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals
 address:
-- street: 
+- street:
   city: KM5, Bangui
-  state: 
+  state:
   country: Central African Republic
-  zip: 
-- street: 
+  zip:
+- street:
   city: Nana-Grebizi
-  state: 
+  state:
   country: Central African Republic
-  zip: 
-- street: 
+  zip:
+- street:
   city: Ndjari, Ndjamena
-  state: 
+  state:
   country: Chad
-  zip: 
-- street: 
+  zip:
+- street:
   city: 'Ndélé, Bamingui-Bangoran '
-  state: 
-  country: 
-  zip: 
+  state:
+  country:
+  zip:
 documents:
 - type: Passport
   number: CAR diplomatic passport no. D00000897
-  country: 
+  country:
   note: valid until 4 April 2018
 - type: Passport
   number: CAR diplomatic passport no. D00004262
-  country: 
+  country:
   note: expires on 10 March 2019
 - type: National Identification Number
   number: 103-00653129-22

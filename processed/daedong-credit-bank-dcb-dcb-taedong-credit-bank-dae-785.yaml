@@ -5,12 +5,12 @@ names:
 - DCB
 - Taedong Credit Bank
 - Dae-Dong Credit Bank
-designation: 
+designation:
 source: un-data
 ref_number: KPe.023
 ref_type: DPRK
-country: 
-birthdate: 
+country:
+birthdate:
 remark: 'SWIFT: DCBKKPPY. Daedong Credit Bank has provided financial services to the
   Korea Mining Development Trading Corporation (KOMID) and Tanchon Commercial Bank.
   Since at least 2007, DCB has facilitated hundreds of financial transactions worth
@@ -19,12 +19,12 @@ remark: 'SWIFT: DCBKKPPY. Daedong Credit Bank has provided financial services to
 address:
 - street: Suite 401, Potonggang Hotel, Ansan-Dong, Pyongchon District
   city: Pyongyang
-  state: 
+  state:
   country: Democratic People's Republic of Korea
-  zip: 
+  zip:
 - street: Ansan-dong, Botonggang Hotel, Pongchon
   city: Pyongyang
-  state: 
+  state:
   country: Democratic People's Republic of Korea
-  zip: 
+  zip:
 documents: []

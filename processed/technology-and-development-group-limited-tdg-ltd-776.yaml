@@ -3,12 +3,12 @@ entity_type: organization
 names:
 - TECHNOLOGY AND DEVELOPMENT GROUP LIMITED
 - TDG Ltd.
-designation: 
+designation:
 source: un-data
 ref_number: IQe.207
 ref_type: Iraq
-country: 
-birthdate: 
+country:
+birthdate:
 remark: |-
   Registered company number: 02150590. Last known directors: Hana Paul JON,
   Adnan Talib Hashim AL-AMIRI, Dr. Safa Hadi Jawad AL-HABOBI. Last known shareholders: 99
@@ -16,7 +16,7 @@ remark: |-
 address:
 - street: 53/64 Chancery Lane
   city: London WC2A 1QU
-  state: 
+  state:
   country: United Kingdom of Great Britain and Northern Ireland
-  zip: 
+  zip:
 documents: []

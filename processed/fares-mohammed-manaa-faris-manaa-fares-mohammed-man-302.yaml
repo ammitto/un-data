@@ -4,25 +4,25 @@ names:
 - FARES MOHAMMED MANA'A
 - Faris Mana'a
 - Fares Mohammed Manaa
-designation: 
+designation:
 source: un-data
 ref_number: SOi.008
 ref_type: Somalia
-country: 
+country:
 birthdate: '1965-02-08'
 remark: INTERPOL-UN Security Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals
 address:
-- street: 
-  city: 
-  state: 
+- street:
+  city:
+  state:
   country: ''
-  zip: 
+  zip:
 documents:
 - type: Passport
   number: '00514146'
-  country: 
+  country:
   note: Date of issue 7 January 1996
 - type: National Identification Number
   number: '1417576'
-  country: 
+  country:
   note: issued on 7 Jan. 1996

@@ -8,7 +8,7 @@ names:
 - Saeed Akman
 - Saeed Ahmed
 - Abdul Hakim Ali al-Hashem Murad
-designation: 
+designation:
 source: un-data
 ref_number: QDi.120
 ref_type: Al-Qaida
@@ -19,16 +19,16 @@ remark: |-
   States. Review pursuant to Security Council resolution 1822 (2008) was concluded on 25
   May 2010. Review pursuant to Security Council resolution 2368 (2017) was concluded on 4 Dec. 2019. Review pursuant to Security Council resolution 2610 (2021) was concluded on 30 October 2023.  INTERPOL-UN Security Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals
 address:
-- street: 
-  city: 
-  state: 
+- street:
+  city:
+  state:
   country: ''
-  zip: 
+  zip:
 documents:
 - type: Passport
   number: '665334'
   country: Pakistan
-  note: 
+  note:
 - type: Passport
   number: '917739'
   country: Pakistan

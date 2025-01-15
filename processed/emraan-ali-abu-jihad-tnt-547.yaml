@@ -3,7 +3,7 @@ entity_type: person
 names:
 - EMRAAN ALI
 - Abu Jihad TNT
-designation: 
+designation:
 source: un-data
 ref_number: QDi.430
 ref_type: Al-Qaida
@@ -15,26 +15,26 @@ remark: 'Senior member of Islamic State in Iraq and the Levant (ISIL), listed as
   eyes- brown, colour of hair- black/bald, complexion- brown.  Speaks English.  INTERPOL-UN
   Security Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals'
 address:
-- street: 
-  city: 
-  state: 
+- street:
+  city:
+  state:
   country: United States of America
-  zip: 
-- street: 
-  city: 
+  zip:
+- street:
+  city:
   state: "#12 Rio Claro Mayaro Road, Rio Claro"
   country: Trinidad and Tobago
-  zip: 
-- street: 
-  city: 
+  zip:
+- street:
+  city:
   state: "#7 GUAYAGUAYARE Road, Rio Claro"
   country: Trinidad and Tobago
-  zip: 
-- street: 
-  city: 
-  state: 
+  zip:
+- street:
+  city:
+  state:
   country: United States of America
-  zip: 
+  zip:
 documents:
 - type: Passport
   number: TB162181
@@ -47,4 +47,4 @@ documents:
 - type: National Identification Number
   number: '19670704052'
   country: Trinidad and Tobago
-  note: 
+  note:

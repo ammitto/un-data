@@ -14,13 +14,13 @@ birthdate: '1945-05-10'
 remark: Cho is believed to be in charge of overseas espionage operations and foreign
   intelligence collection for the Democratic People's Republic of Korea.
 address:
-- street: 
-  city: 
-  state: 
+- street:
+  city:
+  state:
   country: Democratic People's Republic of Korea
-  zip: 
+  zip:
 documents:
 - type: Passport
   number: '736410010'
-  country: 
-  note: 
+  country:
+  note:

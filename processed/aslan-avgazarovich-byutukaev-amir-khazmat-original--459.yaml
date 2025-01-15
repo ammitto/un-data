@@ -4,7 +4,7 @@ names:
 - ASLAN AVGAZAROVICH BYUTUKAEV
 - 'Amir Khazmat (original script: Амир Хазмат)'
 - 'Abubakar (original script: Абубакар)'
-designation: 
+designation:
 source: un-data
 ref_number: QDi.396
 ref_type: Al-Qaida
@@ -20,9 +20,9 @@ address:
   city: Achkhoy-Martanovskiy District
   state: Republic of Chechnya
   country: Russian Federation
-  zip: 
+  zip:
 documents:
-- type: 
-  number: 
-  country: 
-  note: 
+- type:
+  number:
+  country:
+  note:

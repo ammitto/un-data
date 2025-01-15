@@ -9,20 +9,20 @@ source: un-data
 ref_number: KPi.011
 ref_type: DPRK
 country: Democratic People's Republic of Korea
-birthdate: 
+birthdate:
 remark: |-
   Deputy Chief Representative for the Korea Mining Development Trading
   Corporation (KOMID). The KOMID was designated by the Committee in April 2009 and is the
   DPRK’s primary arms dealer and main exporter of goods and equipment related to ballistic
   missiles and conventional weapons.
 address:
-- street: 
-  city: 
-  state: 
+- street:
+  city:
+  state:
   country: ''
-  zip: 
+  zip:
 documents:
-- type: 
-  number: 
-  country: 
-  note: 
+- type:
+  number:
+  country:
+  note:

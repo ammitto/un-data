@@ -2,7 +2,7 @@
 entity_type: person
 names:
 - KIM SE GON
-designation: 
+designation:
 source: un-data
 ref_number: KPi.032
 ref_type: DPRK
@@ -10,13 +10,13 @@ country: Democratic People's Republic of Korea
 birthdate: '1969-11-13'
 remark: Kim Se Gon works on behalf of the Ministry of Atomic Energy Industry.
 address:
-- street: 
-  city: 
-  state: 
+- street:
+  city:
+  state:
   country: ''
-  zip: 
+  zip:
 documents:
 - type: Passport
   number: PD472310104
-  country: 
-  note: 
+  country:
+  note:

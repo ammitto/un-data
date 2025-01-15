@@ -7,20 +7,20 @@ source: un-data
 ref_number: KPi.014
 ref_type: DPRK
 country: Democratic People's Republic of Korea
-birthdate: 
+birthdate:
 remark: Served as the Tanchon Commercial Bank representative in Vietnam.
 address:
-- street: 
-  city: 
-  state: 
+- street:
+  city:
+  state:
   country: ''
-  zip: 
+  zip:
 documents:
 - type: Passport
   number: '472320665 '
-  country: 
+  country:
   note: Expires 26 Sep. 2017
 - type: Passport
   number: '563120356'
-  country: 
-  note: 
+  country:
+  note:
