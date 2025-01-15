@@ -14,18 +14,18 @@ source: un-data
 ref_number: KPi.023
 ref_type: DPRK
 country: Democratic People's Republic of Korea
-birthdate: 
+birthdate:
 remark: Kim Tong My’ong is the President of Tanchon Commercial Bank and has held various
   positions within Tanchon Commercial bank since at least 2002. He has also played
   a role in managing Amroggang’s affairs.
 address:
-- street: 
-  city: 
-  state: 
+- street:
+  city:
+  state:
   country: ''
-  zip: 
+  zip:
 documents:
 - type: Passport
   number: '290320764'
   country: Democratic People's Republic of Korea
-  note: 
+  note:

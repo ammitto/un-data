@@ -6,12 +6,12 @@ names:
 - Daesong Trading Company
 - Korea Daesong Trading Company
 - Korea Daesong Trading Corporation
-designation: 
+designation:
 source: un-data
 ref_number: KPe.042
 ref_type: DPRK
-country: 
-birthdate: 
+country:
+birthdate:
 remark: 'Korea Daesong General Trading Corporation is affiliated with Office 39 through
   minerals (gold) exports, metals, machinery, agricultural products, ginseng, jewelry,
   and light industry products.Telephone: +850-2-18111-8208. Fax: +850-2-381-4432.
@@ -19,7 +19,7 @@ remark: 'Korea Daesong General Trading Corporation is affiliated with Office 39 
 address:
 - street: Pulgan Gori Dong 1, Potonggang District
   city: Pyongyang City
-  state: 
+  state:
   country: Democratic People's Republic of Korea
-  zip: 
+  zip:
 documents: []

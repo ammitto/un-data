@@ -2,21 +2,21 @@
 entity_type: person
 names:
 - RAGHAD SADDAM HUSSEIN AL-TIKRITI
-designation: 
+designation:
 source: un-data
 ref_number: IQi.057
 ref_type: Iraq
 country: Iraq
-birthdate: 
+birthdate:
 remark: ''
 address:
-- street: 
+- street:
   city: Amman
-  state: 
+  state:
   country: Jordan
-  zip: 
+  zip:
 documents:
-- type: 
-  number: 
-  country: 
-  note: 
+- type:
+  number:
+  country:
+  note:

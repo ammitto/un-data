@@ -2,12 +2,12 @@
 entity_type: organization
 names:
 - MACHANGA LTD
-designation: 
+designation:
 source: un-data
 ref_number: CDe.007
 ref_type: DRC
-country: 
-birthdate: 
+country:
+birthdate:
 remark: |-
   Gold export company (Directors: Mr. Rajendra Kumar Vaya and Mr. Hirendra
   M. Vaya). In 2010, assets belonging to Machanga, held in the account of Emirates Gold,
@@ -16,7 +16,7 @@ remark: |-
 address:
 - street: Plot 55A, Upper Kololo Terrace
   city: Kampala
-  state: 
+  state:
   country: Uganda
-  zip: 
+  zip:
 documents: []

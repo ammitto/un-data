@@ -15,13 +15,13 @@ birthdate: '1968-06-25'
 remark: 'Gender: male. Served as Korea Ryonbong General Corporation representative
   in Cuba.'
 address:
-- street: 
-  city: 
-  state: 
+- street:
+  city:
+  state:
   country: ''
-  zip: 
+  zip:
 documents:
 - type: Passport
   number: '654310175 '
-  country: 
-  note: 
+  country:
+  note:

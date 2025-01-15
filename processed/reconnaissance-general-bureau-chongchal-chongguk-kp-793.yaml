@@ -5,12 +5,12 @@ names:
 - Chongch’al Ch’ongguk
 - KPA Unit 586
 - RGB
-designation: 
+designation:
 source: un-data
 ref_number: KPe.031
 ref_type: DPRK
-country: 
-birthdate: 
+country:
+birthdate:
 remark: The Reconnaissance General Bureau is the DPRK's premiere intelligence organization,
   created in early 2009 by the merger of existing intelligence organizations from
   the Korean Workers' Party, the Operations Department and Office 35, and the Reconnaissance
@@ -20,12 +20,12 @@ remark: The Reconnaissance General Bureau is the DPRK's premiere intelligence or
 address:
 - street: Hyongjesan-Guyok
   city: Pyongyang
-  state: 
+  state:
   country: Democratic People's Republic of Korea
-  zip: 
+  zip:
 - street: Nungrado
   city: Pyongyang
-  state: 
+  state:
   country: Democratic People's Republic of Korea
-  zip: 
+  zip:
 documents: []

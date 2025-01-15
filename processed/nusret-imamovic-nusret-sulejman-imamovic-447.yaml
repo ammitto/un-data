@@ -3,7 +3,7 @@ entity_type: person
 names:
 - NUSRET IMAMOVIC
 - Nusret Sulejman Imamovic
-designation: 
+designation:
 source: un-data
 ref_number: QDi.374
 ref_type: Al-Qaida
@@ -16,17 +16,17 @@ remark: Believed to be fighting with Al-Nusrah Front for the People of the Levan
   was concluded on 8 November 2022. INTERPOL-UN Security Council Special Notice web
   link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals
 address:
-- street: 
-  city: 
-  state: 
+- street:
+  city:
+  state:
   country: Syrian Arab Republic
-  zip: 
+  zip:
 documents:
 - type: Passport
   number: '349054'
   country: Bosnia and Herzegovina
-  note: 
+  note:
 - type: Passport
   number: '3490054'
   country: Bosnia and Herzegovina
-  note: 
+  note:

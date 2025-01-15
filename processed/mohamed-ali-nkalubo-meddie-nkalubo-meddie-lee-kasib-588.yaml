@@ -17,7 +17,7 @@ source: un-data
 ref_number: CDi.042
 ref_type: DRC
 country: Uganda
-birthdate: 
+birthdate:
 remark: Listed pursuant to paragraphs 7 (b), 7 (d), 7 (e), and 7 (h) of resolution
   2293 (2016) as “being political and military leaders of foreign armed groups operating
   in the DRC who impede the disarmament and the voluntary repatriation or resettlement
@@ -34,13 +34,13 @@ remark: Listed pursuant to paragraphs 7 (b), 7 (d), 7 (e), and 7 (h) of resoluti
   promulgating and supporting the armed group’s activities. He has effective command
   and control over the group’s combatants.
 address:
-- street: 
-  city: 
-  state: 
+- street:
+  city:
+  state:
   country: Democratic Republic of the Congo
-  zip: 
+  zip:
 documents:
-- type: 
-  number: 
-  country: 
-  note: 
+- type:
+  number:
+  country:
+  note:

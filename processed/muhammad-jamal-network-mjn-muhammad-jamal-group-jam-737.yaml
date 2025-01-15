@@ -6,12 +6,12 @@ names:
 - Jamal Network
 - Abu Ahmed Group
 - Al-Qaida in Egypt (AQE)
-designation: 
+designation:
 source: un-data
 ref_number: QDe.136
 ref_type: Al-Qaida
-country: 
-birthdate: 
+country:
+birthdate:
 remark: Terrorist and paramilitary group established by Muhammad Jamal al Kashif (QDi.318)
   in 2011 and linked to Al-Qaida (QDe.004), Aiman al-Zawahiri (QDi.006), and the leadership
   of Al-Qaida in the Arabian Peninsula (AQAP) (QDe.129) and the Organization of Al-Qaida
@@ -25,9 +25,9 @@ remark: Terrorist and paramilitary group established by Muhammad Jamal al Kashif
   Security Council resolution 2610 (2021) was concluded on 8 November 2022.  INTERPOL-UN
   Security Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals
 address:
-- street: 
-  city: 
-  state: 
+- street:
+  city:
+  state:
   country: ''
-  zip: 
+  zip:
 documents: []

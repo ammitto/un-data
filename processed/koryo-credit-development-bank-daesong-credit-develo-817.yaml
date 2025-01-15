@@ -5,18 +5,18 @@ names:
 - Daesong Credit Development Bank
 - Koryo Global Credit Bank
 - Koryo Global Trust Bank
-designation: 
+designation:
 source: un-data
 ref_number: KPe.049
 ref_type: DPRK
-country: 
-birthdate: 
+country:
+birthdate:
 remark: Koryo Credit Development Bank operates in the financial services industry
   in the DPRK’s economy.
 address:
-- street: 
+- street:
   city: Pyongyang
-  state: 
+  state:
   country: Democratic People's Republic of Korea
-  zip: 
+  zip:
 documents: []

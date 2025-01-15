@@ -8,16 +8,16 @@ source: un-data
 ref_number: CDi.023
 ref_type: DRC
 country: Rwanda
-birthdate: 
+birthdate:
 remark: INTERPOL-UN Security Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals
 address:
-- street: 
-  city: 
+- street:
+  city:
   state: South Kivu Province
   country: Democratic Republic of the Congo
-  zip: 
+  zip:
 documents:
-- type: 
-  number: 
-  country: 
-  note: 
+- type:
+  number:
+  country:
+  note:

@@ -3,7 +3,7 @@ entity_type: person
 names:
 - SON JONG HYOK
 - Son Min
-designation: 
+designation:
 source: un-data
 ref_number: KPi.031
 ref_type: DPRK
@@ -12,13 +12,13 @@ birthdate: '1980-05-20'
 remark: Son Jong Hyok is a KOMID official that has conducted business in Sudan on
   behalf of KOMID’s interests.
 address:
-- street: 
-  city: 
-  state: 
+- street:
+  city:
+  state:
   country: ''
-  zip: 
+  zip:
 documents:
-- type: 
-  number: 
-  country: 
-  note: 
+- type:
+  number:
+  country:
+  note:

@@ -13,7 +13,7 @@ designation: Former Captain, CAR Presidential Guard
 source: un-data
 ref_number: CFi.008
 ref_type: CAR
-country: 
+country:
 birthdate: '1967-10-08'
 remark: Captain Eugène Barret Ngaïkosset is a former member of former President François
   Bozizé’s (CFi.001) presidential guard and associated with the anti-Balaka movement.
@@ -22,15 +22,15 @@ remark: Captain Eugène Barret Ngaïkosset is a former member of former Presiden
   for inclusion in the INTERPOL-UN Security Council Special Notice.  INTERPOL-UN Security
   Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals
 address:
-- street: 
+- street:
   city: Bangui
-  state: 
+  state:
   country: Central African Republic
-  zip: 
+  zip:
 documents:
 - type: National Identification Number
   number: |-
     Central African Republic armed forces (FACA) Military identification
     number 911-10-77
-  country: 
-  note: 
+  country:
+  note:

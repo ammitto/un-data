@@ -2,24 +2,24 @@
 entity_type: organization
 names:
 - RABITA TRUST
-designation: 
+designation:
 source: un-data
 ref_number: QDe.021
 ref_type: Al-Qaida
-country: 
-birthdate: 
+country:
+birthdate:
 remark: |-
   Banned in Pakistan. Review pursuant to Security Council resolution 1822
   (2008) was concluded on 21 Jun. 2010. Review pursuant to Security Council resolution 2368 (2017) was concluded on 24 November 2020. Review pursuant to Security Council resolution 2610 (2021) was concluded on 8 November 2022. INTERPOL-UN Security Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals
 address:
 - street: Room 9a, 2nd Floor, Wahdat Road
   city: Education Town, Lahore
-  state: 
+  state:
   country: Pakistan
-  zip: 
+  zip:
 - street: Wares Colony
   city: Lahore
-  state: 
+  state:
   country: Pakistan
-  zip: 
+  zip:
 documents: []

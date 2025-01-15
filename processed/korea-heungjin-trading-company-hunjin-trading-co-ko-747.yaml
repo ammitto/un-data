@@ -5,12 +5,12 @@ names:
 - Hunjin TRADING Co.
 - Korea Henjin Trading Co.
 - Korea Hengjin Trading Company
-designation: 
+designation:
 source: un-data
 ref_number: KPe.011
 ref_type: DPRK
-country: 
-birthdate: 
+country:
+birthdate:
 remark: |-
   The Korea Heungjin Trading Company is used by KOMID for trading purposes.
   We suspect it has been involved in supplying missile-related goods to Iran’s Shahid
@@ -22,9 +22,9 @@ remark: |-
   Council designated SHIG in resolution 1737 (2006) as an entity involved in Iran’s
   ballistic missile programme.
 address:
-- street: 
+- street:
   city: Pyongyang
-  state: 
+  state:
   country: Democratic People's Republic of Korea
-  zip: 
+  zip:
 documents: []

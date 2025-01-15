@@ -3,7 +3,7 @@ entity_type: person
 names:
 - ISLAM SEIT-UMAROVICH ATABIEV
 - Abu Jihad
-designation: 
+designation:
 source: un-data
 ref_number: QDi.364
 ref_type: Al-Qaida
@@ -17,22 +17,22 @@ address:
   city: Ust- Dzheguta
   state: Republic of Karachayevo-Cherkessia
   country: Russian Federation
-  zip: 
-- street: 
-  city: 
-  state: 
+  zip:
+- street:
+  city:
+  state:
   country: Syrian Arab Republic
-  zip: 
-- street: 
-  city: 
-  state: 
+  zip:
+- street:
+  city:
+  state:
   country: Iraq
-  zip: 
+  zip:
 documents:
 - type: Passport
   number: Russian foreign travel passport number 620169661
-  country: 
-  note: 
+  country:
+  note:
 - type: National Identification Number
   number: '9103314932'
   country: Russian Federation

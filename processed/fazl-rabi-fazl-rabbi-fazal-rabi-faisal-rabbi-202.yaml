@@ -10,7 +10,7 @@ source: un-data
 ref_number: TAi.157
 ref_type: Taliban
 country: Afghanistan
-birthdate: 
+birthdate:
 remark: |-
   Represents and provides financial and logistical support to the Haqqani
   Network (TAe.012), which is based in Afghanistan/Pakistan border area. Member of the
@@ -18,13 +18,13 @@ remark: |-
   Jallaloudine Haqqani (TAi.144), Jalaluddin Haqqani (TAi.040), the Haqqani network and
   the Taliban. Believed to be in Afghanistan/Pakistan border area. INTERPOL-UN Security Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals
 address:
-- street: 
-  city: 
-  state: 
+- street:
+  city:
+  state:
   country: ''
-  zip: 
+  zip:
 documents:
-- type: 
-  number: 
-  country: 
-  note: 
+- type:
+  number:
+  country:
+  note:

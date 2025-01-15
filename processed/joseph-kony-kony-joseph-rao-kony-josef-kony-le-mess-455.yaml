@@ -11,7 +11,7 @@ source: un-data
 ref_number: CFi.009
 ref_type: CAR
 country: Uganda
-birthdate: 
+birthdate:
 remark: Kony is the founder and leader of the Lord’s Resistance Army (LRA) (CFe.002).
   Under his leadership, the LRA has engaged in the abduction, killing, and mutilation
   of thousands of civilians across Central Africa. The LRA has been responsible for
@@ -20,48 +20,48 @@ remark: Kony is the founder and leader of the Lord’s Resistance Army (LRA) (CF
   name is Luizi Obol. Mother’s name is Nora Obol. INTERPOL-UN Security Council Special
   Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals
 address:
-- street: 
+- street:
   city: Vakaga
-  state: 
+  state:
   country: Central African Republic
-  zip: 
-- street: 
+  zip:
+- street:
   city: Haute-Kotto
-  state: 
+  state:
   country: Central African Republic
-  zip: 
-- street: 
+  zip:
+- street:
   city: Basse-Kotto
-  state: 
+  state:
   country: Central African Republic
-  zip: 
-- street: 
+  zip:
+- street:
   city: Haut-Mbomou
-  state: 
+  state:
   country: Central African Republic
-  zip: 
-- street: 
+  zip:
+- street:
   city: Mbomou
-  state: 
+  state:
   country: Central African Republic
-  zip: 
-- street: 
+  zip:
+- street:
   city: Haut-Uolo
-  state: 
+  state:
   country: Democratic Republic of the Congo
-  zip: 
-- street: 
+  zip:
+- street:
   city: Bas-Uolo
-  state: 
+  state:
   country: Democratic Republic of the Congo
-  zip: 
-- street: 
+  zip:
+- street:
   city: 'Reported address: Kafia Kingi '
-  state: 
-  country: 
-  zip: 
+  state:
+  country:
+  zip:
 documents:
-- type: 
-  number: 
-  country: 
-  note: 
+- type:
+  number:
+  country:
+  note:

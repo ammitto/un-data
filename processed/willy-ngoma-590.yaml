@@ -7,7 +7,7 @@ source: un-data
 ref_number: CDi.044
 ref_type: DRC
 country: Democratic Republic of the Congo
-birthdate: 
+birthdate:
 remark: Listed pursuant to paragraphs 7 (c), 7 (e) and 7 (h) of resolution 2293 (2016)
   as “being political and military leaders of Congolese militias, including those
   receiving support from outside the DRC, who impede the participation of their combatants
@@ -21,13 +21,13 @@ remark: Listed pursuant to paragraphs 7 (c), 7 (e) and 7 (h) of resolution 2293 
   (2023). As a leader of M23 (CDe.006), WILLY NGOMA is involved in planning, promulgating
   and supporting the armed group’s activities.
 address:
-- street: 
-  city: 
-  state: 
+- street:
+  city:
+  state:
   country: Democratic Republic of the Congo
-  zip: 
+  zip:
 documents:
-- type: 
-  number: 
-  country: 
-  note: 
+- type:
+  number:
+  country:
+  note:

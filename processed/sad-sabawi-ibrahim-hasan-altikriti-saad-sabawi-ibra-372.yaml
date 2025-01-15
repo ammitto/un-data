@@ -4,7 +4,7 @@ names:
 - SA’D SABAWI IBRAHIM HASAN AL-TIKRITI
 - Sa’ad Sabawi Ibrahim Hasan Al-Tikriti
 - Sa’d Sab’awi Hasan Al-Tikriti
-designation: 
+designation:
 source: un-data
 ref_number: IQi.086
 ref_type: Iraq
@@ -16,14 +16,14 @@ address:
   city: Az Zabadani
   state: Az Zabadani
   country: Syrian Arab Republic
-  zip: 
-- street: 
-  city: 
-  state: 
+  zip:
+- street:
+  city:
+  state:
   country: Yemen
-  zip: 
+  zip:
 documents:
-- type: 
-  number: 
-  country: 
-  note: 
+- type:
+  number:
+  country:
+  note:

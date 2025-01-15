@@ -10,7 +10,7 @@ names:
 - Tito Art
 - Dave
 - Leo
-designation: 
+designation:
 source: un-data
 ref_number: QDi.245
 ref_type: Al-Qaida
@@ -26,9 +26,9 @@ address:
   city: Zaragosa
   state: Nueva Ecija
   country: Philippines
-  zip: 
+  zip:
 documents:
-- type: 
-  number: 
-  country: 
-  note: 
+- type:
+  number:
+  country:
+  note:

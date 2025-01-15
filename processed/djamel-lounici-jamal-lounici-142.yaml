@@ -3,7 +3,7 @@ entity_type: person
 names:
 - DJAMEL LOUNICI
 - Jamal Lounici
-designation: 
+designation:
 source: un-data
 ref_number: QDi.155
 ref_type: Al-Qaida
@@ -15,13 +15,13 @@ remark: Father's name is Abdelkader. Mother's name is Djohra Birouch. Returned f
   Council resolution 2368 (2017) was concluded on 24 November 2020. INTERPOL-UN Security
   Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals
 address:
-- street: 
-  city: 
-  state: 
+- street:
+  city:
+  state:
   country: Algeria
-  zip: 
+  zip:
 documents:
-- type: 
-  number: 
-  country: 
-  note: 
+- type:
+  number:
+  country:
+  note:

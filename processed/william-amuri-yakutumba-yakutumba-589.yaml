@@ -9,7 +9,7 @@ source: un-data
 ref_number: CDi.043
 ref_type: DRC
 country: Democratic Republic of the Congo
-birthdate: 
+birthdate:
 remark: Listed pursuant to paragraphs 7 (c), 7 (d), 7 (e) and 7 (g) of resolution
   2293 (2016) as “being political and military leaders of Congolese militias, including
   those receiving support from outside the DRC, who impede the participation of their
@@ -27,13 +27,13 @@ remark: Listed pursuant to paragraphs 7 (c), 7 (d), 7 (e) and 7 (g) of resolutio
   AMURI YAKUTUMBA is involved in planning, promulgating and supporting the militia’s
   activities. He has effective command and control over the militia’s combatants.
 address:
-- street: 
-  city: 
-  state: 
+- street:
+  city:
+  state:
   country: ''
-  zip: 
+  zip:
 documents:
-- type: 
-  number: 
-  country: 
-  note: 
+- type:
+  number:
+  country:
+  note:

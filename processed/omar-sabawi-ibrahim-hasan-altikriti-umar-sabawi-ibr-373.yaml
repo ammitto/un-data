@@ -6,31 +6,31 @@ names:
 - Omar Sab’awi Ibrahim Hasan Al-Tikriti
 - Omar Sabawi Ibrahim Hassan Al-Tikriti
 - Umar Ahmad Ali Al-Alusi
-designation: 
+designation:
 source: un-data
 ref_number: IQi.082
 ref_type: Iraq
 country: Iraq
-birthdate: 
+birthdate:
 remark: ''
 address:
-- street: 
+- street:
   city: Damascus
-  state: 
+  state:
   country: Syrian Arab Republic
-  zip: 
+  zip:
 - street: Al-Shahid Street
   city: Al-Mahata Neighborhood, Az Zabadani
   state: Az Zabadani
   country: Syrian Arab Republic
-  zip: 
-- street: 
-  city: 
-  state: 
+  zip:
+- street:
+  city:
+  state:
   country: Yemen
-  zip: 
+  zip:
 documents:
-- type: 
-  number: 
-  country: 
-  note: 
+- type:
+  number:
+  country:
+  note:

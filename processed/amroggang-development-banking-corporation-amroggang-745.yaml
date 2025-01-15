@@ -4,12 +4,12 @@ names:
 - AMROGGANG DEVELOPMENT BANKING CORPORATION
 - AMROGGANG Development Bank
 - Amnokkang Development Bank
-designation: 
+designation:
 source: un-data
 ref_number: KPe.009
 ref_type: DPRK
-country: 
-birthdate: 
+country:
+birthdate:
 remark: Amroggang, which was established in 2006, is a Tanchon Commercial Bank-related
   company managed by Tanchon officials. Tanchon plays a role in financing KOMID’s
   sales of ballistic missiles and has also been involved in ballistic missile transactions
@@ -24,7 +24,7 @@ remark: Amroggang, which was established in 2006, is a Tanchon Commercial Bank-r
 address:
 - street: Tongan-dong
   city: Pyongyang
-  state: 
+  state:
   country: Democratic People's Republic of Korea
-  zip: 
+  zip:
 documents: []

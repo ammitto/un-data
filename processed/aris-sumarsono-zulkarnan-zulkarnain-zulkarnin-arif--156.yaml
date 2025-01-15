@@ -18,7 +18,7 @@ names:
 - Abdullah Abdurrahman
 - Abdul
 - Abdurrahman
-designation: 
+designation:
 source: un-data
 ref_number: QDi.187
 ref_type: Al-Qaida
@@ -34,14 +34,14 @@ address:
   city: Kabupaten Sragen
   state: Jawa Tengah
   country: Indonesia
-  zip: 
+  zip:
 - street: Desa Taman Fajar, Kecamatan Probolinggo
   city: Kabupaten Lampung Timur
   state: Lampung
   country: Indonesia
-  zip: 
+  zip:
 documents:
-- type: 
-  number: 
-  country: 
-  note: 
+- type:
+  number:
+  country:
+  note:

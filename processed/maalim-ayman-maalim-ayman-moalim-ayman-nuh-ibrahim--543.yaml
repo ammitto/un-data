@@ -13,8 +13,8 @@ designation: |-
 source: un-data
 ref_number: SOi.019
 ref_type: Somalia
-country: 
-birthdate: 
+country:
+birthdate:
 remark: Listed pursuant to paragraph 8(a) of resolution 1844 (2008) as “Engaging in
   or providing support for acts that threaten the peace, security or stability of
   Somalia, including acts that threaten the Djibouti Agreement of 18 August 2008 or
@@ -22,18 +22,18 @@ remark: Listed pursuant to paragraph 8(a) of resolution 1844 (2008) as “Engagi
   preparations for the 5 January 2020 attack on Camp Simba in Lamu County, Kenya.  INTERPOL-UN
   Security Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals
 address:
-- street: 
-  city: 
-  state: 
-  country: 
-  zip: 
-- street: 
+- street:
+  city:
+  state:
+  country:
+  zip:
+- street:
   city: Badamadow
   state: " Lower Juba Region"
   country: Somalia
-  zip: 
+  zip:
 documents:
-- type: 
-  number: 
-  country: 
-  note: 
+- type:
+  number:
+  country:
+  note:

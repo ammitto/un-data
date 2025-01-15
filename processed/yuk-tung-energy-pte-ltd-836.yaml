@@ -2,19 +2,19 @@
 entity_type: organization
 names:
 - YUK TUNG ENERGY PTE LTD
-designation: 
+designation:
 source: un-data
 ref_number: KPe.075
 ref_type: DPRK
-country: 
-birthdate: 
+country:
+birthdate:
 remark: |-
   Ship manager and commercial manager of the YUK TUNG, which conducted
   ship-to-ship transfer of refined petroleum product. IMO number: 5987860.
 address:
 - street: '80 Raffles Place, #17-22 UOB Plaza'
   city: Singapore
-  state: 
+  state:
   country: Singapore
   zip: '048624'
 documents: []

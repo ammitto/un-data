@@ -10,7 +10,7 @@ names:
 - Arnulfo Alvarado
 - Habil Ahmad Dellosa
 - Uthman
-designation: 
+designation:
 source: un-data
 ref_number: QDi.246
 ref_type: Al-Qaida
@@ -24,11 +24,11 @@ remark: |-
 address:
 - street: 3111, Ma. Bautista, Punta, Santa Ana
   city: Manila
-  state: 
+  state:
   country: Philippines
-  zip: 
+  zip:
 documents:
-- type: 
-  number: 
-  country: 
-  note: 
+- type:
+  number:
+  country:
+  note:

@@ -5,7 +5,7 @@ names:
 - Drissi Noureddine
 - Abou Ali
 - Faycal
-designation: 
+designation:
 source: un-data
 ref_number: QDi.149
 ref_type: Al-Qaida
@@ -21,9 +21,9 @@ remark: Sentenced to six years of imprisonment for international terrorism in 20
 address:
 - street: Via Plebiscito 3
   city: Cremona
-  state: 
+  state:
   country: Italy
-  zip: 
+  zip:
 documents:
 - type: Passport
   number: L851940

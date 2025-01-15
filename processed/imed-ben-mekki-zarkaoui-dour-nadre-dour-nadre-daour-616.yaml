@@ -8,7 +8,7 @@ names:
 - Imad ben al-Mekki ben al-Akhdar al-Zarkaoui
 - Zarga
 - Nadra
-designation: 
+designation:
 source: un-data
 ref_number: QDi.139
 ref_type: Al-Qaida
@@ -24,9 +24,9 @@ remark: Mother’s name is Zina al-Zarkaoui. Sentenced to seven years and one mo
 address:
 - street: 41-45 Rue Estienne d’Orves
   city: Pré Saint Gervais
-  state: 
+  state:
   country: France
-  zip: 
+  zip:
 documents:
 - type: Passport
   number: M174950

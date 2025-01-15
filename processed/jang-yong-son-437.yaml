@@ -12,13 +12,13 @@ country: Democratic People's Republic of Korea
 birthdate: '1957-02-20'
 remark: Served as the KOMID representative in Iran.
 address:
-- street: 
-  city: 
-  state: 
+- street:
+  city:
+  state:
   country: ''
-  zip: 
+  zip:
 documents:
 - type: Passport
   number: '563110024'
   country: Democratic People's Republic of Korea
-  note: 
+  note:

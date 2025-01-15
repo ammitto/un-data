@@ -12,7 +12,7 @@ names:
 - Mohammad Sayed
 - Muhammad Saeed
 - Hafiz Ji
-designation: 
+designation:
 source: un-data
 ref_number: QDi.263
 ref_type: Al-Qaida
@@ -28,9 +28,9 @@ address:
   city: Lahore City
   state: Lahore District
   country: Pakistan
-  zip: 
+  zip:
 documents:
 - type: National Identification Number
   number: 3520025509842-7
   country: Pakistan
-  note: 
+  note:

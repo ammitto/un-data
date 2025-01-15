@@ -8,12 +8,12 @@ names:
 - Taha al-Khuwayt
 - Mullah Taha
 - Mullah Khuwayt
-designation: 
+designation:
 source: un-data
 ref_number: QDi.420
 ref_type: Al-Qaida
 country: Iraq
-birthdate: 
+birthdate:
 remark: |-
   Former ISIL governor of al-Jazira Province, military leader in the Syrian Arab
                   Republic as well as member and chair of the ISIL Delegated Committee, which
@@ -21,13 +21,13 @@ remark: |-
                   Photo available for inclusion in the INTERPOL-UN Security Council Special Notice.
                INTERPOL-UN Security Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals
 address:
-- street: 
-  city: 
-  state: 
+- street:
+  city:
+  state:
   country: ''
-  zip: 
+  zip:
 documents:
-- type: 
-  number: 
-  country: 
-  note: 
+- type:
+  number:
+  country:
+  note:

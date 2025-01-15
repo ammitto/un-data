@@ -2,12 +2,12 @@
 entity_type: organization
 names:
 - AL-ITIHAAD AL-ISLAMIYA / AIAI
-designation: 
+designation:
 source: un-data
 ref_number: QDe.002
 ref_type: Al-Qaida
-country: 
-birthdate: 
+country:
+birthdate:
 remark: |-
   Reported to have operated in Somalia and Ethiopia and to have merged with
   Harakat Al-Shabaab Al-Mujaahidiin (Al-Shabaab), which was accepted as an affiliate of
@@ -19,9 +19,9 @@ remark: |-
   (QDe.072). Review pursuant to Security Council resolution 1822 (2008) was concluded on
   21 Jun. 2010. Review pursuant to Security Council resolution 2368 (2017) was concluded on 24 November 2020. INTERPOL-UN Security Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals
 address:
-- street: 
-  city: 
-  state: 
+- street:
+  city:
+  state:
   country: ''
-  zip: 
+  zip:
 documents: []

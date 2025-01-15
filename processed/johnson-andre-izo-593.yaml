@@ -8,16 +8,16 @@ source: un-data
 ref_number: HTi.002
 ref_type: Haiti
 country: Haiti
-birthdate: 
+birthdate:
 remark: 'Gender: Male'
 address:
-- street: 
-  city: 
-  state: 
+- street:
+  city:
+  state:
   country: ''
-  zip: 
+  zip:
 documents:
-- type: 
-  number: 
-  country: 
-  note: 
+- type:
+  number:
+  country:
+  note:

@@ -8,12 +8,12 @@ names:
 - Haji Maluk
 - Haji Aminullah
 - Allah Muhammad
-designation: 
+designation:
 source: un-data
 ref_number: TAi.154
 ref_type: Taliban
 country: Afghanistan
-birthdate: 
+birthdate:
 remark: |-
   Taliban financier. Owns businesses in Japan and frequently travels to
   Dubai, United Arab Emirates, and Japan. As of 2009, facilitated Taliban activities,
@@ -25,20 +25,20 @@ address:
   city: Chaman
   state: Baluchistan Province
   country: Pakistan
-  zip: 
+  zip:
 - street: Kalay Rangin, Spin Boldak District
-  city: 
+  city:
   state: Kandahar province
   country: Afghanistan
-  zip: 
+  zip:
 documents:
 - type: Passport
   number: FA0157612
-  country: 
+  country:
   note: |-
     expires on 22 Jul. 2014 , officially cancelled as of 2013 , issued under name
     Allah Muhammad
 - type: National Identification Number
   number: 54201-247561-5
-  country: 
+  country:
   note: officially cancelled as of 2013

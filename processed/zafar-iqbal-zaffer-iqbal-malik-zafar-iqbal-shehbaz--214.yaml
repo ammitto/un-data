@@ -8,7 +8,7 @@ names:
 - Malik Zafar Iqbal
 - Zafar Iqbal Chaudhry
 - Muhammad Zafar Iqbal
-designation: 
+designation:
 source: un-data
 ref_number: QDi.308
 ref_type: Al-Qaida
@@ -23,19 +23,19 @@ remark: |-
 address:
 - street: Masjid al-Qadesia, 4 Lake Road
   city: Lahore
-  state: 
+  state:
   country: Pakistan
-  zip: 
+  zip:
 documents:
 - type: Passport
   number: DG5149481
-  country: 
+  country:
   note: expired on 21 Aug. 2011, passport booklet number A2815665
 - type: National Identification Number
   number: 35202- 4135948-7
-  country: 
-  note: 
+  country:
+  note:
 - type: National Identification Number
   number: '29553654234'
-  country: 
-  note: 
+  country:
+  note:

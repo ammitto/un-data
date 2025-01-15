@@ -2,21 +2,21 @@
 entity_type: person
 names:
 - JAMES NYAKUNI
-designation: 
+designation:
 source: un-data
 ref_number: CDi.025
 ref_type: DRC
 country: Uganda
-birthdate: 
+birthdate:
 remark: INTERPOL-UN Security Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals
 address:
-- street: 
-  city: 
-  state: 
+- street:
+  city:
+  state:
   country: ''
-  zip: 
+  zip:
 documents:
-- type: 
-  number: 
-  country: 
-  note: 
+- type:
+  number:
+  country:
+  note:

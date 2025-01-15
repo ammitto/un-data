@@ -3,7 +3,7 @@ entity_type: person
 names:
 - KIM SONG CHOL
 - Kim Hak Song
-designation: 
+designation:
 source: un-data
 ref_number: KPi.030
 ref_type: DPRK
@@ -12,17 +12,17 @@ birthdate: '1968-03-26'
 remark: Kim Song Chol is a KOMID official that has conducted business in Sudan on
   behalf of KOMID’s interests.
 address:
-- street: 
-  city: 
-  state: 
+- street:
+  city:
+  state:
   country: ''
-  zip: 
+  zip:
 documents:
 - type: Passport
   number: '381420565'
-  country: 
-  note: 
+  country:
+  note:
 - type: Passport
   number: '654120219'
-  country: 
-  note: 
+  country:
+  note:

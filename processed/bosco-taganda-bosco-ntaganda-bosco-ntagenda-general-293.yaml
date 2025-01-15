@@ -10,12 +10,12 @@ names:
 - Tango Romeo
 - Romeo
 - Major
-designation: 
+designation:
 source: un-data
 ref_number: CDi.030
 ref_type: DRC
 country: Democratic Republic of the Congo
-birthdate: 
+birthdate:
 remark: Born in Rwanda, he moved to Nyamitaba, Masisi territory, North Kivu, when
   he was a child. Nominated FARDC Brigadier-General by Presidential Decree on 11 December
   2004, following Ituri peace agreements. Formerly Chief of Staff in CNDP and became
@@ -33,13 +33,13 @@ remark: Born in Rwanda, he moved to Nyamitaba, Masisi territory, North Kivu, whe
   of Belgium for enforcement of sentence. INTERPOL-UN Security Council Special Notice
   web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals
 address:
-- street: 
-  city: 
-  state: 
+- street:
+  city:
+  state:
   country: Belgium
-  zip: 
+  zip:
 documents:
-- type: 
-  number: 
-  country: 
-  note: 
+- type:
+  number:
+  country:
+  note:

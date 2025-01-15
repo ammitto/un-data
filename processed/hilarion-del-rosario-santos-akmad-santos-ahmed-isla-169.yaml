@@ -13,7 +13,7 @@ names:
 - Aki
 - Aqi
 - Abu Hamsa
-designation: 
+designation:
 source: un-data
 ref_number: QDi.244
 ref_type: Al-Qaida
@@ -28,11 +28,11 @@ remark: |-
 address:
 - street: 50, Purdue Street, Cubao
   city: Quezon City
-  state: 
+  state:
   country: Philippines
-  zip: 
+  zip:
 documents:
 - type: Passport
   number: AA780554
   country: Philippines
-  note: 
+  note:

@@ -2,18 +2,18 @@
 entity_type: organization
 names:
 - KORYO BANK
-designation: 
+designation:
 source: un-data
 ref_number: KPe.045
 ref_type: DPRK
-country: 
-birthdate: 
+country:
+birthdate:
 remark: Koryo Bank operates in the financial services industry in the DPRK’s economy
   and is associated with Office 38 and Office 39 of the KWP
 address:
 - street: Koryo Bank Building, Pulgun Street
   city: Pyongyang
-  state: 
+  state:
   country: Democratic People's Republic of Korea
-  zip: 
+  zip:
 documents: []

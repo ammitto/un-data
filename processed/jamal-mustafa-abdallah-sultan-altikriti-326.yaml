@@ -2,7 +2,7 @@
 entity_type: person
 names:
 - JAMAL MUSTAFA ABDALLAH SULTAN AL-TIKRITI
-designation: 
+designation:
 source: un-data
 ref_number: IQi.022
 ref_type: Iraq
@@ -10,13 +10,13 @@ country: Iraq
 birthdate: '1955-05-04'
 remark: ''
 address:
-- street: 
-  city: 
-  state: 
+- street:
+  city:
+  state:
   country: ''
-  zip: 
+  zip:
 documents:
-- type: 
-  number: 
-  country: 
-  note: 
+- type:
+  number:
+  country:
+  note:

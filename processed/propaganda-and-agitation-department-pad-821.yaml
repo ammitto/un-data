@@ -2,20 +2,20 @@
 entity_type: organization
 names:
 - PROPAGANDA AND AGITATION DEPARTMENT (PAD)
-designation: 
+designation:
 source: un-data
 ref_number: KPe.053
 ref_type: DPRK
-country: 
-birthdate: 
+country:
+birthdate:
 remark: The Propaganda and Agitation Department has full control over the media, which
   it uses as a tool to control the public on behalf of the DPRK leadership. The Propaganda
   and Agitation Department also engages in or is responsible for censorship by the
   Government of the DPRK, including newspaper and broadcast censorship.
 address:
-- street: 
+- street:
   city: Pyongyang
-  state: 
+  state:
   country: Democratic People's Republic of Korea
-  zip: 
+  zip:
 documents: []

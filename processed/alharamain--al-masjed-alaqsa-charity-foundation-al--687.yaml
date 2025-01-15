@@ -6,12 +6,12 @@ names:
 - Al Haramayn Al Masjid Al Aqsa
 - Al-Haramayn and Al Masjid Al Aqsa Charitable Foundation
 - Al Harammein Al Masjed Al-Aqsa Charity Foundation
-designation: 
+designation:
 source: un-data
 ref_number: QDe.109
 ref_type: Al-Qaida
-country: 
-birthdate: 
+country:
+birthdate:
 remark: Reportedly defunct. Used to be officially registered in Bosnia and Herzegovina
   under registry number 24. Al-Haramain & Al Masjed Al-Aqsa Charity Foundation ceased
   its work by decision of the Ministry of Justice of the Bosnia and Herzegovina Federation
@@ -25,22 +25,22 @@ remark: Reportedly defunct. Used to be officially registered in Bosnia and Herze
 address:
 - street: 'Branch Address: 2A Hasiba Brankovica'
   city: Sarajevo
-  state: 
+  state:
   country: Bosnia and Herzegovina
-  zip: 
+  zip:
 - street: 14 Bihacka Street
   city: Sarajevo
-  state: 
+  state:
   country: Bosnia and Herzegovina
-  zip: 
+  zip:
 - street: 64 Potur mahala Street
   city: Travnik
-  state: 
+  state:
   country: Bosnia and Herzegovina
-  zip: 
-- street: 
+  zip:
+- street:
   city: Zenica
-  state: 
+  state:
   country: Bosnia and Herzegovina
-  zip: 
+  zip:
 documents: []

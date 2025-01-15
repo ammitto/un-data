@@ -4,20 +4,20 @@ names:
 - |-
   CENTRAL MILITARY COMMISSION OF THE WORKERS’ PARTY OF KOREA
   (CMC)
-designation: 
+designation:
 source: un-data
 ref_number: KPe.051
 ref_type: DPRK
-country: 
-birthdate: 
+country:
+birthdate:
 remark: The Central Military Commission is responsible for the development and implementation
   of the Workers’ Party of Korea’s military policies, commands and controls the DPRK’s
   military, and directs the country’s military defense industries in coordination
   with the State Affairs Commission.
 address:
-- street: 
+- street:
   city: Pyongyang
-  state: 
+  state:
   country: Democratic People's Republic of Korea
-  zip: 
+  zip:
 documents: []

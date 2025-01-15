@@ -17,12 +17,12 @@ names:
 - Unsan Solid Tools
 - Millim Technology Company
 - 朝鲜联合机械贸易会社
-designation: 
+designation:
 source: un-data
 ref_number: KPe.016
 ref_type: DPRK
-country: 
-birthdate: 
+country:
+birthdate:
 remark: 'Korea Ryonbong General Corporation is the parent company of Korea Ryonha
   Machinery Joint Venture Corporation. Korea Ryonbong General Corporation was designated
   by the Committee in April 2009 and is a defense conglomerate specializing in acquisition
@@ -33,17 +33,17 @@ remark: 'Korea Ryonbong General Corporation is the parent company of Korea Ryonh
 address:
 - street: Tongan-dong, Central District
   city: Pyongyang
-  state: 
+  state:
   country: Democratic People's Republic of Korea
-  zip: 
+  zip:
 - street: Mangungdae-gu
   city: Pyongyang
-  state: 
+  state:
   country: Democratic People's Republic of Korea
-  zip: 
+  zip:
 - street: Mangyongdae District
   city: Pyongyang
-  state: 
+  state:
   country: Democratic People's Republic of Korea
-  zip: 
+  zip:
 documents: []

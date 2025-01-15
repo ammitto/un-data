@@ -10,13 +10,13 @@ country: Sudan
 birthdate: '1966-01-01'
 remark: 'Gender: Male.'
 address:
-- street: 
-  city: 
-  state: 
+- street:
+  city:
+  state:
   country: ''
-  zip: 
+  zip:
 documents:
 - type: National Identification Number
   number: '11540384888'
   country: Sudan
-  note: 
+  note:

@@ -2,18 +2,18 @@
 entity_type: organization
 names:
 - KOREA TAESONG TRADING COMPANY
-designation: 
+designation:
 source: un-data
 ref_number: KPe.041
 ref_type: DPRK
-country: 
-birthdate: 
+country:
+birthdate:
 remark: Korea Taesong Trading Company has acted on behalf of KOMID in dealings with
   Syria.
 address:
-- street: 
+- street:
   city: Pyongyang
-  state: 
+  state:
   country: Democratic People's Republic of Korea
-  zip: 
+  zip:
 documents: []

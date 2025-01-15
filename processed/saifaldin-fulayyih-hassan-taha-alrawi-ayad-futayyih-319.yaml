@@ -3,21 +3,21 @@ entity_type: person
 names:
 - SAIF-AL-DIN FULAYYIH HASSAN TAHA AL-RAWI
 - Ayad Futayyih Al-Rawi
-designation: 
+designation:
 source: un-data
 ref_number: IQi.014
 ref_type: Iraq
 country: Iraq
-birthdate: 
+birthdate:
 remark: ''
 address:
-- street: 
-  city: 
-  state: 
+- street:
+  city:
+  state:
   country: ''
-  zip: 
+  zip:
 documents:
-- type: 
-  number: 
-  country: 
-  note: 
+- type:
+  number:
+  country:
+  note:

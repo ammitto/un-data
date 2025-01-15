@@ -4,24 +4,24 @@ names:
 - KOREA RYONBONG GENERAL CORPORATION
 - KOREA YONBONG GENERAL CORPORATION
 - LYONGAKSAN GENERAL TRADING CORPORATION
-designation: 
+designation:
 source: un-data
 ref_number: KPe.002
 ref_type: DPRK
-country: 
-birthdate: 
+country:
+birthdate:
 remark: |-
   Defense conglomerate specializing in acquisition for DPRK defense
   industries and support to that country’s military-related sales.
 address:
 - street: Pot’onggang District
   city: Pyongyang
-  state: 
+  state:
   country: Democratic People's Republic of Korea
-  zip: 
+  zip:
 - street: Rakwon-dong, Pothonggang District
   city: Pyongyang
-  state: 
+  state:
   country: Democratic People's Republic of Korea
-  zip: 
+  zip:
 documents: []

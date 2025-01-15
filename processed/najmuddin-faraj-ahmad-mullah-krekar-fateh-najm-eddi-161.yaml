@@ -5,7 +5,7 @@ names:
 - Mullah Krekar
 - Fateh Najm Eddine Farraj
 - Faraj Ahmad Najmuddin
-designation: 
+designation:
 source: un-data
 ref_number: QDi.226
 ref_type: Al-Qaida
@@ -17,11 +17,11 @@ remark: |-
 address:
 - street: Heimdalsgate 36-V
   city: Oslo
-  state: 
+  state:
   country: Norway
   zip: '0578'
 documents:
 - type: National Identification Number
   number: '0075258'
-  country: 
-  note: 
+  country:
+  note:

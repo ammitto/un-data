@@ -7,12 +7,12 @@ names:
 - Ryung Seng Trading Corporation
 - Ryungsong Trading Corporation
 - Kore Kuryonggang Trading Corporation
-designation: 
+designation:
 source: un-data
 ref_number: KPe.008
 ref_type: DPRK
-country: 
-birthdate: 
+country:
+birthdate:
 remark: Korea Tangun Trading Corporation is subordinate to DPRK’s Second Academy of
   Natural Sciences and is primarily responsible for the procurement of commodities
   and technologies to support DPRK’s defense research and development programs, including,
@@ -20,9 +20,9 @@ remark: Korea Tangun Trading Corporation is subordinate to DPRK’s Second Acade
   materials that are controlled or prohibited under relevant multilateral control
   regimes.
 address:
-- street: 
+- street:
   city: Pyongyang
-  state: 
+  state:
   country: Democratic People's Republic of Korea
-  zip: 
+  zip:
 documents: []

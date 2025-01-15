@@ -5,21 +5,21 @@ names:
 - Abid Hamid Bid Hamid Mahmud
 - Col Abdel Hamid Mahmoud
 - Abed Mahmoud Hammud
-designation: 
+designation:
 source: un-data
 ref_number: IQi.004
 ref_type: Iraq
 country: Iraq
-birthdate: 
+birthdate:
 remark: ''
 address:
-- street: 
-  city: 
-  state: 
+- street:
+  city:
+  state:
   country: ''
-  zip: 
+  zip:
 documents:
-- type: 
-  number: 
-  country: 
-  note: 
+- type:
+  number:
+  country:
+  note:

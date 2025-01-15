@@ -3,7 +3,7 @@ entity_type: person
 names:
 - PAEK SE BONG
 - Paek Se Pong
-designation: 
+designation:
 source: un-data
 ref_number: KPi.048
 ref_type: DPRK
@@ -13,13 +13,13 @@ remark: Paek Se Bong is a former Chairman of the Second Economic Committee, a fo
   member of the National Defense Commission, and a former Vice Director of Munitions
   Industry Department (MID)
 address:
-- street: 
-  city: 
-  state: 
+- street:
+  city:
+  state:
   country: ''
-  zip: 
+  zip:
 documents:
-- type: 
-  number: 
-  country: 
-  note: 
+- type:
+  number:
+  country:
+  note:

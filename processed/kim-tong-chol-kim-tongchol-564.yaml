@@ -11,16 +11,16 @@ country: Democratic People's Republic of Korea
 birthdate: '1966-01-27'
 remark: 'Gender: male'
 address:
-- street: 
-  city: 
-  state: 
+- street:
+  city:
+  state:
   country: ''
-  zip: 
+  zip:
 documents:
 - type: Passport
   number: '927234267'
-  country: 
-  note: 
+  country:
+  note:
 - type: Passport
   number: '108120258'
   country: Democratic People's Republic of Korea

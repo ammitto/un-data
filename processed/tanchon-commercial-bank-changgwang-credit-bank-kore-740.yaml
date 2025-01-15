@@ -4,18 +4,18 @@ names:
 - TANCHON COMMERCIAL BANK
 - CHANGGWANG CREDIT BANK
 - KOREA CHANGGWANG CREDIT BANK
-designation: 
+designation:
 source: un-data
 ref_number: KPe.003
 ref_type: DPRK
-country: 
-birthdate: 
+country:
+birthdate:
 remark: Main DPRK financial entity for sales of conventional arms, ballistic missiles,
   and goods related to the assembly and manufacture of such weapons.
 address:
 - street: Saemul 1-Dong Pyongchon District
   city: Pyongyang
-  state: 
+  state:
   country: Democratic People's Republic of Korea
-  zip: 
+  zip:
 documents: []

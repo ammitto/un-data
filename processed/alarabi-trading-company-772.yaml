@@ -2,27 +2,27 @@
 entity_type: organization
 names:
 - Al-ARABI TRADING COMPANY
-designation: 
+designation:
 source: un-data
 ref_number: IQe.203
 ref_type: Iraq
-country: 
-birthdate: 
+country:
+birthdate:
 remark: ''
 address:
 - street: Hai Babil, Lane 11, District 929
   city: Bagdad
-  state: 
+  state:
   country: Iraq
-  zip: 
+  zip:
 - street: Hai Al-Wahda, Lane 15, Area 902, Office 10
   city: Baghdad
-  state: 
+  state:
   country: Iraq
-  zip: 
+  zip:
 - street: P.O. Box 2337, Alwiyah
   city: Bagdad
-  state: 
+  state:
   country: Iraq
-  zip: 
+  zip:
 documents: []

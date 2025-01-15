@@ -15,7 +15,7 @@ names:
                           South African identification number 6910275240086 linked to South African
                           passport number 434021161, both documents have been confiscated)
 - Al-Libi
-designation: 
+designation:
 source: un-data
 ref_number: QDi.057
 ref_type: Al-Qaida
@@ -28,19 +28,19 @@ remark: Associated with Afghan Support Committee (ASC) (QDe.069), Revival of Isl
   on 8 Jun. 2010. Review pursuant to Security Council resolution 2368 (2017) was concluded
   on 24 November 2020.  INTERPOL-UN Security Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals
 address:
-- street: 
+- street:
   city: Tripoli
-  state: 
+  state:
   country: Libya
-  zip: 
+  zip:
 documents:
 - type: Passport
   number: '203037'
   country: Libya
-  note: 
+  note:
 - type: Passport
-  number: 
-  country: 
+  number:
+  country:
   note: |-
     Libyan passport number 347834, issued under name Ibrahim Ali Tantoush, expired
                         on 21 Feb. 2014

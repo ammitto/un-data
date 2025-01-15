@@ -3,21 +3,21 @@ entity_type: person
 names:
 - ALI HASSAN AL-MAJID AL-TIKRITI
 - Al-Kimawi
-designation: 
+designation:
 source: un-data
 ref_number: IQi.005
 ref_type: Iraq
 country: Iraq
-birthdate: 
+birthdate:
 remark: ''
 address:
-- street: 
-  city: 
-  state: 
+- street:
+  city:
+  state:
   country: ''
-  zip: 
+  zip:
 documents:
-- type: 
-  number: 
-  country: 
-  note: 
+- type:
+  number:
+  country:
+  note:

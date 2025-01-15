@@ -13,13 +13,13 @@ country: Democratic People's Republic of Korea
 birthdate: '1967-08-22'
 remark: 'Gender: male'
 address:
-- street: 
-  city: 
-  state: 
+- street:
+  city:
+  state:
   country: ''
-  zip: 
+  zip:
 documents:
 - type: Passport
   number: '381120660'
-  country: 
+  country:
   note: Expires 25 March 2016

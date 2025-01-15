@@ -10,7 +10,7 @@ names:
 - Mhammad Rahim Bin Udin
 - Abu Ayn Tok Cit
 - Muhammad Ratin Bin Nurdin
-designation: 
+designation:
 source: un-data
 ref_number: QDi.417
 ref_type: Al-Qaida
@@ -28,22 +28,22 @@ address:
   city: Kuala Lumpur
   state: Wilayah Persekutuan Kuala Lumpur
   country: Malaysia
-  zip: 
+  zip:
 - street: 90-00-04 Flat Sri Kota, Bandar Tun Razak, 56100
   city: Kuala Lumpur
   state: Wilayah Persekutuan Kuala Lumpur
   country: Malaysia
-  zip: 
+  zip:
 - street: 96-06-06 Flat Sri Kota, Bandar Tun Razak, 56100
   city: Kuala Lumpur
   state: Wilayah Persekutuan Kuala Lumpur
   country: Malaysia
-  zip: 
-- street: 
-  city: 
-  state: 
+  zip:
+- street:
+  city:
+  state:
   country: Syrian Arab Republic
-  zip: 
+  zip:
 documents:
 - type: Passport
   number: A31142734

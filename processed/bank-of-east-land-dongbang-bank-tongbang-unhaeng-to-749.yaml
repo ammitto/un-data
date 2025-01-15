@@ -5,12 +5,12 @@ names:
 - Dongbang BANK
 - TONGBANG U’NHAENG
 - TONGBANG BANK
-designation: 
+designation:
 source: un-data
 ref_number: KPe.013
 ref_type: DPRK
-country: 
-birthdate: 
+country:
+birthdate:
 remark: DPRK financial institution Bank of East Land facilitates weapons-related transactions
   for, and other support to, arms manufacturer and exporter Green Pine Associated
   Corporation (Green Pine). Bank of East Land has actively worked with Green Pine
@@ -22,7 +22,7 @@ remark: DPRK financial institution Bank of East Land facilitates weapons-related
 address:
 - street: PO Box 32, BEL Building, Jonseung-Dung, Moranbong District
   city: Pyongyang
-  state: 
+  state:
   country: Democratic People's Republic of Korea
-  zip: 
+  zip:
 documents: []

@@ -16,7 +16,7 @@ names:
 - Muhammad Jamal Abduh
 - Muhammad Jamal Ahmad Abdu
 - Riyadh
-designation: 
+designation:
 source: un-data
 ref_number: QDi.318
 ref_type: Al-Qaida
@@ -37,18 +37,18 @@ remark: |-
                   Al-Dahabani (Yemeni national). Review pursuant to Security Council resolution 2253
                   (2015) was concluded on 21 Feb. 2019. Review pursuant to Security Council resolution 2610 (2021) was concluded on 8 November 2022. INTERPOL-UN Security Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals
 address:
-- street: 
-  city: 
-  state: 
+- street:
+  city:
+  state:
   country: Egypt
-  zip: 
+  zip:
 documents:
 - type: Passport
   number: '6487'
   country: Egypt
   note: issued under name Muhammad Jamal Abdu
 - type: Passport
-  number: 
+  number:
   country: Egypt
   note: issued in 1993, under name Muhammad Jamal Abd-Al Rahim Ahmad Al-Kashif
 - type: Passport

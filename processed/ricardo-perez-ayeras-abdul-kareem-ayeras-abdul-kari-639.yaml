@@ -8,7 +8,7 @@ names:
 - Jimboy
 - Isaac Jay Galang Perez
 - Abdul Mujib
-designation: 
+designation:
 source: un-data
 ref_number: QDi.248
 ref_type: Al-Qaida
@@ -23,14 +23,14 @@ address:
   city: Tagkawayan
   state: Quezon
   country: Philippines
-  zip: 
+  zip:
 - street: Barangay Tigib
   city: Ayungon
   state: Negros Oriental
   country: Philippines
-  zip: 
+  zip:
 documents:
-- type: 
-  number: 
-  country: 
-  note: 
+- type:
+  number:
+  country:
+  note:

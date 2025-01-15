@@ -3,7 +3,7 @@ entity_type: person
 names:
 - HABIB BEN AHMED AL-LOUBIRI
 - Al-Habib ben Ahmad ben al-Tayib al-Lubiri
-designation: 
+designation:
 source: un-data
 ref_number: QDi.177
 ref_type: Al-Qaida
@@ -18,14 +18,14 @@ remark: 'Italian Fiscal Code: LBR HBB 61S17 Z352F. In detention in Tunisia as of
 address:
 - street: Salam Marnaq Ben Arous district
   city: Sidi Mesoud
-  state: 
+  state:
   country: Tunisia
-  zip: 
-- street: 
-  city: 
-  state: 
+  zip:
+- street:
+  city:
+  state:
   country: Afghanistan
-  zip: 
+  zip:
 documents:
 - type: Passport
   number: M788439
@@ -33,5 +33,5 @@ documents:
   note: expired on 19 Oct. 2006
 - type: National Identification Number
   number: '01817002'
-  country: 
-  note: 
+  country:
+  note:

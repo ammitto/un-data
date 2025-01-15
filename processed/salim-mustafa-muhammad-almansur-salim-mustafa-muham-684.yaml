@@ -7,7 +7,7 @@ names:
 - Salim Mansur Mustafa
 - Salim Mansur
 - Hajji Salim Al-Shaklar
-designation: 
+designation:
 source: un-data
 ref_number: QDi.411
 ref_type: Al-Qaida
@@ -22,14 +22,14 @@ remark: ": Finance “emir” for Islamic State in Iraq and the Levant, listed a
 address:
 - street: 17 Tamoz
   city: Mosul
-  state: 
+  state:
   country: Iraq
-  zip: 
+  zip:
 - street: Tel Afar – Al-Saad
   city: Mosul
-  state: 
+  state:
   country: Iraq
-  zip: 
+  zip:
 documents:
 - type: Passport
   number: A6489694

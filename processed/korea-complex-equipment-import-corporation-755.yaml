@@ -2,12 +2,12 @@
 entity_type: organization
 names:
 - KOREA COMPLEX EQUIPMENT IMPORT CORPORATION
-designation: 
+designation:
 source: un-data
 ref_number: KPe.019
 ref_type: DPRK
-country: 
-birthdate: 
+country:
+birthdate:
 remark: Korea Ryonbong General Corporation is the parent company of Korea Complex
   Equipment Import Corporation. Korea Ryonbong General Corporation was designated
   by the Committee in April 2009 and is a defense conglomerate specializing in acquisition
@@ -15,7 +15,7 @@ remark: Korea Ryonbong General Corporation is the parent company of Korea Comple
 address:
 - street: Rakwon-dong, Pothonggang District
   city: Pyongyang
-  state: 
+  state:
   country: Democratic People's Republic of Korea
-  zip: 
+  zip:
 documents: []

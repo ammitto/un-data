@@ -2,12 +2,12 @@
 entity_type: organization
 names:
 - KINGLY WON INTERNATIONAL CO., LTD
-designation: 
+designation:
 source: un-data
 ref_number: KPe.060
 ref_type: DPRK
-country: 
-birthdate: 
+country:
+birthdate:
 remark: In 2017, Tsang Yung Yuan (aka Neil Tsang) and Kingly Won attempted to engage
   in an oil deal valued at over $1 million with a petroleum company in a third country
   to illicitly transfer to the DPRK. Kingly Won acted as a broker for that petroleum
@@ -16,7 +16,7 @@ remark: In 2017, Tsang Yung Yuan (aka Neil Tsang) and Kingly Won attempted to en
 address:
 - street: Trust Company Complex, Ajeltake Road, Ajeltake Island
   city: Majuro MH
-  state: 
+  state:
   country: Marshall Islands
   zip: '96960'
 documents: []

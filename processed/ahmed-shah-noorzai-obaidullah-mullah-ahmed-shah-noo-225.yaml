@@ -7,22 +7,22 @@ names:
 - Haji Mullah Ahmad Shah
 - Maulawi Ahmed Shah
 - Mullah Mohammed Shah
-designation: 
+designation:
 source: un-data
 ref_number: TAi.166
 ref_type: Taliban
-country: 
+country:
 birthdate: '1985-01-01'
 remark: |-
   Owns and operates the Roshan Money Exchange (TAe.011). Provided financial
   services to Ghul Agha Ishakzai (TAi.147) and other Taliban in Helmand Province.
   Alternative title is Maulavi. INTERPOL-UN Security Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals
 address:
-- street: 
+- street:
   city: Quetta
-  state: 
+  state:
   country: Pakistan
-  zip: 
+  zip:
 documents:
 - type: Passport
   number: NC5140251
@@ -30,5 +30,5 @@ documents:
   note: expires on 22 Oct. 2014, officially cancelled as of 2013
 - type: National Identification Number
   number: 54401-2288025-9
-  country: 
+  country:
   note: officially cancelled as of 2013

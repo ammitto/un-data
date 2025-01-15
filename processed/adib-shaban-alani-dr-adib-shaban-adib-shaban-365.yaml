@@ -4,21 +4,21 @@ names:
 - ADIB SHABAN AL-ANI
 - Dr. Adib Sha’ban
 - Adib Shaban
-designation: 
+designation:
 source: un-data
 ref_number: IQi.076
 ref_type: Iraq
 country: Iraq
-birthdate: 
+birthdate:
 remark: ''
 address:
-- street: 
-  city: 
-  state: 
+- street:
+  city:
+  state:
   country: ''
-  zip: 
+  zip:
 documents:
-- type: 
-  number: 
-  country: 
-  note: 
+- type:
+  number:
+  country:
+  note:

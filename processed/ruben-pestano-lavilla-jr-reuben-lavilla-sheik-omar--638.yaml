@@ -15,7 +15,7 @@ names:
 - So
 - Eso
 - Junjun
-designation: 
+designation:
 source: un-data
 ref_number: QDi.247
 ref_type: Al-Qaida
@@ -29,9 +29,9 @@ remark: |-
 address:
 - street: 10th Avenue
   city: Caloocan City
-  state: 
+  state:
   country: Philippines
-  zip: 
+  zip:
 documents:
 - type: Passport
   number: MM611523

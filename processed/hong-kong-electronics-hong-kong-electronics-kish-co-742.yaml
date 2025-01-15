@@ -3,12 +3,12 @@ entity_type: organization
 names:
 - HONG KONG ELECTRONICS
 - HONG KONG ELECTRONICS KISH CO.
-designation: 
+designation:
 source: un-data
 ref_number: KPe.005
 ref_type: DPRK
-country: 
-birthdate: 
+country:
+birthdate:
 remark: Owned or controlled by, or acts or purports to act for or on behalf of Tanchon
   Commercial Bank and KOMID. Hong Kong Electronics has transferred millions of dollars
   of proliferation-related funds on behalf of Tanchon Commercial Bank and KOMID (both
@@ -16,8 +16,8 @@ remark: Owned or controlled by, or acts or purports to act for or on behalf of T
   facilitated the movement of money from Iran to the DPRK on behalf of KOMID.
 address:
 - street: Sanaee Street
-  city: 
+  city:
   state: Kish Island
   country: Iran (Islamic Republic of)
-  zip: 
+  zip:
 documents: []

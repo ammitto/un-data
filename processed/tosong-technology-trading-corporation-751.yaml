@@ -2,20 +2,20 @@
 entity_type: organization
 names:
 - TOSONG TECHNOLOGY TRADING CORPORATION
-designation: 
+designation:
 source: un-data
 ref_number: KPe.015
 ref_type: DPRK
-country: 
-birthdate: 
+country:
+birthdate:
 remark: The Korea Mining Development Corporation (KOMID) is the parent company of
   Tosong Technology Trading Corporation. KOMID was designated by the Committee in
   April 2009 and is the DPRK’s primary arms dealer and main exporter of goods and
   equipment related to ballistic missiles and conventional weapons.
 address:
-- street: 
+- street:
   city: Pyongyang
-  state: 
+  state:
   country: Democratic People's Republic of Korea
-  zip: 
+  zip:
 documents: []

@@ -10,17 +10,17 @@ country: Sudan
 birthdate: '1969-01-01'
 remark: 'Gender: Male.'
 address:
-- street: 
-  city: 
-  state: 
+- street:
+  city:
+  state:
   country: ''
-  zip: 
+  zip:
 documents:
 - type: Passport
   number: 'P07834700 '
   country: Sudan
-  note: 
+  note:
 - type: National Identification Number
   number: '21052659309 '
   country: Sudan
-  note: 
+  note:

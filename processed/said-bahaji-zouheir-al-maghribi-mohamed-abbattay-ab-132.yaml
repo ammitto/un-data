@@ -5,7 +5,7 @@ names:
 - Zouheir Al Maghribi
 - Mohamed Abbattay
 - Abderrahmane Al Maghribi
-designation: 
+designation:
 source: un-data
 ref_number: QDi.080
 ref_type: Al-Qaida
@@ -21,14 +21,14 @@ remark: Deputy head of the media committee of Al-Qaida (QDe.004) as at Apr. 2010
 address:
 - street: Bunatwiete 23
   city: Hamburg
-  state: 
+  state:
   country: Germany
   zip: '21073'
 documents:
 - type: Passport
   number: 'Provisional passport No.: 28642163'
   country: Germany
-  note: 
+  note:
 - type: Passport
   number: '954242'
   country: Morocco
@@ -36,4 +36,4 @@ documents:
 - type: National Identification Number
   number: '1336597587'
   country: Germany
-  note: 
+  note:

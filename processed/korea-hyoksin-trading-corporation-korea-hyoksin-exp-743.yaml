@@ -3,19 +3,19 @@ entity_type: organization
 names:
 - KOREA HYOKSIN TRADING CORPORATION
 - KOREA HYOKSIN EXPORT AND IMPORT CORPORATION
-designation: 
+designation:
 source: un-data
 ref_number: KPe.006
 ref_type: DPRK
-country: 
-birthdate: 
+country:
+birthdate:
 remark: A DPRK company based in Pyongyang that is subordinate to Korea Ryonbong General
   Corporation (designated by the Committee in April 2009) and is involved in the development
   of WMD.
 address:
 - street: Rakwon-dong, Pothonggang District
   city: Pyongyang
-  state: 
+  state:
   country: Democratic People's Republic of Korea
-  zip: 
+  zip:
 documents: []

@@ -6,7 +6,7 @@ names:
 - Ibrahim Sabawi Ibrahim Hassan Al-Tikriti
 - Ibrahim Sabawi Ibrahim Al-Hassan Al-Tikriti
 - Muhammad Da’ud Salman
-designation: 
+designation:
 source: un-data
 ref_number: IQi.084
 ref_type: Iraq
@@ -16,16 +16,16 @@ remark: ''
 address:
 - street: Al-Shahid Street, Al-Mahata Neighborhood, Az Zabadani
   city: Az Zabadani
-  state: 
+  state:
   country: Syrian Arab Republic
-  zip: 
+  zip:
 - street: Fuad Dawod Farm, Az Zabadani, Damascus
   city: Damascus
-  state: 
+  state:
   country: Syrian Arab Republic
-  zip: 
+  zip:
 documents:
-- type: 
-  number: 
-  country: 
-  note: 
+- type:
+  number:
+  country:
+  note:

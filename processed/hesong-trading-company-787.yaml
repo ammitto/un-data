@@ -2,18 +2,18 @@
 entity_type: organization
 names:
 - HESONG TRADING COMPANY
-designation: 
+designation:
 source: un-data
 ref_number: KPe.024
 ref_type: DPRK
-country: 
-birthdate: 
+country:
+birthdate:
 remark: The Korea Mining Development Trading Corporation (KOMID) is the parent company
   of Hesong Trading Corporation.
 address:
-- street: 
+- street:
   city: Pyongyang
-  state: 
+  state:
   country: Democratic People's Republic of Korea
-  zip: 
+  zip:
 documents: []

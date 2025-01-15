@@ -12,7 +12,7 @@ names:
 - Abu Ayyad al-Tunisi
 - Abou Aayadh
 - Abou Iyadh
-designation: 
+designation:
 source: un-data
 ref_number: QDi.333
 ref_type: Al-Qaida
@@ -27,17 +27,17 @@ address:
   city: Hammam Lif
   state: Ben Arous
   country: Tunisia
-  zip: 
-- street: 
-  city: 
-  state: 
+  zip:
+- street:
+  city:
+  state:
   country: Libya
-  zip: 
+  zip:
 documents:
 - type: Passport
   number: G557170
   country: Tunisia
-  note: 
+  note:
 - type: National Identification Number
   number: '05054425'
   country: Tunisia

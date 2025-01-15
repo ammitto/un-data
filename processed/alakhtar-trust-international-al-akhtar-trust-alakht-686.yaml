@@ -9,12 +9,12 @@ names:
 - Pakistani Relief Foundation
 - Azmat-e-Pakistan Trust
 - Azmat Pakistan Trust
-designation: 
+designation:
 source: un-data
 ref_number: QDe.121
 ref_type: Al-Qaida
-country: 
-birthdate: 
+country:
+birthdate:
 remark: |-
   Regional offices in Pakistan: Bahawalpur, Bawalnagar, Gilgit, Islamabad,
   Mirpur Khas, Tando-Jan-Muhammad. Akhtarabad Medical Camp is in Spin Boldak, Afghanistan.
@@ -25,12 +25,12 @@ remark: |-
 address:
 - street: ST-1/A, Gulsahn-e-Iqbal, Block 2
   city: Karachi
-  state: 
+  state:
   country: Pakistan
   zip: '25300'
 - street: Gulistan-e-Jauhar, Block 12
   city: Karachi
-  state: 
+  state:
   country: Pakistan
-  zip: 
+  zip:
 documents: []

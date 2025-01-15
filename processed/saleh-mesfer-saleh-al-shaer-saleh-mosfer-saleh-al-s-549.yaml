@@ -15,7 +15,7 @@ source: un-data
 ref_number: YEi.007
 ref_type: Yemen
 country: Yemen
-birthdate: 
+birthdate:
 remark: 'As Houthi ‘Assistant Minister of Defence for Logistics’, assisted the Houthis
   in acquiring smuggled arms and weapons. As ‘Judicial Custodian’ directly involved
   in the widespread and unlawful appropriation of assets and entities owned by private
@@ -25,11 +25,11 @@ remark: 'As Houthi ‘Assistant Minister of Defence for Logistics’, assisted t
   tribal confederacy. Photograph available for inclusion in INTERPOL-UNSC Special
   Notice web link: INTERPOL-UN Security Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals'
 address:
-- street: 
-  city: 
-  state: 
+- street:
+  city:
+  state:
   country: Yemen
-  zip: 
+  zip:
 documents:
 - type: Passport
   number: '05274639'
@@ -42,8 +42,8 @@ documents:
 - type: National Identification Number
   number: '1388114'
   country: Yemen
-  note: 
+  note:
 - type: National Identification Number
   number: '10010057512'
   country: Yemen
-  note: 
+  note:

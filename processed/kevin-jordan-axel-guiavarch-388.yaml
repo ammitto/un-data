@@ -2,7 +2,7 @@
 entity_type: person
 names:
 - KEVIN JORDAN AXEL GUIAVARCH
-designation: 
+designation:
 source: un-data
 ref_number: QDi.341
 ref_type: Al-Qaida
@@ -17,26 +17,26 @@ remark: French terrorist fighter associated with Al-Nusrah Front for the People 
   to Security Council resolution 2368 (2017) was concluded on 15 November 2021. INTERPOL-UN
   Security Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals
 address:
-- street: 
+- street:
   city: Grenoble
-  state: 
+  state:
   country: France
-  zip: 
-- street: 
-  city: 
-  state: 
+  zip:
+- street:
+  city:
+  state:
   country: Syrian Arab Republic
-  zip: 
-- street: 
-  city: 
-  state: 
+  zip:
+- street:
+  city:
+  state:
   country: Turkey
-  zip: 
-- street: 
-  city: 
-  state: 
+  zip:
+- street:
+  city:
+  state:
   country: France
-  zip: 
+  zip:
 documents:
 - type: Passport
   number: 12CP63882.3FRA

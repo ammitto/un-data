@@ -11,13 +11,13 @@ country: Democratic People's Republic of Korea
 birthdate: '1979-08-01'
 remark: 'Location Libya. Gender: male'
 address:
-- street: 
-  city: 
-  state: 
+- street:
+  city:
+  state:
   country: Libya
-  zip: 
+  zip:
 documents:
 - type: Passport
   number: '836210029'
-  country: 
-  note: 
+  country:
+  note:

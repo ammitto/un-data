@@ -9,18 +9,18 @@ source: un-data
 ref_number: KPi.049
 ref_type: DPRK
 country: Democratic People's Republic of Korea
-birthdate: 
+birthdate:
 remark: Directs the activities of Korea Mining Development Corporation, the DPRK’s
   premier arms dealer and main exporter of goods and equipment related to ballistic
   missiles and conventional weapons.
 address:
-- street: 
-  city: 
-  state: 
+- street:
+  city:
+  state:
   country: Democratic People's Republic of Korea
-  zip: 
+  zip:
 documents:
 - type: Passport
   number: '290410121 '
-  country: 
-  note: 
+  country:
+  note:

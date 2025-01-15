@@ -4,12 +4,12 @@ names:
 - AYYUB BASHIR
 - Alhaj Qari Ayub Bashar
 - Qari Muhammad Ayub
-designation: 
+designation:
 source: un-data
 ref_number: QDi.311
 ref_type: Al-Qaida
 country: Uzbekistan
-birthdate: 
+birthdate:
 remark: |-
   Member of leadership council as of early 2010 and head of finance for the
                   Islamic Movement of Uzbekistan (QDe.010). Coordinated financial and logistical
@@ -25,9 +25,9 @@ address:
   city: North Waziristan Agency
   state: Federal Administered Tribal Areas
   country: Pakistan
-  zip: 
+  zip:
 documents:
-- type: 
-  number: 
-  country: 
-  note: 
+- type:
+  number:
+  country:
+  note:

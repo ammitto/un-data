@@ -5,12 +5,12 @@ names:
 - East Sea Shipping Company
 - Korea Mirae Shipping Co. Ltd
 - Haeyang Crew Management Company
-designation: 
+designation:
 source: un-data
 ref_number: KPe.020
 ref_type: DPRK
-country: 
-birthdate: 
+country:
+birthdate:
 remark: 'Ocean Maritime Management Company, Limited is the operator/manager of the
   vessel Chong Chon Gang. It played a key role in arranging the shipment of concealed
   cargo of arms and related materiel from Cuba to the DPRK in July 2013. As such,
@@ -22,12 +22,12 @@ remark: 'Ocean Maritime Management Company, Limited is the operator/manager of t
 address:
 - street: Donghung Dong, Central District, PO Box 120
   city: Pyongyang
-  state: 
+  state:
   country: Democratic People's Republic of Korea
-  zip: 
+  zip:
 - street: Dongheung-dong Changgwang Street, Chung-Ku, PO Box 125
   city: Pyongyang
-  state: 
+  state:
   country: Democratic People's Republic of Korea
-  zip: 
+  zip:
 documents: []

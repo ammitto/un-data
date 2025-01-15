@@ -17,22 +17,22 @@ birthdate: '1988-05-07'
 remark: Listed pursuant to paragraphs 15 and 17 of resolution 1970 (Travel Ban, Asset
   Freeze)
 address:
-- street: 
+- street:
   city: Garabulli
-  state: 
+  state:
   country: Libya
-  zip: 
-- street: 
+  zip:
+- street:
   city: Zawiya
-  state: 
+  state:
   country: Libya
-  zip: 
+  zip:
 documents:
 - type: Passport
   number: LY53FP76
   country: Libya
-  note: 
+  note:
 - type: National Identification Number
   number: '119880387067'
-  country: 
-  note: 
+  country:
+  note:

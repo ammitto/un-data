@@ -3,7 +3,7 @@ entity_type: person
 names:
 - YASSIN CHOUKA
 - Abu Ibraheem
-designation: 
+designation:
 source: un-data
 ref_number: QDi.301
 ref_type: Al-Qaida
@@ -16,7 +16,7 @@ remark: |-
 address:
 - street: Karl-Barth-Straße 14
   city: Bonn
-  state: 
+  state:
   country: Germany
   zip: '53129'
 documents:

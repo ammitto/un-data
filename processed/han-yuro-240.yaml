@@ -9,18 +9,18 @@ source: un-data
 ref_number: KPi.005
 ref_type: DPRK
 country: Democratic People's Republic of Korea
-birthdate: 
+birthdate:
 remark: |-
   Director of Korea Ryongaksan General Trading Corporation; involved in
   DPRK’s ballistic missile program.
 address:
-- street: 
-  city: 
-  state: 
+- street:
+  city:
+  state:
   country: ''
-  zip: 
+  zip:
 documents:
-- type: 
-  number: 
-  country: 
-  note: 
+- type:
+  number:
+  country:
+  note:

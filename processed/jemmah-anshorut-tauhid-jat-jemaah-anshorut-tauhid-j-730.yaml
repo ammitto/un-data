@@ -8,12 +8,12 @@ names:
 - Jamaah Ansharut Tauhid
 - Jama’ah Ansharut Tauhid
 - Laskar 99
-designation: 
+designation:
 source: un-data
 ref_number: QDe.133
 ref_type: Al-Qaida
-country: 
-birthdate: 
+country:
+birthdate:
 remark: |-
   A group affiliated with the Islamic State in Iraq and the Levant (ISIL), listed
                   as Al-Qaida in Iraq (QDe.115), that has perpetrated attacks in Indonesia. Founded
@@ -25,7 +25,7 @@ remark: |-
 address:
 - street: Jl. Semenromo number 58, 04/XV Ngruki
   city: Cemani, Grogol, Sukoharjo, Jawa Tengah
-  state: 
+  state:
   country: Indonesia
-  zip: 
+  zip:
 documents: []

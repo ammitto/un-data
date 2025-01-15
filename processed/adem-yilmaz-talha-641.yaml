@@ -3,7 +3,7 @@ entity_type: person
 names:
 - ADEM YILMAZ
 - Talha
-designation: 
+designation:
 source: un-data
 ref_number: QDi.261
 ref_type: Al-Qaida
@@ -17,15 +17,15 @@ remark: Associated with the Islamic Jihad Union (IJU), also known as the Islamic
   Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals
 address:
 - street: 'Südliche Ringstrasse 133 '
-  city: 
+  city:
   state: Langen
   country: Germany
   zip: '63225'
-- street: 
-  city: 
-  state: 
+- street:
+  city:
+  state:
   country: Türkiye
-  zip: 
+  zip:
 documents:
 - type: Passport
   number: TR-P 614 166

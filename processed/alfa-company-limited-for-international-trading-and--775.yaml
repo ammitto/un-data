@@ -4,17 +4,17 @@ names:
 - ALFA COMPANY LIMITED FOR INTERNATIONAL TRADING AND MARKETING
 - ALFA TRADING COMPANY
 - ALFA INVESTMENT AND INTERNATIONAL TRADING
-designation: 
+designation:
 source: un-data
 ref_number: IQe.206
 ref_type: Iraq
-country: 
-birthdate: 
+country:
+birthdate:
 remark: ''
 address:
 - street: P.O. Box 910606
   city: 'Amman '
-  state: 
+  state:
   country: Jordan
   zip: '11191 '
 documents: []

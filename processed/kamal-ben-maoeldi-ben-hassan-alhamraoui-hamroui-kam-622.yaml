@@ -8,7 +8,7 @@ names:
 - Hamraoui Kamel
 - Kamel
 - Kimo
-designation: 
+designation:
 source: un-data
 ref_number: QDi.140
 ref_type: Al-Qaida
@@ -24,14 +24,14 @@ remark: Mother’s name is Khamisah al-Kathiri. Subject to a decree of expulsion
 address:
 - street: Via Bertesi Number 27
   city: Cremona
-  state: 
+  state:
   country: Italy
-  zip: 
+  zip:
 - street: Via Plebiscito Number 3
   city: Cremona
-  state: 
+  state:
   country: Italy
-  zip: 
+  zip:
 documents:
 - type: Passport
   number: P229856

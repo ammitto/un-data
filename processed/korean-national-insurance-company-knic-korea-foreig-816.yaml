@@ -3,18 +3,18 @@ entity_type: organization
 names:
 - KOREAN NATIONAL INSURANCE COMPANY (KNIC)
 - Korea Foreign Insurance Company
-designation: 
+designation:
 source: un-data
 ref_number: KPe.048
 ref_type: DPRK
-country: 
-birthdate: 
+country:
+birthdate:
 remark: The Korean National Insurance Company is a DPRK financial and insurance company
   and is affiliated with Office 39.
 address:
 - street: Central District
   city: Pyongyang
-  state: 
+  state:
   country: Democratic People's Republic of Korea
-  zip: 
+  zip:
 documents: []

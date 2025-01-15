@@ -4,12 +4,12 @@ names:
 - CHONGCHONGANG SHIPPING COMPANY
 - Chong Chon Gang Shipping Co. Ltd.
 - Chongchongang Shipping Co LTD
-designation: 
+designation:
 source: un-data
 ref_number: KPe.022
 ref_type: DPRK
-country: 
-birthdate: 
+country:
+birthdate:
 remark: |-
   IMO Number: 5342883. The Chongchongang Shipping Company, through its vessel,
                   the Chong Chon Gang, attempted to directly import the illicit shipment of
@@ -17,12 +17,12 @@ remark: |-
 address:
 - street: 817 Haeun, Donghung-dong, Central District
   city: Pyongyang
-  state: 
+  state:
   country: Democratic People's Republic of Korea
-  zip: 
+  zip:
 - street: 817, Haeum, Tonghun-dong, Chung-gu
   city: Pyongyang
-  state: 
+  state:
   country: Democratic People's Republic of Korea
-  zip: 
+  zip:
 documents: []

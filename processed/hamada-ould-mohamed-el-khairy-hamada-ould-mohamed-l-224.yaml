@@ -6,12 +6,12 @@ names:
 - Ould Kheirou
 - Abou QumQum
 - Hamad el Khairy
-designation: 
+designation:
 source: un-data
 ref_number: QDi.315
 ref_type: Al-Qaida
 country: Mauritania
-birthdate: 
+birthdate:
 remark: |-
   Leader of the Mouvement pour l’Unification et le Jihad en Afrique de
   l’Ouest (MUJAO) (QDe.134). Has provided logistical support to the Sahelian group Al
@@ -19,11 +19,11 @@ remark: |-
   International arrest warrant issued by Mauritania. Mother’s name is Tijal Bint Mohamed
   Dadda. Review pursuant to Security Council resolution 2253 (2015) was concluded on 21 Feb. 2019.Review pursuant to Security Council resolution 2610 (2021) was concluded on 8 November 2022. INTERPOL-UN Security Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals
 address:
-- street: 
+- street:
   city: Gao
-  state: 
+  state:
   country: Mali
-  zip: 
+  zip:
 documents:
 - type: Passport
   number: A1447120

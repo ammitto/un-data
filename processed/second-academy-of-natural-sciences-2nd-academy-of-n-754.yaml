@@ -10,12 +10,12 @@ names:
 - KUKPANG KWAHAK-WON
 - SECOND ACADEMY OF NATURAL SCIENCES RESEARCH INSTITUTE
 - SANSRI
-designation: 
+designation:
 source: un-data
 ref_number: KPe.018
 ref_type: DPRK
-country: 
-birthdate: 
+country:
+birthdate:
 remark: The Second Academy of Natural Sciences is a national-level organization responsible
   for research and development of the DPRK’s advanced weapons systems, including missiles
   and probably nuclear weapons. The Second Academy of Natural Sciences uses a number
@@ -28,9 +28,9 @@ remark: The Second Academy of Natural Sciences is a national-level organization 
   procurement, including materials that are controlled or prohibited under relevant
   multilateral control regimes.
 address:
-- street: 
+- street:
   city: Pyongyang
-  state: 
+  state:
   country: Democratic People's Republic of Korea
-  zip: 
+  zip:
 documents: []

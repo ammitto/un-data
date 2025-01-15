@@ -3,7 +3,7 @@ entity_type: person
 names:
 - RADI ABD EL SAMIE ABOU EL YAZID EL AYASHI
 - Mera’i
-designation: 
+designation:
 source: un-data
 ref_number: QDi.142
 ref_type: Al-Qaida
@@ -17,11 +17,11 @@ remark: |-
 address:
 - street: Via Cilea 40
   city: Milan
-  state: 
+  state:
   country: Italy
-  zip: 
+  zip:
 documents:
-- type: 
-  number: 
-  country: 
-  note: 
+- type:
+  number:
+  country:
+  note:

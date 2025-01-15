@@ -8,7 +8,7 @@ names:
 - Hafiz Abdul Rahman Makki
 - Hafiz Abdul Rehman Makki
 - Hafiz Abdul Rehman
-designation: 
+designation:
 source: un-data
 ref_number: QDi.433
 ref_type: Al-Qaida
@@ -25,21 +25,21 @@ address:
   city: Muridke
   state: Punjab Province
   country: Pakistan
-  zip: 
+  zip:
 documents:
 - type: Passport
   number: CG9153881
   country: Pakistan
-  note: 
+  note:
 - type: Passport
   number: A5199819
   country: Pakistan
-  note: 
+  note:
 - type: National Identification Number
   number: '6110111883885'
   country: Pakistan
-  note: 
+  note:
 - type: National Identification Number
   number: '34454009709'
   country: Pakistan
-  note: 
+  note:

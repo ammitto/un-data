@@ -10,7 +10,7 @@ names:
 - Chairman
 - General Nkunda
 - Papa Six
-designation: 
+designation:
 source: un-data
 ref_number: CDi.022
 ref_type: DRC
@@ -27,13 +27,13 @@ remark: |-
   ruling that the matter should be examined by a military court. Nkunda’s lawyers appealed
   with the Rwandan Military Court. INTERPOL-UN Security Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals
 address:
-- street: 
-  city: 
-  state: 
+- street:
+  city:
+  state:
   country: ''
-  zip: 
+  zip:
 documents:
-- type: 
-  number: 
-  country: 
-  note: 
+- type:
+  number:
+  country:
+  note:

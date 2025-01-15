@@ -10,12 +10,12 @@ names:
 - Namhung Trading Corporation
 - Korea Daeryonggang Trading Corporation
 - Korea Tearyonggang Trading Corporation
-designation: 
+designation:
 source: un-data
 ref_number: KPe.004
 ref_type: DPRK
-country: 
-birthdate: 
+country:
+birthdate:
 remark: 'Namchongang is a DPRK trading company subordinate to the General Bureau of
   Atomic Energy (GBAE). Namchongang has been involved in the procurement of Japanese
   origin vacuum pumps that were identified at a DPRK nuclear facility, as well as
@@ -29,12 +29,12 @@ remark: 'Namchongang is a DPRK trading company subordinate to the General Bureau
 address:
 - street: Chilgol
   city: Pyongyang
-  state: 
+  state:
   country: Democratic People's Republic of Korea
-  zip: 
+  zip:
 - street: Sengujadong 11-2/(or Kwangbok-dong), Mangyongdae District
   city: Pyongyang
-  state: 
+  state:
   country: Democratic People's Republic of Korea
-  zip: 
+  zip:
 documents: []
