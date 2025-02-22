@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<CONSOLIDATED_LIST xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:noNamespaceSchemaLocation='https://www.un.org/sc/resources/sc-sanctions.xsd' dateGenerated='2025-02-21T00:00:06.626Z'>
+<CONSOLIDATED_LIST xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:noNamespaceSchemaLocation='https://www.un.org/sc/resources/sc-sanctions.xsd' dateGenerated='2025-02-22T00:00:04.089Z'>
     <INDIVIDUALS>
         <INDIVIDUAL>
             <DATAID>110447</DATAID>
@@ -8069,109 +8069,6 @@ on 1 Jun. 2010.  Review pursuant to Security Council resolution 2253 (2015) was 
             <INDIVIDUAL_PLACE_OF_BIRTH>
                 <CITY>Kismaayo</CITY>
                 <COUNTRY>Somalia</COUNTRY>
-            </INDIVIDUAL_PLACE_OF_BIRTH>
-            <INDIVIDUAL_DOCUMENT/>
-            <SORT_KEY/>
-            <SORT_KEY_LAST_MOD/>
-        </INDIVIDUAL>
-        <INDIVIDUAL>
-            <DATAID>112038</DATAID>
-            <VERSIONNUM>1</VERSIONNUM>
-            <FIRST_NAME>LIONEL</FIRST_NAME>
-            <SECOND_NAME>DUMONT</SECOND_NAME>
-            <UN_LIST_TYPE>Al-Qaida</UN_LIST_TYPE>
-            <REFERENCE_NUMBER>QDi.095</REFERENCE_NUMBER>
-            <LISTED_ON>2003-06-25</LISTED_ON>
-            <COMMENTS1>In custody in France as of May 2004. Sentenced to 25 years imprisonment in France in 2007. His sentence is due to end on 13 Jul. 2023 and his unconditional detention to end on 13 Aug. 2020. Review pursuant to Security Council resolution 1822 (2008) was concluded on 15 Jun. 2010. INTERPOL-UN Security Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals</COMMENTS1>
-            <NATIONALITY>
-                <VALUE>France</VALUE>
-            </NATIONALITY>
-            <LIST_TYPE>
-                <VALUE>UN List</VALUE>
-            </LIST_TYPE>
-            <LAST_DAY_UPDATED>
-                <VALUE>2004-11-22</VALUE>
-                <VALUE>2004-11-26</VALUE>
-                <VALUE>2007-07-02</VALUE>
-                <VALUE>2007-10-17</VALUE>
-                <VALUE>2009-03-24</VALUE>
-                <VALUE>2010-08-06</VALUE>
-                <VALUE>2016-06-24</VALUE>
-            </LAST_DAY_UPDATED>
-            <INDIVIDUAL_ALIAS>
-                <QUALITY>Good</QUALITY>
-                <ALIAS_NAME>Jacques Brougere</ALIAS_NAME>
-            </INDIVIDUAL_ALIAS>
-            <INDIVIDUAL_ALIAS>
-                <QUALITY>Good</QUALITY>
-                <ALIAS_NAME>Abu Hamza</ALIAS_NAME>
-            </INDIVIDUAL_ALIAS>
-            <INDIVIDUAL_ALIAS>
-                <QUALITY>Good</QUALITY>
-                <ALIAS_NAME>Di Karlo Antonio</ALIAS_NAME>
-            </INDIVIDUAL_ALIAS>
-            <INDIVIDUAL_ALIAS>
-                <QUALITY>Good</QUALITY>
-                <ALIAS_NAME>Merlin Oliver Christian Rene</ALIAS_NAME>
-            </INDIVIDUAL_ALIAS>
-            <INDIVIDUAL_ALIAS>
-                <QUALITY>Good</QUALITY>
-                <ALIAS_NAME>Arfauni Imad Ben Yousset Hamza</ALIAS_NAME>
-            </INDIVIDUAL_ALIAS>
-            <INDIVIDUAL_ALIAS>
-                <QUALITY>Good</QUALITY>
-                <ALIAS_NAME>Imam Ben Yussuf Arfaj</ALIAS_NAME>
-            </INDIVIDUAL_ALIAS>
-            <INDIVIDUAL_ALIAS>
-                <QUALITY>Good</QUALITY>
-                <ALIAS_NAME>Abou Hamza</ALIAS_NAME>
-            </INDIVIDUAL_ALIAS>
-            <INDIVIDUAL_ALIAS>
-                <QUALITY>Good</QUALITY>
-                <ALIAS_NAME>Arfauni Imad</ALIAS_NAME>
-            </INDIVIDUAL_ALIAS>
-            <INDIVIDUAL_ALIAS>
-                <QUALITY>Low</QUALITY>
-                <ALIAS_NAME>Bilal</ALIAS_NAME>
-            </INDIVIDUAL_ALIAS>
-            <INDIVIDUAL_ALIAS>
-                <QUALITY>Low</QUALITY>
-                <ALIAS_NAME>Hamza</ALIAS_NAME>
-            </INDIVIDUAL_ALIAS>
-            <INDIVIDUAL_ALIAS>
-                <QUALITY>Low</QUALITY>
-                <ALIAS_NAME>Koumkal</ALIAS_NAME>
-            </INDIVIDUAL_ALIAS>
-            <INDIVIDUAL_ALIAS>
-                <QUALITY>Low</QUALITY>
-                <ALIAS_NAME>Kumkal</ALIAS_NAME>
-            </INDIVIDUAL_ALIAS>
-            <INDIVIDUAL_ALIAS>
-                <QUALITY>Low</QUALITY>
-                <ALIAS_NAME>Merlin</ALIAS_NAME>
-            </INDIVIDUAL_ALIAS>
-            <INDIVIDUAL_ALIAS>
-                <QUALITY>Low</QUALITY>
-                <ALIAS_NAME>Tinet</ALIAS_NAME>
-            </INDIVIDUAL_ALIAS>
-            <INDIVIDUAL_ALIAS>
-                <QUALITY>Low</QUALITY>
-                <ALIAS_NAME>Brugere</ALIAS_NAME>
-            </INDIVIDUAL_ALIAS>
-            <INDIVIDUAL_ALIAS>
-                <QUALITY>Low</QUALITY>
-                <ALIAS_NAME>Dimon</ALIAS_NAME>
-            </INDIVIDUAL_ALIAS>
-            <INDIVIDUAL_ADDRESS>
-                <COUNTRY>France</COUNTRY>
-            </INDIVIDUAL_ADDRESS>
-            <INDIVIDUAL_DATE_OF_BIRTH>
-                <TYPE_OF_DATE>EXACT</TYPE_OF_DATE>
-                <DATE>1971-01-29</DATE>
-            </INDIVIDUAL_DATE_OF_BIRTH>
-            <INDIVIDUAL_PLACE_OF_BIRTH>
-                <CITY>Roubaix</CITY>
-                <COUNTRY>France</COUNTRY>
             </INDIVIDUAL_PLACE_OF_BIRTH>
             <INDIVIDUAL_DOCUMENT/>
             <SORT_KEY/>
