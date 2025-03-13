@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<CONSOLIDATED_LIST xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:noNamespaceSchemaLocation='https://www.un.org/sc/resources/sc-sanctions.xsd' dateGenerated='2025-03-12T00:00:04.938Z'>
+<CONSOLIDATED_LIST xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:noNamespaceSchemaLocation='https://www.un.org/sc/resources/sc-sanctions.xsd' dateGenerated='2025-03-13T00:00:00.807Z'>
     <INDIVIDUALS>
         <INDIVIDUAL>
             <DATAID>110447</DATAID>
@@ -6315,59 +6315,6 @@ concluded on 15 Jun. 2010. Review pursuant to Security Council resolution 2253 (
             <SORT_KEY_LAST_MOD/>
         </INDIVIDUAL>
         <INDIVIDUAL>
-            <DATAID>111533</DATAID>
-            <VERSIONNUM>1</VERSIONNUM>
-            <FIRST_NAME>ABD ALLAH</FIRST_NAME>
-            <SECOND_NAME>MOHAMED</SECOND_NAME>
-            <THIRD_NAME>RAGAB</THIRD_NAME>
-            <FOURTH_NAME>ABDEL RAHMAN</FOURTH_NAME>
-            <UN_LIST_TYPE>Al-Qaida</UN_LIST_TYPE>
-            <REFERENCE_NUMBER>QDi.192</REFERENCE_NUMBER>
-            <LISTED_ON>2005-09-29</LISTED_ON>
-            <NAME_ORIGINAL_SCRIPT>عبد الله محمد رجب عبد الرحمن</NAME_ORIGINAL_SCRIPT>
-            <COMMENTS1>Member of Egyptian Islamic Jihad (QDe.003). Review pursuant to Security Council
-                resolution 1822 (2008) was concluded on 1 Jun. 2010. Review pursuant to Security
-                Council resolution 2253 (2015) was concluded on 21 Feb. 2019. Review pursuant to
-                Security Council resolution 2368 (2017) was concluded on 15 November 2021. INTERPOL-UN Security Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals</COMMENTS1>
-            <NATIONALITY>
-                <VALUE>Egypt</VALUE>
-            </NATIONALITY>
-            <LIST_TYPE>
-                <VALUE>UN List</VALUE>
-            </LIST_TYPE>
-            <LAST_DAY_UPDATED>
-                <VALUE>2011-12-13</VALUE>
-                <VALUE>2019-05-01</VALUE>
-                <VALUE>2021-11-15</VALUE>
-            </LAST_DAY_UPDATED>
-            <INDIVIDUAL_ALIAS>
-                <QUALITY>Good</QUALITY>
-                <ALIAS_NAME>Abu Al-Khayr</ALIAS_NAME>
-            </INDIVIDUAL_ALIAS>
-            <INDIVIDUAL_ALIAS>
-                <QUALITY>Good</QUALITY>
-                <ALIAS_NAME>Ahmad Hasan</ALIAS_NAME>
-            </INDIVIDUAL_ALIAS>
-            <INDIVIDUAL_ALIAS>
-                <QUALITY>Good</QUALITY>
-                <ALIAS_NAME>Abu Jihad</ALIAS_NAME>
-            </INDIVIDUAL_ALIAS>
-            <INDIVIDUAL_ADDRESS>
-                <NOTE>Believed to be in Pakistan or Afghanistan</NOTE>
-            </INDIVIDUAL_ADDRESS>
-            <INDIVIDUAL_DATE_OF_BIRTH>
-                <TYPE_OF_DATE>EXACT</TYPE_OF_DATE>
-                <DATE>1957-11-03</DATE>
-            </INDIVIDUAL_DATE_OF_BIRTH>
-            <INDIVIDUAL_PLACE_OF_BIRTH>
-                <CITY>Kafr Al-Shaykh</CITY>
-                <COUNTRY>Egypt</COUNTRY>
-            </INDIVIDUAL_PLACE_OF_BIRTH>
-            <INDIVIDUAL_DOCUMENT/>
-            <SORT_KEY/>
-            <SORT_KEY_LAST_MOD/>
-        </INDIVIDUAL>
-        <INDIVIDUAL>
             <DATAID>111639</DATAID>
             <VERSIONNUM>1</VERSIONNUM>
             <FIRST_NAME>IBRAHIM</FIRST_NAME>
@@ -6458,123 +6405,6 @@ concluded on 15 Jun. 2010. Review pursuant to Security Council resolution 2253 (
                 <TYPE_OF_DOCUMENT>Passport</TYPE_OF_DOCUMENT>
                 <NOTE>Libyan passport number 347834, issued under name Ibrahim Ali Tantoush, expired
                     on 21 Feb. 2014</NOTE>
-            </INDIVIDUAL_DOCUMENT>
-            <SORT_KEY/>
-            <SORT_KEY_LAST_MOD/>
-        </INDIVIDUAL>
-        <INDIVIDUAL>
-            <DATAID>111641</DATAID>
-            <VERSIONNUM>1</VERSIONNUM>
-            <FIRST_NAME>ZAKI</FIRST_NAME>
-            <SECOND_NAME>EZAT</SECOND_NAME>
-            <THIRD_NAME>ZAKI</THIRD_NAME>
-            <FOURTH_NAME>AHMED</FOURTH_NAME>
-            <UN_LIST_TYPE>Al-Qaida</UN_LIST_TYPE>
-            <REFERENCE_NUMBER>QDi.193</REFERENCE_NUMBER>
-            <LISTED_ON>2005-09-29</LISTED_ON>
-            <NAME_ORIGINAL_SCRIPT>زكي عزت زكي احمد</NAME_ORIGINAL_SCRIPT>
-            <COMMENTS1>Father’s name is Ahmed Ezat Zaki. Member of Egyptian Islamic Jihad (QDe.003). Review pursuant to Security Council resolution 1822 (2008) was concluded on 1 Jun. 2010. Review pursuant to Security Council resolution 2253 (2015) was concluded on 21 Feb. 2019. Review pursuant to Security Council resolution 2368 (2017) was concluded on 15 November 2021. INTERPOL-UN Security Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals</COMMENTS1>
-            <NATIONALITY>
-                <VALUE>Egypt</VALUE>
-            </NATIONALITY>
-            <LIST_TYPE>
-                <VALUE>UN List</VALUE>
-            </LIST_TYPE>
-            <LAST_DAY_UPDATED>
-                <VALUE>2011-12-13</VALUE>
-                <VALUE>2019-05-01</VALUE>
-                <VALUE>2021-11-15</VALUE>
-            </LAST_DAY_UPDATED>
-            <INDIVIDUAL_ALIAS>
-                <QUALITY/>
-                <ALIAS_NAME/>
-            </INDIVIDUAL_ALIAS>
-            <INDIVIDUAL_ALIAS>
-                <QUALITY>Good</QUALITY>
-                <ALIAS_NAME>Rif'at Salim</ALIAS_NAME>
-            </INDIVIDUAL_ALIAS>
-            <INDIVIDUAL_ALIAS>
-                <QUALITY>Good</QUALITY>
-                <ALIAS_NAME>Abu Usama</ALIAS_NAME>
-            </INDIVIDUAL_ALIAS>
-            <INDIVIDUAL_ADDRESS>
-                <NOTE>May be on the Pakistani-Afghan border</NOTE>
-            </INDIVIDUAL_ADDRESS>
-            <INDIVIDUAL_DATE_OF_BIRTH>
-                <TYPE_OF_DATE>EXACT</TYPE_OF_DATE>
-                <DATE>1960-04-21</DATE>
-            </INDIVIDUAL_DATE_OF_BIRTH>
-            <INDIVIDUAL_PLACE_OF_BIRTH>
-                <CITY>Sharqiyah</CITY>
-                <COUNTRY>Egypt</COUNTRY>
-            </INDIVIDUAL_PLACE_OF_BIRTH>
-            <INDIVIDUAL_DOCUMENT/>
-            <SORT_KEY/>
-            <SORT_KEY_LAST_MOD/>
-        </INDIVIDUAL>
-        <INDIVIDUAL>
-            <DATAID>111704</DATAID>
-            <VERSIONNUM>1</VERSIONNUM>
-            <FIRST_NAME>MUHSIN</FIRST_NAME>
-            <SECOND_NAME>FADHIL</SECOND_NAME>
-            <THIRD_NAME>AYED</THIRD_NAME>
-            <FOURTH_NAME>ASHOUR AL-FADHLI</FOURTH_NAME>
-            <UN_LIST_TYPE>Al-Qaida</UN_LIST_TYPE>
-            <REFERENCE_NUMBER>QDi.184</REFERENCE_NUMBER>
-            <LISTED_ON>2005-02-17</LISTED_ON>
-            <NAME_ORIGINAL_SCRIPT>محسن فاضل عايد عاشور الفضلي</NAME_ORIGINAL_SCRIPT>
-            <COMMENTS1>Wanted by the Kuwaiti Security Authorities. Wanted by the Saudi security forces. Fugitive as of Jul. 2008. Review pursuant to Security Council resolution 1822 (2008) was concluded on 1 Jun. 2010. Review pursuant to Security Council resolution 2368 (2017) was concluded on 24 November 2020. INTERPOL-UN Security Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals</COMMENTS1>
-            <NATIONALITY>
-                <VALUE>Kuwait</VALUE>
-            </NATIONALITY>
-            <LIST_TYPE>
-                <VALUE>UN List</VALUE>
-            </LIST_TYPE>
-            <LAST_DAY_UPDATED>
-                <VALUE>2008-07-23</VALUE>
-                <VALUE>2015-12-10</VALUE>
-                <VALUE>2020-11-24</VALUE>
-            </LAST_DAY_UPDATED>
-            <INDIVIDUAL_ALIAS>
-                <QUALITY>Good</QUALITY>
-                <ALIAS_NAME>Muhsin Fadhil ‘Ayyid al Fadhli</ALIAS_NAME>
-            </INDIVIDUAL_ALIAS>
-            <INDIVIDUAL_ALIAS>
-                <QUALITY>Good</QUALITY>
-                <ALIAS_NAME>Muhsin Fadil Ayid Ashur al Fadhli</ALIAS_NAME>
-            </INDIVIDUAL_ALIAS>
-            <INDIVIDUAL_ALIAS>
-                <QUALITY>Good</QUALITY>
-                <ALIAS_NAME>Abu Majid Samiyah</ALIAS_NAME>
-            </INDIVIDUAL_ALIAS>
-            <INDIVIDUAL_ALIAS>
-                <QUALITY>Good</QUALITY>
-                <ALIAS_NAME>Abu Samia</ALIAS_NAME>
-            </INDIVIDUAL_ALIAS>
-            <INDIVIDUAL_ADDRESS>
-                <STREET>Block Four, Street 13, House #179 </STREET>
-                <CITY>Kuwait City</CITY>
-                <STATE_PROVINCE>Al-Riqqa area</STATE_PROVINCE>
-                <COUNTRY>Kuwait</COUNTRY>
-            </INDIVIDUAL_ADDRESS>
-            <INDIVIDUAL_DATE_OF_BIRTH>
-                <TYPE_OF_DATE>EXACT</TYPE_OF_DATE>
-                <DATE>1981-04-24</DATE>
-            </INDIVIDUAL_DATE_OF_BIRTH>
-            <INDIVIDUAL_PLACE_OF_BIRTH>
-                <COUNTRY>Kuwait</COUNTRY>
-            </INDIVIDUAL_PLACE_OF_BIRTH>
-            <INDIVIDUAL_DOCUMENT>
-                <TYPE_OF_DOCUMENT>Passport</TYPE_OF_DOCUMENT>
-                <NUMBER>106261543</NUMBER>
-                <ISSUING_COUNTRY>Kuwait</ISSUING_COUNTRY>
-            </INDIVIDUAL_DOCUMENT>
-            <INDIVIDUAL_DOCUMENT>
-                <TYPE_OF_DOCUMENT>Passport</TYPE_OF_DOCUMENT>
-                <NUMBER>1420529</NUMBER>
-                <ISSUING_COUNTRY>Kuwait</ISSUING_COUNTRY>
-                <COUNTRY_OF_ISSUE>Kuwait</COUNTRY_OF_ISSUE>
-                <NOTE>and expired on 31 Mar. 2006</NOTE>
             </INDIVIDUAL_DOCUMENT>
             <SORT_KEY/>
             <SORT_KEY_LAST_MOD/>
@@ -7139,123 +6969,6 @@ on 20 Jul. 2009. Review pursuant to Security Council resolution 2253 (2015) was 
                 <COUNTRY>Algeria</COUNTRY>
             </INDIVIDUAL_PLACE_OF_BIRTH>
             <INDIVIDUAL_DOCUMENT/>
-            <SORT_KEY/>
-            <SORT_KEY_LAST_MOD/>
-        </INDIVIDUAL>
-        <INDIVIDUAL>
-            <DATAID>111923</DATAID>
-            <VERSIONNUM>1</VERSIONNUM>
-            <FIRST_NAME>AIMAN</FIRST_NAME>
-            <SECOND_NAME>MUHAMMED</SECOND_NAME>
-            <THIRD_NAME>RABI</THIRD_NAME>
-            <FOURTH_NAME>AL-ZAWAHIRI</FOURTH_NAME>
-            <UN_LIST_TYPE>Al-Qaida</UN_LIST_TYPE>
-            <REFERENCE_NUMBER>QDi.006</REFERENCE_NUMBER>
-            <LISTED_ON>2001-01-25</LISTED_ON>
-            <NAME_ORIGINAL_SCRIPT>أيمن محمد ربيع الظواهري</NAME_ORIGINAL_SCRIPT>
-            <COMMENTS1>Leader of Al-Qaida (QDe.004). Former operational and military leader of
-                Egyptian Islamic Jihad (QDe.003), was a close associate of Usama Bin Laden
-                (deceased). Believed to be in the Afghanistan/Pakistan border area. Review pursuant
-                to Security Council resolution 1822 (2008) was concluded on 21 Jun. 2010. Review pursuant to Security Council resolution 2368 (2017) was concluded on 24 November 2020. INTERPOL-UN Security Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals</COMMENTS1>
-            <TITLE>
-                <VALUE>Doctor</VALUE>
-                <VALUE>Dr.</VALUE>
-            </TITLE>
-            <NATIONALITY>
-                <VALUE>Egypt</VALUE>
-            </NATIONALITY>
-            <LIST_TYPE>
-                <VALUE>UN List</VALUE>
-            </LIST_TYPE>
-            <LAST_DAY_UPDATED>
-                <VALUE>2007-07-02</VALUE>
-                <VALUE>2007-07-18</VALUE>
-                <VALUE>2007-08-13</VALUE>
-                <VALUE>2010-12-16</VALUE>
-                <VALUE>2015-05-22</VALUE>
-                <VALUE>2020-11-24</VALUE>
-            </LAST_DAY_UPDATED>
-            <INDIVIDUAL_ALIAS>
-                <QUALITY>Good</QUALITY>
-                <ALIAS_NAME>Ayman Al-Zawahari</ALIAS_NAME>
-            </INDIVIDUAL_ALIAS>
-            <INDIVIDUAL_ALIAS>
-                <QUALITY>Good</QUALITY>
-                <ALIAS_NAME>Ahmed Fuad Salim</ALIAS_NAME>
-            </INDIVIDUAL_ALIAS>
-            <INDIVIDUAL_ALIAS>
-                <QUALITY>Good</QUALITY>
-                <ALIAS_NAME>Al Zawahry Aiman Mohamed Rabi Abdel Muaz</ALIAS_NAME>
-            </INDIVIDUAL_ALIAS>
-            <INDIVIDUAL_ALIAS>
-                <QUALITY>Good</QUALITY>
-                <ALIAS_NAME>Al Zawahiri Ayman</ALIAS_NAME>
-            </INDIVIDUAL_ALIAS>
-            <INDIVIDUAL_ALIAS>
-                <QUALITY>Good</QUALITY>
-                <ALIAS_NAME>Abdul Qader Abdul Aziz Abdul Moez Al Doctor</ALIAS_NAME>
-            </INDIVIDUAL_ALIAS>
-            <INDIVIDUAL_ALIAS>
-                <QUALITY>Good</QUALITY>
-                <ALIAS_NAME>Al Zawahry Aiman Mohamed Rabi</ALIAS_NAME>
-            </INDIVIDUAL_ALIAS>
-            <INDIVIDUAL_ALIAS>
-                <QUALITY>Good</QUALITY>
-                <ALIAS_NAME>Al Zawahry Aiman Mohamed Rabie</ALIAS_NAME>
-            </INDIVIDUAL_ALIAS>
-            <INDIVIDUAL_ALIAS>
-                <QUALITY>Good</QUALITY>
-                <ALIAS_NAME>Al Zawahry Aiman Mohamed Robi</ALIAS_NAME>
-            </INDIVIDUAL_ALIAS>
-            <INDIVIDUAL_ALIAS>
-                <QUALITY>Good</QUALITY>
-                <ALIAS_NAME>Dhawahri Ayman</ALIAS_NAME>
-            </INDIVIDUAL_ALIAS>
-            <INDIVIDUAL_ALIAS>
-                <QUALITY>Good</QUALITY>
-                <ALIAS_NAME>Eddaouahiri Ayman</ALIAS_NAME>
-            </INDIVIDUAL_ALIAS>
-            <INDIVIDUAL_ALIAS>
-                <QUALITY>Good</QUALITY>
-                <ALIAS_NAME>Nur Al Deen Abu Mohammed</ALIAS_NAME>
-            </INDIVIDUAL_ALIAS>
-            <INDIVIDUAL_ALIAS>
-                <QUALITY>Good</QUALITY>
-                <ALIAS_NAME>Ayman Al Zawahari</ALIAS_NAME>
-            </INDIVIDUAL_ALIAS>
-            <INDIVIDUAL_ALIAS>
-                <QUALITY>Good</QUALITY>
-                <ALIAS_NAME>Ahmad Fuad Salim</ALIAS_NAME>
-            </INDIVIDUAL_ALIAS>
-            <INDIVIDUAL_ALIAS>
-                <QUALITY>Low</QUALITY>
-                <ALIAS_NAME>Abu Fatma</ALIAS_NAME>
-            </INDIVIDUAL_ALIAS>
-            <INDIVIDUAL_ALIAS>
-                <QUALITY>Low</QUALITY>
-                <ALIAS_NAME>Abu Mohammed</ALIAS_NAME>
-            </INDIVIDUAL_ALIAS>
-            <INDIVIDUAL_ADDRESS>
-                <COUNTRY/>
-            </INDIVIDUAL_ADDRESS>
-            <INDIVIDUAL_DATE_OF_BIRTH>
-                <TYPE_OF_DATE>EXACT</TYPE_OF_DATE>
-                <DATE>1951-06-19</DATE>
-            </INDIVIDUAL_DATE_OF_BIRTH>
-            <INDIVIDUAL_PLACE_OF_BIRTH>
-                <CITY>Giza</CITY>
-                <COUNTRY>Egypt</COUNTRY>
-            </INDIVIDUAL_PLACE_OF_BIRTH>
-            <INDIVIDUAL_DOCUMENT>
-                <TYPE_OF_DOCUMENT>Passport</TYPE_OF_DOCUMENT>
-                <NUMBER>1084010</NUMBER>
-                <ISSUING_COUNTRY>Egypt</ISSUING_COUNTRY>
-                <NOTE>[object Object]</NOTE>
-            </INDIVIDUAL_DOCUMENT>
-            <INDIVIDUAL_DOCUMENT>
-                <TYPE_OF_DOCUMENT>Passport</TYPE_OF_DOCUMENT>
-                <NUMBER>19820215</NUMBER>
-            </INDIVIDUAL_DOCUMENT>
             <SORT_KEY/>
             <SORT_KEY_LAST_MOD/>
         </INDIVIDUAL>
@@ -11071,112 +10784,6 @@ Noor Muhammad. Review pursuant to Security Council resolution 2253 (2015) was co
             <SORT_KEY_LAST_MOD/>
         </INDIVIDUAL>
         <INDIVIDUAL>
-            <DATAID>2854925</DATAID>
-            <VERSIONNUM>1</VERSIONNUM>
-            <FIRST_NAME>ABDUL</FIRST_NAME>
-            <SECOND_NAME>HAQ</SECOND_NAME>
-            <UN_LIST_TYPE>Al-Qaida</UN_LIST_TYPE>
-            <REFERENCE_NUMBER>QDi.268</REFERENCE_NUMBER>
-            <LISTED_ON>2009-04-15</LISTED_ON>
-            <GENDER>Male</GENDER>
-            <COMMENTS1>Overall leader and commander of the Eastern Turkistan Islamic Movement (QDe.088). Involved in fundraising and recruitment for this organization. Review pursuant to Security Council resolution 2368 (2017) was concluded on 24 November 2020. INTERPOL-UN Security Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals</COMMENTS1>
-            <NATIONALITY>
-                <VALUE>China</VALUE>
-            </NATIONALITY>
-            <LIST_TYPE>
-                <VALUE>UN List</VALUE>
-            </LIST_TYPE>
-            <LAST_DAY_UPDATED>
-                <VALUE>2011-12-13</VALUE>
-                <VALUE>2017-06-20</VALUE>
-                <VALUE>2020-11-24</VALUE>
-            </LAST_DAY_UPDATED>
-            <INDIVIDUAL_ALIAS>
-                <QUALITY>Good</QUALITY>
-                <ALIAS_NAME>Maimaitiming Maimaiti</ALIAS_NAME>
-            </INDIVIDUAL_ALIAS>
-            <INDIVIDUAL_ALIAS>
-                <QUALITY>Good</QUALITY>
-                <ALIAS_NAME>Abdul Heq</ALIAS_NAME>
-            </INDIVIDUAL_ALIAS>
-            <INDIVIDUAL_ALIAS>
-                <QUALITY>Good</QUALITY>
-                <ALIAS_NAME>Abudu Hake</ALIAS_NAME>
-            </INDIVIDUAL_ALIAS>
-            <INDIVIDUAL_ALIAS>
-                <QUALITY>Good</QUALITY>
-                <ALIAS_NAME>Abdul Heq Jundullah</ALIAS_NAME>
-            </INDIVIDUAL_ALIAS>
-            <INDIVIDUAL_ALIAS>
-                <QUALITY>Good</QUALITY>
-                <ALIAS_NAME>'Abd Al-Haq</ALIAS_NAME>
-            </INDIVIDUAL_ALIAS>
-            <INDIVIDUAL_ALIAS>
-                <QUALITY>Good</QUALITY>
-                <ALIAS_NAME>Memetiming Memeti</ALIAS_NAME>
-            </INDIVIDUAL_ALIAS>
-            <INDIVIDUAL_ALIAS>
-                <QUALITY>Good</QUALITY>
-                <ALIAS_NAME>Memetiming Aximu</ALIAS_NAME>
-            </INDIVIDUAL_ALIAS>
-            <INDIVIDUAL_ALIAS>
-                <QUALITY>Good</QUALITY>
-                <ALIAS_NAME>Memetiming Qekeman</ALIAS_NAME>
-            </INDIVIDUAL_ALIAS>
-            <INDIVIDUAL_ALIAS>
-                <QUALITY>Good</QUALITY>
-                <ALIAS_NAME>Maiumaitimin Maimaiti</ALIAS_NAME>
-            </INDIVIDUAL_ALIAS>
-            <INDIVIDUAL_ALIAS>
-                <QUALITY>Good</QUALITY>
-                <ALIAS_NAME>Abdul Saimaiti</ALIAS_NAME>
-            </INDIVIDUAL_ALIAS>
-            <INDIVIDUAL_ALIAS>
-                <QUALITY>Good</QUALITY>
-                <ALIAS_NAME>Muhammad Ahmed Khaliq</ALIAS_NAME>
-            </INDIVIDUAL_ALIAS>
-            <INDIVIDUAL_ALIAS>
-                <QUALITY>Low</QUALITY>
-                <ALIAS_NAME>Maimaiti Iman</ALIAS_NAME>
-            </INDIVIDUAL_ALIAS>
-            <INDIVIDUAL_ALIAS>
-                <QUALITY>Low</QUALITY>
-                <ALIAS_NAME>Muhelisi</ALIAS_NAME>
-            </INDIVIDUAL_ALIAS>
-            <INDIVIDUAL_ALIAS>
-                <QUALITY>Low</QUALITY>
-                <ALIAS_NAME>Qerman</ALIAS_NAME>
-            </INDIVIDUAL_ALIAS>
-            <INDIVIDUAL_ALIAS>
-                <QUALITY>Low</QUALITY>
-                <ALIAS_NAME>Saifuding</ALIAS_NAME>
-            </INDIVIDUAL_ALIAS>
-            <INDIVIDUAL_ADDRESS>
-                <COUNTRY>Afghanistan</COUNTRY>
-                <NOTE>current location as at Jul. 2016</NOTE>
-            </INDIVIDUAL_ADDRESS>
-            <INDIVIDUAL_ADDRESS>
-                <COUNTRY>Pakistan</COUNTRY>
-                <NOTE>previous location as at Apr. 2009</NOTE>
-            </INDIVIDUAL_ADDRESS>
-            <INDIVIDUAL_DATE_OF_BIRTH>
-                <TYPE_OF_DATE>EXACT</TYPE_OF_DATE>
-                <DATE>1971-10-10</DATE>
-            </INDIVIDUAL_DATE_OF_BIRTH>
-            <INDIVIDUAL_PLACE_OF_BIRTH>
-                <STATE_PROVINCE>Hetian Area, Xinjiang Uighur Autonomous Region</STATE_PROVINCE>
-                <COUNTRY>China</COUNTRY>
-            </INDIVIDUAL_PLACE_OF_BIRTH>
-            <INDIVIDUAL_DOCUMENT>
-                <TYPE_OF_DOCUMENT>National Identification Number</TYPE_OF_DOCUMENT>
-                <NUMBER>653225197110100533</NUMBER>
-                <ISSUING_COUNTRY>China</ISSUING_COUNTRY>
-                <NOTE>Chinese national identity card number</NOTE>
-            </INDIVIDUAL_DOCUMENT>
-            <SORT_KEY/>
-            <SORT_KEY_LAST_MOD/>
-        </INDIVIDUAL>
-        <INDIVIDUAL>
             <DATAID>2863362</DATAID>
             <VERSIONNUM>1</VERSIONNUM>
             <FIRST_NAME>ARIF</FIRST_NAME>
@@ -11477,95 +11084,6 @@ Review pursuant to Security Council resolution 2610 (2021) was concluded on 8 No
                 <COUNTRY/>
             </INDIVIDUAL_PLACE_OF_BIRTH>
             <INDIVIDUAL_DOCUMENT/>
-            <SORT_KEY/>
-            <SORT_KEY_LAST_MOD/>
-        </INDIVIDUAL>
-        <INDIVIDUAL>
-            <DATAID>2903810</DATAID>
-            <VERSIONNUM>1</VERSIONNUM>
-            <FIRST_NAME>QASIM</FIRST_NAME>
-            <SECOND_NAME>MOHAMED</SECOND_NAME>
-            <THIRD_NAME>MAHDI</THIRD_NAME>
-            <FOURTH_NAME>AL-RIMI</FOURTH_NAME>
-            <UN_LIST_TYPE>Al-Qaida</UN_LIST_TYPE>
-            <REFERENCE_NUMBER>QDi.282</REFERENCE_NUMBER>
-            <LISTED_ON>2010-05-11</LISTED_ON>
-            <NAME_ORIGINAL_SCRIPT>قاسم محمد مهدي الريمي</NAME_ORIGINAL_SCRIPT>
-            <COMMENTS1>Mother’s name: Fatima Muthanna Yahya. Photo available for inclusion in the INTERPOL-UN Security Council Special Notice. Leader of Al-Qaida in the Arabian Peninsula (QDe.129) since Jun. 2015, pledged loyalty to Aiman al-Zawahiri (QDi.006). Review pursuant to Security Council resolution 2368 (2017) was concluded on 24 November 2020. INTERPOL-UN Security Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals</COMMENTS1>
-            <NATIONALITY>
-                <VALUE>Yemen</VALUE>
-            </NATIONALITY>
-            <LIST_TYPE>
-                <VALUE>UN List</VALUE>
-            </LIST_TYPE>
-            <LAST_DAY_UPDATED>
-                <VALUE>2014-04-15</VALUE>
-                <VALUE>2016-06-24</VALUE>
-                <VALUE>2020-11-24</VALUE>
-            </LAST_DAY_UPDATED>
-            <INDIVIDUAL_ALIAS>
-                <QUALITY>Good</QUALITY>
-                <ALIAS_NAME>Qasim Al-Rimi</ALIAS_NAME>
-            </INDIVIDUAL_ALIAS>
-            <INDIVIDUAL_ALIAS>
-                <QUALITY>Good</QUALITY>
-                <ALIAS_NAME>Qasim al-Raymi</ALIAS_NAME>
-            </INDIVIDUAL_ALIAS>
-            <INDIVIDUAL_ALIAS>
-                <QUALITY>Good</QUALITY>
-                <ALIAS_NAME>Qassim al-Raymi</ALIAS_NAME>
-            </INDIVIDUAL_ALIAS>
-            <INDIVIDUAL_ALIAS>
-                <QUALITY>Good</QUALITY>
-                <ALIAS_NAME>Qasim al-Rami</ALIAS_NAME>
-            </INDIVIDUAL_ALIAS>
-            <INDIVIDUAL_ALIAS>
-                <QUALITY>Good</QUALITY>
-                <ALIAS_NAME>Qasim Mohammed Mahdi Al Remi</ALIAS_NAME>
-            </INDIVIDUAL_ALIAS>
-            <INDIVIDUAL_ALIAS>
-                <QUALITY>Good</QUALITY>
-                <ALIAS_NAME>Qassim Mohammad Mahdi Al Rimi</ALIAS_NAME>
-            </INDIVIDUAL_ALIAS>
-            <INDIVIDUAL_ALIAS>
-                <QUALITY>Low</QUALITY>
-                <ALIAS_NAME>Qasim Yahya Mahdi 'Abd al-Rimi</ALIAS_NAME>
-            </INDIVIDUAL_ALIAS>
-            <INDIVIDUAL_ALIAS>
-                <QUALITY>Low</QUALITY>
-                <ALIAS_NAME>Abu Hurayah al-Sana'ai</ALIAS_NAME>
-            </INDIVIDUAL_ALIAS>
-            <INDIVIDUAL_ALIAS>
-                <QUALITY>Low</QUALITY>
-                <ALIAS_NAME>Abu 'Ammar</ALIAS_NAME>
-            </INDIVIDUAL_ALIAS>
-            <INDIVIDUAL_ALIAS>
-                <QUALITY>Low</QUALITY>
-                <ALIAS_NAME>Abu Hurayrah</ALIAS_NAME>
-            </INDIVIDUAL_ALIAS>
-            <INDIVIDUAL_ADDRESS>
-                <COUNTRY>Yemen</COUNTRY>
-            </INDIVIDUAL_ADDRESS>
-            <INDIVIDUAL_DATE_OF_BIRTH>
-                <TYPE_OF_DATE>EXACT</TYPE_OF_DATE>
-                <DATE>1978-06-05</DATE>
-            </INDIVIDUAL_DATE_OF_BIRTH>
-            <INDIVIDUAL_PLACE_OF_BIRTH>
-                <CITY>Raymah village, Sanaa Governorate (ريمة)  </CITY>
-                <COUNTRY>Yemen</COUNTRY>
-            </INDIVIDUAL_PLACE_OF_BIRTH>
-            <INDIVIDUAL_DOCUMENT>
-                <TYPE_OF_DOCUMENT>Passport</TYPE_OF_DOCUMENT>
-                <NUMBER>00344994</NUMBER>
-                <ISSUING_COUNTRY>Yemen</ISSUING_COUNTRY>
-                <DATE_OF_ISSUE>1999-07-03</DATE_OF_ISSUE>
-                <CITY_OF_ISSUE>Sanaa</CITY_OF_ISSUE>
-            </INDIVIDUAL_DOCUMENT>
-            <INDIVIDUAL_DOCUMENT>
-                <TYPE_OF_DOCUMENT>National Identification Number</TYPE_OF_DOCUMENT>
-                <NUMBER>Yemeni national identification number 973406</NUMBER>
-                <DATE_OF_ISSUE>1996-07-03</DATE_OF_ISSUE>
-            </INDIVIDUAL_DOCUMENT>
             <SORT_KEY/>
             <SORT_KEY_LAST_MOD/>
         </INDIVIDUAL>
@@ -12785,75 +12303,6 @@ Faizullah Khan; Haji Fiazullah</NOTE>
             <SORT_KEY_LAST_MOD/>
         </INDIVIDUAL>
         <INDIVIDUAL>
-            <DATAID>2975516</DATAID>
-            <VERSIONNUM>1</VERSIONNUM>
-            <FIRST_NAME>IBRAHIM</FIRST_NAME>
-            <SECOND_NAME>AWWAD</SECOND_NAME>
-            <THIRD_NAME>IBRAHIM</THIRD_NAME>
-            <FOURTH_NAME>ALI AL-BADRI AL-SAMARRAI</FOURTH_NAME>
-            <UN_LIST_TYPE>Al-Qaida</UN_LIST_TYPE>
-            <REFERENCE_NUMBER>QDi.299</REFERENCE_NUMBER>
-            <LISTED_ON>2011-10-05</LISTED_ON>
-            <NAME_ORIGINAL_SCRIPT>إبراهيم عواد إبراهيم علي البدري السامرائي</NAME_ORIGINAL_SCRIPT>
-            <COMMENTS1>Description: Height: 1.65 m. Weight: 85 kg. Black hair and eyes. White skin. Leader of Islamic State in Iraq and the Levant, listed as Al-Qaida in Iraq (AQI) (QDe.115). Currently based in Iraq and Syria. Declared himself “caliph” in Mosul in 2014. Responsible for managing and directing AQI large scale operations. Wife's name: Saja Hamid al-Dulaimi. Wife’s name: Asma Fawzi Mohammed al-Kubaissi. Wanted by the Iraqi security forces. Photo available for inclusion in the INTERPOL-UN Security Council Special Notice. Review pursuant to Security Council resolution 2368 (2017) was concluded on 24 November 2020.
-Review pursuant to Security Council resolution 2368 (2017) was concluded on 15 November 2021. INTERPOL-UN Security Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals</COMMENTS1>
-            <TITLE>
-                <VALUE>Dr.</VALUE>
-            </TITLE>
-            <NATIONALITY>
-                <VALUE>Iraq</VALUE>
-            </NATIONALITY>
-            <LIST_TYPE>
-                <VALUE>UN List</VALUE>
-            </LIST_TYPE>
-            <LAST_DAY_UPDATED>
-                <VALUE>2012-07-20</VALUE>
-                <VALUE>2015-12-10</VALUE>
-                <VALUE>2020-11-24</VALUE>
-                <VALUE>2021-11-15</VALUE>
-            </LAST_DAY_UPDATED>
-            <INDIVIDUAL_ALIAS>
-                <QUALITY>Good</QUALITY>
-                <ALIAS_NAME>Dr. Ibrahim ‘Awwad Ibrahim ’Ali al-Badri al-Samarrai’</ALIAS_NAME>
-                <NOTE>born in 1971 in Samarra, Iraq (Ibrahim ‘Awad Ibrahim al-Badri
-al-Samarrai; Ibrahim ‘Awad Ibrahim al-Samarra’i; Dr. Ibrahim Awwad Ibrahim
-al-Samarra’i)</NOTE>
-            </INDIVIDUAL_ALIAS>
-            <INDIVIDUAL_ALIAS>
-                <QUALITY>Low</QUALITY>
-                <ALIAS_NAME>أبو دعاء</ALIAS_NAME>
-                <NOTE>(Abu Du’a; Abu Duaa’) prominently known by this nom de guerre</NOTE>
-            </INDIVIDUAL_ALIAS>
-            <INDIVIDUAL_ALIAS>
-                <QUALITY>Low</QUALITY>
-                <ALIAS_NAME>Dr. Ibrahim</ALIAS_NAME>
-            </INDIVIDUAL_ALIAS>
-            <INDIVIDUAL_ALIAS>
-                <QUALITY>Low</QUALITY>
-                <ALIAS_NAME>أبو بكر البغدادي الحسيني القريشي (Abu Bakr al-Baghdadi al-Husayni al-Quraishi; Abu Bakr al-Baghdadi)</ALIAS_NAME>
-            </INDIVIDUAL_ALIAS>
-            <INDIVIDUAL_ADDRESS>
-                <COUNTRY>Iraq</COUNTRY>
-            </INDIVIDUAL_ADDRESS>
-            <INDIVIDUAL_ADDRESS>
-                <COUNTRY>Syrian Arab Republic</COUNTRY>
-            </INDIVIDUAL_ADDRESS>
-            <INDIVIDUAL_DATE_OF_BIRTH>
-                <TYPE_OF_DATE>EXACT</TYPE_OF_DATE>
-                <YEAR>1971</YEAR>
-            </INDIVIDUAL_DATE_OF_BIRTH>
-            <INDIVIDUAL_PLACE_OF_BIRTH>
-                <COUNTRY>Iraq</COUNTRY>
-            </INDIVIDUAL_PLACE_OF_BIRTH>
-            <INDIVIDUAL_DOCUMENT>
-                <TYPE_OF_DOCUMENT>National Identification Number</TYPE_OF_DOCUMENT>
-                <TYPE_OF_DOCUMENT2>Ration card number:</TYPE_OF_DOCUMENT2>
-                <NUMBER>0134852</NUMBER>
-            </INDIVIDUAL_DOCUMENT>
-            <SORT_KEY/>
-            <SORT_KEY_LAST_MOD/>
-        </INDIVIDUAL>
-        <INDIVIDUAL>
             <DATAID>2975590</DATAID>
             <VERSIONNUM>1</VERSIONNUM>
             <FIRST_NAME>MALIK</FIRST_NAME>
@@ -13506,77 +12955,6 @@ Al-Akhtar Trust International (QDe.121).  Review pursuant to Security Council re
                 <NUMBER>national identity card number 44103-5251752-5</NUMBER>
                 <ISSUING_COUNTRY>Pakistan</ISSUING_COUNTRY>
             </INDIVIDUAL_DOCUMENT>
-            <SORT_KEY/>
-            <SORT_KEY_LAST_MOD/>
-        </INDIVIDUAL>
-        <INDIVIDUAL>
-            <DATAID>2983746</DATAID>
-            <VERSIONNUM>1</VERSIONNUM>
-            <FIRST_NAME>MUSTAFA</FIRST_NAME>
-            <SECOND_NAME>HAJJI</SECOND_NAME>
-            <THIRD_NAME>MUHAMMAD</THIRD_NAME>
-            <FOURTH_NAME>KHAN</FOURTH_NAME>
-            <UN_LIST_TYPE>Al-Qaida</UN_LIST_TYPE>
-            <REFERENCE_NUMBER>QDi.306</REFERENCE_NUMBER>
-            <LISTED_ON>2012-03-14</LISTED_ON>
-            <NAME_ORIGINAL_SCRIPT>مصطفى حجي محمد خان</NAME_ORIGINAL_SCRIPT>
-            <COMMENTS1>Al-Qaida (QDe.004) facilitator, courier and operative. As of 2010,
-facilitated activities for senior Pakistan-based Al-Qaida operatives. Review pursuant to Security Council resolution 2368 (2017) was concluded on 15 November 2021. INTERPOL-UN Security Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals</COMMENTS1>
-            <NATIONALITY>
-                <VALUE>Pakistan</VALUE>
-                <VALUE>Saudi Arabia</VALUE>
-            </NATIONALITY>
-            <LIST_TYPE>
-                <VALUE>UN List</VALUE>
-            </LIST_TYPE>
-            <LAST_DAY_UPDATED>
-                <VALUE>2021-11-15</VALUE>
-            </LAST_DAY_UPDATED>
-            <INDIVIDUAL_ALIAS>
-                <QUALITY>Good</QUALITY>
-                <ALIAS_NAME>حسن غول (Hassan Ghul; Hassan Gul; Hasan Gul)</ALIAS_NAME>
-            </INDIVIDUAL_ALIAS>
-            <INDIVIDUAL_ALIAS>
-                <QUALITY>Good</QUALITY>
-                <ALIAS_NAME>Khalid Mahmud</ALIAS_NAME>
-            </INDIVIDUAL_ALIAS>
-            <INDIVIDUAL_ALIAS>
-                <QUALITY>Low</QUALITY>
-                <ALIAS_NAME>Ahmad Shahji</ALIAS_NAME>
-            </INDIVIDUAL_ALIAS>
-            <INDIVIDUAL_ALIAS>
-                <QUALITY>Low</QUALITY>
-                <ALIAS_NAME>Mustafa Muhammad</ALIAS_NAME>
-            </INDIVIDUAL_ALIAS>
-            <INDIVIDUAL_ALIAS>
-                <QUALITY>Low</QUALITY>
-                <ALIAS_NAME>Abu Gharib al-Madani</ALIAS_NAME>
-            </INDIVIDUAL_ALIAS>
-            <INDIVIDUAL_ALIAS>
-                <QUALITY>Low</QUALITY>
-                <ALIAS_NAME>أبو شيماء (Abu-Shaima; Abu- Shayma)</ALIAS_NAME>
-            </INDIVIDUAL_ALIAS>
-            <INDIVIDUAL_ALIAS>
-                <QUALITY/>
-                <ALIAS_NAME/>
-                <DATE_OF_BIRTH>1976</DATE_OF_BIRTH>
-            </INDIVIDUAL_ALIAS>
-            <INDIVIDUAL_ALIAS>
-                <QUALITY/>
-                <ALIAS_NAME/>
-            </INDIVIDUAL_ALIAS>
-            <INDIVIDUAL_ADDRESS>
-                <COUNTRY/>
-            </INDIVIDUAL_ADDRESS>
-            <INDIVIDUAL_DATE_OF_BIRTH>
-                <TYPE_OF_DATE>EXACT</TYPE_OF_DATE>
-                <NOTE>Between Aug. and Sep. 1977</NOTE>
-            </INDIVIDUAL_DATE_OF_BIRTH>
-            <INDIVIDUAL_PLACE_OF_BIRTH>
-                <CITY>Al-Madinah</CITY>
-                <COUNTRY>Saudi Arabia</COUNTRY>
-            </INDIVIDUAL_PLACE_OF_BIRTH>
-            <INDIVIDUAL_DOCUMENT/>
             <SORT_KEY/>
             <SORT_KEY_LAST_MOD/>
         </INDIVIDUAL>
@@ -21925,100 +21303,6 @@ Nuclear Research Center and Namchongang Trading Corporation.</COMMENTS1>
             <SORT_KEY_LAST_MOD/>
         </INDIVIDUAL>
         <INDIVIDUAL>
-            <DATAID>6908395</DATAID>
-            <VERSIONNUM>1</VERSIONNUM>
-            <FIRST_NAME>ABOU</FIRST_NAME>
-            <SECOND_NAME>MOHAMED</SECOND_NAME>
-            <THIRD_NAME>AL ADNANI</THIRD_NAME>
-            <UN_LIST_TYPE>Al-Qaida</UN_LIST_TYPE>
-            <REFERENCE_NUMBER>QDi.325</REFERENCE_NUMBER>
-            <LISTED_ON>2014-08-15</LISTED_ON>
-            <COMMENTS1>Official spokesman of Islamic State in Iraq and the Levant (ISIL), listed
-as Al-Qaida in Iraq (QDe.115), and emir of ISIL in Syria, closely associated with Abu
-Mohammed al-Jawlani (QDi.317) and Abu Bakr al-Baghdadi, listed as Ibrahim Awwad Ibrahim
-Ali al-Badri al-Samarrai (QDi.299). Review pursuant to Security Council resolution 2253 (2015) was concluded on 21 Feb. 2019. Review pursuant to Security Council resolution 2368 (2017) was concluded on 15 November 2021. INTERPOL-UN Security Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals</COMMENTS1>
-            <NATIONALITY>
-                <VALUE>Iraq</VALUE>
-            </NATIONALITY>
-            <LIST_TYPE>
-                <VALUE>UN List</VALUE>
-            </LIST_TYPE>
-            <LAST_DAY_UPDATED>
-                <VALUE>2019-05-01</VALUE>
-                <VALUE>2021-11-15</VALUE>
-            </LAST_DAY_UPDATED>
-            <INDIVIDUAL_ALIAS>
-                <QUALITY>Good</QUALITY>
-                <ALIAS_NAME>Yaser Khalaf Nazzal Alrawi</ALIAS_NAME>
-            </INDIVIDUAL_ALIAS>
-            <INDIVIDUAL_ALIAS>
-                <QUALITY>Good</QUALITY>
-                <ALIAS_NAME>Jaber Taha Falah</ALIAS_NAME>
-            </INDIVIDUAL_ALIAS>
-            <INDIVIDUAL_ALIAS>
-                <QUALITY>Good</QUALITY>
-                <ALIAS_NAME>Abou Khattab</ALIAS_NAME>
-            </INDIVIDUAL_ALIAS>
-            <INDIVIDUAL_ALIAS>
-                <QUALITY>Good</QUALITY>
-                <ALIAS_NAME>Abou Sadeq Alrawi</ALIAS_NAME>
-            </INDIVIDUAL_ALIAS>
-            <INDIVIDUAL_ALIAS>
-                <QUALITY>Good</QUALITY>
-                <ALIAS_NAME>Tah al Binchi</ALIAS_NAME>
-            </INDIVIDUAL_ALIAS>
-            <INDIVIDUAL_ALIAS>
-                <QUALITY>Good</QUALITY>
-                <ALIAS_NAME>Abu Mohammed al-Adnani</ALIAS_NAME>
-            </INDIVIDUAL_ALIAS>
-            <INDIVIDUAL_ALIAS>
-                <QUALITY>Good</QUALITY>
-                <ALIAS_NAME>Taha Sobhi Falaha</ALIAS_NAME>
-            </INDIVIDUAL_ALIAS>
-            <INDIVIDUAL_ALIAS>
-                <QUALITY>Good</QUALITY>
-                <ALIAS_NAME>Yasser Khalaf Hussein Nazal al-Rawi</ALIAS_NAME>
-            </INDIVIDUAL_ALIAS>
-            <INDIVIDUAL_ALIAS>
-                <QUALITY>Good</QUALITY>
-                <ALIAS_NAME>Abu Baker al-Khatab</ALIAS_NAME>
-            </INDIVIDUAL_ALIAS>
-            <INDIVIDUAL_ALIAS>
-                <QUALITY>Good</QUALITY>
-                <ALIAS_NAME>Abu Sadek al-Rawi</ALIAS_NAME>
-            </INDIVIDUAL_ALIAS>
-            <INDIVIDUAL_ALIAS>
-                <QUALITY>Good</QUALITY>
-                <ALIAS_NAME>Taha al-Banshi</ALIAS_NAME>
-            </INDIVIDUAL_ALIAS>
-            <INDIVIDUAL_ALIAS>
-                <QUALITY>Good</QUALITY>
-                <ALIAS_NAME>Abu Mohamed al-Adnani</ALIAS_NAME>
-            </INDIVIDUAL_ALIAS>
-            <INDIVIDUAL_ALIAS>
-                <QUALITY>Good</QUALITY>
-                <ALIAS_NAME>Abu-Mohammad al-Adnani al-Shami</ALIAS_NAME>
-            </INDIVIDUAL_ALIAS>
-            <INDIVIDUAL_ALIAS>
-                <QUALITY>Good</QUALITY>
-                <ALIAS_NAME>Hajj Ibrahim</ALIAS_NAME>
-            </INDIVIDUAL_ALIAS>
-            <INDIVIDUAL_ADDRESS>
-                <COUNTRY/>
-            </INDIVIDUAL_ADDRESS>
-            <INDIVIDUAL_DATE_OF_BIRTH>
-                <TYPE_OF_DATE>APPROXIMATELY</TYPE_OF_DATE>
-                <YEAR>1977</YEAR>
-            </INDIVIDUAL_DATE_OF_BIRTH>
-            <INDIVIDUAL_PLACE_OF_BIRTH>
-                <CITY>Binnish</CITY>
-                <COUNTRY>Syrian Arab Republic</COUNTRY>
-            </INDIVIDUAL_PLACE_OF_BIRTH>
-            <INDIVIDUAL_DOCUMENT/>
-            <SORT_KEY/>
-            <SORT_KEY_LAST_MOD/>
-        </INDIVIDUAL>
-        <INDIVIDUAL>
             <DATAID>6908396</DATAID>
             <VERSIONNUM>1</VERSIONNUM>
             <FIRST_NAME>HAJJAJ</FIRST_NAME>
@@ -22256,50 +21540,6 @@ Levant, listed as Al-Qaida in Iraq (AQI) (QDe.115), in Syria and Iraq.  Review p
                 <NUMBER>273030601222</NUMBER>
                 <ISSUING_COUNTRY>Kuwait</ISSUING_COUNTRY>
             </INDIVIDUAL_DOCUMENT>
-            <SORT_KEY/>
-            <SORT_KEY_LAST_MOD/>
-        </INDIVIDUAL>
-        <INDIVIDUAL>
-            <DATAID>6908400</DATAID>
-            <VERSIONNUM>1</VERSIONNUM>
-            <FIRST_NAME>ABDUL MOHSEN</FIRST_NAME>
-            <SECOND_NAME>ABDALLAH</SECOND_NAME>
-            <THIRD_NAME>IBRAHIM</THIRD_NAME>
-            <FOURTH_NAME>AL CHAREKH</FOURTH_NAME>
-            <UN_LIST_TYPE>Al-Qaida</UN_LIST_TYPE>
-            <REFERENCE_NUMBER>QDi.324</REFERENCE_NUMBER>
-            <LISTED_ON>2014-08-15</LISTED_ON>
-            <COMMENTS1>A long time facilitator and financier for Al-Qaida (QDe.004), appointed as a regional leader of Jabhat al-Nusrah, listed as Al-Nusrah Front for the People of the Levant (QDe.137). Review pursuant to Security Council resolution 2253 (2015) was concluded on 21 Feb. 2019. Review pursuant to Security Council resolution 2368 (2017) was concluded on 15 November 2021. INTERPOL-UN Security Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals</COMMENTS1>
-            <NATIONALITY>
-                <VALUE>Saudi Arabia</VALUE>
-            </NATIONALITY>
-            <LIST_TYPE>
-                <VALUE>UN List</VALUE>
-            </LIST_TYPE>
-            <LAST_DAY_UPDATED>
-                <VALUE>2019-05-01</VALUE>
-                <VALUE>2021-11-15</VALUE>
-            </LAST_DAY_UPDATED>
-            <INDIVIDUAL_ALIAS>
-                <QUALITY>Good</QUALITY>
-                <ALIAS_NAME>Abdul Mohsen Abdullah Ibrahim Al-Sharikh</ALIAS_NAME>
-            </INDIVIDUAL_ALIAS>
-            <INDIVIDUAL_ALIAS>
-                <QUALITY>Good</QUALITY>
-                <ALIAS_NAME>Sanafi al Nasr</ALIAS_NAME>
-            </INDIVIDUAL_ALIAS>
-            <INDIVIDUAL_ADDRESS>
-                <COUNTRY/>
-            </INDIVIDUAL_ADDRESS>
-            <INDIVIDUAL_DATE_OF_BIRTH>
-                <TYPE_OF_DATE>EXACT</TYPE_OF_DATE>
-                <DATE>1985-07-13</DATE>
-            </INDIVIDUAL_DATE_OF_BIRTH>
-            <INDIVIDUAL_PLACE_OF_BIRTH>
-                <CITY>Saqra</CITY>
-                <COUNTRY>Saudi Arabia</COUNTRY>
-            </INDIVIDUAL_PLACE_OF_BIRTH>
-            <INDIVIDUAL_DOCUMENT/>
             <SORT_KEY/>
             <SORT_KEY_LAST_MOD/>
         </INDIVIDUAL>
@@ -24382,48 +23622,6 @@ inclusion in the INTERPOL-UN Security Council Special Notice. Reportedly decease
                 <DATE_OF_ISSUE>2013-04-11</DATE_OF_ISSUE>
                 <NOTE>valid until 10 April 2018</NOTE>
             </INDIVIDUAL_DOCUMENT>
-            <SORT_KEY/>
-            <SORT_KEY_LAST_MOD/>
-        </INDIVIDUAL>
-        <INDIVIDUAL>
-            <DATAID>6908468</DATAID>
-            <VERSIONNUM>1</VERSIONNUM>
-            <FIRST_NAME>SOFIANE</FIRST_NAME>
-            <SECOND_NAME>BEN GOUMO</SECOND_NAME>
-            <UN_LIST_TYPE>Al-Qaida</UN_LIST_TYPE>
-            <REFERENCE_NUMBER>QDi.355</REFERENCE_NUMBER>
-            <LISTED_ON>2015-09-03</LISTED_ON>
-            <COMMENTS1>Leader of Ansar al Charia Derna (QDe.145).
-Review pursuant to Security Council resolution 2368 (2017) was concluded on 24 November 2020. INTERPOL-UN Security Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals</COMMENTS1>
-            <NATIONALITY>
-                <VALUE>Libya</VALUE>
-            </NATIONALITY>
-            <LIST_TYPE>
-                <VALUE>UN List</VALUE>
-            </LIST_TYPE>
-            <LAST_DAY_UPDATED>
-                <VALUE>2020-11-24</VALUE>
-            </LAST_DAY_UPDATED>
-            <INDIVIDUAL_ALIAS>
-                <QUALITY>Low</QUALITY>
-                <ALIAS_NAME>Abou Fares al Libi</ALIAS_NAME>
-            </INDIVIDUAL_ALIAS>
-            <INDIVIDUAL_ALIAS>
-                <QUALITY>Good</QUALITY>
-                <ALIAS_NAME>Sufyan bin Qumu</ALIAS_NAME>
-            </INDIVIDUAL_ALIAS>
-            <INDIVIDUAL_ADDRESS>
-                <COUNTRY>Libya</COUNTRY>
-            </INDIVIDUAL_ADDRESS>
-            <INDIVIDUAL_DATE_OF_BIRTH>
-                <TYPE_OF_DATE>EXACT</TYPE_OF_DATE>
-                <DATE>1959-06-26</DATE>
-            </INDIVIDUAL_DATE_OF_BIRTH>
-            <INDIVIDUAL_PLACE_OF_BIRTH>
-                <CITY>Derna</CITY>
-                <COUNTRY>Libya</COUNTRY>
-            </INDIVIDUAL_PLACE_OF_BIRTH>
-            <INDIVIDUAL_DOCUMENT/>
             <SORT_KEY/>
             <SORT_KEY_LAST_MOD/>
         </INDIVIDUAL>
@@ -30835,43 +30033,6 @@ Bachir</ALIAS_NAME>
             </INDIVIDUAL_DATE_OF_BIRTH>
             <INDIVIDUAL_PLACE_OF_BIRTH>
                 <COUNTRY/>
-            </INDIVIDUAL_PLACE_OF_BIRTH>
-            <INDIVIDUAL_DOCUMENT/>
-            <SORT_KEY/>
-            <SORT_KEY_LAST_MOD/>
-        </INDIVIDUAL>
-        <INDIVIDUAL>
-            <DATAID>6908767</DATAID>
-            <VERSIONNUM>1</VERSIONNUM>
-            <FIRST_NAME>HAMZA</FIRST_NAME>
-            <SECOND_NAME>USAMA</SECOND_NAME>
-            <THIRD_NAME>MUHAMMAD</THIRD_NAME>
-            <FOURTH_NAME>BIN LADEN</FOURTH_NAME>
-            <UN_LIST_TYPE>Al-Qaida</UN_LIST_TYPE>
-            <REFERENCE_NUMBER>QDi.421</REFERENCE_NUMBER>
-            <LISTED_ON>2019-02-28</LISTED_ON>
-            <NAME_ORIGINAL_SCRIPT>حمزة أسامة محمد بن لادن </NAME_ORIGINAL_SCRIPT>
-            <COMMENTS1>Son of Usama bin Laden (deceased). Announced by Aiman Muhammed Rabi al-Zawahiri (QDi.006) as an official member of Al-Qaida (QDe.004). Has called for followers of Al-Qaida to commit terror attacks. Is seen as the most probable successor of al-Zawahiri.  INTERPOL-UN Security Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals</COMMENTS1>
-            <LIST_TYPE>
-                <VALUE>UN List</VALUE>
-            </LIST_TYPE>
-            <LAST_DAY_UPDATED>
-                <VALUE>2019-03-13</VALUE>
-            </LAST_DAY_UPDATED>
-            <INDIVIDUAL_ALIAS>
-                <QUALITY/>
-                <ALIAS_NAME/>
-            </INDIVIDUAL_ALIAS>
-            <INDIVIDUAL_ADDRESS>
-                <COUNTRY/>
-            </INDIVIDUAL_ADDRESS>
-            <INDIVIDUAL_DATE_OF_BIRTH>
-                <TYPE_OF_DATE>EXACT</TYPE_OF_DATE>
-                <DATE>1989-05-09</DATE>
-            </INDIVIDUAL_DATE_OF_BIRTH>
-            <INDIVIDUAL_PLACE_OF_BIRTH>
-                <CITY>Jeddah</CITY>
-                <COUNTRY>Saudi Arabia</COUNTRY>
             </INDIVIDUAL_PLACE_OF_BIRTH>
             <INDIVIDUAL_DOCUMENT/>
             <SORT_KEY/>
@@ -40703,6 +39864,844 @@ of early 2014. Reportedly died in the Syrian Arab Republic on 2 April 2024, Moth
                 <DATE_OF_ISSUE>2013-06-25</DATE_OF_ISSUE>
                 <NOTE>name in Arabic script: سالم مصطفى محمد</NOTE>
             </INDIVIDUAL_DOCUMENT>
+            <SORT_KEY/>
+            <SORT_KEY_LAST_MOD/>
+        </INDIVIDUAL>
+        <INDIVIDUAL>
+            <DATAID>111923</DATAID>
+            <VERSIONNUM>1</VERSIONNUM>
+            <FIRST_NAME>AIMAN</FIRST_NAME>
+            <SECOND_NAME>MUHAMMED</SECOND_NAME>
+            <THIRD_NAME>RABI</THIRD_NAME>
+            <FOURTH_NAME>AL-ZAWAHIRI</FOURTH_NAME>
+            <UN_LIST_TYPE>Al-Qaida</UN_LIST_TYPE>
+            <REFERENCE_NUMBER>QDi.006</REFERENCE_NUMBER>
+            <LISTED_ON>2001-01-25</LISTED_ON>
+            <NAME_ORIGINAL_SCRIPT>أيمن محمد ربيع الظواهري</NAME_ORIGINAL_SCRIPT>
+            <COMMENTS1>Leader of Al-Qaida (QDe.004). Former operational and military leader of Egyptian Islamic Jihad (QDe.003), was a close associate of Usama Bin Laden (deceased). Believed to have been in the Afghanistan/Pakistan border area before going to Afghanistan in 2014. Reportedly killed in drone strike in Kabul, Afghanistan on 31 July 2022. Photo available for inclusion in the INTERPOL-UN Security Council Special Notice. Review pursuant to Security Council resolution 1822 (2008) was concluded on 21 Jun. 2010. Review pursuant to Security Council resolution 2368 (2017) was concluded on 24 November 2020.  INTERPOL-UN Security Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals</COMMENTS1>
+            <TITLE>
+                <VALUE>Doctor</VALUE>
+                <VALUE>Dr.</VALUE>
+            </TITLE>
+            <NATIONALITY>
+                <VALUE>Egypt</VALUE>
+            </NATIONALITY>
+            <LIST_TYPE>
+                <VALUE>UN List</VALUE>
+            </LIST_TYPE>
+            <LAST_DAY_UPDATED>
+                <VALUE>2007-07-02</VALUE>
+                <VALUE>2007-07-18</VALUE>
+                <VALUE>2007-08-13</VALUE>
+                <VALUE>2010-12-16</VALUE>
+                <VALUE>2015-05-22</VALUE>
+                <VALUE>2020-11-24</VALUE>
+                <VALUE>2025-03-11</VALUE>
+            </LAST_DAY_UPDATED>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY>Good</QUALITY>
+                <ALIAS_NAME>Ayman Al-Zawahari</ALIAS_NAME>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY>Good</QUALITY>
+                <ALIAS_NAME>Ahmed Fuad Salim</ALIAS_NAME>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY>Good</QUALITY>
+                <ALIAS_NAME>Al Zawahry Aiman Mohamed Rabi Abdel Muaz</ALIAS_NAME>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY>Good</QUALITY>
+                <ALIAS_NAME>Al Zawahiri Ayman</ALIAS_NAME>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY>Good</QUALITY>
+                <ALIAS_NAME>Abdul Qader Abdul Aziz Abdul Moez Al Doctor</ALIAS_NAME>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY>Good</QUALITY>
+                <ALIAS_NAME>Al Zawahry Aiman Mohamed Rabi</ALIAS_NAME>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY>Good</QUALITY>
+                <ALIAS_NAME>Al Zawahry Aiman Mohamed Rabie</ALIAS_NAME>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY>Good</QUALITY>
+                <ALIAS_NAME>Al Zawahry Aiman Mohamed Robi</ALIAS_NAME>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY>Good</QUALITY>
+                <ALIAS_NAME>Dhawahri Ayman</ALIAS_NAME>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY>Good</QUALITY>
+                <ALIAS_NAME>Eddaouahiri Ayman</ALIAS_NAME>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY>Good</QUALITY>
+                <ALIAS_NAME>Nur Al Deen Abu Mohammed</ALIAS_NAME>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY>Good</QUALITY>
+                <ALIAS_NAME>Ayman Al Zawahari</ALIAS_NAME>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY>Good</QUALITY>
+                <ALIAS_NAME>Ahmad Fuad Salim</ALIAS_NAME>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY>Low</QUALITY>
+                <ALIAS_NAME>Abu Fatma</ALIAS_NAME>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY>Low</QUALITY>
+                <ALIAS_NAME>Abu Mohammed</ALIAS_NAME>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ADDRESS>
+                <COUNTRY/>
+            </INDIVIDUAL_ADDRESS>
+            <INDIVIDUAL_DATE_OF_BIRTH>
+                <TYPE_OF_DATE>EXACT</TYPE_OF_DATE>
+                <DATE>1951-06-19</DATE>
+            </INDIVIDUAL_DATE_OF_BIRTH>
+            <INDIVIDUAL_PLACE_OF_BIRTH>
+                <CITY>Giza</CITY>
+                <COUNTRY>Egypt</COUNTRY>
+            </INDIVIDUAL_PLACE_OF_BIRTH>
+            <INDIVIDUAL_DOCUMENT>
+                <TYPE_OF_DOCUMENT>Passport</TYPE_OF_DOCUMENT>
+                <NUMBER>1084010</NUMBER>
+                <ISSUING_COUNTRY>Egypt</ISSUING_COUNTRY>
+            </INDIVIDUAL_DOCUMENT>
+            <INDIVIDUAL_DOCUMENT>
+                <TYPE_OF_DOCUMENT>Passport</TYPE_OF_DOCUMENT>
+                <NUMBER>19820215</NUMBER>
+            </INDIVIDUAL_DOCUMENT>
+            <SORT_KEY/>
+            <SORT_KEY_LAST_MOD/>
+        </INDIVIDUAL>
+        <INDIVIDUAL>
+            <DATAID>111704</DATAID>
+            <VERSIONNUM>1</VERSIONNUM>
+            <FIRST_NAME>MUHSIN</FIRST_NAME>
+            <SECOND_NAME>FADHIL</SECOND_NAME>
+            <THIRD_NAME>AYED</THIRD_NAME>
+            <FOURTH_NAME>ASHOUR AL-FADHLI</FOURTH_NAME>
+            <UN_LIST_TYPE>Al-Qaida</UN_LIST_TYPE>
+            <REFERENCE_NUMBER>QDi.184</REFERENCE_NUMBER>
+            <LISTED_ON>2005-02-17</LISTED_ON>
+            <NAME_ORIGINAL_SCRIPT>محسن فاضل عايد عاشور الفضلي</NAME_ORIGINAL_SCRIPT>
+            <COMMENTS1>Wanted by the Kuwaiti Security Authorities. Wanted by the Saudi security forces. Fugitive as of Jul. 2008. Reportedly killed in a counterterrorism operation in 2015 in Syria. Review pursuant to Security Council resolution 1822 (2008) was concluded on 1 Jun. 2010. Review pursuant to Security Council resolution 2368 (2017) was concluded on 24 November 2020. Photo available for inclusion in the INTERPOL-UN Security Council Special Notice. INTERPOL-UN Security Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals</COMMENTS1>
+            <NATIONALITY>
+                <VALUE>Kuwait</VALUE>
+            </NATIONALITY>
+            <LIST_TYPE>
+                <VALUE>UN List</VALUE>
+            </LIST_TYPE>
+            <LAST_DAY_UPDATED>
+                <VALUE>2008-07-23</VALUE>
+                <VALUE>2015-12-10</VALUE>
+                <VALUE>2020-11-24</VALUE>
+                <VALUE>2025-03-11</VALUE>
+            </LAST_DAY_UPDATED>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY>Good</QUALITY>
+                <ALIAS_NAME>Muhsin Fadhil ‘Ayyid al Fadhli</ALIAS_NAME>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY>Good</QUALITY>
+                <ALIAS_NAME>Muhsin Fadil Ayid Ashur al Fadhli</ALIAS_NAME>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY>Good</QUALITY>
+                <ALIAS_NAME>Abu Majid Samiyah</ALIAS_NAME>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY>Good</QUALITY>
+                <ALIAS_NAME>Abu Samia</ALIAS_NAME>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ADDRESS>
+                <STREET>Block Four, Street 13, House #179 </STREET>
+                <CITY>Kuwait City</CITY>
+                <STATE_PROVINCE>Al-Riqqa area</STATE_PROVINCE>
+                <COUNTRY>Kuwait</COUNTRY>
+            </INDIVIDUAL_ADDRESS>
+            <INDIVIDUAL_DATE_OF_BIRTH>
+                <TYPE_OF_DATE>EXACT</TYPE_OF_DATE>
+                <DATE>1981-04-24</DATE>
+            </INDIVIDUAL_DATE_OF_BIRTH>
+            <INDIVIDUAL_PLACE_OF_BIRTH>
+                <COUNTRY>Kuwait</COUNTRY>
+            </INDIVIDUAL_PLACE_OF_BIRTH>
+            <INDIVIDUAL_DOCUMENT>
+                <TYPE_OF_DOCUMENT>Passport</TYPE_OF_DOCUMENT>
+                <NUMBER>106261543</NUMBER>
+                <ISSUING_COUNTRY>Kuwait</ISSUING_COUNTRY>
+            </INDIVIDUAL_DOCUMENT>
+            <INDIVIDUAL_DOCUMENT>
+                <TYPE_OF_DOCUMENT>Passport</TYPE_OF_DOCUMENT>
+                <NUMBER>1420529</NUMBER>
+                <ISSUING_COUNTRY>Kuwait</ISSUING_COUNTRY>
+                <COUNTRY_OF_ISSUE>Kuwait</COUNTRY_OF_ISSUE>
+                <NOTE>and expired on 31 Mar. 2006</NOTE>
+            </INDIVIDUAL_DOCUMENT>
+            <SORT_KEY/>
+            <SORT_KEY_LAST_MOD/>
+        </INDIVIDUAL>
+        <INDIVIDUAL>
+            <DATAID>111533</DATAID>
+            <VERSIONNUM>1</VERSIONNUM>
+            <FIRST_NAME>ABD ALLAH</FIRST_NAME>
+            <SECOND_NAME>MOHAMED</SECOND_NAME>
+            <THIRD_NAME>RAGAB</THIRD_NAME>
+            <FOURTH_NAME>ABDEL RAHMAN</FOURTH_NAME>
+            <UN_LIST_TYPE>Al-Qaida</UN_LIST_TYPE>
+            <REFERENCE_NUMBER>QDi.192</REFERENCE_NUMBER>
+            <LISTED_ON>2005-09-29</LISTED_ON>
+            <NAME_ORIGINAL_SCRIPT>عبد الله محمد رجب عبد الرحمن</NAME_ORIGINAL_SCRIPT>
+            <COMMENTS1>Member of Egyptian Islamic Jihad (QDe.003). Reportedly killed in Syria in February 2017. Review pursuant to Security Council resolution 1822 (2008) was concluded on 1 Jun. 2010. Review pursuant to Security Council resolution 2253 (2015) was concluded on 21 Feb. 2019. Review pursuant to Security Council resolution 2368 (2017) was concluded on 15 November 2021. INTERPOL-UN Security Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals</COMMENTS1>
+            <NATIONALITY>
+                <VALUE>Egypt</VALUE>
+            </NATIONALITY>
+            <LIST_TYPE>
+                <VALUE>UN List</VALUE>
+            </LIST_TYPE>
+            <LAST_DAY_UPDATED>
+                <VALUE>2011-12-13</VALUE>
+                <VALUE>2019-05-01</VALUE>
+                <VALUE>2021-11-15</VALUE>
+                <VALUE>2025-03-11</VALUE>
+            </LAST_DAY_UPDATED>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY>Good</QUALITY>
+                <ALIAS_NAME>Abu Al-Khayr</ALIAS_NAME>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY>Good</QUALITY>
+                <ALIAS_NAME>Ahmad Hasan</ALIAS_NAME>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY>Good</QUALITY>
+                <ALIAS_NAME>Abu Jihad</ALIAS_NAME>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ADDRESS>
+                <NOTE>Believed to be in Pakistan or Afghanistan</NOTE>
+            </INDIVIDUAL_ADDRESS>
+            <INDIVIDUAL_DATE_OF_BIRTH>
+                <TYPE_OF_DATE>EXACT</TYPE_OF_DATE>
+                <DATE>1957-11-03</DATE>
+            </INDIVIDUAL_DATE_OF_BIRTH>
+            <INDIVIDUAL_PLACE_OF_BIRTH>
+                <CITY>Kafr Al-Shaykh</CITY>
+                <COUNTRY>Egypt</COUNTRY>
+            </INDIVIDUAL_PLACE_OF_BIRTH>
+            <INDIVIDUAL_DOCUMENT/>
+            <SORT_KEY/>
+            <SORT_KEY_LAST_MOD/>
+        </INDIVIDUAL>
+        <INDIVIDUAL>
+            <DATAID>111641</DATAID>
+            <VERSIONNUM>1</VERSIONNUM>
+            <FIRST_NAME>ZAKI</FIRST_NAME>
+            <SECOND_NAME>EZAT</SECOND_NAME>
+            <THIRD_NAME>ZAKI</THIRD_NAME>
+            <FOURTH_NAME>AHMED</FOURTH_NAME>
+            <UN_LIST_TYPE>Al-Qaida</UN_LIST_TYPE>
+            <REFERENCE_NUMBER>QDi.193</REFERENCE_NUMBER>
+            <LISTED_ON>2005-09-29</LISTED_ON>
+            <NAME_ORIGINAL_SCRIPT>زكي عزت زكي احمد</NAME_ORIGINAL_SCRIPT>
+            <COMMENTS1>Father’s name is Ahmed Ezat Zaki. Member of Egyptian Islamic Jihad (QDe.003). Review pursuant to Security Council resolution 1822 (2008) was concluded on 1 Jun. 2010. Review pursuant to Security Council resolution 2253 (2015) was concluded on 21 Feb. 2019. Review pursuant to Security Council resolution 2368 (2017) was concluded on 15 November 2021. INTERPOL-UN Security Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals</COMMENTS1>
+            <NATIONALITY>
+                <VALUE>Egypt</VALUE>
+            </NATIONALITY>
+            <LIST_TYPE>
+                <VALUE>UN List</VALUE>
+            </LIST_TYPE>
+            <LAST_DAY_UPDATED>
+                <VALUE>2011-12-13</VALUE>
+                <VALUE>2019-05-01</VALUE>
+                <VALUE>2021-11-15</VALUE>
+                <VALUE>2025-03-11</VALUE>
+            </LAST_DAY_UPDATED>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY/>
+                <ALIAS_NAME/>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY>Good</QUALITY>
+                <ALIAS_NAME>Rif'at Salim</ALIAS_NAME>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY>Good</QUALITY>
+                <ALIAS_NAME>Abu Usama</ALIAS_NAME>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ADDRESS>
+                <COUNTRY>Syrian Arab Republic</COUNTRY>
+            </INDIVIDUAL_ADDRESS>
+            <INDIVIDUAL_DATE_OF_BIRTH>
+                <TYPE_OF_DATE>EXACT</TYPE_OF_DATE>
+                <DATE>1960-04-21</DATE>
+            </INDIVIDUAL_DATE_OF_BIRTH>
+            <INDIVIDUAL_PLACE_OF_BIRTH>
+                <CITY>Sharqiyah</CITY>
+                <COUNTRY>Egypt</COUNTRY>
+            </INDIVIDUAL_PLACE_OF_BIRTH>
+            <INDIVIDUAL_DOCUMENT/>
+            <SORT_KEY/>
+            <SORT_KEY_LAST_MOD/>
+        </INDIVIDUAL>
+        <INDIVIDUAL>
+            <DATAID>2854925</DATAID>
+            <VERSIONNUM>1</VERSIONNUM>
+            <FIRST_NAME>ABDUL</FIRST_NAME>
+            <SECOND_NAME>HAQ</SECOND_NAME>
+            <UN_LIST_TYPE>Al-Qaida</UN_LIST_TYPE>
+            <REFERENCE_NUMBER>QDi.268</REFERENCE_NUMBER>
+            <LISTED_ON>2009-04-15</LISTED_ON>
+            <COMMENTS1>Overall leader and commander of the Eastern Turkistan Islamic Movement (QDe.088). Involved in fundraising and recruitment for this organization. Review pursuant to Security Council resolution 2368 (2017) was concluded on 24 November 2020. Photo available for inclusion in the INTERPOL-UN Security Council Special Notice.  INTERPOL-UN Security Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals</COMMENTS1>
+            <NATIONALITY>
+                <VALUE>China</VALUE>
+            </NATIONALITY>
+            <LIST_TYPE>
+                <VALUE>UN List</VALUE>
+            </LIST_TYPE>
+            <LAST_DAY_UPDATED>
+                <VALUE>2011-12-13</VALUE>
+                <VALUE>2017-06-20</VALUE>
+                <VALUE>2020-11-24</VALUE>
+                <VALUE>2025-03-11</VALUE>
+            </LAST_DAY_UPDATED>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY>Good</QUALITY>
+                <ALIAS_NAME>Maimaitiming Maimaiti</ALIAS_NAME>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY>Good</QUALITY>
+                <ALIAS_NAME>Abdul Heq</ALIAS_NAME>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY>Good</QUALITY>
+                <ALIAS_NAME>Abudu Hake</ALIAS_NAME>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY>Good</QUALITY>
+                <ALIAS_NAME>Abdul Heq Jundullah</ALIAS_NAME>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY>Good</QUALITY>
+                <ALIAS_NAME>'Abd Al-Haq</ALIAS_NAME>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY>Good</QUALITY>
+                <ALIAS_NAME>Memetiming Memeti</ALIAS_NAME>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY>Good</QUALITY>
+                <ALIAS_NAME>Memetiming Aximu</ALIAS_NAME>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY>Good</QUALITY>
+                <ALIAS_NAME>Memetiming Qekeman</ALIAS_NAME>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY>Good</QUALITY>
+                <ALIAS_NAME>Maiumaitimin Maimaiti</ALIAS_NAME>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY>Good</QUALITY>
+                <ALIAS_NAME>Abdul Saimaiti</ALIAS_NAME>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY>Good</QUALITY>
+                <ALIAS_NAME>Muhammad Ahmed Khaliq</ALIAS_NAME>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY>Low</QUALITY>
+                <ALIAS_NAME>Maimaiti Iman</ALIAS_NAME>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY>Low</QUALITY>
+                <ALIAS_NAME>Muhelisi</ALIAS_NAME>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY>Low</QUALITY>
+                <ALIAS_NAME>Qerman</ALIAS_NAME>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY>Low</QUALITY>
+                <ALIAS_NAME>Saifuding</ALIAS_NAME>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ADDRESS>
+                <COUNTRY>Afghanistan</COUNTRY>
+                <NOTE>current location as at Jul. 2016</NOTE>
+            </INDIVIDUAL_ADDRESS>
+            <INDIVIDUAL_ADDRESS>
+                <COUNTRY>Pakistan</COUNTRY>
+                <NOTE>previous location as at Apr. 2009</NOTE>
+            </INDIVIDUAL_ADDRESS>
+            <INDIVIDUAL_DATE_OF_BIRTH>
+                <TYPE_OF_DATE>EXACT</TYPE_OF_DATE>
+                <DATE>1971-10-10</DATE>
+            </INDIVIDUAL_DATE_OF_BIRTH>
+            <INDIVIDUAL_PLACE_OF_BIRTH>
+                <STATE_PROVINCE>Hetian Area, Xinjiang Uighur Autonomous Region</STATE_PROVINCE>
+                <COUNTRY>China</COUNTRY>
+            </INDIVIDUAL_PLACE_OF_BIRTH>
+            <INDIVIDUAL_DOCUMENT>
+                <TYPE_OF_DOCUMENT>National Identification Number</TYPE_OF_DOCUMENT>
+                <NUMBER>653225197110100533</NUMBER>
+                <ISSUING_COUNTRY>China</ISSUING_COUNTRY>
+                <NOTE>Chinese national identity card number</NOTE>
+            </INDIVIDUAL_DOCUMENT>
+            <SORT_KEY/>
+            <SORT_KEY_LAST_MOD/>
+        </INDIVIDUAL>
+        <INDIVIDUAL>
+            <DATAID>2903810</DATAID>
+            <VERSIONNUM>1</VERSIONNUM>
+            <FIRST_NAME>QASIM</FIRST_NAME>
+            <SECOND_NAME>MOHAMED</SECOND_NAME>
+            <THIRD_NAME>MAHDI</THIRD_NAME>
+            <FOURTH_NAME>AL-RIMI</FOURTH_NAME>
+            <UN_LIST_TYPE>Al-Qaida</UN_LIST_TYPE>
+            <REFERENCE_NUMBER>QDi.282</REFERENCE_NUMBER>
+            <LISTED_ON>2010-05-11</LISTED_ON>
+            <NAME_ORIGINAL_SCRIPT>قاسم محمد مهدي الريمي</NAME_ORIGINAL_SCRIPT>
+            <COMMENTS1>Mother’s name: Fatima Muthanna Yahya. Photo available for inclusion in the INTERPOL-UN Security Council Special Notice. Leader of Al-Qaida in the Arabian Peninsula (QDe.129) since Jun. 2015, pledged loyalty to Aiman al-Zawahiri (QDi.006). As of February 2020, reportedly killed in a counterterrorism operation in Yemen. Review pursuant to Security Council resolution 2368 (2017) was concluded on 24 November 2020. INTERPOL-UN Security Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals</COMMENTS1>
+            <NATIONALITY>
+                <VALUE>Yemen</VALUE>
+            </NATIONALITY>
+            <LIST_TYPE>
+                <VALUE>UN List</VALUE>
+            </LIST_TYPE>
+            <LAST_DAY_UPDATED>
+                <VALUE>2014-04-15</VALUE>
+                <VALUE>2016-06-24</VALUE>
+                <VALUE>2020-11-24</VALUE>
+                <VALUE>2025-03-11</VALUE>
+            </LAST_DAY_UPDATED>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY>Good</QUALITY>
+                <ALIAS_NAME>Qasim Al-Rimi</ALIAS_NAME>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY>Good</QUALITY>
+                <ALIAS_NAME>Qasim al-Raymi</ALIAS_NAME>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY>Good</QUALITY>
+                <ALIAS_NAME>Qassim al-Raymi</ALIAS_NAME>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY>Good</QUALITY>
+                <ALIAS_NAME>Qasim al-Rami</ALIAS_NAME>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY>Good</QUALITY>
+                <ALIAS_NAME>Qasim Mohammed Mahdi Al Remi</ALIAS_NAME>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY>Good</QUALITY>
+                <ALIAS_NAME>Qassim Mohammad Mahdi Al Rimi</ALIAS_NAME>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY>Low</QUALITY>
+                <ALIAS_NAME>Qasim Yahya Mahdi 'Abd al-Rimi</ALIAS_NAME>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY>Low</QUALITY>
+                <ALIAS_NAME>ABU HURAYRAH AL-SANA'AI</ALIAS_NAME>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY>Low</QUALITY>
+                <ALIAS_NAME>Abu 'Ammar</ALIAS_NAME>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY>Low</QUALITY>
+                <ALIAS_NAME>Abu Hurayrah</ALIAS_NAME>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ADDRESS>
+                <COUNTRY>Yemen</COUNTRY>
+            </INDIVIDUAL_ADDRESS>
+            <INDIVIDUAL_DATE_OF_BIRTH>
+                <TYPE_OF_DATE>EXACT</TYPE_OF_DATE>
+                <DATE>1978-06-05</DATE>
+            </INDIVIDUAL_DATE_OF_BIRTH>
+            <INDIVIDUAL_PLACE_OF_BIRTH>
+                <CITY>Raymah village, Sanaa Governorate (ريمة)  </CITY>
+                <COUNTRY>Yemen</COUNTRY>
+            </INDIVIDUAL_PLACE_OF_BIRTH>
+            <INDIVIDUAL_DOCUMENT>
+                <TYPE_OF_DOCUMENT>Passport</TYPE_OF_DOCUMENT>
+                <NUMBER>00344994</NUMBER>
+                <ISSUING_COUNTRY>Yemen</ISSUING_COUNTRY>
+                <DATE_OF_ISSUE>1999-07-03</DATE_OF_ISSUE>
+                <CITY_OF_ISSUE>Sanaa</CITY_OF_ISSUE>
+            </INDIVIDUAL_DOCUMENT>
+            <INDIVIDUAL_DOCUMENT>
+                <TYPE_OF_DOCUMENT>National Identification Number</TYPE_OF_DOCUMENT>
+                <NUMBER>Yemeni national identification number 973406</NUMBER>
+                <DATE_OF_ISSUE>1996-07-03</DATE_OF_ISSUE>
+            </INDIVIDUAL_DOCUMENT>
+            <SORT_KEY/>
+            <SORT_KEY_LAST_MOD/>
+        </INDIVIDUAL>
+        <INDIVIDUAL>
+            <DATAID>2975516</DATAID>
+            <VERSIONNUM>1</VERSIONNUM>
+            <FIRST_NAME>IBRAHIM</FIRST_NAME>
+            <SECOND_NAME>AWWAD</SECOND_NAME>
+            <THIRD_NAME>IBRAHIM</THIRD_NAME>
+            <FOURTH_NAME>ALI AL-BADRI AL-SAMARRAI</FOURTH_NAME>
+            <UN_LIST_TYPE>Al-Qaida</UN_LIST_TYPE>
+            <REFERENCE_NUMBER>QDi.299</REFERENCE_NUMBER>
+            <LISTED_ON>2011-10-05</LISTED_ON>
+            <NAME_ORIGINAL_SCRIPT>إبراهيم عواد إبراهيم علي البدري السامرائي</NAME_ORIGINAL_SCRIPT>
+            <COMMENTS1>Description: Height: 1.65 m. Weight: 85 kg. Black hair and eyes. White skin. Leader of Islamic State in Iraq and the Levant, listed as Al-Qaida in Iraq (AQI) (QDe.115). Was based in Iraq and Syria. Declared himself “caliph” in Mosul in 2014. Responsible for managing and directing AQI large scale operations. Wife's name: Saja Hamid al-Dulaimi. Wife’s name: Asma Fawzi Mohammed al-Kubaissi. Wanted by the Iraqi security forces. Photo available for inclusion in the INTERPOL-UN Security Council Special Notice. Killed in October 2019 during a counterterrorism operation.  Review pursuant to Security Council resolution 2368 (2017) was concluded on 24 November 2020. Review pursuant to Security Council resolution 2368 (2017) was concluded on 15 November 2021.  INTERPOL-UN Security Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals</COMMENTS1>
+            <TITLE>
+                <VALUE>Dr.</VALUE>
+            </TITLE>
+            <NATIONALITY>
+                <VALUE>Iraq</VALUE>
+            </NATIONALITY>
+            <LIST_TYPE>
+                <VALUE>UN List</VALUE>
+            </LIST_TYPE>
+            <LAST_DAY_UPDATED>
+                <VALUE>2012-07-20</VALUE>
+                <VALUE>2015-12-10</VALUE>
+                <VALUE>2020-11-24</VALUE>
+                <VALUE>2021-11-15</VALUE>
+                <VALUE>2025-03-11</VALUE>
+            </LAST_DAY_UPDATED>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY>Good</QUALITY>
+                <ALIAS_NAME>Dr. Ibrahim ‘Awwad Ibrahim ’Ali al-Badri al-Samarrai’</ALIAS_NAME>
+                <NOTE>born in 1971 in Samarra, Iraq (Ibrahim ‘Awad Ibrahim al-Badri
+al-Samarrai; Ibrahim ‘Awad Ibrahim al-Samarra’i; Dr. Ibrahim Awwad Ibrahim
+al-Samarra’i)</NOTE>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY>Low</QUALITY>
+                <ALIAS_NAME>أبو دعاء</ALIAS_NAME>
+                <NOTE>(Abu Du’a; Abu Duaa’) prominently known by this nom de guerre</NOTE>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY>Low</QUALITY>
+                <ALIAS_NAME>Dr. Ibrahim</ALIAS_NAME>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY>Low</QUALITY>
+                <ALIAS_NAME>أبو بكر البغدادي الحسيني القريشي (Abu Bakr al-Baghdadi al-Husayni al-Quraishi; Abu Bakr al-Baghdadi)</ALIAS_NAME>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ADDRESS>
+                <COUNTRY>Iraq</COUNTRY>
+            </INDIVIDUAL_ADDRESS>
+            <INDIVIDUAL_ADDRESS>
+                <COUNTRY>Syrian Arab Republic</COUNTRY>
+            </INDIVIDUAL_ADDRESS>
+            <INDIVIDUAL_DATE_OF_BIRTH>
+                <TYPE_OF_DATE>EXACT</TYPE_OF_DATE>
+                <YEAR>1971</YEAR>
+            </INDIVIDUAL_DATE_OF_BIRTH>
+            <INDIVIDUAL_PLACE_OF_BIRTH>
+                <COUNTRY>Iraq</COUNTRY>
+            </INDIVIDUAL_PLACE_OF_BIRTH>
+            <INDIVIDUAL_DOCUMENT>
+                <TYPE_OF_DOCUMENT>National Identification Number</TYPE_OF_DOCUMENT>
+                <TYPE_OF_DOCUMENT2>Ration card number:</TYPE_OF_DOCUMENT2>
+                <NUMBER>0134852</NUMBER>
+            </INDIVIDUAL_DOCUMENT>
+            <SORT_KEY/>
+            <SORT_KEY_LAST_MOD/>
+        </INDIVIDUAL>
+        <INDIVIDUAL>
+            <DATAID>2983746</DATAID>
+            <VERSIONNUM>1</VERSIONNUM>
+            <FIRST_NAME>MUSTAFA</FIRST_NAME>
+            <SECOND_NAME>HAJJI</SECOND_NAME>
+            <THIRD_NAME>MUHAMMAD</THIRD_NAME>
+            <FOURTH_NAME>KHAN</FOURTH_NAME>
+            <UN_LIST_TYPE>Al-Qaida</UN_LIST_TYPE>
+            <REFERENCE_NUMBER>QDi.306</REFERENCE_NUMBER>
+            <LISTED_ON>2012-03-14</LISTED_ON>
+            <NAME_ORIGINAL_SCRIPT>مصطفى حجي محمد خان</NAME_ORIGINAL_SCRIPT>
+            <COMMENTS1>Al-Qaida (QDe.004) facilitator, courier and operative. As of 2010, facilitated activities for senior Pakistan-based Al-Qaida operatives. Reportedly killed in a drone strike on 1 October 2012 in Waziristan, Pakistan. Review pursuant to Security Council resolution 2368 (2017) was concluded on 15 November 2021.  INTERPOL-UN Security Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals</COMMENTS1>
+            <NATIONALITY>
+                <VALUE>Pakistan</VALUE>
+                <VALUE>Saudi Arabia</VALUE>
+            </NATIONALITY>
+            <LIST_TYPE>
+                <VALUE>UN List</VALUE>
+            </LIST_TYPE>
+            <LAST_DAY_UPDATED>
+                <VALUE>2021-11-15</VALUE>
+                <VALUE>2025-03-11</VALUE>
+            </LAST_DAY_UPDATED>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY>Good</QUALITY>
+                <ALIAS_NAME>حسن غول (Hassan Ghul; Hassan Gul; Hasan Gul)</ALIAS_NAME>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY>Good</QUALITY>
+                <ALIAS_NAME>Khalid Mahmud</ALIAS_NAME>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY>Low</QUALITY>
+                <ALIAS_NAME>Ahmad Shahji</ALIAS_NAME>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY>Low</QUALITY>
+                <ALIAS_NAME>Mustafa Muhammad</ALIAS_NAME>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY>Low</QUALITY>
+                <ALIAS_NAME>Abu Gharib al-Madani</ALIAS_NAME>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY>Low</QUALITY>
+                <ALIAS_NAME>أبو شيماء (Abu-Shaima; Abu- Shayma)</ALIAS_NAME>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY/>
+                <ALIAS_NAME/>
+                <DATE_OF_BIRTH>1976</DATE_OF_BIRTH>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY/>
+                <ALIAS_NAME/>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ADDRESS>
+                <COUNTRY/>
+            </INDIVIDUAL_ADDRESS>
+            <INDIVIDUAL_DATE_OF_BIRTH>
+                <TYPE_OF_DATE>EXACT</TYPE_OF_DATE>
+                <NOTE>Between Aug. and Sep. 1977</NOTE>
+            </INDIVIDUAL_DATE_OF_BIRTH>
+            <INDIVIDUAL_PLACE_OF_BIRTH>
+                <CITY>Al-Madinah</CITY>
+                <COUNTRY>Saudi Arabia</COUNTRY>
+            </INDIVIDUAL_PLACE_OF_BIRTH>
+            <INDIVIDUAL_DOCUMENT/>
+            <SORT_KEY/>
+            <SORT_KEY_LAST_MOD/>
+        </INDIVIDUAL>
+        <INDIVIDUAL>
+            <DATAID>6908400</DATAID>
+            <VERSIONNUM>1</VERSIONNUM>
+            <FIRST_NAME>ABDUL MOHSEN</FIRST_NAME>
+            <SECOND_NAME>ABDALLAH</SECOND_NAME>
+            <THIRD_NAME>IBRAHIM</THIRD_NAME>
+            <FOURTH_NAME>AL CHAREKH</FOURTH_NAME>
+            <UN_LIST_TYPE>Al-Qaida</UN_LIST_TYPE>
+            <REFERENCE_NUMBER>QDi.324</REFERENCE_NUMBER>
+            <LISTED_ON>2014-08-15</LISTED_ON>
+            <COMMENTS1>A long time facilitator and financier for Al-Qaida (QDe.004), appointed as a regional leader of Jabhat al-Nusrah, listed as Al-Nusrah Front for the People of the Levant (QDe.137). Reportedly killed in a counterterrorism operation in Northwest Syria in October 2015. Review pursuant to Security Council resolution 2253 (2015) was concluded on 21 Feb. 2019. Review pursuant to Security Council resolution 2368 (2017) was concluded on 15 November 2021.  INTERPOL-UN Security Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals</COMMENTS1>
+            <NATIONALITY>
+                <VALUE>Saudi Arabia</VALUE>
+            </NATIONALITY>
+            <LIST_TYPE>
+                <VALUE>UN List</VALUE>
+            </LIST_TYPE>
+            <LAST_DAY_UPDATED>
+                <VALUE>2019-05-01</VALUE>
+                <VALUE>2021-11-15</VALUE>
+                <VALUE>2025-03-11</VALUE>
+            </LAST_DAY_UPDATED>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY>Good</QUALITY>
+                <ALIAS_NAME>Abdul Mohsen Abdullah Ibrahim Al-Sharikh</ALIAS_NAME>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY>Good</QUALITY>
+                <ALIAS_NAME>Sanafi al Nasr</ALIAS_NAME>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ADDRESS>
+                <COUNTRY/>
+            </INDIVIDUAL_ADDRESS>
+            <INDIVIDUAL_DATE_OF_BIRTH>
+                <TYPE_OF_DATE>EXACT</TYPE_OF_DATE>
+                <DATE>1985-07-13</DATE>
+            </INDIVIDUAL_DATE_OF_BIRTH>
+            <INDIVIDUAL_PLACE_OF_BIRTH>
+                <CITY>Saqra</CITY>
+                <COUNTRY>Saudi Arabia</COUNTRY>
+            </INDIVIDUAL_PLACE_OF_BIRTH>
+            <INDIVIDUAL_DOCUMENT/>
+            <SORT_KEY/>
+            <SORT_KEY_LAST_MOD/>
+        </INDIVIDUAL>
+        <INDIVIDUAL>
+            <DATAID>6908395</DATAID>
+            <VERSIONNUM>1</VERSIONNUM>
+            <FIRST_NAME>ABOU</FIRST_NAME>
+            <SECOND_NAME>MOHAMED</SECOND_NAME>
+            <THIRD_NAME>AL ADNANI</THIRD_NAME>
+            <UN_LIST_TYPE>Al-Qaida</UN_LIST_TYPE>
+            <REFERENCE_NUMBER>QDi.325</REFERENCE_NUMBER>
+            <LISTED_ON>2014-08-15</LISTED_ON>
+            <COMMENTS1>Was the official spokesman of Islamic State in Iraq and the Levant (ISIL), listed as Al-Qaida in Iraq (QDe.115), and emir of ISIL in Syria, closely associated with Abu Mohammed al-Jawlani (QDi.317) and Abu Bakr al-Baghdadi, listed as Ibrahim Awwad Ibrahim Ali al-Badri al-Samarrai (QDi.299). Reportedly killed in August 2016 in air strike near al-Bab, Syria. Review pursuant to Security Council resolution 2253 (2015) was concluded on 21 Feb. 2019. Review pursuant to Security Council resolution 2368 (2017) was concluded on 15 November 2021. Photo available for inclusion in the INTERPOL-UN Security Council Special Notice. INTERPOL-UN Security Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals</COMMENTS1>
+            <NATIONALITY>
+                <VALUE>Iraq</VALUE>
+            </NATIONALITY>
+            <LIST_TYPE>
+                <VALUE>UN List</VALUE>
+            </LIST_TYPE>
+            <LAST_DAY_UPDATED>
+                <VALUE>2019-05-01</VALUE>
+                <VALUE>2021-11-15</VALUE>
+                <VALUE>2025-03-11</VALUE>
+            </LAST_DAY_UPDATED>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY>Good</QUALITY>
+                <ALIAS_NAME>Yaser Khalaf Nazzal Alrawi</ALIAS_NAME>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY>Good</QUALITY>
+                <ALIAS_NAME>Jaber Taha Falah</ALIAS_NAME>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY>Good</QUALITY>
+                <ALIAS_NAME>Abou Khattab</ALIAS_NAME>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY>Good</QUALITY>
+                <ALIAS_NAME>Abou Sadeq Alrawi</ALIAS_NAME>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY>Good</QUALITY>
+                <ALIAS_NAME>Tah al Binchi</ALIAS_NAME>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY>Good</QUALITY>
+                <ALIAS_NAME>Abu Mohammed al-Adnani</ALIAS_NAME>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY>Good</QUALITY>
+                <ALIAS_NAME>Taha Sobhi Falaha</ALIAS_NAME>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY>Good</QUALITY>
+                <ALIAS_NAME>Yasser Khalaf Hussein Nazal al-Rawi</ALIAS_NAME>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY>Good</QUALITY>
+                <ALIAS_NAME>Abu Baker al-Khatab</ALIAS_NAME>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY>Good</QUALITY>
+                <ALIAS_NAME>Abu Sadek al-Rawi</ALIAS_NAME>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY>Good</QUALITY>
+                <ALIAS_NAME>Taha al-Banshi</ALIAS_NAME>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY>Good</QUALITY>
+                <ALIAS_NAME>Abu Mohamed al-Adnani</ALIAS_NAME>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY>Good</QUALITY>
+                <ALIAS_NAME>Abu-Mohammad al-Adnani al-Shami</ALIAS_NAME>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY>Good</QUALITY>
+                <ALIAS_NAME>Hajj Ibrahim</ALIAS_NAME>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ADDRESS>
+                <COUNTRY/>
+            </INDIVIDUAL_ADDRESS>
+            <INDIVIDUAL_DATE_OF_BIRTH>
+                <TYPE_OF_DATE>APPROXIMATELY</TYPE_OF_DATE>
+                <YEAR>1977</YEAR>
+            </INDIVIDUAL_DATE_OF_BIRTH>
+            <INDIVIDUAL_PLACE_OF_BIRTH>
+                <CITY>Binnish</CITY>
+                <COUNTRY>Syrian Arab Republic</COUNTRY>
+            </INDIVIDUAL_PLACE_OF_BIRTH>
+            <INDIVIDUAL_DOCUMENT/>
+            <SORT_KEY/>
+            <SORT_KEY_LAST_MOD/>
+        </INDIVIDUAL>
+        <INDIVIDUAL>
+            <DATAID>6908468</DATAID>
+            <VERSIONNUM>1</VERSIONNUM>
+            <FIRST_NAME>SOFIANE</FIRST_NAME>
+            <SECOND_NAME>BEN GOUMO</SECOND_NAME>
+            <UN_LIST_TYPE>Al-Qaida</UN_LIST_TYPE>
+            <REFERENCE_NUMBER>QDi.355</REFERENCE_NUMBER>
+            <LISTED_ON>2015-09-03</LISTED_ON>
+            <COMMENTS1>Leader of Ansar al Charia Derna (QDe.145).
+Review pursuant to Security Council resolution 2368 (2017) was concluded on 24 November 2020. INTERPOL-UN Security Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals</COMMENTS1>
+            <NATIONALITY>
+                <VALUE>Libya</VALUE>
+            </NATIONALITY>
+            <LIST_TYPE>
+                <VALUE>UN List</VALUE>
+            </LIST_TYPE>
+            <LAST_DAY_UPDATED>
+                <VALUE>2020-11-24</VALUE>
+                <VALUE>2025-03-11</VALUE>
+            </LAST_DAY_UPDATED>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY>Low</QUALITY>
+                <ALIAS_NAME>ABOU FARAI AL LIBI</ALIAS_NAME>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY>Good</QUALITY>
+                <ALIAS_NAME>Sufyan bin Qumu</ALIAS_NAME>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ADDRESS>
+                <COUNTRY>Libya</COUNTRY>
+            </INDIVIDUAL_ADDRESS>
+            <INDIVIDUAL_DATE_OF_BIRTH>
+                <TYPE_OF_DATE>EXACT</TYPE_OF_DATE>
+                <DATE>1959-06-26</DATE>
+            </INDIVIDUAL_DATE_OF_BIRTH>
+            <INDIVIDUAL_PLACE_OF_BIRTH>
+                <CITY>Derna</CITY>
+                <COUNTRY>Libya</COUNTRY>
+            </INDIVIDUAL_PLACE_OF_BIRTH>
+            <INDIVIDUAL_DOCUMENT/>
+            <SORT_KEY/>
+            <SORT_KEY_LAST_MOD/>
+        </INDIVIDUAL>
+        <INDIVIDUAL>
+            <DATAID>6908767</DATAID>
+            <VERSIONNUM>1</VERSIONNUM>
+            <FIRST_NAME>HAMZA</FIRST_NAME>
+            <SECOND_NAME>USAMA</SECOND_NAME>
+            <THIRD_NAME>MUHAMMAD</THIRD_NAME>
+            <FOURTH_NAME>BIN LADEN</FOURTH_NAME>
+            <UN_LIST_TYPE>Al-Qaida</UN_LIST_TYPE>
+            <REFERENCE_NUMBER>QDi.421</REFERENCE_NUMBER>
+            <LISTED_ON>2019-02-28</LISTED_ON>
+            <NAME_ORIGINAL_SCRIPT>حمزة أسامة محمد بن لادن </NAME_ORIGINAL_SCRIPT>
+            <COMMENTS1>Son of Usama bin Laden (deceased). Announced by Aiman Muhammed Rabi al-Zawahiri (QDi.006) as an official member of Al-Qaida (QDe.004). Has called for followers of Al-Qaida to commit terror attacks. Was seen as the most probable successor of al-Zawahiri. Reportedly killed in a counterterrorism operation as of September 2019 in the Afghanistan/Pakistan region.  INTERPOL-UN Security Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals</COMMENTS1>
+            <LIST_TYPE>
+                <VALUE>UN List</VALUE>
+            </LIST_TYPE>
+            <LAST_DAY_UPDATED>
+                <VALUE>2019-03-13</VALUE>
+                <VALUE>2025-03-11</VALUE>
+            </LAST_DAY_UPDATED>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY/>
+                <ALIAS_NAME/>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ADDRESS>
+                <COUNTRY/>
+            </INDIVIDUAL_ADDRESS>
+            <INDIVIDUAL_DATE_OF_BIRTH>
+                <TYPE_OF_DATE>EXACT</TYPE_OF_DATE>
+                <DATE>1989-05-09</DATE>
+            </INDIVIDUAL_DATE_OF_BIRTH>
+            <INDIVIDUAL_PLACE_OF_BIRTH>
+                <CITY>Jeddah</CITY>
+                <COUNTRY>Saudi Arabia</COUNTRY>
+            </INDIVIDUAL_PLACE_OF_BIRTH>
+            <INDIVIDUAL_DOCUMENT/>
             <SORT_KEY/>
             <SORT_KEY_LAST_MOD/>
         </INDIVIDUAL>
