@@ -3,12 +3,8 @@ entity_type: person
 names:
 - RUSTAM MAGOMEDOVICH ASELDEROV
 - 'Abu Muhammad (original script: Абу Мухаммад)'
-- |-
-  Abu Muhammad Al-Kadari (original script: Абу
-                          Мухаммад Аль-Кадари)
-- |-
-  Muhamadmuhtar (original script:
-                          Мухамадмухтар)
+- 'Abu Muhammad Al-Kadari (original script: Абу Мухаммад Аль-Кадари)'
+- 'Muhamadmuhtar (original script: Мухамадмухтар)'
 designation:
 source: un-data
 ref_number: QDi.398

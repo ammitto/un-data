@@ -2,9 +2,7 @@
 entity_type: person
 names:
 - MALIK NOORZAI
-- |-
-  حاجى مالك نورزى (Hajji Malik Noorzai; Hajji Malak Noorzai;
-  Haji Malek Noorzai)
+- حاجى مالك نورزى (Hajji Malik Noorzai; Hajji Malak Noorzai; Haji Malek Noorzai)
 - Haji Maluk
 - Haji Aminullah
 - Allah Muhammad
@@ -13,7 +11,7 @@ source: un-data
 ref_number: TAi.154
 ref_type: Taliban
 country: Afghanistan
-birthdate:
+birthdate: '1963-01-01'
 remark: |-
   Taliban financier. Owns businesses in Japan and frequently travels to
   Dubai, United Arab Emirates, and Japan. As of 2009, facilitated Taliban activities,
