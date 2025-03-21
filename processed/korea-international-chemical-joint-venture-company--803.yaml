@@ -2,12 +2,8 @@
 entity_type: organization
 names:
 - KOREA INTERNATIONAL CHEMICAL JOINT VENTURE COMPANY
-- |-
-  Choson International Chemicals Joint Operation
-  Company
-- |-
-  Chosun International Chemicals Joint Operation
-  Company
+- Choson International Chemicals Joint Operation Company
+- Chosun International Chemicals Joint Operation Company
 - International Chemical Joint Venture Company
 designation:
 source: un-data

@@ -1,9 +1,7 @@
 ---
 entity_type: organization
 names:
-- |-
-  COMPAGNIE AERIENNE DES GRANDS LACS (CAGL) ; GREAT LAKES BUSINESS
-  COMPANY (GLBC)
+- COMPAGNIE AERIENNE DES GRANDS LACS (CAGL) ; GREAT LAKES BUSINESS COMPANY (GLBC)
 - CAGL
 designation:
 source: un-data
