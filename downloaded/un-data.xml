@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<CONSOLIDATED_LIST xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:noNamespaceSchemaLocation='https://www.un.org/sc/resources/sc-sanctions.xsd' dateGenerated='2025-04-19T23:00:04.625Z'>
+<CONSOLIDATED_LIST xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:noNamespaceSchemaLocation='https://www.un.org/sc/resources/sc-sanctions.xsd' dateGenerated='2025-05-13T23:00:01.062Z'>
     <INDIVIDUALS>
         <INDIVIDUAL>
             <DATAID>110447</DATAID>
@@ -4554,68 +4554,6 @@ Taliban regime</VALUE>
             <SORT_KEY_LAST_MOD/>
         </INDIVIDUAL>
         <INDIVIDUAL>
-            <DATAID>111151</DATAID>
-            <VERSIONNUM>1</VERSIONNUM>
-            <FIRST_NAME>HAMIDULLAH</FIRST_NAME>
-            <SECOND_NAME>AKHUND</SECOND_NAME>
-            <THIRD_NAME>SHER MOHAMMAD</THIRD_NAME>
-            <UN_LIST_TYPE>Taliban</UN_LIST_TYPE>
-            <REFERENCE_NUMBER>TAi.118</REFERENCE_NUMBER>
-            <LISTED_ON>2001-01-25</LISTED_ON>
-            <NAME_ORIGINAL_SCRIPT>حمید الله آخوند شیر محمد</NAME_ORIGINAL_SCRIPT>
-            <COMMENTS1>Belongs to Ghilzai tribe. Review pursuant to Security Council resolution
-1822 (2008) was concluded on 21 Jul. 2010. INTERPOL-UN Security Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals</COMMENTS1>
-            <TITLE>
-                <VALUE>Mullah</VALUE>
-            </TITLE>
-            <DESIGNATION>
-                <VALUE>Head of Ariana Afghan Airlines under the Taliban regime</VALUE>
-            </DESIGNATION>
-            <NATIONALITY>
-                <VALUE>Afghanistan</VALUE>
-            </NATIONALITY>
-            <LIST_TYPE>
-                <VALUE>UN List</VALUE>
-            </LIST_TYPE>
-            <LAST_DAY_UPDATED>
-                <VALUE>2003-09-03</VALUE>
-                <VALUE>2007-07-09</VALUE>
-                <VALUE>2007-09-21</VALUE>
-                <VALUE>2011-11-29</VALUE>
-                <VALUE>2012-08-13</VALUE>
-            </LAST_DAY_UPDATED>
-            <INDIVIDUAL_ALIAS>
-                <QUALITY>Good</QUALITY>
-                <ALIAS_NAME>Janat Gul</ALIAS_NAME>
-            </INDIVIDUAL_ALIAS>
-            <INDIVIDUAL_ALIAS>
-                <QUALITY>Good</QUALITY>
-                <ALIAS_NAME>Hamidullah Akhund</ALIAS_NAME>
-                <NOTE>previously listed as</NOTE>
-            </INDIVIDUAL_ALIAS>
-            <INDIVIDUAL_ADDRESS>
-                <COUNTRY>Afghanistan</COUNTRY>
-            </INDIVIDUAL_ADDRESS>
-            <INDIVIDUAL_DATE_OF_BIRTH>
-                <TYPE_OF_DATE>BETWEEN</TYPE_OF_DATE>
-                <FROM_YEAR>1972</FROM_YEAR>
-                <TO_YEAR>1973</TO_YEAR>
-            </INDIVIDUAL_DATE_OF_BIRTH>
-            <INDIVIDUAL_PLACE_OF_BIRTH>
-                <CITY>Sarpolad village, Washer District</CITY>
-                <STATE_PROVINCE>Helmand Province</STATE_PROVINCE>
-                <COUNTRY>Afghanistan</COUNTRY>
-            </INDIVIDUAL_PLACE_OF_BIRTH>
-            <INDIVIDUAL_PLACE_OF_BIRTH>
-                <CITY>Arghandab District</CITY>
-                <STATE_PROVINCE>Kandahar Province</STATE_PROVINCE>
-                <COUNTRY>Afghanistan</COUNTRY>
-            </INDIVIDUAL_PLACE_OF_BIRTH>
-            <INDIVIDUAL_DOCUMENT/>
-            <SORT_KEY/>
-            <SORT_KEY_LAST_MOD/>
-        </INDIVIDUAL>
-        <INDIVIDUAL>
             <DATAID>111173</DATAID>
             <VERSIONNUM>1</VERSIONNUM>
             <FIRST_NAME>JAN MOHAMMAD</FIRST_NAME>
@@ -5194,69 +5132,6 @@ the Taliban regime</VALUE>
             <INDIVIDUAL_PLACE_OF_BIRTH>
                 <CITY>Tirin Kot District</CITY>
                 <STATE_PROVINCE>Uruzgan Province</STATE_PROVINCE>
-                <COUNTRY>Afghanistan</COUNTRY>
-            </INDIVIDUAL_PLACE_OF_BIRTH>
-            <INDIVIDUAL_DOCUMENT/>
-            <SORT_KEY/>
-            <SORT_KEY_LAST_MOD/>
-        </INDIVIDUAL>
-        <INDIVIDUAL>
-            <DATAID>111208</DATAID>
-            <VERSIONNUM>1</VERSIONNUM>
-            <FIRST_NAME>MOHAMMAD SHAFIQULLAH</FIRST_NAME>
-            <SECOND_NAME>AHMADI</SECOND_NAME>
-            <THIRD_NAME>FATIH KHAN</THIRD_NAME>
-            <UN_LIST_TYPE>Taliban</UN_LIST_TYPE>
-            <REFERENCE_NUMBER>TAi.106</REFERENCE_NUMBER>
-            <LISTED_ON>2001-02-23</LISTED_ON>
-            <NAME_ORIGINAL_SCRIPT>محمد شفیق الله احمدی فاتح خان</NAME_ORIGINAL_SCRIPT>
-            <COMMENTS1>Originally from Ghazni Province, but later lived in Uruzgan. Taliban Shadow Governor for Uruzgan Province as of late 2012. Serves as a member of the Military Commission as of July 2016. Belongs to Hotak tribe. Review pursuant to Security Council resolution 1822 (2008) was concluded on 27 Jul. 2010. INTERPOL-UN Security Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals</COMMENTS1>
-            <TITLE>
-                <VALUE>Mullah</VALUE>
-            </TITLE>
-            <DESIGNATION>
-                <VALUE>Governor of Samangan Province under the Taliban regime</VALUE>
-            </DESIGNATION>
-            <NATIONALITY>
-                <VALUE>Afghanistan</VALUE>
-            </NATIONALITY>
-            <LIST_TYPE>
-                <VALUE>UN List</VALUE>
-            </LIST_TYPE>
-            <LAST_DAY_UPDATED>
-                <VALUE>2003-09-03</VALUE>
-                <VALUE>2007-09-21</VALUE>
-                <VALUE>2012-06-01</VALUE>
-                <VALUE>2012-08-13</VALUE>
-                <VALUE>2013-04-22</VALUE>
-                <VALUE>2013-12-31</VALUE>
-                <VALUE>2016-09-07</VALUE>
-            </LAST_DAY_UPDATED>
-            <INDIVIDUAL_ALIAS>
-                <QUALITY>Good</QUALITY>
-                <ALIAS_NAME>Mohammad Shafiq Ahmadi</ALIAS_NAME>
-                <NOTE>previously listed as</NOTE>
-            </INDIVIDUAL_ALIAS>
-            <INDIVIDUAL_ALIAS>
-                <QUALITY>Good</QUALITY>
-                <ALIAS_NAME>Mullah Shafiqullah</ALIAS_NAME>
-            </INDIVIDUAL_ALIAS>
-            <INDIVIDUAL_ADDRESS>
-                <COUNTRY/>
-            </INDIVIDUAL_ADDRESS>
-            <INDIVIDUAL_DATE_OF_BIRTH>
-                <TYPE_OF_DATE>BETWEEN</TYPE_OF_DATE>
-                <FROM_YEAR>1956</FROM_YEAR>
-                <TO_YEAR>1957</TO_YEAR>
-            </INDIVIDUAL_DATE_OF_BIRTH>
-            <INDIVIDUAL_PLACE_OF_BIRTH>
-                <CITY>Charmistan village, Tirin Kot District</CITY>
-                <STATE_PROVINCE>Uruzgan Province</STATE_PROVINCE>
-                <COUNTRY>Afghanistan</COUNTRY>
-            </INDIVIDUAL_PLACE_OF_BIRTH>
-            <INDIVIDUAL_PLACE_OF_BIRTH>
-                <CITY>Marghi village, Nawa District</CITY>
-                <STATE_PROVINCE>Ghazni Province</STATE_PROVINCE>
                 <COUNTRY>Afghanistan</COUNTRY>
             </INDIVIDUAL_PLACE_OF_BIRTH>
             <INDIVIDUAL_DOCUMENT/>
@@ -40575,6 +40450,131 @@ Review pursuant to Security Council resolution 2368 (2017) was concluded on 24 N
             <INDIVIDUAL_PLACE_OF_BIRTH>
                 <CITY>Jeddah</CITY>
                 <COUNTRY>Saudi Arabia</COUNTRY>
+            </INDIVIDUAL_PLACE_OF_BIRTH>
+            <INDIVIDUAL_DOCUMENT/>
+            <SORT_KEY/>
+            <SORT_KEY_LAST_MOD/>
+        </INDIVIDUAL>
+        <INDIVIDUAL>
+            <DATAID>111208</DATAID>
+            <VERSIONNUM>1</VERSIONNUM>
+            <FIRST_NAME>MOHAMMAD SHAFIQULLAH</FIRST_NAME>
+            <SECOND_NAME>AHMADI</SECOND_NAME>
+            <THIRD_NAME>FATIH KHAN</THIRD_NAME>
+            <UN_LIST_TYPE>Taliban</UN_LIST_TYPE>
+            <REFERENCE_NUMBER>TAi.106</REFERENCE_NUMBER>
+            <LISTED_ON>2001-02-23</LISTED_ON>
+            <NAME_ORIGINAL_SCRIPT>محمد شفیق الله احمدی فاتح خان</NAME_ORIGINAL_SCRIPT>
+            <COMMENTS1>Originally from Ghazni Province, but later lived in Uruzgan. Taliban Shadow Governor for Uruzgan Province as of late 2012. Serves as a member of the Military Commission as of July 2016. Belongs to Hotak tribe. Review pursuant to Security Council resolution 1822 (2008) was concluded on 27 Jul. 2010. INTERPOL-UN Security Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals</COMMENTS1>
+            <TITLE>
+                <VALUE>Mullah</VALUE>
+            </TITLE>
+            <DESIGNATION>
+                <VALUE>Governor of Samangan Province under the Taliban regime</VALUE>
+            </DESIGNATION>
+            <NATIONALITY>
+                <VALUE>Afghanistan</VALUE>
+            </NATIONALITY>
+            <LIST_TYPE>
+                <VALUE>UN List</VALUE>
+            </LIST_TYPE>
+            <LAST_DAY_UPDATED>
+                <VALUE>2003-09-03</VALUE>
+                <VALUE>2007-09-21</VALUE>
+                <VALUE>2012-06-01</VALUE>
+                <VALUE>2012-08-13</VALUE>
+                <VALUE>2013-04-22</VALUE>
+                <VALUE>2013-12-31</VALUE>
+                <VALUE>2016-09-07</VALUE>
+            </LAST_DAY_UPDATED>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY>Good</QUALITY>
+                <ALIAS_NAME>Mohammad Shafiq Ahmadi</ALIAS_NAME>
+                <NOTE>previously listed as</NOTE>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY>Good</QUALITY>
+                <ALIAS_NAME>Mullah Shafiqullah</ALIAS_NAME>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ADDRESS>
+                <COUNTRY/>
+            </INDIVIDUAL_ADDRESS>
+            <INDIVIDUAL_DATE_OF_BIRTH>
+                <TYPE_OF_DATE>BETWEEN</TYPE_OF_DATE>
+                <FROM_YEAR>1956</FROM_YEAR>
+                <TO_YEAR>1957</TO_YEAR>
+            </INDIVIDUAL_DATE_OF_BIRTH>
+            <INDIVIDUAL_PLACE_OF_BIRTH>
+                <CITY>Charmistan village, Tirin Kot District</CITY>
+                <STATE_PROVINCE>Uruzgan Province</STATE_PROVINCE>
+                <COUNTRY>Afghanistan</COUNTRY>
+            </INDIVIDUAL_PLACE_OF_BIRTH>
+            <INDIVIDUAL_PLACE_OF_BIRTH>
+                <CITY>Marghi village, Nawa District</CITY>
+                <STATE_PROVINCE>Ghazni Province</STATE_PROVINCE>
+                <COUNTRY>Afghanistan</COUNTRY>
+            </INDIVIDUAL_PLACE_OF_BIRTH>
+            <INDIVIDUAL_DOCUMENT/>
+            <SORT_KEY/>
+            <SORT_KEY_LAST_MOD/>
+        </INDIVIDUAL>
+        <INDIVIDUAL>
+            <DATAID>111151</DATAID>
+            <VERSIONNUM>1</VERSIONNUM>
+            <FIRST_NAME>HAMIDULLAH</FIRST_NAME>
+            <SECOND_NAME>AKHUND</SECOND_NAME>
+            <THIRD_NAME>SHER MOHAMMAD</THIRD_NAME>
+            <UN_LIST_TYPE>Taliban</UN_LIST_TYPE>
+            <REFERENCE_NUMBER>TAi.118</REFERENCE_NUMBER>
+            <LISTED_ON>2001-01-25</LISTED_ON>
+            <NAME_ORIGINAL_SCRIPT>حمید الله آخوند شیر محمد</NAME_ORIGINAL_SCRIPT>
+            <COMMENTS1>Belongs to Ghilzai tribe. Review pursuant to Security Council resolution
+1822 (2008) was concluded on 21 Jul. 2010. INTERPOL-UN Security Council Special Notice web link:https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals</COMMENTS1>
+            <TITLE>
+                <VALUE>Mullah</VALUE>
+            </TITLE>
+            <DESIGNATION>
+                <VALUE>Head of Ariana Afghan Airlines under the Taliban regime</VALUE>
+            </DESIGNATION>
+            <NATIONALITY>
+                <VALUE>Afghanistan</VALUE>
+            </NATIONALITY>
+            <LIST_TYPE>
+                <VALUE>UN List</VALUE>
+            </LIST_TYPE>
+            <LAST_DAY_UPDATED>
+                <VALUE>2003-09-03</VALUE>
+                <VALUE>2007-07-09</VALUE>
+                <VALUE>2007-09-21</VALUE>
+                <VALUE>2011-11-29</VALUE>
+                <VALUE>2012-08-13</VALUE>
+            </LAST_DAY_UPDATED>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY>Good</QUALITY>
+                <ALIAS_NAME>Janat Gul</ALIAS_NAME>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ALIAS>
+                <QUALITY>Good</QUALITY>
+                <ALIAS_NAME>Hamidullah Akhund</ALIAS_NAME>
+                <NOTE>previously listed as</NOTE>
+            </INDIVIDUAL_ALIAS>
+            <INDIVIDUAL_ADDRESS>
+                <COUNTRY>Afghanistan</COUNTRY>
+            </INDIVIDUAL_ADDRESS>
+            <INDIVIDUAL_DATE_OF_BIRTH>
+                <TYPE_OF_DATE>BETWEEN</TYPE_OF_DATE>
+                <FROM_YEAR>1972</FROM_YEAR>
+                <TO_YEAR>1973</TO_YEAR>
+            </INDIVIDUAL_DATE_OF_BIRTH>
+            <INDIVIDUAL_PLACE_OF_BIRTH>
+                <CITY>Sarpolad village, Washer District</CITY>
+                <STATE_PROVINCE>Helmand Province</STATE_PROVINCE>
+                <COUNTRY>Afghanistan</COUNTRY>
+            </INDIVIDUAL_PLACE_OF_BIRTH>
+            <INDIVIDUAL_PLACE_OF_BIRTH>
+                <CITY>Arghandab District</CITY>
+                <STATE_PROVINCE>Kandahar Province</STATE_PROVINCE>
+                <COUNTRY>Afghanistan</COUNTRY>
             </INDIVIDUAL_PLACE_OF_BIRTH>
             <INDIVIDUAL_DOCUMENT/>
             <SORT_KEY/>
