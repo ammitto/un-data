@@ -1,48 +1,78 @@
-name: Update Data Everyday
+name: Update Data
 
 on:
   push:
+    branches: [main]
   pull_request:
   schedule:
-    - cron: '0 0 * * *'
+    # Run daily at 6:00 AM UTC
+    - cron: '0 6 * * *'
+  workflow_dispatch:
 
 jobs:
   update-data:
-    name: Updating data
+    name: Update UN Sanctions Data
     runs-on: ubuntu-latest
-    strategy:
-      fail-fast: false
-      matrix:
-        ruby: [ '2.6' ]
     steps:
-      - uses: actions/checkout@master
-      - name: Preparing adapter repo
-        uses: actions/checkout@master
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Prepare adapters repo
+        uses: actions/checkout@v4
         with:
           repository: ammitto/adapters
           path: adapters
-      - uses: ruby/setup-ruby@v1
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Set up Ruby
+        uses: ruby/setup-ruby@v1
         with:
-          ruby-version: ${{ matrix.ruby }}
-          bundler-cache: true # runs 'bundle install' and caches installed gems automatically
-      - name: Update gems
+          ruby-version: '3.2'
+          bundler-cache: true
+
+      - name: Install dependencies
         run: |
           cd adapters
-          sudo gem install bundler --force
           bundle install --jobs 4 --retry 3
-      - name: Prepare Adapters at correct directory
-        shell: bash
+
+      - name: Update data
         run: |
-          DIR_ARR=(${GITHUB_WORKSPACE//\// })
-          unset 'DIR_ARR[-1]'
-          DIR_BASE=$(printf "/%s" "${DIR_ARR[@]}")
-          mv adapters $DIR_BASE
-          cd $DIR_BASE/adapters && ruby adapter.rb
-          rm -rf $DIR_BASE/adapters
-      - name: Commit changes
-        uses: EndBug/add-and-commit@v7
+          # Determine base directory
+          DIR_BASE="${{ github.workspace }}"
+          cd adapters
+          ruby adapter.rb
+          cd ..
+          rm -rf adapters
+
+      - name: Check for changes
+        id: check_changes
+        run: |
+          if git diff --quiet && git diff --staged --quiet; then
+            echo "has_changes=false" >> $GITHUB_OUTPUT
+          else
+            echo "has_changes=true" >> $GITHUB_OUTPUT
+          fi
+
+      - name: Commit and push changes
+        if: steps.check_changes.outputs.has_changes == 'true'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add .
+          git commit -m "chore: update UN sanctions data ($(date +%Y-%m-%d))"
+          git push
+
+      - name: Create issue on failure
+        if: failure()
+        uses: actions/github-script@v7
         with:
-          author_name: Bilash Saha
-          author_email: bilashsaha03@gmail.com
-          message: 'Automatically Updated Data Via Github Cron'
-          add: '.'
+          script: |
+            github.rest.issues.create({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              title: 'Data update failed - ${{ github.run_id }}',
+              body: 'The scheduled data update workflow failed. See: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}',
+              labels: ['automation', 'data-update']
+            })
